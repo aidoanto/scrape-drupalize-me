@@ -1,0 +1,76 @@
+---
+title: "1.1. Concept: Drupal as a Content Management System"
+url: "https://drupalize.me/tutorial/user-guide/understanding-drupal?p=2433"
+guide: "[[introduction-drupal]]"
+---
+
+# 1.1. Concept: Drupal as a Content Management System
+
+## Content
+
+### What is a Content Management System?
+
+A content management system (CMS) is a software tool that lets users add, publish, edit, or remove content from a website, using a web browser on a smartphone, tablet, or desktop computer. Typically, the CMS software is written in a scripting language, and its scripts run on a computer where a database and a web server are installed. The content and settings for the website are usually stored in a database, and for each page request that comes to the web server, the scripts combine information from the database and *assets* (JavaScript files, CSS files, image files, etc. that are part of the CMS or have been uploaded) to build the pages of the website.
+
+The combination of the operating system that the CMS runs on, the scripting language it is written in, the database it stores its information in, and the web server that runs the scripts to retrieve information and return it to the site visitor’s web browser is known as the *stack* that the CMS runs on; the commonly used combination of the Linux operating system, Apache web server, MySQL database, and PHP scripting language is known as the *LAMP stack*.
+
+### What is Drupal?
+
+Drupal is a flexible CMS based on the LAMP stack, with a modular design allowing features to be added and removed by installing and uninstalling *modules*, and allowing the entire look and feel of the website to be changed by installing and uninstalling *themes*. The base Drupal download, known as Drupal Core, contains the PHP scripts needed to run the basic CMS functionality, several optional modules and themes, and many JavaScript, CSS, and image assets. Many additional modules and themes can be downloaded from the [*Drupal.org*](https://www.drupal.org) website.
+
+Drupal can also run on other technology stacks:
+
+- The operating system can be Windows or Mac OS instead of Linux.
+- The web server can be Nginx or IIS instead of Apache.
+- The database can be PostgreSQL or SQLite instead of MySQL, or a MySQL-compatible replacement such as MariaDB or Percona.
+
+Other operating systems, web servers, and databases can also be made to work; however, the scripts that the software uses are written in PHP, so that cannot be changed.
+
+### What are the reasons for using Drupal?
+
+When building a website, you have your choice of using one of the many existing CMS packages and hosted services, developing your own CMS, or building the site without using a CMS. Here are some of the reasons you might choose to use Drupal:
+
+- Building a small, simple site with static HTML pages is not difficult, and you can get a simple site up very quickly. Setting up a site in a CMS generally requires more time initially, but brings you the benefits of on-line editing (easier for less experienced content maintainers), uniformity (harder to maintain using static HTML for larger sites), and the possibility of more complex features requiring a database.
+- Some CMS software is special-purpose; for instance, there are packages and hosted services that you can use to build a blog or a club membership website. Drupal, in contrast, is a general-purpose CMS. If you are building a special-purpose site, you might choose to use a special-purpose CMS; however, if your site falls even slightly outside the intended purpose, you will probably be better off using a general-purpose CMS rather than trying to adapt a special-purpose CMS.
+- Building your own CMS-type software can seem attractive. However, using a general-purpose CMS like Drupal as a starting point is usually a better idea, because the basic CMS functionality (such as user accounts and content management) has thousands of developer hours behind it, including many years of user testing, bug fixing, and security hardening.
+- Some CMS software packages are expensive to purchase a license for. Some are free or have a free version, but have restrictive licenses that do not allow you to make modifications and extensions. You might prefer to use a package (like Drupal) that has a less restrictive software license, and is developed by a world-wide community. See [Section 1.6, “Concept: The Drupal Project”](https://drupalize.me/tutorial/user-guide/understanding-project "1.6. Concept: The Drupal Project") for more on this topic.
+
+### Related topics
+
+- [Section 1.2, “Concept: Modules”](https://drupalize.me/tutorial/user-guide/understanding-modules "1.2. Concept: Modules")
+- [Section 1.3, “Concept: Themes”](https://drupalize.me/tutorial/user-guide/understanding-themes "1.3. Concept: Themes")
+- [Section 1.4, “Concept: Distributions”](https://drupalize.me/tutorial/user-guide/understanding-distributions "1.4. Concept: Distributions")
+- [Section 1.6, “Concept: The Drupal Project”](https://drupalize.me/tutorial/user-guide/understanding-project "1.6. Concept: The Drupal Project")
+
+### Additional resources
+
+- [*Drupal.org* community documentation page "Understanding Drupal: Overview"](https://www.drupal.org/docs/understanding-drupal/overview)
+- [*Drupal.org* page "FAQ" (Frequently Asked Questions)](https://www.drupal.org/about/faq)
+- [*Drupal.org* page "Case Studies"](https://www.drupal.org/case-studies)
+- [Wikipedia page "Content management systems"](https://en.wikipedia.org/wiki/Content_management_system)
+- [Wikipedia page "Modular design"](https://en.wikipedia.org/wiki/Modular_design)
+
+**Attributions**
+
+Written and edited by [Kristof van Tomme](https://www.drupal.org/u/kvantomme) at [Pronovix](https://pronovix.com/), [Jennifer Hodgdon](https://www.drupal.org/u/jhodgdon), and [Michael Lenahan](https://www.drupal.org/u/michaellenahan) at [erdfisch](https://erdfisch.de).
+
+Was this helpful?
+
+Yes
+
+No
+
+Any additional feedback?
+
+Next
+[1.2. Concept: Modules](/tutorial/user-guide/understanding-modules?p=2433)
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+This Drupal training resource is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at <https://www.drupal.org/docs/user_guide/en/index.html>.
+
+Clear History
+
+Ask Drupalize.Me AI
+
+close

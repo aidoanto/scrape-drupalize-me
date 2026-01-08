@@ -1,0 +1,54 @@
+[
+    {
+        "domain": ".drupalize.me",
+        "expirationDate": 1802422895.571784,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_drip_client_5861208",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "vid%253D99e486162ad64cfdaee060082fc65014%2526pageViews%253D5%2526sessionPageCount%253D5%2526lastVisitedAt%253D1767862895571%2526weeklySessionCount%253D1%2526lastSessionAt%253D1767860518475"
+    },
+    {
+        "domain": ".drupalize.me",
+        "expirationDate": 1769860529.956009,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "SSESS77386d408b0660b92f2dbc30c5675085",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "htrtnrjh6rlrc5d6do29ijrigs"
+    },
+    {
+        "domain": ".drupalize.me",
+        "expirationDate": 1802422895.361726,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.1.1903866079.1767860518"
+    },
+    {
+        "domain": ".drupalize.me",
+        "expirationDate": 1802422895.367179,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_RP01WK535L",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GS2.1.s1767860517$o1$g1$t1767862895$j60$l0$h0"
+    }
+]

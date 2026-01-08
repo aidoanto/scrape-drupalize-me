@@ -1,0 +1,17 @@
+---
+title: "Create, Update, and Delete Drupal Content with JavaScript"
+url: "https://drupalize.me/tutorial/create-update-and-delete-drupal-content-javascript?p=2798"
+guide: "[[decoupled-headless-drupal]]"
+---
+
+# Create, Update, and Delete Drupal Content with JavaScript
+
+## Videos
+
+- [Video](https://drupalize.me/sites/default/files/tutorials/react-app-embedded.mp4)
+
+## Content
+
+Image
+
+![](/sites/default/files/styles/max_800w/public/tutorial_icons/reactanddrupal_7.png?itok=eJuKqTeB)

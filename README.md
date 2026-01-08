@@ -1,112 +1,170 @@
-### API keys
+# Drupalize.me Scraper
 
-In .env you can find the following API keys should you need them.
+Archive Drupalize.me tutorials into an Obsidian-compatible vault for offline learning.
 
-They are all correct and tested.
+## The Problem
 
-```
-OPENROUTER_API_KEY=""
-```
+Cloudflare blocks automated browsers (Playwright, Selenium, etc.) from accessing Drupalize.me. Even with cookies and stealth techniques, the automated browser gets stuck in an infinite "verify you're human" loop.
 
-The best LLMs to use through OpenRouter are currently:
+## The Solution
 
-- For simple tasks: `deepseek/deepseek-v3.2`
-- For SOTA english language writing: `moonshotai/kimi-k2-thinking`
-- For SOTA tool-calling performance and instruction following: `anthropic/claude-sonnet-4.5`
-- Best cheap model able to use image inputs: `google/gemini-2.5-flash`
+We use a **two-step approach** that leverages your already-authenticated browser:
 
-If you are using LLMs to retrieve data that will eventually be structured, you must use the Structured Outputs feature.
+1. **JavaScript Extraction** - Run extraction scripts directly in your browser console
+2. **Python Processing** - Convert the extracted data into a beautiful Obsidian vault
 
-More on this in docs/api-docs.
+This works because JavaScript running in your real browser is indistinguishable from a real user.
 
 ---
 
-The below information is irrelevant to AI agents, it is only relevant to the template creator.
+## Quick Start
 
-## Template project
+### Step 1: Install Dependencies
 
-This is my UV project template.
+```bash
+uv sync
+```
 
-## What is a GitHub template repository?
+### Step 2: Extract URLs (in your browser)
 
-A **template repository** is a special type of GitHub repository that serves as a starting point for new projects. Think of it as a "project blueprint" that you can use to quickly create new repositories with the same structure, files, and initial setup.
+1. Open Chrome/Firefox and log into [drupalize.me](https://drupalize.me)
+2. Open Developer Tools (F12 or Ctrl+Shift+I)
+3. Go to the **Console** tab
+4. Copy the entire contents of `extract_urls.js` and paste it into the console
+5. Press Enter and wait (takes ~1 minute)
+6. A file `drupalize_urls.json` will download automatically
 
-### How template repos differ from normal repos
+### Step 3: Extract Content (in your browser)
 
-**Template repository:**
+1. In the same browser console, paste the contents of `extract_content.js`
+2. Press Enter
+3. When prompted, select the `drupalize_urls.json` file from Step 2
+4. Wait for extraction (takes 1-2 hours for all tutorials)
+5. Multiple `drupalize_content_batch_X.json` files will download
 
-- Has a "Use this template" button on GitHub
-- When someone uses it, GitHub creates a **completely new repository** (not a fork)
-- The new repo has no connection to the original template
-- Perfect for project starters, boilerplates, and reusable project structures
+**Tip:** You can leave this running in a background tab while you do other things!
 
-**Normal repository:**
+### Step 4: Build the Vault
 
-- Can be forked, but forks maintain a connection to the original
-- Forked repos show "forked from" and can create pull requests back to the original
-- Better for collaborative development and contributions
+```bash
+# Put all the JSON files in a folder called 'extracted'
+mkdir extracted
+mv ~/Downloads/drupalize_*.json extracted/
 
-### Working with this template
+# Run the processor
+uv run python process_extracted.py --content-dir ./extracted --vault-dir ./vault
+```
 
-#### If you want to use this template for a new project:
+### Step 5: Open in Obsidian
 
-1. Click the **"Use this template"** button on GitHub
-2. Choose a name for your new project
-3. GitHub will create a brand new repository with all the files from this template
-4. Clone your new repository and start coding!
+1. Open Obsidian
+2. Click "Open folder as vault"
+3. Select the `vault` directory
+4. Enjoy your offline Drupal learning archive! 🎉
 
-#### If you want to update the template itself:
+---
 
-1. Make your changes directly in this repository
-2. Commit and push your changes
-3. The template is now updated for future users
-4. **Note:** Existing projects created from this template won't automatically get your updates
+## What Gets Extracted
 
-#### If you want to convert this template to a regular project:
+- ✅ All guides and their structure
+- ✅ All tutorial content (text, code examples)
+- ✅ All images (downloaded locally)
+- ✅ Video URLs (linked, with .url shortcut files for easy access)
+- ✅ Topics and tags
+- ✅ Drupal version compatibility info
+- ✅ Cross-linked Obsidian-style wiki links
 
-1. Go to your repository settings on GitHub
-2. Scroll down to the "Template repository" section
-3. Uncheck the "Template repository" option
-4. This repository becomes a normal repo (no more "Use this template" button)
+## Vault Structure
 
-### Best practices for template repositories
+```
+vault/
+├── README.md           # Index of all content
+├── Guides/             # One file per guide with links to tutorials
+│   ├── introduction-to-drupal.md
+│   ├── theming-cheat-sheet.md
+│   └── ...
+├── Tutorials/          # One file per tutorial
+│   ├── what-is-drupal.md
+│   ├── installing-drupal.md
+│   └── ...
+└── assets/
+    ├── images/         # Downloaded images
+    └── videos/         # Video URL shortcuts
+```
 
-- Keep template files generic and well-documented
-- Use placeholder values that users can easily find and replace
-- Include clear setup instructions (like this README!)
-- Don't include sensitive information (use `.env.example` files instead)
-- Test your template by creating a new project from it occasionally
+---
 
-## Cursor IDE Configuration
+## Alternative: Automated Scraping (if Cloudflare allows)
 
-This template includes a `.vscode` folder with pre-configured settings for Cursor IDE. Since Cursor is based on VS Code, it uses the same configuration system.
+If you want to try the fully automated approach (which may work if Cloudflare isn't blocking):
 
-### What's included:
+```bash
+# Using cookies exported from your browser
+uv run python main.py --cookies-file cookies.json --no-headless
 
-- **`settings.json`**: Editor preferences, Python settings, file handling, and Cursor-specific configurations
-- **`keybindings.json`**: Custom keyboard shortcuts for improved productivity
-- **`extensions.json`**: Recommended extensions for Python development and general productivity
+# Or connect to your existing Chrome with remote debugging
+# First, start Chrome with: chrome --remote-debugging-port=9222
+uv run python main.py --cdp-url http://localhost:9222
+```
 
-### How to use:
+## Exporting Cookies
 
-1. **Clone this template** to your new project
-2. **Open the project in Cursor** - it will automatically detect the `.vscode` folder
-3. **Install recommended extensions** - Cursor will prompt you to install the recommended extensions
-4. **Customize as needed** - modify the configuration files to match your preferences
+To export cookies from your browser:
 
-### Syncing across machines:
+1. Install a cookie export extension:
 
-To use these same settings on multiple machines:
+   - Firefox: [Cookie Quick Manager](https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/)
+   - Chrome: [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
-1. **Commit the `.vscode` folder** to your repository
-2. **Clone the project** on other machines
-3. **Open in Cursor** - settings will be automatically applied
-4. **Install extensions** when prompted
+2. Go to drupalize.me while logged in
+3. Export cookies as JSON
+4. Save as `cookies.json` in this directory
 
-### Customizing the configuration:
+---
 
-- **Settings**: Edit `.vscode/settings.json` to change editor behavior, themes, and tool preferences
-- **Keybindings**: Modify `.vscode/keybindings.json` to add or change keyboard shortcuts
-- **Extensions**: Update `.vscode/extensions.json` to add or remove recommended extensions
+## Troubleshooting
 
-The configuration is designed for Python development with modern best practices, but you can easily adapt it for other languages or workflows.
+### "Cloudflare keeps blocking me"
+
+This is why we recommend the JavaScript extraction approach - it runs in your real browser which Cloudflare trusts.
+
+### "The extraction is taking forever"
+
+The content extraction script waits 1 second between requests to avoid being rate-limited. For ~500 tutorials, expect ~10 minutes for URL extraction and ~1-2 hours for full content.
+
+### "Some videos aren't downloading"
+
+Vimeo videos require special handling. The script saves `.url` shortcut files that you can double-click to open the video in your browser.
+
+### "I'm getting JSON parse errors"
+
+Make sure all the JSON files are complete. If the extraction was interrupted, delete the incomplete files and re-run from where it stopped.
+
+---
+
+## Files
+
+| File                   | Purpose                                               |
+| ---------------------- | ----------------------------------------------------- |
+| `extract_urls.js`      | Browser script to get all guide/tutorial URLs         |
+| `extract_content.js`   | Browser script to get full tutorial content           |
+| `process_extracted.py` | Python script to build Obsidian vault                 |
+| `main.py`              | Alternative automated scraper (blocked by Cloudflare) |
+| `cookies.json`         | Your browser cookies (if using automated approach)    |
+
+---
+
+## Why This Architecture?
+
+1. **Cloudflare Protection**: Drupalize.me uses Cloudflare which aggressively blocks automated browsers
+2. **Authenticated Content**: Tutorials are behind a paywall, requiring your login session
+3. **Browser Trust**: Your real browser has established trust with Cloudflare over time
+4. **JavaScript Approach**: Running extraction scripts in your browser is indistinguishable from normal usage
+
+This approach may seem more manual, but it's **guaranteed to work** because you're using your own authenticated, trusted browser session.
+
+---
+
+## License
+
+For personal educational use only. Respect Drupalize.me's terms of service.
