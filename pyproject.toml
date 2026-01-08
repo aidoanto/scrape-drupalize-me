@@ -1,7 +1,16 @@
 [project]
-name = "template"
+name = "scrape-drupalize-me"
 version = "0.1.0"
-description = "Add your description here"
+description = "Scraper for Drupalize.me content into Obsidian vault format"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "playwright>=1.40.0",
+    "beautifulsoup4>=4.12.0",
+    "markdownify>=0.11.6",
+    "aiohttp>=3.9.0",
+    "aiofiles>=23.2.0",
+    "rich>=13.7.0",
+    "click>=8.1.0",
+    "pyyaml>=6.0.0",
+]
