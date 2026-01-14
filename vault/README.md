@@ -1,35 +1,35 @@
 # Drupalize.me Archive
 
-*Tutorials ordered as they appear in each guide*
+*Tutorials in learning order with working links*
 
 ## Guides
 
 ### [[Guides/acquia-certified-drupal-developer-exam|Acquia Certified Drupal Developer Exam]]
 
-1. [[Tutorials/planning-data-types|Planning Data Types]]
-2. [[Tutorials/61-adding-a-content-type|6.1. Adding a Content Type]]
-3. [[Tutorials/62-deleting-a-content-type|6.2. Deleting a Content Type]]
-4. [[Tutorials/63-adding-basic-fields-to-a-content-type|6.3. Adding Basic Fields to a Content Type]]
-5. [[Tutorials/64-concept-reference-fields|6.4. Concept: Reference Fields]]
-- ... and 55 more
+1. [[Tutorials/61-adding-a-content-type|6.1. Adding a Content Type]]
+2. [[Tutorials/62-deleting-a-content-type|6.2. Deleting a Content Type]]
+3. [[Tutorials/63-adding-basic-fields-to-a-content-type|6.3. Adding Basic Fields to a Content Type]]
+4. [[Tutorials/64-concept-reference-fields|6.4. Concept: Reference Fields]]
+5. [[Tutorials/65-concept-taxonomy|6.5. Concept: Taxonomy]]
+- ... and 23 more
 
 ### [[Guides/acquia-certified-drupal-front-end-specialist-exam|Acquia Certified Drupal Front End Specialist Exam]]
 
-1. [[Tutorials/add-regions-theme|Add Regions Theme]]
-2. [[Tutorials/exercise-override-main-page-template|Exercise Override Main Page Template]]
-3. [[Tutorials/theme-settings-overview|Theme Settings Overview]]
-4. [[Tutorials/change-theme-settings|Change Theme Settings]]
-5. [[Tutorials/customize-theme-settings|Customize Theme Settings]]
-- ... and 10 more
+1. [[Tutorials/working-with-entity-crud|Working with Entity CRUD]]
+2. [[Tutorials/121-concept-cache|12.1. Concept: Cache]]
+3. [[Tutorials/122-clearing-the-cache|12.2. Clearing the Cache]]
+4. [[Tutorials/123-concept-data-backups|12.3. Concept: Data Backups]]
+5. [[Tutorials/124-concept-log|12.4. Concept: Log]]
+- ... and 1 more
 
-### [[Guides/acquia-certified-drupal-site-builder-exam|Acquia Certified Drupal'site Builder Exam]]
+### [[Guides/acquia-certified-drupal-site-builder-exam|Acquia Certified Drupal Site Builder Exam]]
 
 1. [[Tutorials/21-concept-regions-in-a-theme|2.1. Concept: Regions in a Theme]]
 2. [[Tutorials/22-planning-your-site-layout|2.2. Planning Your Site Layout]]
 3. [[Tutorials/23-concept-content-entities-and-fields|2.3. Concept: Content Entities and Fields]]
 4. [[Tutorials/24-concept-modular-content|2.4. Concept: Modular Content]]
 5. [[Tutorials/25-planning-your-content-structure|2.5. Planning your Content Structure]]
-- ... and 53 more
+- ... and 47 more
 
 ### [[Guides/alter-drupal-modules|Alter Drupal Modules]]
 
@@ -40,7 +40,7 @@
 5. [[Tutorials/what-are-pluginsfree|What Are Plugins?free]]
 - ... and 16 more
 
-### [[Guides/build-drupal-sites|Build Drupal'sites]]
+### [[Guides/build-drupal-sites|Build Drupal Sites]]
 
 1. [[Tutorials/getting-help-with-drupal|Getting Help with Drupal]]
 
@@ -71,7 +71,7 @@
 5. [[Tutorials/use-parameters-in-a-route|Use Parameters in a Route]]
 - ... and 11 more
 
-### [[Guides/develop-drupal-sites|Develop Drupal'sites]]
+### [[Guides/develop-drupal-sites|Develop Drupal Sites]]
 
 1. [[Tutorials/overview-info-files-for-drupal-modulesfree|Overview: Info Files for Drupal Modulesfree]]
 2. [[Tutorials/an-introduction-to-yamlfree|An Introduction to YAMLfree]]
@@ -87,7 +87,7 @@
 3. [[Tutorials/define-a-new-form-controller-and-route|Define a New Form Controller and Route]]
 4. [[Tutorials/add-input-elements-to-a-form|Add Input Elements to a Form]]
 5. [[Tutorials/inject-services-into-a-form-controller|Inject Services into a Form Controller]]
-- ... and 17 more
+- ... and 16 more
 
 ### [[Guides/docker-drupal-developers|Docker Drupal Developers]]
 
@@ -107,7 +107,7 @@
 5. [[Tutorials/concept-finding-drupal-documentation|Concept: Finding Drupal Documentation]]
 - ... and 77 more
 
-### [[Guides/drupal-site-administration|Drupal'site Administration]]
+### [[Guides/drupal-site-administration|Drupal Site Administration]]
 
 1. [[Tutorials/clear-drupals-cachefree|Clear Drupal's Cachefree]]
 2. [[Tutorials/overview-configuration-management-in-drupalfree|Overview: Configuration Management in Drupalfree]]
@@ -132,7 +132,7 @@
 3. [[Tutorials/create-links-with-twig-in-a-template-file|Create Links with Twig in a Template File]]
 4. [[Tutorials/twig-template-inheritance|Twig Template Inheritance]]
 5. [[Tutorials/add-logic-with-themenametheme|Add Logic with THEMENAME.theme]]
-- ... and 51 more
+- ... and 48 more
 
 ### [[Guides/integrate-javascript-drupal|Integrate Javascript Drupal]]
 
@@ -146,11 +146,11 @@
 ### [[Guides/introduction-drupal|Introduction Drupal]]
 
 1. [[Tutorials/understanding-drupal|Understanding Drupal]]
-2. [[Tutorials/why-open-source-matters|Why Open Source Matters]]
-3. [[Tutorials/understanding-gpl|Understanding Gpl]]
-4. [[Tutorials/11-concept-drupal-as-a-content-management-system|1.1. Concept: Drupal as a Content Management System]]
-5. [[Tutorials/12-concept-modules|1.2. Concept: Modules]]
-- ... and 7 more
+2. [[Tutorials/11-concept-drupal-as-a-content-management-system|1.1. Concept: Drupal as a Content Management System]]
+3. [[Tutorials/12-concept-modules|1.2. Concept: Modules]]
+4. [[Tutorials/13-concept-themes|1.3. Concept: Themes]]
+5. [[Tutorials/14-concept-distributions|1.4. Concept: Distributions]]
+- ... and 3 more
 
 ### [[Guides/keep-drupal-up-to-date|Keep Drupal Up To Date]]
 
@@ -175,7 +175,6 @@
 1. [[Tutorials/141-connecting-with-the-community|14.1. Connecting with the Community]]
 2. [[Tutorials/142-getting-support|14.2. Getting Support]]
 3. [[Tutorials/143-learning-more|14.3. Learning More]]
-4. [[Tutorials/introduction-yaml|Introduction Yaml]]
 
 ### [[Guides/learn-migrate-drupal|Learn Migrate Drupal]]
 
@@ -184,7 +183,7 @@
 3. [[Tutorials/migrate-to-drupal-documentation-and-examples|Migrate to Drupal: Documentation and Examples]]
 4. [[Tutorials/core-migration-modules|Core Migration Modules]]
 5. [[Tutorials/migration-related-contributed-modules|Migration-Related Contributed Modules]]
-- ... and 68 more
+- ... and 34 more
 
 ### [[Guides/media-and-responsive-images|Media And Responsive Images]]
 
@@ -206,12 +205,9 @@
 
 ### [[Guides/symfony-drupal-developers|Symfony Drupal Developers]]
 
-1. [[Tutorials/how-drupal-turns-request-response|How Drupal Turns Request Response]]
-2. [[Tutorials/overview-routes-controllers-and-responses|Overview Routes Controllers And Responses]]
-3. [[Tutorials/what-are-events|What Are Events?]]
-4. [[Tutorials/what-are-events|What Are Events]]
+1. [[Tutorials/what-are-events|What Are Events?]]
 
-### [[Guides/test-drupal-sites-automated-tests|Test Drupal'sites Automated Tests]]
+### [[Guides/test-drupal-sites-automated-tests|Test Drupal Sites Automated Tests]]
 
 1. [[Tutorials/introduction-to-testing-in-drupalfree|Introduction to Testing in Drupalfree]]
 2. [[Tutorials/software-testing-overviewfree|Software Testing Overviewfree]]
@@ -222,12 +218,9 @@
 
 ### [[Guides/theming-cheat-sheet|Theming Cheat Sheet]]
 
-1. [[Tutorials/configure-your-environment-theme-development|Configure Your Environment Theme Development]]
-2. [[Tutorials/fast-by-default|fast by default]]
-3. [[Tutorials/override-template-file|Override Template File]]
-4. [[Tutorials/determine-base-name-template|Determine Base Name Template]]
-5. [[Tutorials/override-the-template|override the template]]
-- ... and 15 more
+1. [[Tutorials/fast-by-default|fast by default]]
+2. [[Tutorials/override-the-template|override the template]]
+3. [[Tutorials/theme-hook-suggestions|theme hook suggestions]]
 
 ### [[Guides/views-drupal|Views Drupal]]
 
@@ -245,4 +238,4 @@
 3. [[Tutorials/create-a-custom-content-entity|Create a Custom Content Entity]]
 4. [[Tutorials/contententitytype-attribute-properties-reference|ContentEntityType Attribute: Properties Reference]]
 5. [[Tutorials/scaffold-a-custom-content-entity-type-with-drush-generators|Scaffold a Custom Content Entity Type with Drush Generators]]
-- ... and 23 more
+- ... and 22 more

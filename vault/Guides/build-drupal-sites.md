@@ -1,9 +1,9 @@
 ---
-title: "Build Drupal'sites"
+title: "Build Drupal Sites"
 type: guide
 ---
 
-# Build Drupal'sites
+# Build Drupal Sites
 
 ## Tutorials
 

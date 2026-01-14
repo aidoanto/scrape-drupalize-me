@@ -1,9 +1,9 @@
 ---
-title: "Test Drupal'sites Automated Tests"
+title: "Test Drupal Sites Automated Tests"
 type: guide
 ---
 
-# Test Drupal'sites Automated Tests
+# Test Drupal Sites Automated Tests
 
 ## Tutorials
 

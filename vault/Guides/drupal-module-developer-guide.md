@@ -18,7 +18,7 @@ type: guide
 9. [[Tutorials/install-drush|Install Drush]]
 10. [[Tutorials/concept-anatomy-of-a-modulefree|Concept: Anatomy of a Modulefree]]
 11. [[Tutorials/create-an-info-file-for-a-modulefree|Create an Info File for a Modulefree]]
-12. [[Tutorials/create-a-custom-hello-world-blockfree|Create a Custom "Hello, World!" Blockfree]]
+12. [[Tutorials/create-a-custom-hello-world-blockfree|Create a Custom \]]
 13. [[Tutorials/concept-routesfree|Concept: Routesfree]]
 14. [[Tutorials/concept-php-namespaces-and-psr-4free|Concept: PHP Namespaces and PSR-4free]]
 15. [[Tutorials/concept-controllers|Concept: Controllers]]

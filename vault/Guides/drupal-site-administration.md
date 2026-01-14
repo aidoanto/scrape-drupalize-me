@@ -1,9 +1,9 @@
 ---
-title: "Drupal'site Administration"
+title: "Drupal Site Administration"
 type: guide
 ---
 
-# Drupal'site Administration
+# Drupal Site Administration
 
 ## Tutorials
 
