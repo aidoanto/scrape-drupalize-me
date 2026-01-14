@@ -49,7 +49,7 @@ When creating a theme you must declare a `base theme` key in your *THEMENAME.inf
 
 Image
 
-![Diagram showing the chain of inheritance from core to grandparent to parent to active theme.](/sites/default/files/styles/max_800w/public/tutorials/images/theme-inheritance.png?itok=GMvJ_7rx)
+![Diagram showing the chain of inheritance from core to grandparent to parent to active theme.](../assets/images/theme-inheritance.png)
 
 The chain of inheritance is linear, it can be any length, but each theme can only have a single parent theme. The markup that a user sees when viewing a page is the result of how each of the themes in this chain modifies the markup passed to them by the previous theme with the active theme having the final say.
 
@@ -59,7 +59,7 @@ Theme inheritance opens up a lot of possibilities where base themes can be used 
 
 Image
 
-![Example of subtheme inheritance](/sites/default/files/styles/max_800w/public/tutorials/images/sub-theme_branching.png?itok=T6tOTyQm)
+![Example of subtheme inheritance](../assets/images/sub-theme_branching.png)
 
 ## Example use cases for theme inheritance
 

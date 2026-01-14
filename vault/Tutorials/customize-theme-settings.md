@@ -51,7 +51,7 @@ If you want to give site administrators more control over certain aspects of the
 
 Image
 
-![Screenshot of Olivero Utilities in the Olivero theme settings form](/sites/default/files/styles/max_800w/public/tutorials/images/custom-theme-settings-olivero-utilities.png?itok=KDAkzewA)
+![Screenshot of Olivero Utilities in the Olivero theme settings form](../assets/images/custom-theme-settings-olivero-utilities.png)
 
 While [modules are responsible for providing their own settings form](https://drupalize.me/tutorial/create-settings-form-module) to manage their module's configuration, installed themes are provided a [theme settings form](https://drupalize.me/tutorial/theme-settings-overview) out-of-the-box. To add settings to a theme, a theme developer can alter the default system theme settings form for a custom theme by implementing `hook_form_system_theme_settings_alter()`.
 
@@ -158,7 +158,7 @@ The Ice Cream theme settings form should now look like this:
 
 Image
 
-![Screenshot of Ice Cream settings form with new field](/sites/default/files/styles/max_800w/public/tutorials/images/custom-theme-settings-ice-cream-altered-form.png?itok=WYknSmoo)
+![Screenshot of Ice Cream settings form with new field](../assets/images/custom-theme-settings-ice-cream-altered-form.png)
 
 A couple things to note:
 

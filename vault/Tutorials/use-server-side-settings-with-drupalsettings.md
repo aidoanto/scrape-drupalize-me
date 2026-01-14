@@ -122,7 +122,7 @@ In this case we're first checking to see if `drupalSettings.friendly.name` has b
 
 Image
 
-![friendly greeting library in action](/sites/default/files/styles/max_800w/public/tutorials/images/serversettings-demo.png?itok=DWLKnuUL)
+![friendly greeting library in action](../assets/images/serversettings-demo.png)
 
 ## Recap
 

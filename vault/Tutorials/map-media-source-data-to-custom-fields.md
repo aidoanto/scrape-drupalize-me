@@ -40,7 +40,7 @@ From here, add a new *Text (plain)* field named "Video credit". This field will 
 
 Image
 
-![Screenshot of the fields configured for the Remote video Media type including one named Video credit (field_video_credit).](/sites/default/files/styles/max_800w/public/tutorials/images/source-map-video-credit-field.png?itok=00pghEkr)
+![Screenshot of the fields configured for the Remote video Media type including one named Video credit (field_video_credit).](../assets/images/source-map-video-credit-field.png)
 
 Learn more in [How to Add Fields to a Media Type in Drupal](https://drupalize.me/tutorial/how-add-fields-media-type-drupal).
 
@@ -64,7 +64,7 @@ Navigate to the *Manage form display* tab for the Remove video Media type (admin
 
 Image
 
-![Screenshot of manage form display page showing Video credit and Name fields located in the Disabled fields section.](/sites/default/files/styles/max_800w/public/tutorials/images/source-map-hide-credit-field.png?itok=zBoUZfJS)
+![Screenshot of manage form display page showing Video credit and Name fields located in the Disabled fields section.](../assets/images/source-map-hide-credit-field.png)
 
 Now, when a user creates a new Remote video entity, the new Video credit field (and existing Name field) will be automatically populated with data extracted from the YouTube or Vimeo source.
 

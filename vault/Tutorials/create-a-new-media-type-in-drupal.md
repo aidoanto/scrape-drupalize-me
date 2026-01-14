@@ -68,7 +68,7 @@ On the resulting page fill out the form to add a new media type.
 
 Image
 
-![Screenshot of form for adding a new media type.](/sites/default/files/styles/max_800w/public/tutorials/images/add-media-type-form.png?itok=imkDXnbx)
+![Screenshot of form for adding a new media type.](../assets/images/add-media-type-form.png)
 
 The *Media source* dropdown will list all the available source plugins. Depending on which one you choose additional configuration options will be shown under the *Media source configuration* and *Field mapping* sections. Choose the *Twitter* source.
 

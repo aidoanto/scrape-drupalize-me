@@ -149,7 +149,7 @@ Example:
 
 Image
 
-![Screenshot of addition of the first name field from subscribers table to the people view.](/sites/default/files/styles/max_800w/public/tutorials/images/add_first_name_to_view.png?itok=yEzzcbkW)
+![Screenshot of addition of the first name field from subscribers table to the people view.](../assets/images/add_first_name_to_view.png)
 
 In the screenshot you can see that we have the *First Name* field with the *News Subscriptions* category available in the list of fields. Add it to the view along with the *Last Name* field from the *News Subscriptions* table and drag them to the top of the list to be displayed right after the *Username* field.
 
@@ -157,7 +157,7 @@ Scroll the page to the preview area of the view and you should see the new field
 
 Image
 
-![Screenshot of addition of the first name field from subscribers table to the people view.](/sites/default/files/styles/max_800w/public/tutorials/images/views_preview_relationship.png?itok=gjqFmr7z)
+![Screenshot of addition of the first name field from subscribers table to the people view.](../assets/images/views_preview_relationship.png)
 
 You may notice that we have two users in the screenshot above: *sitesuper*, an administrator, and *john*. In this example, John Doe is subscribed to our newsletter. This modification already provides a way for administrators to see which users are also subscribers. But we can make this clearer.
 
@@ -171,7 +171,7 @@ Press the *Add* button in the *Fields* section of the *People* view and enter *E
 
 Image
 
-![Screenshot of addition of the first name field from subscribers table to the people view.](/sites/default/files/styles/max_800w/public/tutorials/images/subscriptions_email_field.png?itok=ieRvR1Vz)
+![Screenshot of addition of the first name field from subscribers table to the people view.](../assets/images/subscriptions_email_field.png)
 
 Press the *Add and configure fields* button. In the field settings dialogue, open the *Rewrite results* accordion and select the option *Override the output of this field with custom text*. In the *Text* field enter *Yes*.
 
@@ -179,7 +179,7 @@ Change the field label above to say *Subscriber?*. Then press *Apply*. Rearrange
 
 Image
 
-![Screenshot of addition of the first name field from subscribers table to the people view.](/sites/default/files/styles/max_800w/public/tutorials/images/subscriber_status.png?itok=NLH-iiOg)
+![Screenshot of addition of the first name field from subscribers table to the people view.](../assets/images/subscriber_status.png)
 
 Make sure to save the view to preserve your changes.
 

@@ -32,7 +32,7 @@ In the *Manage* administrative menu, navigate to *Configuration* > *Performance*
 
 Image
 
-![Clear all caches](/sites/default/files/styles/max_800w/public/tutorials/images/drupal_clear_cache_ui.png?itok=PJgKdjhP)
+![Clear all caches](../assets/images/drupal_clear_cache_ui.png)
 
 After successfully clearing the cache Drupal should display the message "Caches cleared."
 
@@ -42,7 +42,7 @@ Depending on your role, you may be clearing the cache a lot! Add the Performance
 
 Image
 
-![Add Performance to Shortcuts](/sites/default/files/styles/max_800w/public/tutorials/images/performance-add-to-shortcut.png?itok=z_hvwR0k)
+![Add Performance to Shortcuts](../assets/images/performance-add-to-shortcut.png)
 
 ## Clearing the cache with Drush
 
@@ -58,7 +58,7 @@ Wait for the command to successfully execute and return to your site.
 
 Image
 
-![drush cr demo](/sites/default/files/styles/max_800w/public/tutorials/images/drush_cr_terminal.png?itok=HP8mqWm_)
+![drush cr demo](../assets/images/drush_cr_terminal.png)
 
 ### Reload the page you were working on in your browser
 
@@ -87,7 +87,7 @@ In a SQL GUI application like Sequel Pro, which is what I like to use, this is e
 
 Image
 
-![Truncate tables with Sequel Pro](/sites/default/files/styles/max_800w/public/tutorials/images/truncate_cache_tables.png?itok=R8po7hZo)
+![Truncate tables with Sequel Pro](../assets/images/truncate_cache_tables.png)
 
 Or, from the mysql CLI or a SQL command field in a database administrative tool (like PhpMyAdmin or others), you would run the following:
 

@@ -334,13 +334,13 @@ Create 2 video presets with the following values:
 
 Image
 
-![Video preset entity form with new codec field](/sites/default/files/styles/max_800w/public/tutorials/images/config-entities-codec-form-field.png?itok=2FlnxBr5)
+![Video preset entity form with new codec field](../assets/images/config-entities-codec-form-field.png)
 
 After saving the form, you'll be redirected to the listing page, which should display the 2 video preset configuration entities you created.
 
 Image
 
-![Video presets listing page](/sites/default/files/styles/max_800w/public/tutorials/images/config-entities-list-with-codec.png?itok=mjhJyS0p)
+![Video presets listing page](../assets/images/config-entities-list-with-codec.png)
 
 ### Add default configuration entities
 

@@ -50,7 +50,7 @@ When designing Drupal entities such as content types or users, we can create rel
 
 Image
 
-![Screenshot of add field form with entity references highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/relationships--add-entity-reference-field.png?itok=udQLubRg)
+![Screenshot of add field form with entity references highlighted](../assets/images/relationships--add-entity-reference-field.png)
 
 Consider a simple blog website where we'd like to show a picture of the author alongside their article. If we had to upload that author's picture to a field on each article that that person authored, then we'd be duplicating a lot of data on our site for very little value. Instead, it would be much more efficient for us to upload the author's picture to a field via the author's user entity, then reference the user on each article in the article's author field. This is exactly how Drupal's content entities are configured. This is the reason each content entity has an entity reference field that points to a user entity.
 
@@ -58,7 +58,7 @@ For example, let's take a look at the Article content type. Articles contain two
 
 Image
 
-![Screenshot of article edit form with tags and authored by fields highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/relationships--article-entity-reference-fields.png?itok=VcGoGxd0)
+![Screenshot of article edit form with tags and authored by fields highlighted](../assets/images/relationships--article-entity-reference-fields.png)
 
 To summarize, an *entity* is a type of data that represents some "noun" and an *entity reference* is a means for one entity to reference another type of entity, thereby creating a relationship between those two entity types. Creating relationships between entities means we will rarely (if ever) need to duplicate data.
 
@@ -68,7 +68,7 @@ When adding a new view, we begin by choosing an entity type to use as our *base 
 
 Image
 
-![Screenshot of add view form with options for show field highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/relationships--view-create-form.png?itok=dziccze2)
+![Screenshot of add view form with options for show field highlighted](../assets/images/relationships--view-create-form.png)
 
 Adding relationships to a view is how we pull data from entities other than our base entity into our view. In order to do that, our chosen entity must have an entity reference field added to it. Our view can only add relationships to entities related via our base entity's *entity reference field*. (The entity reference field's configuration specifies which entity type/sub-type can be referenced in it.)
 
@@ -76,13 +76,13 @@ On the view edit form, the **Relationships** section is located within the **Adv
 
 Image
 
-![Screenshot of Views UI with Relationships section highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/relationships--locate-add-relationship.png?itok=hJCgPQ-V)
+![Screenshot of Views UI with Relationships section highlighted](../assets/images/relationships--locate-add-relationship.png)
 
 When adding a relationship to a view we are presented with a list of available relationships to the type of *Entity* we selected for the *Show* field when creating our view. In this example, we're working on a view that is a list of *Content* entities.
 
 Image
 
-![Screenshot of add relationships modal window with available fields listed](/sites/default/files/styles/max_800w/public/tutorials/images/relationships--list-of-content-relationships.png?itok=mdrn5Kj5)
+![Screenshot of add relationships modal window with available fields listed](../assets/images/relationships--list-of-content-relationships.png)
 
 Notice how one of the available relationships is the *Content author*. Adding that relationship to our view will allow us to get data into our view about the author of the content. Without the relationship, the author's data (in a user entity) would not otherwise be available to our view of content entities.
 
@@ -90,7 +90,7 @@ After adding the *Content author* relationship to the view, we can now use the a
 
 Image
 
-![Screenshot of Views UI pointing author relationship to field and filter using that relationship](/sites/default/files/styles/max_800w/public/tutorials/images/relationships--field-and-filter-author.png?itok=pPf7nfYg)
+![Screenshot of Views UI pointing author relationship to field and filter using that relationship](../assets/images/relationships--field-and-filter-author.png)
 
 ## Recap
 

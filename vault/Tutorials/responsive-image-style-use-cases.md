@@ -99,7 +99,7 @@ This is a high-level overview of the configuration for the viewport-sizing use c
 
 Image
 
-![Viewport sizing responsive image style configuration](/sites/default/files/styles/max_800w/public/tutorials/images/resp-img-styles-sizes-multiple-img-styles-explained.png?itok=cSE77p8_)
+![Viewport sizing responsive image style configuration](../assets/images/resp-img-styles-sizes-multiple-img-styles-explained.png)
 
 ### Responsive image style markup output example
 
@@ -200,19 +200,19 @@ bartik.wide:
 
 Image
 
-![Mobile breakpoint](/sites/default/files/styles/max_800w/public/tutorials/images/resp-img-art-dir-mobile-breakpoint-settings.png?itok=skv6zfPx)
+![Mobile breakpoint](../assets/images/resp-img-art-dir-mobile-breakpoint-settings.png)
 
 ### Narrow breakpoint configuration example:
 
 Image
 
-![Narrow breakpoint](/sites/default/files/styles/max_800w/public/tutorials/images/resp-img-art-dir-narrow-breakpoint-settings.png?itok=E5fiewvo)
+![Narrow breakpoint](../assets/images/resp-img-art-dir-narrow-breakpoint-settings.png)
 
 ### Wide breakpoint configuration example:
 
 Image
 
-![Wide breakpoint](/sites/default/files/styles/max_800w/public/tutorials/images/resp-img-art-dir-wide-breakpoint-settings.png?itok=evE7f3PP)
+![Wide breakpoint](../assets/images/resp-img-art-dir-wide-breakpoint-settings.png)
 
 ### Responsive image style markup output example
 
@@ -337,19 +337,19 @@ squishy.wide:
 
 Image
 
-![Mobile breakpoint multiplier configuration example](/sites/default/files/styles/max_800w/public/tutorials/images/display-density-mobile-settings.png?itok=Hz4TaES3)
+![Mobile breakpoint multiplier configuration example](../assets/images/display-density-mobile-settings.png)
 
 ### Narrow breakpoint multiplier configuration
 
 Image
 
-![Narrow breakpoint multiplier configuration example](/sites/default/files/styles/max_800w/public/tutorials/images/display-density-narrow-settings.png?itok=Rj14k6qm)
+![Narrow breakpoint multiplier configuration example](../assets/images/display-density-narrow-settings.png)
 
 ### Wide breakpoint multiplier configuration
 
 Image
 
-![Wide breakpoint multiplier configuration example](/sites/default/files/styles/max_800w/public/tutorials/images/display-density-wide-settings.png?itok=zUtFQtl-)
+![Wide breakpoint multiplier configuration example](../assets/images/display-density-wide-settings.png)
 
 ### Responsive image style markup output
 

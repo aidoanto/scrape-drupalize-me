@@ -38,7 +38,7 @@ Enable the following modules: Migrate, Migrate Drupal, and Migrate Drupal UI.
 
 Image
 
-![Show the migrate core modules that need to be enabled in the Drupal UI](/sites/default/files/styles/max_800w/public/tutorials/images/migrate-core-modules.png?itok=0jXi34cW)
+![Show the migrate core modules that need to be enabled in the Drupal UI](../assets/images/migrate-core-modules.png)
 
 **Note:** Make sure you test this on a *copy* of your site first as it can have irreversible consequences. As you can probably understand by the definition of these modules as "experimental", you'll also want to make sure you have backups of your source site and destination site before attempting a migration. These things rarely work flawlessly the first time.
 
@@ -46,7 +46,7 @@ After enabling the Migrate Drupal UI, you'll be provided with the URL to reach t
 
 Image
 
-![Success message displayed after modules are enabled.](/sites/default/files/styles/max_800w/public/tutorials/images/modules_enabled.png?itok=PJB1GNJE)
+![Success message displayed after modules are enabled.](../assets/images/modules_enabled.png)
 
 ## Begin your upgrade
 
@@ -70,13 +70,13 @@ You will be presented with an Upgrade Analysis Report. This report details both 
 
 Image
 
-![Screenshot of migration status page with list of supported upgrade paths highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade-ui-upgrade-path-status.png?itok=YngQnHFw)
+![Screenshot of migration status page with list of supported upgrade paths highlighted](../assets/images/upgrade-ui-upgrade-path-status.png)
 
 You can also see a complete list of modules with, and without, upgrade paths. Note that modules missing an upgrade path mean that the data for those modules will not be transferred to your new site.
 
 Image
 
-![List of available upgrade paths as show in upgrade UI](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade-ui-available-upgrade-paths.png?itok=UqfIRXg-)
+![List of available upgrade paths as show in upgrade UI](../assets/images/upgrade-ui-available-upgrade-paths.png)
 
 You can learn more about how to deal with modules that are not ready yet in the "Assessing a module's readiness" section of the [Preparing for a Drupal-to-Drupal Migration](https://drupalize.me/tutorial/prepare-drupal-drupal-migration) tutorial.
 
@@ -86,19 +86,19 @@ Depending on the amount of content and complexity of your site this can take any
 
 Image
 
-![Showing a migration in progress](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade-ui-log.gif?itok=DYEdaXOS)
+![Showing a migration in progress](../assets/images/upgrade-ui-log.gif)
 
 Once complete, you will be prompted to view the results of your migration. This is available at */admin/reports/dblog*, or by clicking the link displayed.
 
 Image
 
-![Upgrade complete message showing number of completed migrations](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade-ui-complete.png?itok=tX2l5CHY)
+![Upgrade complete message showing number of completed migrations](../assets/images/upgrade-ui-complete.png)
 
 To review the log messages for your migration, set the filter type to **migrate\_drupal\_ui**.
 
 Image
 
-![Highlights filters to select on watchdog page in order to view migration related messages](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade-ui-watchdog.png?itok=f6CIHn6r)
+![Highlights filters to select on watchdog page in order to view migration related messages](../assets/images/upgrade-ui-watchdog.png)
 
 ## View migration messages
 

@@ -90,13 +90,13 @@ In the *Manage* administration menu navigate to *Configuration* > *Web services*
 
 Image
 
-![Screenshot showing the OpenAPI documentation list with a circle around the Explore with Redoc button](/sites/default/files/styles/max_800w/public/tutorials/images/openapi-resource-selection.png?itok=sqr99HB0)
+![Screenshot showing the OpenAPI documentation list with a circle around the Explore with Redoc button](../assets/images/openapi-resource-selection.png)
 
 That will take you to the ReDoc page where you can click to expand and contract sections of the schema and explore the properties of different resources.
 
 Image
 
-![Explore the article resource in ReDoc](/sites/default/files/styles/max_800w/public/tutorials/images/openapi-redoc-example.png?itok=KBdIIWp6)
+![Explore the article resource in ReDoc](../assets/images/openapi-redoc-example.png)
 
 ## Recap
 

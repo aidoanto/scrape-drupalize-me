@@ -31,7 +31,7 @@ Add the fields Vendor URL and Main image to the Vendor content type.
 
    Image
 
-   ![Add field page to choose field type](/sites/default/files/styles/max_800w/public/user_guide/images/structure-fields-add-field.png?itok=-Q4mKMZS)
+   ![Add field page to choose field type](../assets/images/structure-fields-add-field.png)
 3. Choose the *Link* field type from the *Choose a field type* options. Click *Continue*. The *Add field* page appears with a form to configure the field label.
 4. Fill in the fields as shown below.
 
@@ -44,7 +44,7 @@ Add the fields Vendor URL and Main image to the Vendor content type.
 
    Image
 
-   ![Add field page to set field label](/sites/default/files/styles/max_800w/public/user_guide/images/structure-fields-add-field-label.png?itok=Fodb94nV)
+   ![Add field page to set field label](../assets/images/structure-fields-add-field-label.png)
 5. Click *Continue. The page \_Vendor URL settings for Vendor* appears which allows you to configure the field. Fill in the fields as shown below.
 
    | Field name | Explanation | Value |
@@ -58,7 +58,7 @@ Add the fields Vendor URL and Main image to the Vendor content type.
 
    Image
 
-   ![Field settings page for Vendor URL](/sites/default/files/styles/max_800w/public/user_guide/images/structure-fields-vendor-url.png?itok=RthdcxiG)
+   ![Field settings page for Vendor URL](../assets/images/structure-fields-vendor-url.png)
 6. Click *Save settings*. The Vendor URL has been added to the content type. Continue creating the Main image field.
 7. Click *Create a new field*. The *Add field* page appears.
 8. Choose the *File upload* field type from the *Choose a field type* options. Click *Continue*. The *Add field* page appears with a form to configure the field label.
@@ -86,17 +86,17 @@ Add the fields Vendor URL and Main image to the Vendor content type.
 
     Image
 
-    ![Field settings page for Main Image](/sites/default/files/styles/max_800w/public/user_guide/images/structure-fields-main-img.png?itok=axI2YY0r)
+    ![Field settings page for Main Image](../assets/images/structure-fields-main-img.png)
 11. Click *Save settings*. Main image has been added to the content type.
 
     Image
 
-    ![Manage fields page](/sites/default/files/styles/max_800w/public/user_guide/images/structure-fields-result.png?itok=zFlyxBIE)
+    ![Manage fields page](../assets/images/structure-fields-result.png)
 12. Add a Main image field to the Recipe content type, using similar steps. Start by navigating to the Recipe content type’s *Manage Fields* page. Then use the *Re-use an existing field* button to open the modal dialog and press the *Re-use* button that corresponds with the Main image field in the table. Then skip to step 7 and follow the remaining steps.
 
     Image
 
-    ![Select a field to re-use](/sites/default/files/styles/max_800w/public/user_guide/images/structure-fields-main-img-reuse.png?itok=C2J5ZcLp)
+    ![Select a field to re-use](../assets/images/structure-fields-main-img-reuse.png)
 13. Create two Vendor content items (see [Section 5.2, “Creating a Content Item”](https://drupalize.me/tutorial/user-guide/content-create "5.2. Creating a Content Item")) called "Happy Farm" and "Sweet Honey". Make sure that they include images and URLs.
 
 ### Expand your understanding

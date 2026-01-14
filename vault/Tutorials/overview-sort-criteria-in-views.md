@@ -38,13 +38,13 @@ On the edit screen for a view, find the **Sort Criteria** section beneath the **
 
 Image
 
-![Screenshot of view edit page with sort criteria section highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts--highlight-sorts-section.png?itok=crG5X_Ma)
+![Screenshot of view edit page with sort criteria section highlighted](../assets/images/filters-sorts--highlight-sorts-section.png)
 
 Every field added to our content types, users, and other Drupal entities is available in Views as a sort criteria (most of the time). To illustrate that statement, here is a side-by-side comparison of the fields that are a part of our *Baseball Player* content type next to a list of available sort criteria.
 
 Image
 
-![Screenshot of list of fields on Baseball Player content type shown beside a list of sorts available with some of the Baseball Player fields shown](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts--fields-sorts-compare.png?itok=0qMMbyXq)
+![Screenshot of list of fields on Baseball Player content type shown beside a list of sorts available with some of the Baseball Player fields shown](../assets/images/filters-sorts--fields-sorts-compare.png)
 
 ## Sort criteria configuration options
 
@@ -56,7 +56,7 @@ The *Order* option has two values to choose from, `Sort ascending` and `Sort des
 
 Image
 
-![Screenshot of sort criteria configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts--sort-options.png?itok=KMNlIWMZ)
+![Screenshot of sort criteria configuration form](../assets/images/filters-sorts--sort-options.png)
 
 In the case that our sort criteria is a numeric value, "ascending" means it will sort the list starting from the lowest number and going to the highest number, and "descending" means it will sort the list starting from the highest number and going to the lowest number.
 

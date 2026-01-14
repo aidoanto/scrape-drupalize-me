@@ -28,7 +28,7 @@ One of the early adopter success stories to this approach is NPR, with their Cre
 
 Image
 
-![Early COPE](/sites/default/files/styles/max_800w/public/tutorials/images/npr_early_cope.png?itok=-IItWoBU)
+![Early COPE](../assets/images/npr_early_cope.png)
 
 *Photo credit: [NPR: Create Once Publish Everywhere (Slide #21)](http://www.slideshare.net/zachbrand/npr-api-create-once-publish-everywhere)*
 
@@ -44,7 +44,7 @@ Of course, the story doesn't quite end there. With the additional flexibility to
 
 Image
 
-![NPR architecture diagram](/sites/default/files/styles/max_800w/public/tutorials/images/npr_architecture_diagram.jpg?itok=p-wjjLjr)
+![NPR architecture diagram](../assets/images/npr_architecture_diagram.jpg)
 
 *Photo credit: [NPR: Create Once Publish Everywhere (Slide #30)](http://www.slideshare.net/zachbrand/npr-api-create-once-publish-everywhere)*
 

@@ -46,7 +46,7 @@ After filling out the form, use the *Save as* select field to choose a state, an
 
 Image
 
-![Content editing form showing the new Save as button and select field for choosing a state.](/sites/default/files/styles/max_800w/public/tutorials/images/moderated_content.png?itok=KVrKV3Xk)
+![Content editing form showing the new Save as button and select field for choosing a state.](../assets/images/moderated_content.png)
 
 Selecting an option and clicking save will create a new item of content with the given moderation state, and the publishing status for that state. When editing existing content the current state will be listed above the moderation state field.
 
@@ -56,13 +56,13 @@ When you are logged in as a user with content moderation-related permissions, yo
 
 Image
 
-![Screenshot of form to change moderation state when viewing the content](/sites/default/files/styles/max_800w/public/tutorials/images/change-state.png?itok=_qopr9Fv)
+![Screenshot of form to change moderation state when viewing the content](../assets/images/change-state.png)
 
 The current state is also displayed alongside other metadata at the top right of the form when you edit content. And you can change the state using the *Change to:* dropdown field just above the *Save* button.
 
 Image
 
-![Snippet of the content editing form showing the current status of draft listed above the select field for changing the status.](/sites/default/files/styles/max_800w/public/tutorials/images/content-moderation-content-edit-form.png?itok=tLgWQPmb)
+![Snippet of the content editing form showing the current status of draft listed above the select field for changing the status.](../assets/images/content-moderation-content-edit-form.png)
 
 ## Create a draft (pending) revision
 
@@ -80,7 +80,7 @@ At the bottom of the content editing form locate the *Change to* field, and choo
 
 Image
 
-![Change to draft field above Save button in the Edit screen.](/sites/default/files/styles/max_800w/public/tutorials/images/change-to-draft.png?itok=SSlzWJ4v)
+![Change to draft field above Save button in the Edit screen.](../assets/images/change-to-draft.png)
 
 When you save the form Drupal will create a new pending revision and leave the existing default revision published for anyone viewing the page.
 
@@ -88,7 +88,7 @@ Users with the correct permissions will see a menu tab, *Latest version*, on the
 
 Image
 
-![Content of the latest version tab. Shows the tab as active. A form for changing the revision's state and leaving a log message, and the content of the revision itself.](/sites/default/files/styles/max_800w/public/tutorials/images/latest-revision-tab.png?itok=XER7SUak)
+![Content of the latest version tab. Shows the tab as active. A form for changing the revision's state and leaving a log message, and the content of the revision itself.](../assets/images/latest-revision-tab.png)
 
 ## Publish a pending revision
 
@@ -100,7 +100,7 @@ Alternatively, you can change the published version from the *Revisions* tab. Ea
 
 Image
 
-![Revisions tab showing list of previous and pending revisions plus the current default revisions. Each item in the table has a button to either revert in the case of old revisions, or make default in the case of pending revisions.](/sites/default/files/styles/max_800w/public/tutorials/images/revisions-tab.png?itok=AA3sAhi3)
+![Revisions tab showing list of previous and pending revisions plus the current default revisions. Each item in the table has a button to either revert in the case of old revisions, or make default in the case of pending revisions.](../assets/images/revisions-tab.png)
 
 ## Revert to a previous revision
 
@@ -122,7 +122,7 @@ This will present you with a form asking you to confirm the action. Once you con
 
 Image
 
-![Screenshot showing the revisions tab with a message at the top indicating the revert action was successful and showing the newly created revision at the top of the list and marked as the default revision.](/sites/default/files/styles/max_800w/public/tutorials/images/revisions-tab-reverted.png?itok=mrUNvx8w)
+![Screenshot showing the revisions tab with a message at the top indicating the revert action was successful and showing the newly created revision at the top of the list and marked as the default revision.](../assets/images/revisions-tab-reverted.png)
 
 ## Recap
 

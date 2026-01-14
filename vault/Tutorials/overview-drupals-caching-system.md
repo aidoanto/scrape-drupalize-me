@@ -31,7 +31,7 @@ Introduce the Drupal caching system to developers.
 
 Image
 
-![Illustration showing the layers of the cache detailed below](/sites/default/files/styles/max_800w/public/tutorials/images/cache-layers.png?itok=z8qxQRvJ)
+![Illustration showing the layers of the cache detailed below](../assets/images/cache-layers.png)
 
 When a user visits your site and requests a page from Drupal, as the request travels on its way to being processed by Drupal and your PHP code, there's a long list of different applications (or layers) that help service the request. After receiving the request, Drupal processes it, calculates the response, renders it as HTML, and then sends it back up the stack to the user's browser. Each of these layers work together to deliver a response as quickly as possible. Efficient caching occurs when each layer in the stack is able to inspect an incoming request, determine if it's safe to serve a copy of a previously calculated response, and if so, return that response, halting the request from proceeding down the stack.
 
@@ -74,7 +74,7 @@ Drupal exposes a configuration setting for the `max-age` parameter on the *Perfo
 
 Image
 
-![Screenshot of Drupal performance tab](/sites/default/files/styles/max_800w/public/tutorials/images/performance_tab_screenshot.png?itok=33WSnNOq)
+![Screenshot of Drupal performance tab](../assets/images/performance_tab_screenshot.png)
 
 To achieve the benefits of browser caching, we recommend setting a long `max-age` time, like 6 hours or more.
 

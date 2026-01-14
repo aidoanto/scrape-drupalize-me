@@ -235,7 +235,7 @@ Example:
 
 Image
 
-![Screenshot shows form in Attendance tab on a Vendor page](/sites/default/files/styles/max_800w/public/tutorials/images/data--setup-content-types_form-example.png?itok=Qeu2KMVT)
+![Screenshot shows form in Attendance tab on a Vendor page](../assets/images/data--setup-content-types_form-example.png)
 
 ## Recap
 

@@ -187,7 +187,7 @@ Navigate back to the *user/register* page and verify that the "Terms and Conditi
 
 Image
 
-![Screenshot showing the altered user registration form](/sites/default/files/styles/max_800w/public/tutorials/images/forms--alter_sucess.png?itok=CHMuogYR)
+![Screenshot showing the altered user registration form](../assets/images/forms--alter_sucess.png)
 
 ## Recap
 

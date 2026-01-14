@@ -127,7 +127,7 @@ content_entity_example.contact_add:
 
 Image
 
-![Contact entity link types](/sites/default/files/styles/max_800w/public/tutorials/images/content_entity_example_links.png?itok=muYLlC0j)
+![Contact entity link types](../assets/images/content_entity_example_links.png)
 
 A module defines its menu links in a YAML file (*MODULE.links.menu.yml*). The menu link definition includes the menu link's title, the route, a description, and weight.
 
@@ -798,7 +798,7 @@ Here is the listing view of our contact entities in action:
 
 Image
 
-![Contact entity listing](/sites/default/files/styles/max_800w/public/tutorials/images/contact_entity_listing_example.png?itok=jDPR5sd7)
+![Contact entity listing](../assets/images/contact_entity_listing_example.png)
 
 ## Generate custom content entity code with Drush
 

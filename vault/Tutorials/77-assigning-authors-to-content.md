@@ -31,13 +31,13 @@ Sprout Video
 
    Image
 
-   ![Assigning an author to the Vendor content item](/sites/default/files/styles/max_800w/public/user_guide/images/user-content.png?itok=FcuvhEEv)
+   ![Assigning an author to the Vendor content item](../assets/images/user-content.png)
 4. Click *Save*.
 5. You will get a notification that the Vendor content item has been updated.
 
    Image
 
-   ![Vendor content item has been updated](/sites/default/files/styles/max_800w/public/user_guide/images/user-content_updated.png?itok=vR6MXRZl)
+   ![Vendor content item has been updated](../assets/images/user-content_updated.png)
 6. Follow these steps again to assign Vendor content item Sweet Honey to the Vendor user account Sweet Honey.
 
 Was this helpful?

@@ -25,18 +25,18 @@ Sprout Video
 
    Image
 
-   ![Roles page](/sites/default/files/styles/max_800w/public/user_guide/images/user-new-role-roles-page.png?itok=iQsy2ag5)
+   ![Roles page](../assets/images/user-new-role-roles-page.png)
 3. Click *Add Role* to add a custom role.
 4. Type Vendor in the *Role name* field. Click *Save*.
 
    Image
 
-   ![adding vendor as a role](/sites/default/files/styles/max_800w/public/user_guide/images/user-new-role-add-role.png?itok=ybNyfplN)
+   ![adding vendor as a role](../assets/images/user-new-role-add-role.png)
 5. You will see the message "Role Vendor has been added." displayed at the top of the page.
 
    Image
 
-   ![vendor role added success message](/sites/default/files/styles/max_800w/public/user_guide/images/user-new-role-confirm.png?itok=GASKiiD8)
+   ![vendor role added success message](../assets/images/user-new-role-confirm.png)
 
 ### Expand your understanding
 

@@ -33,19 +33,19 @@ Sprout Video
 
    Image
 
-   ![Add block display](/sites/default/files/styles/max_800w/public/user_guide/images/views-block_add-block.png?itok=es5OEfeI)
+   ![Add block display](../assets/images/views-block_add-block.png)
 3. To change the title of this display, click *Block* in the *Display name* field. The *Block: The name and the description of this display* pop-up appears. Change the *Administrative name* to "Recent recipes". Click *Apply*.
 4. To change the title of the block, click Recipes in the *Title* field under *Title*. In the pop-up that appears, select *This block (override)* from the *For* select list. Change the *Title* field to "New recipes" and click *Apply (this display)*.
 
    Image
 
-   ![Title only for this block](/sites/default/files/styles/max_800w/public/user_guide/images/views-block_title.png?itok=5yumD-1b)
+   ![Title only for this block](../assets/images/views-block_title.png)
 5. To change the block’s style, click *Grid* in the *Format* field under *Format*. In the pop-up that appears, select *This block (override)* from the *For* select list. Select *Unformatted list* and Click *Apply (this display)*. You can further configure the style options in the next pop-up that appears. Then click *Apply*.
 6. To configure the image field, click *Content: Main image* under *Fields*. In the pop-up that appears, select *This block (override)* from the *For* select list. Select *Image style Thumbnail (100x100)*. Click *Apply (this display)*.
 
    Image
 
-   ![Image to thumbnail](/sites/default/files/styles/max_800w/public/user_guide/images/views-block_image.png?itok=cCFUBdUL)
+   ![Image to thumbnail](../assets/images/views-block_image.png)
 7. To remove ingredients as a filter, click *Content: Ingredients (exposed)* under *Filter criteria*. In the pop-up that appears, select *This block (override)* from the *For* select list. Click *Remove* at the bottom.
 8. To configure how you want the content to be sorted in the view, click *Add* from the dropdown button under *Sort criteria*. In the pop-up that appears, select *This block (override)* from the *For* select list. Check *Authored on* (in the *Content* category), and then click *Add and configure sort criteria*.
 9. In the appearing configuration pop-up, select *Sort descending* to have the most recent recipes appear first. Click *Apply*.
@@ -54,12 +54,12 @@ Sprout Video
 
     Image
 
-    ![Summary page after configuration](/sites/default/files/styles/max_800w/public/user_guide/images/views-block_recipes.png?itok=6Vgf_Goo)
+    ![Summary page after configuration](../assets/images/views-block_recipes.png)
 12. Place the "Recipes: Recent Recipes" block in the *Sidebar second* region. See [Section 8.3, “Placing a Block in a Region”](https://drupalize.me/tutorial/user-guide/block-place "8.3. Placing a Block in a Region"). Navigate to the site’s home page to see the block.
 
     Image
 
-    ![New Recipes block on homepage](/sites/default/files/styles/max_800w/public/user_guide/images/views-block_sidebar.png?itok=GVnAtYYF)
+    ![New Recipes block on homepage](../assets/images/views-block_sidebar.png)
 
 Was this helpful?
 

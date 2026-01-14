@@ -40,7 +40,7 @@ If you've used JavaScript you've probably worked with events before. In JavaScri
 
 Image
 
-![Comic strip showing a report (event) being dispatched to a subscriber (Batman) via a dispatcher.](/sites/default/files/styles/max_800w/public/tutorials/images/eventdispatchercomic.png?itok=T9op2aza)
+![Comic strip showing a report (event) being dispatched to a subscriber (Batman) via a dispatcher.](../assets/images/eventdispatchercomic.png)
 
 Still not quite sure? Sometimes abstract patterns are easier to understand if you can ground them in something you know. Check out this post on our blog which uses a superhero themed analogy to unravel the event/subscriber workflow: [Responding to Events in Drupal](https://drupalize.me/blog/responding-events-drupal).
 

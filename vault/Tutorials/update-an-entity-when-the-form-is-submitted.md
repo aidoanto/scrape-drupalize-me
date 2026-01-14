@@ -226,7 +226,7 @@ Example:
 
 Image
 
-![Screenshot showing screen after form update with thank you message.](/sites/default/files/styles/max_800w/public/tutorials/images/data--entity-update_saved-vendor.png?itok=QuXvNKpx)
+![Screenshot showing screen after form update with thank you message.](../assets/images/data--entity-update_saved-vendor.png)
 
 ## Recap
 

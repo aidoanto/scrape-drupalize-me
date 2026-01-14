@@ -19,7 +19,7 @@ The toolbar provided by the core Toolbar module displays the *Manage* administra
 
 Image
 
-![Administrative menu in horizontal mode](/sites/default/files/styles/max_800w/public/user_guide/images/config-overview-toolbar.png?itok=wNmbQGnw)
+![Administrative menu in horizontal mode](../assets/images/config-overview-toolbar.png)
 
 Content
 :   Lists and manages existing content, and allows creation of new content.
@@ -49,7 +49,7 @@ The arrow button on the far right side of the second line of the toolbar (or far
 
 Image
 
-![Administrative menu in vertical mode](/sites/default/files/styles/max_800w/public/user_guide/images/config-overview-vertical-menu.png?itok=_bmJh7OA)
+![Administrative menu in vertical mode](../assets/images/config-overview-vertical-menu.png)
 
 This guide has a standard way to describe navigation to administrative pages using the administrative toolbar. See [Section i.5, “Conventions of the Guide”](https://drupalize.me/tutorial/user-guide/preface-conventions "i.5. Conventions of the Guide") for more information.
 
@@ -64,7 +64,7 @@ Contextual links have to be activated to be visible. If your site’s theme uses
 
   Image
 
-  ![Page with pencil icons turned on](/sites/default/files/styles/max_800w/public/user_guide/images/config-overview-pencils.png?itok=ti4jcwSL)
+  ![Page with pencil icons turned on](../assets/images/config-overview-pencils.png)
 
 **Attributions**
 

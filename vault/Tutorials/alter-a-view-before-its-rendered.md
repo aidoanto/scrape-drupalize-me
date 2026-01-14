@@ -102,13 +102,13 @@ The result should look something like this:
 
 Image
 
-![Screenshot of news view block displaying teasers to 2 article nodes.](/sites/default/files/styles/max_800w/public/tutorials/images/news_view.png?itok=Ksrtcjpt)
+![Screenshot of news view block displaying teasers to 2 article nodes.](../assets/images/news_view.png)
 
 And configuration may look something like the following:
 
 Image
 
-![Screenshot of news view block configuration as described above.](/sites/default/files/styles/max_800w/public/tutorials/images/news_view_config.png?itok=7X7Iy6BX)
+![Screenshot of news view block configuration as described above.](../assets/images/news_view_config.png)
 
 If you'd like to learn more about how to create a content listing with Views UI, refer to [9.3. Creating a Content List View](https://drupalize.me/tutorial/user-guide/views-create?p=2449) in the Drupal User Guide or our [Views in Drupal](https://drupalize.me/https%3A//drupalize.me/guide/views-drupal) guide.
 
@@ -172,7 +172,7 @@ Example:
 
 Image
 
-![Screenshot of the slider](/sites/default/files/styles/max_800w/public/tutorials/images/slider.png?itok=x2HQKF99)
+![Screenshot of the slider](../assets/images/slider.png)
 
 **Tip**: Play around with different options for the Teaser display of Article content (*admin/structure/types/manage/article/display/teaser*), such as displaying "Trimmed only" content and limiting the number characters.
 

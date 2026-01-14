@@ -43,13 +43,13 @@ On the edit screen for a view, the **Filter Criteria** section appears beneath t
 
 Image
 
-![Screenshot of view edit page with filter criteria section highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts--highlight-filters-section.png?itok=OHDNDglE)
+![Screenshot of view edit page with filter criteria section highlighted](../assets/images/filters-sorts--highlight-filters-section.png)
 
 Every field added to our content types, users, or other entities is available to add as a filter criteria to a view (most of the time). To illustrate, here is a side-by-side comparison of the fields added to our demo site's *Baseball Player* content type next to a list of available filter criteria in this content view.
 
 Image
 
-![Screenshot of list of fields on Baseball Player content type shown beside a list of filters available with some of the Baseball Player fields shown](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts--fields-filters-compare.png?itok=Xdvppt9a)
+![Screenshot of list of fields on Baseball Player content type shown beside a list of filters available with some of the Baseball Player fields shown](../assets/images/filters-sorts--fields-filters-compare.png)
 
 ## Configuration options for filters
 
@@ -62,13 +62,13 @@ Here is an example of a filter criteria configuration. The filter criteria shown
 
 Image
 
-![Screenshot of simple text filter configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts--height-filter-configuration.png?itok=nsklrwcT)
+![Screenshot of simple text filter configuration form](../assets/images/filters-sorts--height-filter-configuration.png)
 
 Here is another example of a filter criteria configuration. In this example, the filter criteria would limit our list to show content that belongs to the content type, *Player*.
 
 Image
 
-![Screenshot of a list filter configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts--content-type-filter-configuration.png?itok=DukSpmVb)
+![Screenshot of a list filter configuration form](../assets/images/filters-sorts--content-type-filter-configuration.png)
 
 ### Expose this filter?
 
@@ -87,7 +87,7 @@ But what if we wanted our list to show content that was **either** "Promoted to 
 
 Image
 
-![Screenshot of filter criteria arrangement options with some filters grouped together as an or group](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts--filter-groups.png?itok=_ncf3PWH)
+![Screenshot of filter criteria arrangement options with some filters grouped together as an or group](../assets/images/filters-sorts--filter-groups.png)
 
 ## Recap
 

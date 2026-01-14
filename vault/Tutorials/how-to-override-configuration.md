@@ -67,7 +67,7 @@ We're editing the logging and errors configuration, so navigate to *Configuratio
 
 Image
 
-![Logging and errors configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/config-form-logging.png?itok=Ru2drPng)
+![Logging and errors configuration form](../assets/images/config-form-logging.png)
 
 ### Export the configuration
 
@@ -93,7 +93,7 @@ If you have more than one modified file, you will want to specify the configurat
 
 Image
 
-![Output of git diff system.logging.yml](/sites/default/files/styles/max_800w/public/tutorials/images/config-overrides-git-diff.png?itok=oMsbYxKh)
+![Output of git diff system.logging.yml](../assets/images/config-overrides-git-diff.png)
 
 The base filename of the file that changed is the first array key. In this example, *system.logging.yml* was the file that was changed, and so our first array key is `system.logging`.
 

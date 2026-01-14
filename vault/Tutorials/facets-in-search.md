@@ -34,7 +34,7 @@ Filtering provides the end user the ability to further refine their search resul
 
 Image
 
-![Diagram showing a large circle labeled All indexed content, with a smaller circle inside it labeled Search results, with a section of that circle labeled Filtered results](/sites/default/files/styles/max_800w/public/tutorials/images/filterresults.png?itok=WfqBnhtG)
+![Diagram showing a large circle labeled All indexed content, with a smaller circle inside it labeled Search results, with a section of that circle labeled Filtered results](../assets/images/filterresults.png)
 
 In the above diagram, the largest circle represents all the content in the search index. Inside that circle is a subset corresponding to fulltext search results. When a filter is applied, Search API and views take the results of the fulltext search and display only elements that correspond to the selected filter(s).
 
@@ -44,13 +44,13 @@ The Facets module provides an alternative to filters with faceted searching. Ins
 
 Image
 
-![Diagram showing a large circle labeled All indexed content, which a smaller circle inside it labeled Fulltext results alone. This circle is rended with a dotted line. Inside it is an even smaller circle labeled Facet results.](/sites/default/files/styles/max_800w/public/tutorials/images/facetedresults.png?itok=jgnqsRlE)
+![Diagram showing a large circle labeled All indexed content, which a smaller circle inside it labeled Fulltext results alone. This circle is rended with a dotted line. Inside it is an even smaller circle labeled Facet results.](../assets/images/facetedresults.png)
 
 At first glance, this may seem functionally similar to filters. After all, the results displayed to the end user are the same. Often, the UI can be the same -- such as a dropdown of filter/facet options. The key difference is when multiple facet selections are made:
 
 Image
 
-![Diagram showing a large circle labeled All indexed content, which a smaller circle inside it labeled Fulltext results alone. This circle is rended with a dotted line. Inside it is an even smaller circle labeled Results with one facet selected. This circle is also rendered with a dotted line. Inside that circle is the smallest circle, labeled as Results with two facets selected.](/sites/default/files/styles/max_800w/public/tutorials/images/multiplefacetsresults.png?itok=Ik7frkn3)
+![Diagram showing a large circle labeled All indexed content, which a smaller circle inside it labeled Fulltext results alone. This circle is rended with a dotted line. Inside it is an even smaller circle labeled Results with one facet selected. This circle is also rendered with a dotted line. Inside that circle is the smallest circle, labeled as Results with two facets selected.](../assets/images/multiplefacetsresults.png)
 
 Here, two facet selections are made. The total search results become even smaller. Facets can be thought of as predefined search terms. They don't filter results, but rather result in a smaller set of results overall.
 
@@ -64,7 +64,7 @@ Imagine a search interface where you have checkboxes available to filter results
 
 Image
 
-![A timeline diagram with three points in time labeled, each showing the filter options available and which are selected](/sites/default/files/styles/max_800w/public/tutorials/images/filtertimeline.png?itok=4l4UEieQ)
+![A timeline diagram with three points in time labeled, each showing the filter options available and which are selected](../assets/images/filtertimeline.png)
 
 In the above, we start on the left with no filters selected. We have four filter options available labeled OptionA through OptionD. The end user next selects one filter, OptionA. The search results return filtered results. OptionsB, C, and D are still available for selection. Next, the end users selects OptionC. When the results are displayed, Options A-D are still displayed and available.
 
@@ -72,7 +72,7 @@ A drill-down operation is very similar, but with an important consequence:
 
 Image
 
-![A timeline diagram with three points in time labeled, each showing the facet options available and which are selected](/sites/default/files/styles/max_800w/public/tutorials/images/facettimeline.png?itok=1ltFdcn2)
+![A timeline diagram with three points in time labeled, each showing the facet options available and which are selected](../assets/images/facettimeline.png)
 
 The above looks very similar to the first. We start with no facets selected. OptionsA through D are available for use. The end user selects OptionA. When the search results are returned, however, OptionB is missing. It no longer appears in the UI. The end user then applies another facet -- OptionC. When the results are turned, now both OptionB and OptionD are missing!
 

@@ -58,7 +58,7 @@ By specifying these menu links in a *MODULENAME.links.menu.yml* file they will t
 
 Image
 
-![Page example module menu links](/sites/default/files/styles/max_800w/public/tutorials/images/menu-link.png?itok=OygfWhJZ)
+![Page example module menu links](../assets/images/menu-link.png)
 
 ## Altering existing menu links
 

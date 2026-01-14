@@ -203,7 +203,7 @@ A custom view mode lets you control when a specific template is used.
 
 Image
 
-![Manage display settings for Article showing Body field using Trimmed (100 characters) for the Card view mode.](/sites/default/files/styles/max_800w/public/tutorials/images/hello-world--manage-display-settings.png?itok=Q5fwGLMZ)
+![Manage display settings for Article showing Body field using Trimmed (100 characters) for the Card view mode.](../assets/images/hello-world--manage-display-settings.png)
 
 **Note:** If you [generated demo content with Devel](https://drupalize.me/tutorial/set-demo-site-theming-practice), some content may include long summaries. The *Summary or trimmed* formatter displays the summary as-is. For a predictable excerpt in this tutorial, use the *Trimmed* formatter and limit character count as described above, or create content without a summary.
 
@@ -253,13 +253,13 @@ View a node in the *Card* view mode. One way to do this is to update the default
 
 Image
 
-![Views configuration showing Format set to Show content using the Card view mode, filtered to Article content](/sites/default/files/styles/max_800w/public/2025-08/hello-world--frontpage-view-config_1.png?itok=2bdbKSyL)
+![Views configuration showing Format set to Show content using the Card view mode, filtered to Article content](../assets/images/hello-world--frontpage-view-config_1.png)
 
 Save the view and go back to the homepage. You should now see a styled card with the title, metadata, and a body snippet.
 
 Image
 
-![Homepage list of Article nodes rendered with the Card view mode using the single directory component](/sites/default/files/styles/max_800w/public/2025-08/hello-world--frontpage-list-using-card.png?itok=NpkPl2IH)
+![Homepage list of Article nodes rendered with the Card view mode using the single directory component](../assets/images/hello-world--frontpage-list-using-card.png)
 
 ## Recap
 

@@ -67,7 +67,7 @@ Take a look at some of the other data types defined in this directory. Some of t
 
 Image
 
-![Time Span UML](/sites/default/files/styles/max_800w/public/tutorials/images/typed_data_time_span.png?itok=8f5DrmsX)
+![Time Span UML](../assets/images/typed_data_time_span.png)
 
 As you become familiar with the different types of Typed Data, you might notice that there are 3 main building blocks: primitive, complex, and list data.
 
@@ -106,7 +106,7 @@ var_dump($serializer->serialize($list, 'json'));
 
 Image
 
-![Serialized Typed Data](/sites/default/files/styles/max_800w/public/tutorials/images/typed_data_serialization.png?itok=wgJLesJD)
+![Serialized Typed Data](../assets/images/typed_data_serialization.png)
 
 ## Recap
 

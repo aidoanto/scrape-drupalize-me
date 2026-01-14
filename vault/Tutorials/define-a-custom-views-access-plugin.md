@@ -151,7 +151,7 @@ If you'd like to read more about route parameters in Drupal, refer to the drupal
 
 Image
 
-![Screenshot of user account fields](/sites/default/files/styles/max_800w/public/tutorials/images/user_account_fields.png?itok=eomlyyV0)
+![Screenshot of user account fields](../assets/images/user_account_fields.png)
 
 In the code we are loading the `User` object out of the `AccountInterface`, and checking the value that's stored in the field.
 
@@ -286,13 +286,13 @@ Your view may look something like the screenshot below:
 
 Image
 
-![Screenshot of unpublished news view](/sites/default/files/styles/max_800w/public/tutorials/images/unpublished_news_view.png?itok=7GLPFG0e)
+![Screenshot of unpublished news view](../assets/images/unpublished_news_view.png)
 
 In the *Access* section of the view, press on the word *permission*, and you should see the *Custom access for resident editors* option. Choose it and hit *Apply*.
 
 Image
 
-![Screenshot of custom access option in the Views UI](/sites/default/files/styles/max_800w/public/tutorials/images/custom_access_option_in_views.png?itok=g78bZuW3)
+![Screenshot of custom access option in the Views UI](../assets/images/custom_access_option_in_views.png)
 
 Login as a user with the *editor* role. Make sure that the account has the custom *Resident Editor* field checked, and that editors on your site can view unpublished content. Navigate to the node where you placed the view, and you should see your new block appearing there.
 

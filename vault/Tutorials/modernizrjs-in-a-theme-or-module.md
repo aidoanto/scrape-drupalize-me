@@ -51,7 +51,7 @@ With this change, and the *modernizr-custom.js* file we downloaded in place, we 
 
 Image
 
-![Modernizr classes in multiple browsers](/sites/default/files/styles/max_800w/public/tutorials/images/browser-tests_1.png?itok=YEpFHImp)
+![Modernizr classes in multiple browsers](../assets/images/browser-tests_1.png)
 
 ## Modernizr feature detection in JavaScript
 

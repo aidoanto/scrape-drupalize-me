@@ -33,7 +33,7 @@ Sprout Video
 
    Image
 
-   ![Adding a content translation](/sites/default/files/styles/max_800w/public/user_guide/images/language-content-translate-add.png?itok=cPNjwvy1)
+   ![Adding a content translation](../assets/images/language-content-translate-add.png)
 5. Note that the user interface has switched to Spanish. To switch it back to English, remove the first instance of *es* in the browser’s URL. For example, if your URL looks like *example.com/es/node/5/translations/add/en/es*, remove the *es* that comes immediately after *example.com*.
 6. Fill in the fields as shown below.
 

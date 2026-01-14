@@ -163,13 +163,13 @@ Navigate to your view. In the *Fields* section, start searching for the *Created
 
 Image
 
-![Screenshot of adding created field to the view](/sites/default/files/styles/max_800w/public/tutorials/images/custom_created.png?itok=ZOT4TCW8)
+![Screenshot of adding created field to the view](../assets/images/custom_created.png)
 
 Select this option and save. Reload the preview of the view, and now you should see the *created* date rendered using the new format.
 
 Image
 
-![Screenshot of views preview area with new created date](/sites/default/files/styles/max_800w/public/tutorials/images/custom_created_preview.png?itok=ijV11oMC)
+![Screenshot of views preview area with new created date](../assets/images/custom_created_preview.png)
 
 ## Recap
 

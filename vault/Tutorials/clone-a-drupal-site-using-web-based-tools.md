@@ -35,7 +35,7 @@ The configuration system in Drupal was designed to manage and sync configuration
 
 Image
 
-![Configuration YAML file](/sites/default/files/styles/max_800w/public/tutorials/images/system-site-yml-example.png?itok=hlwrS7rC)
+![Configuration YAML file](../assets/images/system-site-yml-example.png)
 
 **Figure 1.** An example of simple configuration. This *system.site.yml* was exported from the active configuration of the "live" instance of my demo site and lives in the active configuration directory of the local development instance of my site.\_
 
@@ -59,7 +59,7 @@ Rename this new copy of the directory to something like *drupal8\_production*. W
 
 Image
 
-![Result of copying and renaming site directory](/sites/default/files/styles/max_800w/public/tutorials/images/copy-site-files.png?itok=EgN0KM2Z)
+![Result of copying and renaming site directory](../assets/images/copy-site-files.png)
 
 *Screenshot showing result of copying and renaming the site's root directory to a new location.*
 
@@ -73,7 +73,7 @@ Now we're going to duplicate the database using phpMyAdmin. We're doing this bec
 
 Image
 
-![PhpMyAdmin copy database interface](/sites/default/files/styles/max_800w/public/tutorials/images/localhost_localhost_d8sb_phpmyadmin_4_4_10.png?itok=2j9yGHpn)
+![PhpMyAdmin copy database interface](../assets/images/localhost_localhost_d8sb_phpmyadmin_4_4_10.png)
 
 1. Complete the text field to give your new database a name. This works much like copying our root directory, where our first database has the name *d8\_local*, and we copy this it to *d8\_production*. The default values in the copy box are sufficient.
 2. Click **Go** and a copy of the database will be generated on your local MySQL server to use for your cloned site. If you are just practicing configuration management with two sites on a local instance, then you can stop here.
@@ -88,7 +88,7 @@ Before launching our cloned site, we need to point it to our new database. The *
 
    Image
 
-   ![The $databases array in settings.php](/sites/default/files/styles/max_800w/public/tutorials/images/settings_php_-_d8-tutorials.png?itok=eLcVH1EF)
+   ![The $databases array in settings.php](../assets/images/settings_php_-_d8-tutorials.png)
 3. Change the value of `'database'` to your new, copied database name:
 
 - Was: `'database' => 'd8_local',`

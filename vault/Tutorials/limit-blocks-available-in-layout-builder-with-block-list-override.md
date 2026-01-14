@@ -54,7 +54,7 @@ drush en block_list_override -y
 
 Image
 
-![Screenshot of extend section with Block List Override module](/sites/default/files/styles/max_800w/public/tutorials/images/install_block_list_override.png?itok=KBXGdJNd)
+![Screenshot of extend section with Block List Override module](../assets/images/install_block_list_override.png)
 
 ...or through the UI. In the *Manage* administration menu, navigate to *Extend* (*admin/modules*), select the *Block List Override* module's checkbox and press the *Install* button.
 
@@ -77,13 +77,13 @@ System-wide list section:
 
 Image
 
-![Screenshot of the System-wide list section](/sites/default/files/styles/max_800w/public/tutorials/images/block_list_override_system_wide_list.png?itok=Tjb0_giV)
+![Screenshot of the System-wide list section](../assets/images/block_list_override_system_wide_list.png)
 
 Layout Builder list section:
 
 Image
 
-![Screenshot of the Layout Builder list section](/sites/default/files/styles/max_800w/public/tutorials/images/block_list_override_layout_builder_list.png?itok=OemaHkvM)
+![Screenshot of the Layout Builder list section](../assets/images/block_list_override_layout_builder_list.png)
 
 ### Hide the *Powered by Drupal* block from Layout Builder
 
@@ -93,13 +93,13 @@ Navigate to the *System Block List* (*admin/config/block\_list\_override/system-
 
 Image
 
-![System Block list menu tab](/sites/default/files/styles/max_800w/public/tutorials/images/block_list_override_system_block_list_tab.png?itok=xgmBOx9Q)
+![System Block list menu tab](../assets/images/block_list_override_system_block_list_tab.png)
 
 Find the *Powered by Drupal* block, and copy its block ID.
 
 Image
 
-![Screenshot of the Powered by Drupal block](/sites/default/files/styles/max_800w/public/tutorials/images/powered_by_drupal.png?itok=PH6At8xo)
+![Screenshot of the Powered by Drupal block](../assets/images/powered_by_drupal.png)
 
 Then navigate back to *Settings* using the local menu tab (*admin/config/block\_list\_override/settings*).
 
@@ -107,7 +107,7 @@ Paste the block ID into the *Layout Builder List Match* field and press the *Sav
 
 Image
 
-![Screenshot of the Powered by Drupal block](/sites/default/files/styles/max_800w/public/tutorials/images/block_list_override_list_match.png?itok=bJeFgw81)
+![Screenshot of the Powered by Drupal block](../assets/images/block_list_override_list_match.png)
 
 ### Check that the block is excluded from Layout Builder UI
 
@@ -119,7 +119,7 @@ Press the *+ Add block* button and filter block list by the word "Powered". Noti
 
 Image
 
-![Screenshot of no results for Powered by Drupal block](/sites/default/files/styles/max_800w/public/tutorials/images/no_results_layout_builder.png?itok=wlgz0JLn)
+![Screenshot of no results for Powered by Drupal block](../assets/images/no_results_layout_builder.png)
 
 ### Check that the block is still available
 
@@ -129,7 +129,7 @@ Navigate to the *Structure* > *Block layout* (*admin/structure/block*) and selec
 
 Image
 
-![Screenshot of Powered by Drupal block showing up in the Block layout list](/sites/default/files/styles/max_800w/public/tutorials/images/powered_by_drupal_block_layout.png?itok=TnDJJeOY)
+![Screenshot of Powered by Drupal block showing up in the Block layout list](../assets/images/powered_by_drupal_block_layout.png)
 
 ### (Or) Hide *Powered by Drupal* block
 
@@ -139,13 +139,13 @@ Navigate to *Configuration* > *System* > *Block List Override Settings* (*admin/
 
 Image
 
-![Screenshot of system-wide list match configuration section](/sites/default/files/styles/max_800w/public/tutorials/images/block_list_override_system_list_match.png?itok=YEpg3OKq)
+![Screenshot of system-wide list match configuration section](../assets/images/block_list_override_system_list_match.png)
 
 Navigate to *Structure* > *Block layout* (*admin/structure/block*) and try placing the "Powered by Drupal" block. Notice that the block doesn't show up in the search results anymore.
 
 Image
 
-![Screenshot of system-wide list match configuration section](/sites/default/files/styles/max_800w/public/tutorials/images/no_results_block_layout.png?itok=4dUC3Ykl)
+![Screenshot of system-wide list match configuration section](../assets/images/no_results_block_layout.png)
 
 Knowing which blocks to remove from the Layout Builder UI depends on your specific use-case, and we'll leave it up to you to figure out which blocks to add to the list.
 

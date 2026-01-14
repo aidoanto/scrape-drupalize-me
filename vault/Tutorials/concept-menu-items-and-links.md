@@ -35,7 +35,7 @@ Module-provided navigation elements should point to a route, not directly to a U
 
 Image
 
-![Screenshot of the Claro administrative theme with arrows pointing out menu items in the sidebar, a local action button, and local tasks rendered as tabs.](/sites/default/files/styles/max_800w/public/tutorials/images/routes--overview-menu-items-and-links-diagram.png?itok=itVnsVzk)
+![Screenshot of the Claro administrative theme with arrows pointing out menu items in the sidebar, a local action button, and local tasks rendered as tabs.](../assets/images/routes--overview-menu-items-and-links-diagram.png)
 
 ### Menu items
 

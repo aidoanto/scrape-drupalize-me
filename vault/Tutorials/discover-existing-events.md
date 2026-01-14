@@ -62,13 +62,13 @@ WebProfiler toolbar:
 
 Image
 
-![Showing location of events icon in toolbar](/sites/default/files/styles/max_800w/public/tutorials/images/webprofilter-events-toolbar-icon.png?itok=1x91aOAm)
+![Showing location of events icon in toolbar](../assets/images/webprofilter-events-toolbar-icon.png)
 
 Example event listing:
 
 Image
 
-![Showing list of events captured by webprofiler](/sites/default/files/styles/max_800w/public/tutorials/images/webprofiler-event-listing.png?itok=XJdnzxmk)
+![Showing list of events captured by webprofiler](../assets/images/webprofiler-event-listing.png)
 
 ## Use Devel to view/edit an event class
 

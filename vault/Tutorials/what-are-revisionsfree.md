@@ -35,7 +35,7 @@ This is similar to tracking changes in a Word document, or being able to review 
 
 Image
 
-![Diagram showing past revisions on the left, default revision in the middle, pending revisions on the right, illustrating the flow from previous to current to future.](/sites/default/files/styles/max_800w/public/tutorials/images/revisions.png?itok=-2XZlOOI)
+![Diagram showing past revisions on the left, default revision in the middle, pending revisions on the right, illustrating the flow from previous to current to future.](../assets/images/revisions.png)
 
 ## What is a default revision?
 

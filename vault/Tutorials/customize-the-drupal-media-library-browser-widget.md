@@ -62,7 +62,7 @@ Example:
 
 Image
 
-![Screenshot of Media Library browser with a textfield for filtering on tags shown in the UI.](/sites/default/files/styles/max_800w/public/tutorials/images/add-exposed-filter-to-media-library-view.png?itok=iEKltKH0)
+![Screenshot of Media Library browser with a textfield for filtering on tags shown in the UI.](../assets/images/add-exposed-filter-to-media-library-view.png)
 
 ## Change the way it looks
 

@@ -34,7 +34,7 @@ You can use the administrative interface or Drush to uninstall modules.
 
    Image
 
-   ![Uninstalling module](/sites/default/files/styles/max_800w/public/user_guide/images/config-uninstall_check-modules.png?itok=U_DEUfC_)
+   ![Uninstalling module](../assets/images/config-uninstall_check-modules.png)
 
    ### Note
 
@@ -43,7 +43,7 @@ You can use the administrative interface or Drush to uninstall modules.
 
    Image
 
-   ![Confirm uninstall - search module](/sites/default/files/styles/max_800w/public/user_guide/images/config-uninstall_confirmUninstall.png?itok=jTXq0zZe)
+   ![Confirm uninstall - search module](../assets/images/config-uninstall_confirmUninstall.png)
 
 #### Using Drush
 

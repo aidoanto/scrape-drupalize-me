@@ -54,7 +54,7 @@ Sprout Video
 
 Image
 
-![Parts of an asset library](/sites/default/files/styles/max_800w/public/tutorials/images/define-an-asset-library.png?itok=fYSLQ02Y)
+![Parts of an asset library](../assets/images/define-an-asset-library.png)
 
 ## Declare a new asset library
 
@@ -245,7 +245,7 @@ Now when our retro asset library is added to a page it will include the rainbow 
 
 Image
 
-![Retro library in action](/sites/default/files/styles/max_800w/public/tutorials/images/retro-olivero.gif?itok=TyLpvT_N)
+![Retro library in action](../assets/images/retro-olivero.gif)
 
 ## Recap
 

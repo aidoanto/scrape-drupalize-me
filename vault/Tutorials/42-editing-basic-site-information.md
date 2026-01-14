@@ -33,7 +33,7 @@ Sprout Video
 
    Image
 
-   ![Site Information](/sites/default/files/styles/max_800w/public/user_guide/images/config-basic-SiteInfo.png?itok=l9M0NEs7)
+   ![Site Information](../assets/images/config-basic-SiteInfo.png)
 3. After editing the fields, click *Save configuration* to see the changes applied to the site.
 
 #### Configuring default Regional settings
@@ -50,7 +50,7 @@ Sprout Video
 
    Image
 
-   ![Time Zones](/sites/default/files/styles/max_800w/public/user_guide/images/config-basic-TimeZone.png?itok=2RAE90PC)
+   ![Time Zones](../assets/images/config-basic-TimeZone.png)
 3. After editing the fields, click *Save configuration* to see the changes applied to the site.
 
 ### Additional resources

@@ -29,17 +29,17 @@ Sprout Video
 
    Image
 
-   ![Article delete dropdown](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-delete-dropdown.png?itok=bljA2aay)
+   ![Article delete dropdown](../assets/images/structure-content-type-delete-dropdown.png)
 3. A confirmation page is displayed. Click *Delete*.
 
    Image
 
-   ![Article delete confirmation page](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-delete-confirmation.png?itok=7_fJjz2n)
+   ![Article delete confirmation page](../assets/images/structure-content-type-delete-confirmation.png)
 4. The *Content types* page appears with a confirmation message saying that the content type has been deleted:
 
    Image
 
-   ![Article delete confirmation message](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-delete-confirm.png?itok=kBZjjpJn)
+   ![Article delete confirmation message](../assets/images/structure-content-type-delete-confirm.png)
 
 Was this helpful?
 

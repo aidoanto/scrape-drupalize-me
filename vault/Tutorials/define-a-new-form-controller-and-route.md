@@ -141,7 +141,7 @@ The above example describes a form with a single textfield named "Title" that is
 
 Image
 
-![Form with one input field labeled title and a submit button.](/sites/default/files/styles/max_800w/public/tutorials/images/form_api-simple_form_screenshot.png?itok=0TWRWkrS)
+![Form with one input field labeled title and a submit button.](../assets/images/form_api-simple_form_screenshot.png)
 
 The `$this->t()` method allows for translation and is available because we extended `FormBase`.
 
@@ -200,7 +200,7 @@ In the above example the user-entered (and previously validated) value of the ti
 
 Image
 
-![Page showing message collected in title field of submitted form and an empty form with a textfield and a submit button](/sites/default/files/styles/max_800w/public/tutorials/images/form_api-simple_form_submitted.png?itok=EASPAWkB)
+![Page showing message collected in title field of submitted form and an empty form with a textfield and a submit button](../assets/images/form_api-simple_form_submitted.png)
 
 [Learn more about processing submitted data in a form controller](https://drupalize.me/tutorial/handle-submitted-form-data).
 

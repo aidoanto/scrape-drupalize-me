@@ -29,19 +29,19 @@ Sprout Video
 
    Image
 
-   ![Content administration page](/sites/default/files/styles/max_800w/public/user_guide/images/content-edit-admin-content.png?itok=e8WYCu64)
+   ![Content administration page](../assets/images/content-edit-admin-content.png)
 3. Click *Edit* in the row of the content item you want to edit (Home), to open the content editing form. Update the opening hours in the *Body* field. See [Section 5.2, “Creating a Content Item”](https://drupalize.me/tutorial/user-guide/content-create "5.2. Creating a Content Item") for an explanation of the fields and a screenshot.
 4. Check *Create new revision* under *Published*, if it is not already checked, and enter a *Revision log message* explaining what changes you are making (for example, you might enter "Updated opening hours"). This text will appear in the revision log for the page.
 
    Image
 
-   ![Revision information section of the content edit page](/sites/default/files/styles/max_800w/public/user_guide/images/content-edit-revision.png?itok=5qnepVOL)
+   ![Revision information section of the content edit page](../assets/images/content-edit-revision.png)
 5. Click *Save* to save your changes.
 6. You will be redirected back to the *Content* administrative page, and there should be a message showing that the content item was updated.
 
    Image
 
-   ![Updated content message](/sites/default/files/styles/max_800w/public/user_guide/images/content-edit-message.png?itok=hOxDHqA-)
+   ![Updated content message](../assets/images/content-edit-message.png)
 
 ### Expand your understanding
 

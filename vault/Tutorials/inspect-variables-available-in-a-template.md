@@ -142,7 +142,7 @@ In your template files instead of `{{ dump() }}` you can use `{{ kint() }}` whic
 
 Image
 
-![Kint output example](/sites/default/files/styles/max_800w/public/tutorials/images/kint-output-example.jpg?itok=khVXjroJ)
+![Kint output example](../assets/images/kint-output-example.jpg)
 
 ## Twig Vardumper module
 
@@ -187,7 +187,7 @@ Then start a debug session, view any page with that template, and you should see
 
 Image
 
-![PHPStorm xdebug variable inspector](/sites/default/files/styles/max_800w/public/tutorials/images/inspecting-variables-debugger.png?itok=AM2SpYdz)
+![PHPStorm xdebug variable inspector](../assets/images/inspecting-variables-debugger.png)
 
 ## Preprocess functions
 

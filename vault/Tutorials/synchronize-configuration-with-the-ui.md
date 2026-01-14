@@ -34,7 +34,7 @@ The core Configuration Manager module is enabled by default when you select the 
 
 Image
 
-![Configuration Manager module as listed on the Extend page](/sites/default/files/styles/max_800w/public/tutorials/images/extend_config_manager.png?itok=mXsx1OTU)
+![Configuration Manager module as listed on the Extend page](../assets/images/extend_config_manager.png)
 
 *Configuration Manager module as listed on the Extend page.*
 
@@ -50,7 +50,7 @@ Using the *Manage* menu, navigate to *People* > *Permissions* (*admin/people/per
 
 Image
 
-![Permissions for the Configuration Manager module](/sites/default/files/styles/max_800w/public/tutorials/images/permissions_config_manager.png?itok=BqzIU15K)
+![Permissions for the Configuration Manager module](../assets/images/permissions_config_manager.png)
 
 *Permissions for the Configuration Manager module.*
 
@@ -76,7 +76,7 @@ These 3 steps are broken out into 3 pages which you can access via the menu tabs
 
 Image
 
-![Synchronize UI for the Configuration Manager](/sites/default/files/styles/max_800w/public/tutorials/images/synchronize_config_manager.png?itok=QyanxAIi)
+![Synchronize UI for the Configuration Manager](../assets/images/synchronize_config_manager.png)
 
 If you have made changes to the configuration of your site (changes in *active configuration*) or have imported configuration items from another instance to your configuration sync directory (using the Import tab for example), the Synchronize page is where you will examine which configuration items are affected and what the differences are.
 
@@ -84,19 +84,19 @@ For example, let's say you've made a change to the site title and slogan on the 
 
 Image
 
-![Synchronize tab shows changes in configuration](/sites/default/files/styles/max_800w/public/tutorials/images/synchronize_changes_config_manager.png?itok=QdkBguXr)
+![Synchronize tab shows changes in configuration](../assets/images/synchronize_changes_config_manager.png)
 
 Since there are differences, you can click on the View differences button. The plus and minus signs tells you what will be removed and what will be added if you clicked the Import all button on the Synchronize page.
 
 Image
 
-![View differences](/sites/default/files/styles/max_800w/public/tutorials/images/view_diff_config_manager.png?itok=cg01zTzT)
+![View differences](../assets/images/view_diff_config_manager.png)
 
 However, if you want to keep the changes you made in active configuration, you will need to export your active configuration to a compressed site archive (saving it to your computer) using the Export tab...
 
 Image
 
-![Export UI for the Configuration Manager](/sites/default/files/styles/max_800w/public/tutorials/images/export_config_manager.png?itok=tQ11hn66)
+![Export UI for the Configuration Manager](../assets/images/export_config_manager.png)
 
 ...and then import that compressed file archive right back in, using the Import tab.
 
@@ -108,19 +108,19 @@ It is only after completing those steps will the active configuration be in sync
 
 Image
 
-![Import UI for the Configuration Manager](/sites/default/files/styles/max_800w/public/tutorials/images/import_config_manager.png?itok=hWOuDgn9)
+![Import UI for the Configuration Manager](../assets/images/import_config_manager.png)
 
 Once the archive is uploaded and "staged", you will be redirected to the Synchronize tab where you can view the differences and verify the changes that will be made when you complete the import and synchronization process by clicking the "Import all" button.
 
 Image
 
-![Uploaded configuration ready for import](/sites/default/files/styles/max_800w/public/tutorials/images/sync_ready_import_config_manager.png?itok=IkYN43pf)
+![Uploaded configuration ready for import](../assets/images/sync_ready_import_config_manager.png)
 
 After you click "Import all", a batch operation will begin and a progress bar will display. After it is complete (if all went well) a message displays, confirming the successful import.
 
 Image
 
-![Successful import of configuration](/sites/default/files/styles/max_800w/public/tutorials/images/config_imported_successfully_ui_msg.png?itok=2D37eEyv)
+![Successful import of configuration](../assets/images/config_imported_successfully_ui_msg.png)
 
 You can now see the new site title and slogan on this instance of your site.
 
@@ -134,11 +134,11 @@ You can (and should) use the full archive option even if only one configuration 
 
 Image
 
-![Export: full archive option](/sites/default/files/styles/max_800w/public/tutorials/images/export_full_archive.png?itok=Qv4FYGF8)
+![Export: full archive option](../assets/images/export_full_archive.png)
 
 Image
 
-![Import: full archive option](/sites/default/files/styles/max_800w/public/tutorials/images/import_full_archive.png?itok=4nTcDpvE)
+![Import: full archive option](../assets/images/import_full_archive.png)
 
 ## Alternatives to the Configuration Manager UI
 

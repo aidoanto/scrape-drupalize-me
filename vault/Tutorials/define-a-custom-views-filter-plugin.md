@@ -211,7 +211,7 @@ If you followed the prerequisite tutorial, you should already have *News Subscri
 
 Image
 
-![Screenshot of views subscription length filter](/sites/default/files/styles/max_800w/public/tutorials/images/subscription_length_filter.png?itok=rBfjWc_m)
+![Screenshot of views subscription length filter](../assets/images/subscription_length_filter.png)
 
 Save the view and test it out.
 

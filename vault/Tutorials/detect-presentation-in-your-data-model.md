@@ -38,7 +38,7 @@ There are two different ways to explore the fields in the content type. One is t
 
 Image
 
-![Inspect the new article form](/sites/default/files/styles/max_800w/public/tutorials/images/add-new-article.png?itok=2uFDRMYp)
+![Inspect the new article form](../assets/images/add-new-article.png)
 
 The other option is to use the *interactive shell* to explore the fields attached to the article content type. To start the interactive shell open a terminal, then navigate to your Drupal site installation folder, and type:
 

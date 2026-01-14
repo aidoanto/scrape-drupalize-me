@@ -52,7 +52,7 @@ Hosting platforms typically offer various server sizes. It’s common to start o
 
 Image
 
-![Vertical scaling network diagram showing infrastructure described](/sites/default/files/styles/max_800w/public/tutorials/images/vertical-scaling-diagram.png?itok=qx_WS_W8)
+![Vertical scaling network diagram showing infrastructure described](../assets/images/vertical-scaling-diagram.png)
 
 The biggest downside of vertical server scaling is its capacity. The resources of a single server cannot scale to infinite values, and you may reach a ceiling at some point. Extreme scaling may also get cost-prohibitive.
 
@@ -64,7 +64,7 @@ One common pattern for Drupal applications is to separate the Drupal application
 
 Image
 
-![Horizontal scaling network diagram showing database on it's own server](/sites/default/files/styles/max_800w/public/tutorials/images/horizontal-scaling-simple-diagram.png?itok=YHt_rNkv)
+![Horizontal scaling network diagram showing database on it's own server](../assets/images/horizontal-scaling-simple-diagram.png)
 
 Another common pattern is to use an Apache Solr search index hosted on a separate server. This can both increase the quality of search results and reduce the load on Drupal, since processing a search query can require a lot of resources. Learn more in [Why Solr?](https://drupalize.me/tutorial/why-solr)
 
@@ -72,7 +72,7 @@ Taking it a step further, you may consider replicating your web application serv
 
 Image
 
-![Horizontal scaling network diagram showing infrastructure described below](/sites/default/files/styles/max_800w/public/tutorials/images/horizontal-scaling-diagram.png?itok=XFnhVlb_)
+![Horizontal scaling network diagram showing infrastructure described below](../assets/images/horizontal-scaling-diagram.png)
 
 Hosting your horizontal servers in the same data center is essential to ensure reduced load time -- unless you have multiple load balancers connecting to different distributed data centers to increase global performance.
 

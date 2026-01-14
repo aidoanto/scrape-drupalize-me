@@ -64,7 +64,7 @@ Navigate to *Structure* > *Block layout* (*admin/structure/block*) to confirm th
 
 Image
 
-![Screenshot of regions list on block admin page](/sites/default/files/styles/max_800w/public/tutorials/images/block-layout-regions-shown.jpg?itok=szr0QQDe)
+![Screenshot of regions list on block admin page](../assets/images/block-layout-regions-shown.jpg)
 
 Region names are shown in the *Block layout* UI. They should include all the regions you declared above.
 

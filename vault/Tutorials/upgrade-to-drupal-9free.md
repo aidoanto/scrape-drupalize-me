@@ -32,7 +32,7 @@ From a technical perspective Drupal 9.0.0 is Drupal 8.9.0 with all the [deprecat
 
 Image
 
-![Drupal 9 API is Drupal 8 API with deprecated code removed and 3rd party dependencies updated](/sites/default/files/styles/max_800w/public/tutorials/images/drupal9-api-graphic.png?itok=8wyg_hrg)
+![Drupal 9 API is Drupal 8 API with deprecated code removed and 3rd party dependencies updated](../assets/images/drupal9-api-graphic.png)
 
 *Credit:* [Gábor Hojtsy](https://slides.com/gaborhojtsy/state-of-drupal9#/4/6)
 
@@ -75,7 +75,7 @@ Look at the project's page on Drupal.org for more details about compatibility:
 
 Image
 
-![Screenshot of project info data from the Consumers project page with info about Drupal 9 highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/drupal9-project-info-example.png?itok=I9d1nr-9)
+![Screenshot of project info data from the Consumers project page with info about Drupal 9 highlighted](../assets/images/drupal9-project-info-example.png)
 
 Acquia has created [a useful tool for checking compatibility](https://dev.acquia.com/drupal9/deprecation_status).
 

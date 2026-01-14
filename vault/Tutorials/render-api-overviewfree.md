@@ -90,7 +90,7 @@ The render pipeline is the process that Drupal goes through to convert an HTTP r
 
 Image
 
-![Render API caching flow diagram](/sites/default/files/styles/max_800w/public/tutorials/images/render-api-lookup-flow.png?itok=a0Xkk5tV)
+![Render API caching flow diagram](../assets/images/render-api-lookup-flow.png)
 
 Covering the full extent of how caching works with the Render API is beyond the scope of this tutorial. However, it is worth mentioning at least briefly.
 

@@ -96,7 +96,7 @@ Use the [Packagist Semver Checker](https://semver.madewithlove.com/?package=drup
 
 Image
 
-![Screenshot of Semver Checker with a drupal/core-recommended:^10.1 constraint shows all drupal version with only those allowed by teh constraint highlighted.](/sites/default/files/styles/max_800w/public/tutorials/images/semver-checker.png?itok=QgOTBBCy)
+![Screenshot of Semver Checker with a drupal/core-recommended:^10.1 constraint shows all drupal version with only those allowed by teh constraint highlighted.](../assets/images/semver-checker.png)
 
 Let's look at the syntax of Composer version constraints and review the current best practices.
 

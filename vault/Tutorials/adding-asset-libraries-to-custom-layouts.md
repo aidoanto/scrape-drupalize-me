@@ -112,7 +112,7 @@ Clear the cache and you should see 3 columns rendered in a row. Since this layou
 
 Image
 
-![Screenshot of three columns rendered in a row](/sites/default/files/styles/max_800w/public/tutorials/images/three_column_row.png?itok=pg__fj6S)
+![Screenshot of three columns rendered in a row](../assets/images/three_column_row.png)
 
 **Note:** To simplify this example we are applying styles for the desktop. You may want to add breakpoints to adjust the look for smaller screens.
 
@@ -173,7 +173,7 @@ In the example above we used the labels *Tab 1*, *Tab 2*, *Tab 3*. You can modif
 
 Image
 
-![Screenshot of three columns with labels and triggers](/sites/default/files/styles/max_800w/public/tutorials/images/tab_triggers.png?itok=m2rQaKKx)
+![Screenshot of three columns with labels and triggers](../assets/images/tab_triggers.png)
 
 ### Add some JavaScript
 
@@ -240,7 +240,7 @@ Clear the cache and press on a tab label. You should notice that the other 2 tab
 
 Image
 
-![Screenshot of active tab](/sites/default/files/styles/max_800w/public/tutorials/images/active_tab.png?itok=_pn4SNJp)
+![Screenshot of active tab](../assets/images/active_tab.png)
 
 Finally, modify the template and add the *open* class to the first tab and the *closed* class to the other two. This way, upon loading the first tab will be open while the other 2 will be closed. Once the user interacts with the triggers, the classes will be switched with JavaScript as we have seen during the previous step.
 
@@ -248,7 +248,7 @@ To better see the changes, add some content to the layout. You should see someth
 
 Image
 
-![Screenshot of demo tabs content](/sites/default/files/styles/max_800w/public/tutorials/images/default_tab.png?itok=Tqd5BYph)
+![Screenshot of demo tabs content](../assets/images/default_tab.png)
 
 ## Recap
 

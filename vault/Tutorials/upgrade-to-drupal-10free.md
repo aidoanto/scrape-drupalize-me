@@ -143,14 +143,14 @@ Having considered the above points, here's how to upgrade from CKEditor 4 to CKE
 
    Image
 
-   ![Screenshot of Basic HTML text format configuration page after selecting CKEditor 5 as the text editor.](/sites/default/files/styles/max_800w/public/tutorials/images/ckeditor5_textformat_update.png?itok=w1FIvyqi)
+   ![Screenshot of Basic HTML text format configuration page after selecting CKEditor 5 as the text editor.](../assets/images/ckeditor5_textformat_update.png)
 9. Scroll to the end of the configuration page and click **Save configuration**.
 
 After you have updated all **CKEditor** text formats to **CKEditor 5**, on the *Text formats* administrative page, you should see **CKEditor 5** listed next to each text format you updated.
 
 Image
 
-![Screenshot of text formats page after updating each text format that used CKEditor to use CKEditor 5](/sites/default/files/styles/max_800w/public/tutorials/images/textformats_after_ckeditor5_update.png?itok=BfaeCmVu)
+![Screenshot of text formats page after updating each text format that used CKEditor to use CKEditor 5](../assets/images/textformats_after_ckeditor5_update.png)
 
 #### QA your content
 
@@ -179,7 +179,7 @@ Look at the project's page on Drupal.org for more details about compatibility:
 
 Image
 
-![Screenshot of project info data from the Consumers project page with info about Drupal 10 highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/drupal10-project-info-example.png?itok=GTKVYsDd)
+![Screenshot of project info data from the Consumers project page with info about Drupal 10 highlighted](../assets/images/drupal10-project-info-example.png)
 
 Acquia has created [a useful tool for checking compatibility](https://dev.acquia.com/drupal10/deprecation_status).
 
@@ -209,7 +209,7 @@ Then, using the *Manage* administrative menu, navigate to *Reports* > *Upgrade s
 
 Image
 
-![Screenshot of an example Upgrade Status report](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade_status_example_report.png?itok=_oZ1NqLj)
+![Screenshot of an example Upgrade Status report](../assets/images/upgrade_status_example_report.png)
 
 If a module isn't Drupal 10 compatible you've got a few options:
 
@@ -239,7 +239,7 @@ Once you have addressed all the blockers to a Drupal 10 upgrade, you will see "N
 
 Image
 
-![Screenshot of Upgrade Status report when site is Drupal 10-ready](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade_status_green_drupal10_ready.png?itok=rUbJA3f7)
+![Screenshot of Upgrade Status report when site is Drupal 10-ready](../assets/images/upgrade_status_green_drupal10_ready.png)
 
 ## Upgrade Drupal core
 
@@ -324,7 +324,7 @@ Congratulations! You've upgraded your site to Drupal 10!
 
 Image
 
-![Screenshot of Available updates page showing Drupal 10.0.4 installed](/sites/default/files/styles/max_800w/public/tutorials/images/available_updates_drupal10.png?itok=BW9abe1z)
+![Screenshot of Available updates page showing Drupal 10.0.4 installed](../assets/images/available_updates_drupal10.png)
 
 ## Troubleshooting a Drupal 9 upgrade
 

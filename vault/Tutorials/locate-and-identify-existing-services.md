@@ -37,7 +37,7 @@ Drupal core's comprehensive list of services is available on [api.drupal.org](ht
 
 Image
 
-![Screenshot of the api.drupal.org services list, filtered for http services](/sites/default/files/styles/max_800w/public/tutorials/images/services--locate-a-service_list-filtered.png?itok=vtyx71Rp)
+![Screenshot of the api.drupal.org services list, filtered for http services](../assets/images/services--locate-a-service_list-filtered.png)
 
 To find the HTTP client service, visit [api.drupal.org](https://api.drupal.org), select *Services* in the *API Navigation* block, filter by *http*, and locate the *http\_client* service. Note its name for later use.
 

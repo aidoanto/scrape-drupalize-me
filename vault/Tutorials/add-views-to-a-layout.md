@@ -66,7 +66,7 @@ Your setup should look something like the following:
 
 Image
 
-![Screenshot of Manage display section of Article content type](/sites/default/files/styles/max_800w/public/tutorials/images/article_fields.png?itok=vXMhGydH)
+![Screenshot of Manage display section of Article content type](../assets/images/article_fields.png)
 
 We're also assuming that you're familiar with [the Views module](https://drupalize.me/topic/display-content-views).
 
@@ -80,7 +80,7 @@ Start by creating 3 new articles. For the third, fill in the *Related articles* 
 
 Image
 
-![Screenshot of Article edit form with populated related articles field](/sites/default/files/styles/max_800w/public/tutorials/images/populated_related_article_field.png?itok=Ly8SFydb)
+![Screenshot of Article edit form with populated related articles field](../assets/images/populated_related_article_field.png)
 
 ### Create a related articles view
 
@@ -90,7 +90,7 @@ Name the new View *Related articles*. In the *View settings* section choose *con
 
 Image
 
-![Screenshot of Related articles views wizard](/sites/default/files/styles/max_800w/public/tutorials/images/related_articles_views_wizard.png?itok=hkJaB0Yn)
+![Screenshot of Related articles views wizard](../assets/images/related_articles_views_wizard.png)
 
 ### Add advanced view settings
 
@@ -100,31 +100,31 @@ In the *Relationships* section press *Add* link. Search for *field\_related\_art
 
 Image
 
-![Screenshot of relationship search modal](/sites/default/files/styles/max_800w/public/tutorials/images/add_relationship_content_using.png?itok=HFDIW3-V)
+![Screenshot of relationship search modal](../assets/images/add_relationship_content_using.png)
 
 Press *Add and configure relationships* button. On the next screen select *Require this relationship* and select *Apply*.
 
 Image
 
-![Screenshot of require this relationship modal](/sites/default/files/styles/max_800w/public/tutorials/images/add_relationship_require_rel.png?itok=Bjn63nf6)
+![Screenshot of require this relationship modal](../assets/images/add_relationship_require_rel.png)
 
 In the *Contextual Filters* section press *Add* link and search for *ID*. Then press *Add and configure contextual filters* button.
 
 Image
 
-![Screenshot of ID contextual filter search modal](/sites/default/files/styles/max_800w/public/tutorials/images/contextual_filter_id_modal.png?itok=bKce7cpR)
+![Screenshot of ID contextual filter search modal](../assets/images/contextual_filter_id_modal.png)
 
 On the next screen select the relationship we just defined from the dropdown. Also choose the *Hide view* option in the *When the filter value is not available section*.
 
 Image
 
-![Screenshot of ID contextual filter configuration](/sites/default/files/styles/max_800w/public/tutorials/images/contextual_filter_id_config.png?itok=FJW7sRjF)
+![Screenshot of ID contextual filter configuration](../assets/images/contextual_filter_id_config.png)
 
 Press *Apply*. Your *Advanced* view section may look something like below.
 
 Image
 
-![Screenshot of the advanced view section](/sites/default/files/styles/max_800w/public/tutorials/images/advanced_views_section.png?itok=RdI0iO_I)
+![Screenshot of the advanced view section](../assets/images/advanced_views_section.png)
 
 ### Update the layout for the Article content type
 
@@ -136,7 +136,7 @@ Press the *+ Add Block* button and scroll to the *Lists (views)* section. Select
 
 Image
 
-![Screenshot of placing related articles block settings](/sites/default/files/styles/max_800w/public/tutorials/images/add_related_articles.png?itok=aL2XoURS)
+![Screenshot of placing related articles block settings](../assets/images/add_related_articles.png)
 
 Once completed you should see the placeholder instead of the rendered view block. To see the output of the block click *Save layout*.
 
@@ -205,19 +205,19 @@ Once the patch is applied and modules are enabled, **clear the cache**. Edit the
 
 Image
 
-![Screenshot of Allow settings configuration of the view](/sites/default/files/styles/max_800w/public/tutorials/images/allow_settings.png?itok=1eriKyyd)
+![Screenshot of Allow settings configuration of the view](../assets/images/allow_settings.png)
 
 Save the view and navigate back to the *Layout* tab of the article node. Select the *Configure* option for the Views block. Now you should be able to see the contextual filter field exposed in the block's configuration. In case of the *Related articles* view it is **Content: ID**.
 
 Image
 
-![Screenshot of contextual filter settings inside Layout Builder](/sites/default/files/styles/max_800w/public/tutorials/images/contextual_settings.png?itok=_P5Rp8rd)
+![Screenshot of contextual filter settings inside Layout Builder](../assets/images/contextual_settings.png)
 
 Save the layout and you should see the articles rendered at the bottom of the page.
 
 Image
 
-![Screenshot of rendered Related articles view](/sites/default/files/styles/max_800w/public/tutorials/images/rendered_related_articles_view.png?itok=eUCz7cZi)
+![Screenshot of rendered Related articles view](../assets/images/rendered_related_articles_view.png)
 
 ## Recap
 

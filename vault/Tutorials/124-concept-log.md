@@ -16,7 +16,7 @@ You can find your site’s recent log messages in the *Manage* administrative me
 
 Image
 
-![Recent log messages of a basic site](/sites/default/files/styles/max_800w/public/user_guide/images/prevent-log.png?itok=x2TWfsbg)
+![Recent log messages of a basic site](../assets/images/prevent-log.png)
 
 **Attributions**
 

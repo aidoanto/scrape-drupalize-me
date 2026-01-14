@@ -57,7 +57,7 @@ Click the *Save* button.
 
 Image
 
-![Page showing a success message and the default workflow configuration.](/sites/default/files/styles/max_800w/public/tutorials/images/new-workflow-created.png?itok=-ASJ9lLt)
+![Page showing a success message and the default workflow configuration.](../assets/images/new-workflow-created.png)
 
 After the workflow is created you should see a success message, and a page with options for editing the new workflow.
 
@@ -81,7 +81,7 @@ To add a new state click the *Add a new state* link under the list of existing s
 
 Image
 
-![Form for adding a new state.](/sites/default/files/styles/max_800w/public/tutorials/images/add-new-state.png?itok=qr0UYelp)
+![Form for adding a new state.](../assets/images/add-new-state.png)
 
 Fill in the *State label* field with the name you would like to give your state. This is what content administrators will see in the options list when choosing a state. For example, fill in the field with the value "Needs copy editing".
 
@@ -97,7 +97,7 @@ Click the button labeled *Save* to save the new state. Once the new state is sav
 
 Image
 
-![Workflow configuration page with success message displayed at the top.](/sites/default/files/styles/max_800w/public/tutorials/images/new-state-created.png?itok=d4T8QswG)
+![Workflow configuration page with success message displayed at the top.](../assets/images/new-state-created.png)
 
 Repeat the process above to add the remaining states from your plan.
 
@@ -113,7 +113,7 @@ On the configuration page for the workflow you want to add a transition to, clic
 
 Image
 
-![Form for adding a new transition with a textfield for the label, checkboxes to choose one or more from states, and a radio group to choose a single to state.](/sites/default/files/styles/max_800w/public/tutorials/images/add-transition.png?itok=zODyBKOR)
+![Form for adding a new transition with a textfield for the label, checkboxes to choose one or more from states, and a radio group to choose a single to state.](../assets/images/add-transition.png)
 
 ### Success
 
@@ -127,7 +127,7 @@ Transitions can be reordered using the drag handle to the left of the transition
 
 Image
 
-![Table with transitions listed in order. The transition named publish has been moved to the bottom of the list and is highlighted to indicate that there are unsaved changes.](/sites/default/files/styles/max_800w/public/tutorials/images/reorder-transitions.png?itok=yH8VP-Bw)
+![Table with transitions listed in order. The transition named publish has been moved to the bottom of the list and is highlighted to indicate that there are unsaved changes.](../assets/images/reorder-transitions.png)
 
 ## Considerations when defining workflows
 

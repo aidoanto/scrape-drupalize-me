@@ -79,7 +79,7 @@ The Quicklink module can be installed with Composer by running the following com
 
 Image
 
-![Screenshot of Quicklink configuration page](/sites/default/files/styles/max_800w/public/tutorials/images/quicklink_config.png?itok=LoOFnSBe)
+![Screenshot of Quicklink configuration page](../assets/images/quicklink_config.png)
 
 By default, the module is configured to work on all public-facing pages. Which means it works for non-administrative pages and pages for anonymous users only.
 

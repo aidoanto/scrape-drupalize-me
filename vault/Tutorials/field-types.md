@@ -37,7 +37,7 @@ Probably the easiest method is to visit the module administration page at */admi
 
 Image
 
-![Field type modules provided by Drupal core.](/sites/default/files/styles/max_800w/public/tutorials/images/field_types.png?itok=V27j6sB1)
+![Field type modules provided by Drupal core.](../assets/images/field_types.png)
 
 ### Using Drush and the command line
 
@@ -234,7 +234,7 @@ With these key pieces in place we can see the new field type in action by adding
 
 Image
 
-![RGB Field provided by the field example module](/sites/default/files/styles/max_800w/public/tutorials/images/example_rgb_field.png?itok=cBxkckDN)
+![RGB Field provided by the field example module](../assets/images/example_rgb_field.png)
 
 ## Recap
 

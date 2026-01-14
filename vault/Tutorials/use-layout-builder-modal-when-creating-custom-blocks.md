@@ -33,7 +33,7 @@ After setting up this module you will have a better experience for editing layou
 
 Image
 
-![Screenshot of Layout Builder UI with and without the modal](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_comparison.png?itok=CZ-zvPI8)
+![Screenshot of Layout Builder UI with and without the modal](../assets/images/layout_builder_comparison.png)
 
 ## Drupal video tutorial: Layout Builder Modal module demo
 
@@ -55,7 +55,7 @@ Once the module is installed, enable it either with Drush (`drush en layout_buil
 
 Image
 
-![Screenshot of extend section with Layout Builder Modal module](/sites/default/files/styles/max_800w/public/tutorials/images/enable_layout_builder_modal.png?itok=I3WFMv8L)
+![Screenshot of extend section with Layout Builder Modal module](../assets/images/enable_layout_builder_modal.png)
 
 Learn more about [installing modules with Composer](https://drupalize.me/tutorial/user-guide/install-composer?p=3074), and [downloading and installing modules from Drupal.org](https://drupalize.me/tutorial/user-guide/extend-module-install?p=3072).
 
@@ -67,7 +67,7 @@ In the *Manage* administration menu, navigate to *Configuration* > *Layout Build
 
 Image
 
-![Screenshot of Layout Builder Modal configuration page](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_modal_config.png?itok=xBQlWPXY)
+![Screenshot of Layout Builder Modal configuration page](../assets/images/layout_builder_modal_config.png)
 
 The 2 required parameters in the configuration are *Width* and *Height*; they define the size of your modal. We recommend setting the height of the modal to *auto* to avoid content overflow and vertical scrolling inside the modal window.
 
@@ -89,13 +89,13 @@ To test that it's working, in the *Manage* administration menu navigate to *Stru
 
 Image
 
-![Screenshot of Layout Builder UI](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_create_custom_block_btn.png?itok=dYyvPBub)
+![Screenshot of Layout Builder UI](../assets/images/layout_builder_create_custom_block_btn.png)
 
 You should see that instead of opening block configuration inside the right off-canvas panel, a modal is opened up and it provides a wider window to allow for a better experience within WYSIWYG fields.
 
 Image
 
-![Screenshot of Layout Builder Modal](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_modal_window.png?itok=5iQ3PMKv)
+![Screenshot of Layout Builder Modal](../assets/images/layout_builder_modal_window.png)
 
 ## Recap
 

@@ -48,7 +48,7 @@ This is appropriate if the role has permission to do other site configuration or
 
 Image
 
-![Toggle display theme settings](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-toggle-display.png?itok=ZfJ9iiXW)
+![Toggle display theme settings](../assets/images/global-theme-settings-toggle-display.png)
 
 This group of settings enables you to show or hide certain elements that many themes account for and display through their template files, including the core theme, Bartik.
 
@@ -56,7 +56,7 @@ This group of settings enables you to show or hide certain elements that many th
 
 Image
 
-![User pictures in posts](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-user-pic-posts.png?itok=sBhWedDg)
+![User pictures in posts](../assets/images/global-theme-settings-user-pic-posts.png)
 
 User pictures typically display alongside the author of an article.
 
@@ -64,7 +64,7 @@ User pictures typically display alongside the author of an article.
 
 Image
 
-![User pictures in comments](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-user-pic-comments.png?itok=7kUu809T)
+![User pictures in comments](../assets/images/global-theme-settings-user-pic-comments.png)
 
 Sometimes a theme will display a user picture next to the comment poster's name.
 
@@ -72,7 +72,7 @@ Sometimes a theme will display a user picture next to the comment poster's name.
 
 Image
 
-![User verification status in comments](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-verification-status.png?itok=_n_GGHAf)
+![User verification status in comments](../assets/images/global-theme-settings-verification-status.png)
 
 User verification status in comments commonly displays next to the name provided by an unauthenticated commenter.
 
@@ -80,7 +80,7 @@ User verification status in comments commonly displays next to the name provided
 
 Image
 
-![Drupal's default shortcut icon or favicon](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-default-favicon.png?itok=03T7nlBC)
+![Drupal's default shortcut icon or favicon](../assets/images/global-theme-settings-default-favicon.png)
 
 The shortcut icon, or "favicon," is a special type of image that some web browsers display next to the title of a website, in a tab or window.
 
@@ -90,7 +90,7 @@ If you have a file called *favicon.ico* in the root of your theme's directory an
 
 Image
 
-![Bartik's logo.svg](/sites/default/files/styles/max_800w/public/tutorials/images/theme-settings-bartik-logo-svg.png?itok=7xSv4t3M)
+![Bartik's logo.svg](../assets/images/theme-settings-bartik-logo-svg.png)
 
 Themes may display a logo image, and this setting will toggle its display. For example, in the Bartik theme, the "Druplicon" is displayed next to the title in the header region.
 
@@ -98,7 +98,7 @@ Themes may display a logo image, and this setting will toggle its display. For e
 
 Image
 
-![Location of logo.svg in the Bartik theme](/sites/default/files/styles/max_800w/public/tutorials/images/bartik-file-list-default-logo-svg.png?itok=k3RVaR0Q)
+![Location of logo.svg in the Bartik theme](../assets/images/bartik-file-list-default-logo-svg.png)
 
 If you don't want to change the default logo supplied by the theme, leave this checked. Drupal will either look for a file called *logo.svg* in a theme's root directory or for the logo indicated in the theme's info file (see next section).
 
@@ -108,7 +108,7 @@ See *core/lib/Drupal/Core/Theme/ThemeInitialization.php*: [public function getAc
 
 Image
 
-![Custom logo for demo Ice Cream theme](/sites/default/files/styles/max_800w/public/tutorials/images/theme-settings-custom-icecream-logo.png?itok=et2uLD84)
+![Custom logo for demo Ice Cream theme](../assets/images/theme-settings-custom-icecream-logo.png)
 
 This setting is available if you want to specify a file name or path other than the default path of *PATH/TO/THEME/logo.svg*.
 
@@ -124,7 +124,7 @@ When selecting a theme on the Appearance page or selecting the *Settings* link, 
 
 Image
 
-![Theme-specific settings for Bartik using the Color module](/sites/default/files/styles/max_800w/public/tutorials/images/bartik-theme-settings-color.png?itok=9eWfUjSH)
+![Theme-specific settings for Bartik using the Color module](../assets/images/bartik-theme-settings-color.png)
 
 All of the global settings can be overridden in a specific theme's settings. In addition, a theme may provide additional settings that only apply to that particular theme.
 

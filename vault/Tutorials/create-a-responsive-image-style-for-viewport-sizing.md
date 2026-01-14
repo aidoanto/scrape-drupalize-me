@@ -35,7 +35,7 @@ For this exercise, we'll use the image field on the Article content type, using 
 
 Image
 
-![Image field on article content type (Theme: Bartik)](/sites/default/files/styles/max_800w/public/tutorials/images/article-image-field-target.png?itok=kIVPFH_W)
+![Image field on article content type (Theme: Bartik)](../assets/images/article-image-field-target.png)
 
 We're going to change the image field formatter from the "Medium" image style (as displayed in the above screenshot) to a responsive image style. We're also going to make the image a little bit larger in proportion to the surrounding content.
 
@@ -107,13 +107,13 @@ Create image styles for each width and add the Scale effect. Suggestion: use the
 
 Image
 
-![Add and image style with the Scale effect](/sites/default/files/styles/max_800w/public/tutorials/images/image-style-add.png?itok=KYvUAvsh)
+![Add and image style with the Scale effect](../assets/images/image-style-add.png)
 
 Fill in the width (only) and click the *Add effect* button.
 
 Image
 
-![Configure scale effect with width value](/sites/default/files/styles/max_800w/public/tutorials/images/image-style-scale-effect.png?itok=8cr-9jrj)
+![Configure scale effect with width value](../assets/images/image-style-scale-effect.png)
 
 ### Enable the Responsive Images module
 
@@ -139,7 +139,7 @@ Select the smallest image size, represented as an image style, that will fill th
 
 Image
 
-![Enter Label, select Breakpoint Group, and select Fallback image style and click save.](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-style-step-1.png?itok=5E5a418S)
+![Enter Label, select Breakpoint Group, and select Fallback image style and click save.](../assets/images/responsive-image-style-step-1.png)
 
 (But we're not done yet.)
 
@@ -147,7 +147,7 @@ Image
 
 Image
 
-![Expand the 1x Viewport Sizing breakpoint fieldset](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-style-fieldset.png?itok=2icbikpw)
+![Expand the 1x Viewport Sizing breakpoint fieldset](../assets/images/responsive-image-style-fieldset.png)
 
 Click on the right arrow icon to expand it and reveal the settings form.
 
@@ -155,7 +155,7 @@ Click on the right arrow icon to expand it and reveal the settings form.
 
 Image
 
-![Select type option: Select multiple styles and use the sizes attribute](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-styles-select-type.png?itok=BYICChEj)
+![Select type option: Select multiple styles and use the sizes attribute](../assets/images/responsive-image-styles-select-type.png)
 
 ### Enter the value for the sizes attribute
 
@@ -165,7 +165,7 @@ The value should be: a comma-separated list of media conditions (in parentheses)
 
 Image
 
-![The sizes attribute explained](/sites/default/files/styles/max_800w/public/tutorials/images/sizes-attribute-explanation.png?itok=-6pxPVK2)
+![The sizes attribute explained](../assets/images/sizes-attribute-explanation.png)
 
 Length value can be any absolute or relative unit or the CSS calc() function. Media conditions should be listed from the largest viewport size to the smallest. The last value is the default length, when no media query applies.
 
@@ -192,13 +192,13 @@ Next, select the image styles that will serve as options for the browser to choo
 
 Image
 
-![Select image styles, including 1.5x and 2x sizes](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-style-select-image-styles.png?itok=mfiK4bMn)
+![Select image styles, including 1.5x and 2x sizes](../assets/images/responsive-image-style-select-image-styles.png)
 
 ### Review configuration and save
 
 Image
 
-![Completed configuration form for responsive image style](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-style-completed-form.png?itok=fcSHitPK)
+![Completed configuration form for responsive image style](../assets/images/responsive-image-style-completed-form.png)
 
 Review the configuration and click the save button to save your new responsive image style.
 
@@ -216,14 +216,14 @@ To apply to the image field on the Article content type:
 
 Image
 
-![Select your responsive image style to apply as a field formatter](/sites/default/files/styles/max_800w/public/tutorials/images/apply-field-formatter-responsive-image.png?itok=k6Rv6hld)
+![Select your responsive image style to apply as a field formatter](../assets/images/apply-field-formatter-responsive-image.png)
 
 - Click Update to save your selection.
 - Click Save (to save the Display Settings form)
 
 Image
 
-![Save the Display Settings form](/sites/default/files/styles/max_800w/public/tutorials/images/save-display-settings-form.png?itok=RRuTmwGC)
+![Save the Display Settings form](../assets/images/save-display-settings-form.png)
 
 Now the images for this field will use an appropriately-sized source, depending on the viewport size!
 
@@ -245,7 +245,7 @@ To test, create an article node and upload an image that is at least as wide as 
 
 Image
 
-![The image style machine name is in the URL of the image.](/sites/default/files/styles/max_800w/public/tutorials/images/image-style-url.png?itok=Vc-8eGA3)
+![The image style machine name is in the URL of the image.](../assets/images/image-style-url.png)
 
 In certain browsers, you may need to clear the browser's image cache to see the results, or try a hard-refresh.
 

@@ -201,7 +201,7 @@ When viewing any page with the new block enabled, you should see the relevant no
 
 Image
 
-![The Card block using the card SDC](/sites/default/files/styles/max_800w/public/tutorials/images/use-sdc-render-array--card-block.png?itok=xGDjcTi9)
+![The Card block using the card SDC](../assets/images/use-sdc-render-array--card-block.png)
 
 ## Recap
 

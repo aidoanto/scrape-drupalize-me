@@ -31,7 +31,7 @@ Taxonomy reference fields can be added to any entity, such as user accounts, cus
 
 Image
 
-![Taxonomy listing page - Carrots](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy_listingPage_carrots.png?itok=5MVn9GpW)
+![Taxonomy listing page - Carrots](../assets/images/structure-taxonomy_listingPage_carrots.png)
 
 ### Related topics
 

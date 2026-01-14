@@ -56,7 +56,7 @@ Once the module is installed, enable it either with Drush or the UI.
 
 Image
 
-![Screenshot of extend section with Layout Builder Restrictions module](/sites/default/files/styles/max_800w/public/tutorials/images/enable_layout_builder_restrictions.png?itok=aYmlC93d)
+![Screenshot of extend section with Layout Builder Restrictions module](../assets/images/enable_layout_builder_restrictions.png)
 
 Learn more about [installing modules with Composer](https://drupalize.me/tutorial/user-guide/install-composer?p=3074), and [downloading and installing modules from Drupal.org](https://drupalize.me/tutorial/user-guide/extend-module-install?p=3072).
 
@@ -70,7 +70,7 @@ If you don't have it already enabled, select the *Use Layout Builder* checkbox a
 
 Image
 
-![Screenshot of Manage display section for article content type](/sites/default/files/styles/max_800w/public/tutorials/images/manage_display_article.png?itok=smMTxIlR)
+![Screenshot of Manage display section for article content type](../assets/images/manage_display_article.png)
 
 Note that this configuration is for the Article content type and won't affect any other content types using Layout Builder.
 
@@ -80,7 +80,7 @@ Expand the *Layouts available for sections* fieldset, and select the *Allow only
 
 Image
 
-![Screenshot of Allow only specific layouts section](/sites/default/files/styles/max_800w/public/tutorials/images/exclude_two_column.png?itok=LD8eWMJ_)
+![Screenshot of Allow only specific layouts section](../assets/images/exclude_two_column.png)
 
 ### Check that *Two column* layout is not available for Articles
 
@@ -88,13 +88,13 @@ Once the configuration is saved, select the *Manage layout* button to open the L
 
 Image
 
-![Screenshot of excluded Two column section in Article add section interface section](/sites/default/files/styles/max_800w/public/tutorials/images/two_column_excluded.png?itok=loqkLiEr)
+![Screenshot of excluded Two column section in Article add section interface section](../assets/images/two_column_excluded.png)
 
 If you open the Layout Builder UI for the Basic page content type (or any other) you'll see that the *Two column* option is still available there:
 
 Image
 
-![Screenshot of Two column layout section in Basic page content type](/sites/default/files/styles/max_800w/public/tutorials/images/two_column_exists_on_basic_page.png?itok=1Dq9YPr8)
+![Screenshot of Two column layout section in Basic page content type](../assets/images/two_column_exists_on_basic_page.png)
 
 ## Disable blocks using Layout Builder Restrictions
 
@@ -108,7 +108,7 @@ Expand the *Blocks available for placement (All layouts & regions)* fieldset pro
 
 Image
 
-![Screenshot of restricted Who's online block in Basic pages](/sites/default/files/styles/max_800w/public/tutorials/images/blacklist_whos_online.png?itok=v_JKd0B2)
+![Screenshot of restricted Who's online block in Basic pages](../assets/images/blacklist_whos_online.png)
 
 ### Check that this block is not available for placement on Basic pages
 
@@ -116,7 +116,7 @@ Select the *Manage layout* button. Then select the *+ Add block button*. Search 
 
 Image
 
-![Screenshot of search for Who's online block](/sites/default/files/styles/max_800w/public/tutorials/images/not_available_whos_online.png?itok=UKifpe3_)
+![Screenshot of search for Who's online block](../assets/images/not_available_whos_online.png)
 
 The Layout Builder Restrictions module provides 2 options for blocks: *allow* and *restrict*. In different situations it's best to follow one or another approach. Typically, if your website uses Layout Builder on the majority of content types, and most pages on the site use it, then it's best to use *restrict* since the number of blocks that need to be unavailable typically will be less than the number of blocks that can be used within the Layout Builder UI.
 

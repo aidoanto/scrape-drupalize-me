@@ -25,12 +25,12 @@ Sprout Video
 
    Image
 
-   ![Default theme, Olivero](/sites/default/files/styles/max_800w/public/user_guide/images/config-theme_olivero_settings.png?itok=oTIzXS7k)
+   ![Default theme, Olivero](../assets/images/config-theme_olivero_settings.png)
 3. Under *Logo image*, uncheck *Use the logo supplied by the theme*.
 
    Image
 
-   ![New logo in core Olivero theme settings](/sites/default/files/styles/max_800w/public/user_guide/images/config-theme_logo_upload.png?itok=nIziFgAl)
+   ![New logo in core Olivero theme settings](../assets/images/config-theme_logo_upload.png)
 4. Under *Upload logo image*, locate a logo file and upload it to your site. Note: You can also set a universal logo for all themes under *Appearance* > *Settings* (*admin/appearance/settings*). A custom logo for your theme will override the universal logo.
 
    Once you have selected the file you would like to upload, you will see its filename next to the *Choose File* or *Browse* button in your browser.
@@ -51,7 +51,7 @@ For example, use the following custom color:
 
    Image
 
-   ![Final result of editing the core Olivero theme settings - colors and logo](/sites/default/files/styles/max_800w/public/user_guide/images/config-theme_final_result.png?itok=3lsQKkUt)
+   ![Final result of editing the core Olivero theme settings - colors and logo](../assets/images/config-theme_final_result.png)
 
 ### Expand your understanding
 

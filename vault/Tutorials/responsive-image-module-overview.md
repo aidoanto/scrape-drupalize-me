@@ -40,7 +40,7 @@ First off, you should be aware of the one permission provided by this module: pe
 
 Image
 
-![Permission to administer responsive image styles](/sites/default/files/styles/max_800w/public/tutorials/images/permission-responsive-image.png?itok=FxfddJI7)
+![Permission to administer responsive image styles](../assets/images/permission-responsive-image.png)
 
 ## Configuration: responsive image styles
 
@@ -50,7 +50,7 @@ Using the *Manage* administrative menu, navigate to *Configuration* > *Media* > 
 
 Image
 
-![Add new responsive image style form](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-style-add-form.png?itok=IYNctIKy)
+![Add new responsive image style form](../assets/images/responsive-image-style-add-form.png)
 
 ### Label
 
@@ -72,7 +72,7 @@ The breakpoint group selection is required. When you select a breakpoint group, 
 
 Image
 
-![Select a breakpoint group to see which breakpoints it provides.](/sites/default/files/styles/max_800w/public/tutorials/images/resp-img-breakpoint-group.gif?itok=6A1jii82)
+![Select a breakpoint group to see which breakpoints it provides.](../assets/images/resp-img-breakpoint-group.gif)
 
 ### Fallback image style
 
@@ -82,7 +82,7 @@ The fallback image style is required.
 
 Image
 
-![Screenshot of completed first stage of responsive image styles configuration form.](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-style-step-1.png?itok=5E5a418S)
+![Screenshot of completed first stage of responsive image styles configuration form.](../assets/images/responsive-image-style-step-1.png)
 
 ### Breakpoint settings
 
@@ -90,7 +90,7 @@ After you've filled in Label, Breakpoint group, and Fallback image style, you wi
 
 Image
 
-![Responsive image styles configuration form, showing 3 breakpoint groups.](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-style-step-2.png?itok=N000m7AS)
+![Responsive image styles configuration form, showing 3 breakpoint groups.](../assets/images/responsive-image-style-step-2.png)
 
 #### Type
 
@@ -100,7 +100,7 @@ This section of the form is dynamic, meaning, what you select under **Type** wil
 
 Image
 
-![The settings change depending on your choice for Type](/sites/default/files/styles/max_800w/public/tutorials/images/responsive-image-style-type.gif?itok=9rP6Q6Zr)
+![The settings change depending on your choice for Type](../assets/images/responsive-image-style-type.gif)
 
 The type partially determines which HTML elements and attributes will be used in the final output. To learn more about these type selections, their use cases, and the HTML output, see [Responsive Image Style Use Cases](https://drupalize.me/tutorial/responsive-image-style-use-cases).
 

@@ -47,7 +47,7 @@ Use `$form_state->getValue('element name')` to retrieve the value of a specific 
 
 Image
 
-![Screenshot of $form array in buildForm method with arrows pointing to keys of the array to show which ones are element names.](/sites/default/files/styles/max_800w/public/tutorials/images/form-api_element-name-example.png?itok=7yDPBatG)
+![Screenshot of $form array in buildForm method with arrows pointing to keys of the array to show which ones are element names.](../assets/images/form-api_element-name-example.png)
 
 **Note:** In the [life cycle of a form](https://drupalize.me/tutorial/form-api-life-cycle), by the time your submission logic is reached [all validation](https://drupalize.me/tutorial/validate-form-input) will have already been performed, so you can assume that the values in `$form_state` have all been validated and are ready to be used.
 

@@ -55,13 +55,13 @@ Locate the view *Baseball Players* and take note of the machine name for this vi
 
 Image
 
-![Screenshot of list of views showing Baseball Players view](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming-wrapper--find-machine-name.png?itok=dSNv-S3M)
+![Screenshot of list of views showing Baseball Players view](../assets/images/twig-theming-wrapper--find-machine-name.png)
 
 Locate the default *views-view.html.twig* template and copy it by right-clicking the file, then selecting File > Copy. The template can be found at *core/modules/views/templates/views-view.html.twig*.
 
 Image
 
-![Screenshot of core views templates folder with views-view.html.twig template selected](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming-wrapper--template-copy.png?itok=L9nzkUdk)
+![Screenshot of core views templates folder with views-view.html.twig template selected](../assets/images/twig-theming-wrapper--template-copy.png)
 
 Paste it (File > Paste) into your theme's *templates* folder. (Create the *templates* directory first if it doesn't already exist.) Rename the copied template file to *views-view--baseball-players.html.twig*. In this example, our theme is named `bartik2`, so the resulting file is *themes/bartik2/templates/views-view--baseball-players.html.twig*. Replace *bartik2* with the machine name of your theme.
 
@@ -69,7 +69,7 @@ To construct the new template file name, we added `--` and our view's machine na
 
 Image
 
-![Screenshot of custom theme templates folder with new template](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming-wrapper--template-paste-rename.png?itok=A7I-NHZa)
+![Screenshot of custom theme templates folder with new template](../assets/images/twig-theming-wrapper--template-paste-rename.png)
 
 ## Modify the template and create another pager
 
@@ -166,7 +166,7 @@ Next we need to rebuild our site cache so that Drupal can locate our new templat
 
 Image
 
-![Screenshot of the Performance page and the Clear all caches button](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming-wrapper--clear-caches.png?itok=MtDEuaAK)
+![Screenshot of the Performance page and the Clear all caches button](../assets/images/twig-theming-wrapper--clear-caches.png)
 
 ## See our new template in action
 
@@ -174,13 +174,13 @@ Now we can visit the baseball players page (From the administrative menu, select
 
 Image
 
-![Screenshot of the Baseball Players view with a pager at the top](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming-wrapper--two-pagers-top.png?itok=sgEOWNfm)
+![Screenshot of the Baseball Players view with a pager at the top](../assets/images/twig-theming-wrapper--two-pagers-top.png)
 
 ...
 
 Image
 
-![Screenshot of the Baseball Players view with a pager at the bottom](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming-wrapper--two-pagers-bottom.png?itok=RNQkWDXQ)
+![Screenshot of the Baseball Players view with a pager at the bottom](../assets/images/twig-theming-wrapper--two-pagers-bottom.png)
 
 ## Recap
 

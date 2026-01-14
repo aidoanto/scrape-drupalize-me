@@ -61,7 +61,7 @@ If all we want to do is change the markup used in the main content area--rather 
 
 Image
 
-![Twig Template Inheritance illustrated](/sites/default/files/styles/max_800w/public/tutorials/images/twig-template-inheritance.png?itok=nbP-QprQ)
+![Twig Template Inheritance illustrated](../assets/images/twig-template-inheritance.png)
 
 In this case, the content inside the `block` tag in our child template will be used in place of whatever is inside the `block` in the parent template. This allows us to override the parts we care about, without needing to duplicate the rest of the template.
 

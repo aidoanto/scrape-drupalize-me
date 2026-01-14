@@ -42,7 +42,7 @@ Consider this somewhat complex scenario. The basic page content type on your sit
 
 Image
 
-![Screenshot of an article showing the same media image in both the hero and sidebar view modes.](/sites/default/files/styles/max_800w/public/tutorials/images/view-modes-example.png?itok=SYTRA0UI)
+![Screenshot of an article showing the same media image in both the hero and sidebar view modes.](../assets/images/view-modes-example.png)
 
 The basic page content type has a Media field so you can associate Media entities with it. Now, depending on which section the Media entity is shown in (*hero* or *sidebar*) we want to change the way it looks. Videos, for example, should show the full video player when placed into the *hero* section, but a thumbnail (which when selected will open a modal window with the player) in the *sidebar* section. Part of the solution to this is creating 2 new view modes and then modifying the configuration of the Remote video Media entity type. Then when an author places a video into a section in the layout they can choose the corresponding view mode and the video will render correctly.
 
@@ -79,13 +79,13 @@ In the *Manage* administration menu, navigate to *Structure* > *Media types*, th
 
 Image
 
-![Screenshot of manage display configuration form with Hero and Sidebar view modes enabled under custom display settings section.](/sites/default/files/styles/max_800w/public/tutorials/images/display-mode-enable-view-modes.png?itok=Bo9uuUXt)
+![Screenshot of manage display configuration form with Hero and Sidebar view modes enabled under custom display settings section.](../assets/images/display-mode-enable-view-modes.png)
 
 Then press *Save*. You should see a success message, and the Hero and Sidebar options should now show up in the tabs at the top of the page.
 
 Image
 
-![Local actions tabs on manage display page showing Hero and Sidebar in the list](/sites/default/files/styles/max_800w/public/tutorials/images/display-mode-enable-view-modes-success.png?itok=fGosm-e7)
+![Local actions tabs on manage display page showing Hero and Sidebar in the list](../assets/images/display-mode-enable-view-modes-success.png)
 
 ### Configure the Sidebar view mode
 
@@ -101,7 +101,7 @@ Select the *Sidebar* tab to configure the Sidebar view mode. Disable all fields 
 
 Image
 
-![Manage display configuration form for sidebar view mode with options for Colorbox formatter set as described above.](/sites/default/files/styles/max_800w/public/tutorials/images/display-mode-configure-sidebar.png?itok=abAT7WxF)
+![Manage display configuration form for sidebar view mode with options for Colorbox formatter set as described above.](../assets/images/display-mode-configure-sidebar.png)
 
 Then press *Save* to update the view mode.
 
@@ -124,7 +124,7 @@ Example:
 
 Image
 
-![Manage display configuration form for 'hero' view mode with Image and Photo credit fields active. Shows image field using the responsive image formatter.](/sites/default/files/styles/max_800w/public/tutorials/images/view-modes-manage-display-hero-settings.png?itok=30JCxmuh)
+![Manage display configuration form for 'hero' view mode with Image and Photo credit fields active. Shows image field using the responsive image formatter.](../assets/images/view-modes-manage-display-hero-settings.png)
 
 Then press *Save* to save your changes.
 
@@ -134,7 +134,7 @@ Update the layout used for pages. Add the *Related media* field to the second co
 
 Image
 
-![Layout builder UI adding block for related media field to sidebar. Shows formatter as rendered entity, and view mode as sidebar.](/sites/default/files/styles/max_800w/public/tutorials/images/view-modes-related-media-field-sidebar-layout.png?itok=1aPWu18E)
+![Layout builder UI adding block for related media field to sidebar. Shows formatter as rendered entity, and view mode as sidebar.](../assets/images/view-modes-related-media-field-sidebar-layout.png)
 
 Additionally, you can test the *Hero* view mode by overriding the Layout for a page and placing a new block in the *Hero* section. Choose the *Related media* field, set the formatter to *Rendered entity* and the view mode as *Hero*.
 
@@ -142,7 +142,7 @@ Example of image in the *Hero* section of the layout:
 
 Image
 
-![Screenshot of a page with a Media image4 entity displayed in the hero section.](/sites/default/files/styles/max_800w/public/tutorials/images/view-modes-hero-example.png?itok=wAUT2PFC)
+![Screenshot of a page with a Media image4 entity displayed in the hero section.](../assets/images/view-modes-hero-example.png)
 
 **Note**: At the time of writing, there's a caveat to this approach. When using multi-value fields in Layout Builder there's no way to limit the number of items displayed. If your media field has more than 1 image attached they are always all displayed. That's not ideal when displaying a Hero image. There's [a work in progress patch to add the ability to limit the number of items output](https://www.drupal.org/project/drupal/issues/3029830) that's worth testing if you need this functionality now.
 
@@ -154,7 +154,7 @@ You can change the way that items appear in the Grid view of the Media Library b
 
 Image
 
-![Media Library browser widget showing grid of image thumbnails and titles.](/sites/default/files/styles/max_800w/public/tutorials/images/display-mode-media-library-before-tags.png?itok=dYsR43Gi)
+![Media Library browser widget showing grid of image thumbnails and titles.](../assets/images/display-mode-media-library-before-tags.png)
 
 In the *Manage* administration menu, navigate to *Structure* > *Media types* and choose the *Manage display* option for the *Image* Media type (*admin/structure/media/manage/image/display*). Then, in the *Local actions* tabs choose the *Media library* display mode.
 
@@ -164,7 +164,7 @@ Enable the fields you want to display (*Tags*, in our case) and configure the fi
 
 Image
 
-![Media Library browser widget showing grid of image thumbnails, titles, and tags for the images that have them.](/sites/default/files/styles/max_800w/public/tutorials/images/display-mode-media-library-after-tags.png?itok=R0xUrm3w)
+![Media Library browser widget showing grid of image thumbnails, titles, and tags for the images that have them.](../assets/images/display-mode-media-library-after-tags.png)
 
 **Tip:** You can improve the display by [creating a sub-theme of the admin theme](https://drupalize.me/tutorial/use-base-theme), and then [overriding the Tags field template](https://drupalize.me/tutorial/override-template-file).
 

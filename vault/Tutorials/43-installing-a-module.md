@@ -35,7 +35,7 @@ Contributed modules are not included with the core software must first be downlo
 
    Image
 
-   ![Enabling the core Ban module](/sites/default/files/styles/max_800w/public/user_guide/images/config-install-check-modules.png?itok=9CTQUsPH)
+   ![Enabling the core Ban module](../assets/images/config-install-check-modules.png)
 3. Click *Install*. The checked modules will be installed.
 
 #### Using Drush

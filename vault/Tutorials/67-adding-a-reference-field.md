@@ -31,7 +31,7 @@ Sprout Video
 
    Image
 
-   ![Adding a reference field to a content type](/sites/default/files/styles/max_800w/public/user_guide/images/structure-adding-reference-add-field.png?itok=oXTIY1Js)
+   ![Adding a reference field to a content type](../assets/images/structure-adding-reference-add-field.png)
 3. Fill in the fields as shown below. Click *Save and continue*.
 
    | Field name | Explanation | Value |
@@ -41,7 +41,7 @@ Sprout Video
 
    Image
 
-   ![Adding a reference field to a content type](/sites/default/files/styles/max_800w/public/user_guide/images/structure-adding-reference-add-field-label.png?itok=UqU3dlEC)
+   ![Adding a reference field to a content type](../assets/images/structure-adding-reference-add-field-label.png)
 4. The page Submitted by appears which lets you set the allowed number of values. Fill in the fields as shown below. Click *Save settings*.
 
    | Field name | Explanation | Value |
@@ -51,7 +51,7 @@ Sprout Video
 
    Image
 
-   ![Storage configuration of a reference field](/sites/default/files/styles/max_800w/public/user_guide/images/structure-adding-reference-set-field-basic.png?itok=o6Xg0Uol)
+   ![Storage configuration of a reference field](../assets/images/structure-adding-reference-set-field-basic.png)
 5. The page *Submitted by settings for Recipe* appears which allows you to configure the field. Fill in the fields as shown below. Click *Save settings*.
 
    | Field name | Explanation | Value |
@@ -66,12 +66,12 @@ Sprout Video
 
    Image
 
-   ![Settings for a reference field](/sites/default/files/styles/max_800w/public/user_guide/images/structure-adding-reference-field-settings.png?itok=1Ts1jCOl)
+   ![Settings for a reference field](../assets/images/structure-adding-reference-field-settings.png)
 6. The Submitted by field has been added to the content type.
 
    Image
 
-   ![Manage fields page for the Recipe content type](/sites/default/files/styles/max_800w/public/user_guide/images/structure-adding-reference-manage-fields.png?itok=JY4Qm3Ed)
+   ![Manage fields page for the Recipe content type](../assets/images/structure-adding-reference-manage-fields.png)
 
 Was this helpful?
 

@@ -229,7 +229,7 @@ Example `#tableselect` enabled table:
 
 Image
 
-![Table with table select enabled and checkboxes in the first column for all rows.](/sites/default/files/styles/max_800w/public/tutorials/images/tableselect-example.png?itok=tzLvWJDw)
+![Table with table select enabled and checkboxes in the first column for all rows.](../assets/images/tableselect-example.png)
 
 ## Drag-and-drop reordering of table rows
 
@@ -237,7 +237,7 @@ When used in the context of a form you can use the `#tabledrag` property to defi
 
 Image
 
-![Table with table select enabled and checkboxes in the first column for all rows.](/sites/default/files/styles/max_800w/public/tutorials/images/tabledrag-example.gif?itok=n4EOpR_2)
+![Table with table select enabled and checkboxes in the first column for all rows.](../assets/images/tabledrag-example.gif)
 
 Adding drag-and-drop functionality to a table requires:
 

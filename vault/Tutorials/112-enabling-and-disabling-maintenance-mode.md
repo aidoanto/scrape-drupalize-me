@@ -40,7 +40,7 @@ You can use the administrative interface or Drush to enable or disable maintenan
 
    Image
 
-   ![Maintenance mode enabled](/sites/default/files/styles/max_800w/public/user_guide/images/extend-maintenance-mode-enabled.png?itok=WXCokPyr)
+   ![Maintenance mode enabled](../assets/images/extend-maintenance-mode-enabled.png)
 
 #### Disabling maintenance mode using the administrative interface
 
@@ -56,7 +56,7 @@ You can use the administrative interface or Drush to enable or disable maintenan
 
    Image
 
-   ![Maintenance mode disabled](/sites/default/files/styles/max_800w/public/user_guide/images/extend-maintenance-mode-disabled.png?itok=M3XEj7UQ)
+   ![Maintenance mode disabled](../assets/images/extend-maintenance-mode-disabled.png)
 
 #### Enabling or disabling maintenance mode using Drush
 

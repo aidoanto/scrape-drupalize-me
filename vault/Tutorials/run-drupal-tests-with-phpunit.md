@@ -330,7 +330,7 @@ For instance, if you want to [see your test output as NyanCat](https://github.co
 
 Image
 
-![Animated image showing NyanCat output](/sites/default/files/styles/max_800w/public/tutorials/images/runners-nyan-cat.gif?itok=N_wDGaep)
+![Animated image showing NyanCat output](../assets/images/runners-nyan-cat.gif)
 
 Much more useful is the fact that core supplies us with a way to look at the output of our functional tests in HTML.
 
@@ -683,7 +683,7 @@ You can copy any of them and paste them into a web browser. This will take you t
 
 Image
 
-![Output from the output printer](/sites/default/files/styles/max_800w/public/tutorials/images/runners-output-printer.png?itok=y96c9s8p)
+![Output from the output printer](../assets/images/runners-output-printer.png)
 
 This gives you some information about where the output came from, shows you the HTML, and then shows the headers for the request.
 

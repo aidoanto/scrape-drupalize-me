@@ -39,12 +39,12 @@ Sprout Video
 
    Image
 
-   ![Granting users with the Vendor role the rights to create, delete and edit Recipes](/sites/default/files/styles/max_800w/public/user_guide/images/user-permissions-check-permissions.png?itok=9dF8sCLl)
+   ![Granting users with the Vendor role the rights to create, delete and edit Recipes](../assets/images/user-permissions-check-permissions.png)
 4. Click *Save permissions*. You will get a message saying your changes have been saved.
 
    Image
 
-   ![Confirmation message after updating permissions](/sites/default/files/styles/max_800w/public/user_guide/images/user-permissions-save-permissions.png?itok=cWRZXZfx)
+   ![Confirmation message after updating permissions](../assets/images/user-permissions-save-permissions.png)
 
 ### Expand your understanding
 

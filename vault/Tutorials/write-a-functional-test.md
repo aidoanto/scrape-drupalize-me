@@ -187,7 +187,7 @@ Example:
 
 Image
 
-![Screenshot shows functional test browser output](/sites/default/files/styles/max_800w/public/tutorials/images/testing--functional-tests_browser-output-example.png?itok=E-CBRA9j)
+![Screenshot shows functional test browser output](../assets/images/testing--functional-tests_browser-output-example.png)
 
 ## Recap
 

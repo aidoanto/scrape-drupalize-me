@@ -155,7 +155,7 @@ The `package` key is used to group modules. See this in action on the *Extend* a
 
 Image
 
-![Enable the Hello World module](/sites/default/files/styles/max_800w/public/tutorials/images/info_file_basics.png?itok=ilXQ0yfB)
+![Enable the Hello World module](../assets/images/info_file_basics.png)
 
 After you [install (enable) the module](https://drupalize.me/tutorial/user-guide/config-install?p=3069), notice that our Hello World module has been added to a new group called **Other** on the module administration page. We can specify a different name for this group for organizational purposes by using the `package` key in our info file if desired:
 
@@ -274,7 +274,7 @@ The other main key you may find in info files is `configure`. Use this only if y
 
 Image
 
-![Search API Configuration Link](/sites/default/files/styles/max_800w/public/tutorials/images/info_file_configure_form_link.png?itok=hvspjo2q)
+![Search API Configuration Link](../assets/images/info_file_configure_form_link.png)
 
 And the corresponding *search\_api.info.yml* file:
 

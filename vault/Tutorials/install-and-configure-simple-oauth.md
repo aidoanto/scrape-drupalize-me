@@ -90,7 +90,7 @@ Example:
 
 Image
 
-![Configuration window to generate keys](/sites/default/files/styles/max_800w/public/tutorials/images/generate-keys.png?itok=sWh29siA)
+![Configuration window to generate keys](../assets/images/generate-keys.png)
 
 Press the *Generate* button to proceed. On success, Drupal will create the public and private key files in the appropriate location and fill in the OAuth configuration form. Make sure to press *Save configuration* to save the changes.
 
@@ -139,7 +139,7 @@ In the *Manage* administration menu, navigate to *Configuration* > *People* > *S
 
 Image
 
-![Specify the keys](/sites/default/files/styles/max_800w/public/tutorials/images/configure-keys.png?itok=DXT_S-yB)
+![Specify the keys](../assets/images/configure-keys.png)
 
 Keep the rest of the defaults (unless you have a reason to do otherwise) and select *Save configuration*.
 
@@ -151,7 +151,7 @@ This screenshot is from GitHub's OAuth authorization screen when CircleCI reques
 
 Image
 
-![GitHub asking for permission to authorize CircleCI](/sites/default/files/styles/max_800w/public/tutorials/images/github-oauth-example.png?itok=tLsZehHz)
+![GitHub asking for permission to authorize CircleCI](../assets/images/github-oauth-example.png)
 
 In this example, CircleCI is the *Consumer*.
 
@@ -198,7 +198,7 @@ To add a consumer, navigate to *Configuration* > *Web services* > *Consumers* (*
 
 Image
 
-![Add the consumer](/sites/default/files/styles/max_800w/public/tutorials/images/add-consumer.jpeg?itok=gXxjlc0R)
+![Add the consumer](../assets/images/add-consumer.jpeg)
 
 Depending on the grant type(s), you'll see additional configuration options, including settings for making tokens expire and using `@pkce`.
 
@@ -234,7 +234,7 @@ After completing the form, press the *Save* button to save your new Consumer ent
 
 Image
 
-![The client UUID is the main identifier for a client](/sites/default/files/styles/max_800w/public/tutorials/images/consumer-entities-list.png?itok=lrHKbhg1)
+![The client UUID is the main identifier for a client](../assets/images/consumer-entities-list.png)
 
 This new *consumer* entity will be used to generate an authentication token from the application associated with the consumer, e.g., Roku or SPA. The Roku app will need to send both the client\_id (or uuid) and the consumer entity's *client secret*. We'll need to send other parameters as well, but that will depend on the grant type that we use. We'll learn more about that in another tutorial, [Get a Token for OAuth 2 Requests](https://drupalize.me/tutorial/get-token-oauth-2-requests).
 
@@ -244,7 +244,7 @@ This configuration is necessary to comply with the OAuth 2 specification. Even p
 
 Image
 
-![Example of Facebook requiring to register a client app](/sites/default/files/styles/max_800w/public/tutorials/images/register-facebook-app.png?itok=ovtTMT82)
+![Example of Facebook requiring to register a client app](../assets/images/register-facebook-app.png)
 
 However, this is not ideal, as it goes against the previous recommendation that our Drupal backend be agnostic to the applications that interact with it. This problem is mitigated because it only affects authentication, and there is no special business logic or presentation associated with these client entities. The API will interact the same way with all consumers, but an access token from one consumer will not be usable in another. This is, again, for security reasons, and it is a good trade-off.
 

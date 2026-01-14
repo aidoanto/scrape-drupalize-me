@@ -106,7 +106,7 @@ Example:
 
 Image
 
-![Screenshot of region demonstration for Olivero with an arrow that points to the main content region and indicates this is where controller output is likely to be placed.](/sites/default/files/styles/max_800w/public/tutorials/images/routing_controller_output_placement.png?itok=D-lzltG1)
+![Screenshot of region demonstration for Olivero with an arrow that points to the main content region and indicates this is where controller output is likely to be placed.](../assets/images/routing_controller_output_placement.png)
 
 Learn more in [Overview: Routes, Controllers, and Responses](https://drupalize.me/tutorial/overview-routes-controllers-and-responses).
 

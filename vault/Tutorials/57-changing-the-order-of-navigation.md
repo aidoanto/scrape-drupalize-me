@@ -29,23 +29,23 @@ Sprout Video
 
    Image
 
-   ![List of menus on the site with Main navigation highlighted](/sites/default/files/styles/max_800w/public/user_guide/images/menu-reorder_menu_titles.png?itok=C49NlTT_)
+   ![List of menus on the site with Main navigation highlighted](../assets/images/menu-reorder_menu_titles.png)
 2. The *Edit menu* page will display a list of each link in the menu you chose (*Main navigation*).
 
    Image
 
-   ![List of menu links under Main navigation](/sites/default/files/styles/max_800w/public/user_guide/images/menu-reorder_edit_menu.png?itok=WjJxHi_N)
+   ![List of menu links under Main navigation](../assets/images/menu-reorder_edit_menu.png)
 3. Drag the cross bar handles of menu links to change their order: Home, then About. As an alternative to dragging, you can click the *Show row weights* link at the top of the table and select numerical weights (menu links with lower or more negative weights will be shown first).
 
    Image
 
-   ![Reordered menu links with warning message about unsaved changes and the Save button](/sites/default/files/styles/max_800w/public/user_guide/images/menu-reorder_reorder.png?itok=DK5FTp7k)
+   ![Reordered menu links with warning message about unsaved changes and the Save button](../assets/images/menu-reorder_reorder.png)
 4. Click *Save*.
 5. The home page now displays the main navigation with the Home menu link displayed first.
 
    Image
 
-   ![Reordered menu links on the home page with Home first and then About](/sites/default/files/styles/max_800w/public/user_guide/images/menu-reorder_final_order.png?itok=SDoqRKi3)
+   ![Reordered menu links on the home page with Home first and then About](../assets/images/menu-reorder_final_order.png)
 
 ### Expand your understanding
 

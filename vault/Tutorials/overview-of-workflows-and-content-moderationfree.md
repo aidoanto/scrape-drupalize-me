@@ -38,7 +38,7 @@ This illustration (created by Sam Mortenson) does a great job of introducing Wor
 
 Image
 
-![Illustration showing a common editorial workflow using Workflows and Content Moderation. Explained in more detail below.](/sites/default/files/styles/max_800w/public/tutorials/images/cmc.png?itok=gJ7EpMv5)
+![Illustration showing a common editorial workflow using Workflows and Content Moderation. Explained in more detail below.](../assets/images/cmc.png)
 
 The combination of Workflows and Content Moderation modules allow you to create and enforce editorial processes that conform to your organization's specific needs. By default, Drupal core provides for a very minimal workflow. A piece of content can be either published, or not. If you need something more complex than that, you need Workflows and Content Moderation.
 
@@ -69,7 +69,7 @@ To see a list of currently configured workflows in the Manage administration men
 
 Image
 
-![Workflows configuration page](/sites/default/files/styles/max_800w/public/tutorials/images/workflows.png?itok=IBkdc0bc)
+![Workflows configuration page](../assets/images/workflows.png)
 
 However, without the Content Moderation module, or another module that depends on Workflows, when installed it will display a message stating the need for a module that implements a workflow type.
 
@@ -81,7 +81,7 @@ For example, Content Moderation allows a workflow to be attached to an entity ty
 
 Image
 
-![Workflow type setting](/sites/default/files/styles/max_800w/public/tutorials/images/workflow_type.png?itok=fjZYBA8x)
+![Workflow type setting](../assets/images/workflow_type.png)
 
 ## Content Moderation
 
@@ -119,7 +119,7 @@ Content Moderation then creates a permission for each transition per workflow. F
 
 Image
 
-![Drupal's permissions UI matrix showing list of permissions described above.](/sites/default/files/styles/max_800w/public/tutorials/images/content-moderation-overview-permissions.png?itok=4fhIwVdQ)
+![Drupal's permissions UI matrix showing list of permissions described above.](../assets/images/content-moderation-overview-permissions.png)
 
 ## Contributed modules
 

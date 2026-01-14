@@ -47,7 +47,7 @@ Locate the *Baseball Awards* view and select the *Edit* button in the *Operation
 
 Image
 
-![Screenshot of list of views with Baseball Awards view shown](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--edit-baseball-awards-view.png?itok=m0gaFtPm)
+![Screenshot of list of views with Baseball Awards view shown](../assets/images/contextual-filters--edit-baseball-awards-view.png)
 
 ### Expand the Advanced section
 
@@ -55,7 +55,7 @@ Expand the **Advanced** section by clicking on the column label.
 
 Image
 
-![Screenshot of view edit page with Advanced column open](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--advanced-column.png?itok=HktPVvr8)
+![Screenshot of view edit page with Advanced column open](../assets/images/contextual-filters--advanced-column.png)
 
 ### Add a new contextual filter
 
@@ -65,7 +65,7 @@ In the list of filters, locate the filter labeled *Year* for the field *field\_p
 
 Image
 
-![Screenshot of modal window containing list of available contextual filters with Year field selected](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--year-add-filter.png?itok=H1HBF7Fx)
+![Screenshot of modal window containing list of available contextual filters with Year field selected](../assets/images/contextual-filters--year-add-filter.png)
 
 ### Configure the *Year* contextual filter for the page display
 
@@ -92,7 +92,7 @@ Our contextual filter criterion configuration should now look like this:
 
 Image
 
-![Screenshot of modal window with contextual filter configuration values chosen](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--year-configuration-modal-final.png?itok=ygjLpXQq)
+![Screenshot of modal window with contextual filter configuration values chosen](../assets/images/contextual-filters--year-configuration-modal-final.png)
 
 ### Configure no results behavior
 
@@ -108,7 +108,7 @@ At the moment, we are previewing the view without a value provided to our new co
 
 Image
 
-![Screenshot of preview of the view without contextual filter value](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--preview-no-filter.png?itok=E65KC1gW)
+![Screenshot of preview of the view without contextual filter value](../assets/images/contextual-filters--preview-no-filter.png)
 
 Let's use our new contextual filter to limit the list to baseball awards awarded in the year 1901.
 
@@ -119,7 +119,7 @@ At the top of the **Preview** section there is a text field with the label *Prev
 
 Image
 
-![Screenshot of preview of the view with list of content filtered by the year 1901](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--preview-filtered.png?itok=GBuWxP4Q)
+![Screenshot of preview of the view with list of content filtered by the year 1901](../assets/images/contextual-filters--preview-filtered.png)
 
 ### Save the view
 
@@ -135,7 +135,7 @@ To create a *summary view* we'll create a new block display with a new contextua
 
 Image
 
-![Screenshot of a block showing a summary of the results by year](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--summary-block.png?itok=NCjTB25h)
+![Screenshot of a block showing a summary of the results by year](../assets/images/contextual-filters--summary-block.png)
 
 ### Add a new block display
 
@@ -160,7 +160,7 @@ For *Base path*, leave blank, since we'll be placing this block on the same page
 
 Image
 
-![Screenshot of a contextual filter configuration](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--summary-block-config-1.png?itok=kNi9_fi9)
+![Screenshot of a contextual filter configuration](../assets/images/contextual-filters--summary-block-config-1.png)
 
 #### When the filter value *is* available or a default is provided
 
@@ -174,7 +174,7 @@ Select button *Apply (this display)*.
 
 Image
 
-![Screenshot of a contextual filter configuration](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--summary-block-config-2.png?itok=TTktQVEB)
+![Screenshot of a contextual filter configuration](../assets/images/contextual-filters--summary-block-config-2.png)
 
 ### Configure the pager in the block display
 
@@ -206,7 +206,7 @@ For *View to insert*, choose **View: baseball\_awards - Display: block\_1**. Sel
 
 Image
 
-![Screenshot of header configuration for the page display](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--page-display-header-view.png?itok=uH0VmZwm)
+![Screenshot of header configuration for the page display](../assets/images/contextual-filters--page-display-header-view.png)
 
 ### Save the view and test it out
 
@@ -214,7 +214,7 @@ Before previewing the results, save the view because the links in the summary vi
 
 Image
 
-![Animated gif shows user clicking on the links in the summary view and the results changing by year.](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--end-result-summary-view.gif?itok=9rktOgVX)
+![Animated gif shows user clicking on the links in the summary view and the results changing by year.](../assets/images/contextual-filters--end-result-summary-view.gif)
 
 ## Recap
 

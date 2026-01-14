@@ -45,7 +45,7 @@ When the renderer encounters this element with the `#type => 'managed_file'` pro
 
 Image
 
-![Diagram showing process of converting a render array with a managed_file element in a custom module to HTML by expanding the definition to include defaults from the element type, executing preprocess callbacks to split the element into multiple sub-elements, and then converting it all to HTML](/sites/default/files/styles/max_800w/public/tutorials/images/render-api-rendering-an-element.png?itok=7Gn1hocO)
+![Diagram showing process of converting a render array with a managed_file element in a custom module to HTML by expanding the definition to include defaults from the element type, executing preprocess callbacks to split the element into multiple sub-elements, and then converting it all to HTML](../assets/images/render-api-rendering-an-element.png)
 
 [View full size](https://drupalize.me/sites/default/files/tutorials/images/render-api-rendering-an-element.png).
 

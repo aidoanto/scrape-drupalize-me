@@ -98,7 +98,7 @@ Now that the modules are installed, we can configure Drupal to connect to the So
 
 Image
 
-![Screenshot of completed Solr server configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/solr-server-add-solrcloud.png?itok=NWhokbYY)
+![Screenshot of completed Solr server configuration form](../assets/images/solr-server-add-solrcloud.png)
 
 ### Validate Search API server creation
 
@@ -112,7 +112,7 @@ Example:
 
 Image
 
-![Screenshot of Solr server status dashboard](/sites/default/files/styles/max_800w/public/tutorials/images/solr-server-status-dashboard.png?itok=a2mfW0Q1)
+![Screenshot of Solr server status dashboard](../assets/images/solr-server-status-dashboard.png)
 
 ### Export the configuration
 

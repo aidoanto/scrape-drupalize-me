@@ -122,7 +122,7 @@ Drupal core will recommend you use a Media field whenever you go to add an Image
 
 Image
 
-![Example of help message displayed, content reads: Use Media reference fields for most files, images, audio, videos, and remote media. Use File or Image reference fields when creating your own media types, or for legacy files and images created before enabling the Media module.](/sites/default/files/styles/max_800w/public/tutorials/images/image-field-warning.png?itok=P9l-4Ijy)
+![Example of help message displayed, content reads: Use Media reference fields for most files, images, audio, videos, and remote media. Use File or Image reference fields when creating your own media types, or for legacy files and images created before enabling the Media module.](../assets/images/image-field-warning.png)
 
 A good example of an exception to this rule is user profile images. These are images that are NOT reusable (two users are not going to share the same profile image).
 

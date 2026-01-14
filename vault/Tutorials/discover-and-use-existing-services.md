@@ -52,7 +52,7 @@ There's a comprehensive list of all the services in Drupal core available at <ht
 
 Image
 
-![Example of using search tool to discover services on api.drupal.org](/sites/default/files/styles/max_800w/public/tutorials/images/services-list-filtered.png?itok=Seb9uWZF)
+![Example of using search tool to discover services on api.drupal.org](../assets/images/services-list-filtered.png)
 
 ## Find services with Drush and Devel
 

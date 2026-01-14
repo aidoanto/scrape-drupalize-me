@@ -68,7 +68,7 @@ The two endpoints we need for our application need to be able to return data for
 
 Image
 
-![Node listing from a Views REST export display](/sites/default/files/styles/max_800w/public/tutorials/images/api-views-node-listing-json.png?itok=AaQqrvU5)
+![Node listing from a Views REST export display](../assets/images/api-views-node-listing-json.png)
 
 For our simple blog example we're only going to create one Backbone Model. We can get a good idea of which data attributes we need to track in our blog model based on the API response we see from Drupal above. We won't be making use of all of the attributes Drupal exposes by default, so let's simplify these down to: title, path, body, teaser, author, published date, and node id. It's important to note that often times we might not be building both the front and back end of a site. When we're consuming a 3rd party API from Twitter or GitHub we may have to filter the API data on the client. In this case the API coming from our Drupal site is easy to manipulate using Drupal's Views module, so we don't have to do any client-side filtering.
 

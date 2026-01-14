@@ -52,7 +52,7 @@ The JSON:API module in Drupal uses the UUID field in the entity as the resource 
 
 Image
 
-![Use the Devel tab to find the UUID of a node](/sites/default/files/styles/max_800w/public/tutorials/images/devel-tab.png?itok=It-bzVj1)
+![Use the Devel tab to find the UUID of a node](../assets/images/devel-tab.png)
 
 ### Request the resource
 
@@ -108,7 +108,7 @@ Drupal will respond to that request with a JSON object that contains information
 
 Image
 
-![An example of a JSON:API response](/sites/default/files/styles/max_800w/public/tutorials/images/jsonapi-structure-2.png?itok=HMOf5p2j)
+![An example of a JSON:API response](../assets/images/jsonapi-structure-2.png)
 
 The responses from the [JSON:API module](https://www.drupal.org/project/jsonapi) will always follow the structure defined in the [official specification](http://jsonapi.org/format/). One of the advantages of this specification is that it's very intuitive and easy to read. You can see that there are four different sections in the JSON:API responses:
 
@@ -119,7 +119,7 @@ The responses from the [JSON:API module](https://www.drupal.org/project/jsonapi)
 
 Image
 
-![There are four different sections in a JSON:API response](/sites/default/files/styles/max_800w/public/tutorials/images/jsonapi-structure.png?itok=ALohlYw0)
+![There are four different sections in a JSON:API response](../assets/images/jsonapi-structure.png)
 
 ## Recap
 

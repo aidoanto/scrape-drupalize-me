@@ -142,7 +142,7 @@ Look for the `X-Drupal-Cache-Contexts` and `X-Drupal-Cache-Tags` HTTP headers.
 
 Image
 
-![Screenshot shows x-drupal-cache-contexts and x-drupal-cache-tags headers in the chrome web inspector. Each contains a list of the Drupal contexts and tags used respectively.](/sites/default/files/styles/max_800w/public/tutorials/images/cache-debug.png?itok=KZgMrHCe)
+![Screenshot shows x-drupal-cache-contexts and x-drupal-cache-tags headers in the chrome web inspector. Each contains a list of the Drupal contexts and tags used respectively.](../assets/images/cache-debug.png)
 
 This feature is controlled by the `http.response.debug_cacheability_headers: true` setting in *sites/default/services.yml* or *sites/development.services.yml* depending on your setup. It is off by default, and should stay off on production.
 

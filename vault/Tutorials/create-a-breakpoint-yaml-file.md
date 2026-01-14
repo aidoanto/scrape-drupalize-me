@@ -45,7 +45,7 @@ Next, we need to gather the media query information we want to put in our breakp
 
 Image
 
-![Search for media queries](/sites/default/files/styles/max_800w/public/tutorials/images/breakpts_find_in_css.png?itok=1c9-nhnE)
+![Search for media queries](../assets/images/breakpts_find_in_css.png)
 
 ### Make a list of all the media query search results
 
@@ -55,7 +55,7 @@ If you're using PhpStorm, you can export search results to a text file (see scre
 
 Image
 
-![Export search results to text in PhpStorm](/sites/default/files/styles/max_800w/public/tutorials/images/phpstorm-export-search-results-txt.png?itok=AnOsQn0H)
+![Export search results to text in PhpStorm](../assets/images/phpstorm-export-search-results-txt.png)
 
 For example, if you perform a search for the string `@media` in the Bartik theme's CSS directory (*core/themes/bartik/css*), you will get the following results:
 
@@ -226,7 +226,7 @@ Install/Enable the core Responsive Image module:
 
 Image
 
-![Check breakpoint group field](/sites/default/files/styles/max_800w/public/tutorials/images/check-breakpoint-group.png?itok=vWDERcxk)
+![Check breakpoint group field](../assets/images/check-breakpoint-group.png)
 
 If you don't see your theme, module, or breakpoint group name listed, make sure you've named your breakpoint file correctly (see step 1). Also make sure that your theme or module is enabled.
 

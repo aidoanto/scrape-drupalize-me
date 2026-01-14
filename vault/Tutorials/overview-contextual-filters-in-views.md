@@ -43,19 +43,19 @@ We can add contextual filter criteria to a view the same way we configure other 
 
 Image
 
-![Screenshot of contextual filters section within advance column](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--locate-section.png?itok=SNmW0x0Z)
+![Screenshot of contextual filters section within advance column](../assets/images/contextual-filters--locate-section.png)
 
 Like other mechanisms, clicking on the button labeled *Add* will open a modal window that contains a list of available contextual filters we can add to our view.
 
 Image
 
-![Screenshot of list of available contextual filters](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--add-modal.png?itok=LKPVdXOE)
+![Screenshot of list of available contextual filters](../assets/images/contextual-filters--add-modal.png)
 
 After selecting a contextual filter to add to our view, we need to configure it. Due to the dynamic nature of contextual filters, this modal window contains a lot of options.
 
 Image
 
-![Screenshot of contextual filter configuration options](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--configuration-options.png?itok=_s8KKt76)
+![Screenshot of contextual filter configuration options](../assets/images/contextual-filters--configuration-options.png)
 
 Let's go over these options and discuss how they might affect our view.
 
@@ -72,7 +72,7 @@ This section allows us to configure how the view should act when a value for our
 
 Image
 
-![Screenshot of filter not available options](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--options-filter-not-provided.png?itok=uty4iQfl)
+![Screenshot of filter not available options](../assets/images/contextual-filters--options-filter-not-provided.png)
 
 | Setting | Description |
 | --- | --- |
@@ -90,7 +90,7 @@ This section allows us to configure how the contextual filter works when a value
 
 Image
 
-![Screenshot of filter provided options](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--options-filter-provided.png?itok=5BNHSODy)
+![Screenshot of filter provided options](../assets/images/contextual-filters--options-filter-provided.png)
 
 | Setting | Description |
 | --- | --- |
@@ -110,7 +110,7 @@ Let's look at the path and contextual filters for the *Taxonomy term* view that 
 
 Image
 
-![Screenshot of page path option](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--path-argument.png?itok=wmeATnFt)
+![Screenshot of page path option](../assets/images/contextual-filters--path-argument.png)
 
 Configured this way, the contextual filter will attempt to find its value by looking at the third part of the path where the view is shown. For example, if we visit the path *taxonomy/term/123* on our site, the view will be filtered to show content that has the taxonomy term ID `123`.
 
@@ -122,7 +122,7 @@ When working on a view with contextual filters we can use the preview area to te
 
 Image
 
-![Screenshot of preview form](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-filters--preview-form.png?itok=Knj7jeS5)
+![Screenshot of preview form](../assets/images/contextual-filters--preview-form.png)
 
 ## Recap
 

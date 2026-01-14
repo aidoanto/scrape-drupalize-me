@@ -63,7 +63,7 @@ Example:
 
 Image
 
-![Request a token using the authorization code grant](/sites/default/files/styles/max_800w/public/tutorials/images/postman-post-oauth-token.png?itok=hQ4F9vBs)
+![Request a token using the authorization code grant](../assets/images/postman-post-oauth-token.png)
 
 We will take the contents of the `token_type` and the `access_token` from the response above. Then we will concatenate the two pieces, separated by a space, obtaining `Bearer eyJ0eXAiO…WAJCRiw ...`. We will need to provide that string inside each request we want to authenticate whenever we use OAuth 2 for authentication. This is true regardless of the grant used to obtain the token.
 

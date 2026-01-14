@@ -156,7 +156,7 @@ Finally, to use our new facet we need to use the Block UI to place the facets bl
 
    Image
 
-   ![A screenshot showing the new Topics facet block with term labels](/sites/default/files/styles/max_800w/public/tutorials/images/termFacet.png?itok=JNBvwrzq)
+   ![A screenshot showing the new Topics facet block with term labels](../assets/images/termFacet.png)
 4. Use the facet to perform a drill-down search.
 
 ## Limitations of content-type-based facets

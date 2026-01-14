@@ -38,7 +38,7 @@ This approach reduces the overall size of the page which can have a performance 
 
 Image
 
-![Parts of an asset library](/sites/default/files/styles/max_800w/public/tutorials/images/define-an-asset-library.png?itok=fYSLQ02Y)
+![Parts of an asset library](../assets/images/define-an-asset-library.png)
 
 An asset library is a YAML data structure inside a *THEMENAME.libraries.yml* file that specifies one or more CSS and JavaScript files, and their settings, bundled together under a uniquely identified library name. Once the library has been defined adding it to a page, or attaching it to a particular type of element, is done in the same fashion regardless of the contents of the library. This means there is now one unified mechanism for adding CSS and JavaScript whether it's being added in a module or a theme.
 

@@ -38,7 +38,7 @@ Unraveling the flow that a form goes through can be helpful when it comes to bet
 
 Image
 
-![Life cycle of a form described below](/sites/default/files/styles/max_800w/public/tutorials/images/form_api-life-cycle.png?itok=qXFG518T)
+![Life cycle of a form described below](../assets/images/form_api-life-cycle.png)
 
 1. **Request:** A user visits a page on your site like *<https://example.com/survey>*
 2. **Routing:** Drupal's routing system determines that the path */survey* will display a form provided by the class `Drupal\example\Form\Survey` and invokes the form builder service with this information. The form builder (`\Drupal\Core\Form\FormBuilder`) retrieves the information it needs in order to display the HTML form from the form controller class and by executing various hooks
@@ -182,7 +182,7 @@ For a more detailed look at how forms are processed take a look at this flow cha
 
 Image
 
-![Detailed flow chart of the Drupal Form API Life Cycle](/sites/default/files/styles/max_800w/public/tutorials/images/fapi-lifecycle-drawio-diagram.png?itok=kiKE0SuR)
+![Detailed flow chart of the Drupal Form API Life Cycle](../assets/images/fapi-lifecycle-drawio-diagram.png)
 
 [View the full resolution image](https://drupalize.me/sites/default/files/styles/max_1600w/public/tutorials/images/fapi-lifecycle-drawio-diagram.png)
 
@@ -190,7 +190,7 @@ At DrupalCon Prague 2022 Ricardo Sanz presented the diagram below, which contain
 
 Image
 
-![Form API workflow diagram by Ricardo Sanz](/sites/default/files/styles/max_800w/public/tutorials/images/fapi_workflow_complete_v2_md.png?itok=P7y57NW8)
+![Form API workflow diagram by Ricardo Sanz](../assets/images/fapi_workflow_complete_v2_md.png)
 
 [View the full resolution image](https://drupalize.me/sites/default/files/styles/max_1600w/public/tutorials/images/fapi_workflow_complete_v2_md.png).
 

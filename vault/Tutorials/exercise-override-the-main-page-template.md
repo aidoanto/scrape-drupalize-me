@@ -39,7 +39,7 @@ In the following steps, we'll override a page template file and add regions to c
 
 Image
 
-![Illustration of layout with header, menu, breadcrumb, and highlighted regions all full width, content and both sidebars as 3 columns, and one column for each of the two footer regions.](/sites/default/files/styles/max_800w/public/tutorials/images/multi-column-layout-example.png?itok=5buC3j1D)
+![Illustration of layout with header, menu, breadcrumb, and highlighted regions all full width, content and both sidebars as 3 columns, and one column for each of the two footer regions.](../assets/images/multi-column-layout-example.png)
 
 ### Review the layout and goal
 

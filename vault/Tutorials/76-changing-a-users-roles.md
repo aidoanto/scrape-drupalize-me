@@ -32,17 +32,17 @@ Sprout Video
 
    Image
 
-   ![People page](/sites/default/files/styles/max_800w/public/user_guide/images/user-roles_people-list.png?itok=8qJZKVho)
+   ![People page](../assets/images/user-roles_people-list.png)
 4. On the *Edit* page, scroll down to *Roles* section. Check the *Administrator* role for the user account.
 
    Image
 
-   ![Roles section of user edit page](/sites/default/files/styles/max_800w/public/user_guide/images/user-roles_person-edit.png?itok=9XGOMYma)
+   ![Roles section of user edit page](../assets/images/user-roles_person-edit.png)
 5. Click *Save* to update the user account. You should be returned to the *People* page and see a message saying that the changes have been saved.
 
    Image
 
-   ![Confirmation message](/sites/default/files/styles/max_800w/public/user_guide/images/user-roles_message.png?itok=oytCG-St)
+   ![Confirmation message](../assets/images/user-roles_message.png)
 
 #### Updating the roles using bulk editing method
 
@@ -52,12 +52,12 @@ Sprout Video
 
    Image
 
-   ![People page with bulk operation set up](/sites/default/files/styles/max_800w/public/user_guide/images/user-roles_bulk.png?itok=F95rEWwS)
+   ![People page with bulk operation set up](../assets/images/user-roles_bulk.png)
 4. Click *Apply to selected items*. You should see a message indicating that the desired changes were made.
 
    Image
 
-   ![Confirmation message](/sites/default/files/styles/max_800w/public/user_guide/images/user-roles_message_bulk.png?itok=qh5RxiIp)
+   ![Confirmation message](../assets/images/user-roles_message_bulk.png)
 
 Was this helpful?
 

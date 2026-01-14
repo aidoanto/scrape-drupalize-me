@@ -45,7 +45,7 @@ Default configuration, especially when it contains necessary initial values for 
 
 Image
 
-![System module provides many configuration files that store default values.](/sites/default/files/styles/max_800w/public/tutorials/images/many-config-files.png?itok=OcSrw4KU)
+![System module provides many configuration files that store default values.](../assets/images/many-config-files.png)
 
 *System module provides many configuration files that store default values.*
 

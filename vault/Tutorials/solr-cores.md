@@ -147,7 +147,7 @@ Example:
 
 Image
 
-![Screenshot of the Solr web UI showing the drupal collection](/sites/default/files/styles/max_800w/public/tutorials/images/solr-admin-ui-collection.png?itok=r-ny8P7C)
+![Screenshot of the Solr web UI showing the drupal collection](../assets/images/solr-admin-ui-collection.png)
 
 ## Recap
 

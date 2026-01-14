@@ -43,7 +43,7 @@ Let's take a look at the configuration options for exposed filters.
 
 Image
 
-![Screenshot of simple text filter exposed configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--filter-text-example.png?itok=Vl9Ey4zU)
+![Screenshot of simple text filter exposed configuration form](../assets/images/exposed-filters-sorts--filter-text-example.png)
 
 ### Example: Title field exposed filter settings
 
@@ -70,7 +70,7 @@ Below is a screenshot of the exposed *Content Type* filter criteria configuratio
 
 Image
 
-![Screenshot of a list filter exposed configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--filter-list-example.png?itok=f5ffEpGT)
+![Screenshot of a list filter exposed configuration form](../assets/images/exposed-filters-sorts--filter-list-example.png)
 
 | Setting | Description |
 | --- | --- |
@@ -88,7 +88,7 @@ We can preview and test our exposed filter criteria while working on a view. Her
 
 Image
 
-![Screenshot of preview showing our exposed filters as fields in a form above the list of content](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--filter-preview.png?itok=eJ-X3bm7)
+![Screenshot of preview showing our exposed filters as fields in a form above the list of content](../assets/images/exposed-filters-sorts--filter-preview.png)
 
 Notice that when a filter criteria is exposed its link in the view editor interface will be appended with the word *(exposed)*. This makes it easy to identify at a glance which filters are exposed.
 
@@ -98,7 +98,7 @@ When working with exposed filter and sort criteria there are a few additional co
 
 Image
 
-![Screenshot of view edit form with the exposed form section highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--highlight-form-options.png?itok=GjH742bE)
+![Screenshot of view edit form with the exposed form section highlighted](../assets/images/exposed-filters-sorts--highlight-form-options.png)
 
 This section offers the following options:
 
@@ -115,7 +115,7 @@ This section offers the following options:
 
 Image
 
-![Screenshot of exposed form settings configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--exposed-form-settings.png?itok=dWN9FYmd)
+![Screenshot of exposed form settings configuration form](../assets/images/exposed-filters-sorts--exposed-form-settings.png)
 
 ## Recap
 

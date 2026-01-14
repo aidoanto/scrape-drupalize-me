@@ -25,12 +25,12 @@ Sprout Video
 
    Image
 
-   ![FRONT PAGE area with /home in text field](/sites/default/files/styles/max_800w/public/user_guide/images/menu-home_new_text_field.png?itok=oRP7Z8Ng)
+   ![FRONT PAGE area with /home in text field](../assets/images/menu-home_new_text_field.png)
 3. Navigate to the home page to verify that it displays content as configured by you.
 
    Image
 
-   ![FRONT PAGE with Home (Basic page) content added](/sites/default/files/styles/max_800w/public/user_guide/images/menu-home_final.png?itok=CR71gJQt)
+   ![FRONT PAGE with Home (Basic page) content added](../assets/images/menu-home_final.png)
 
 ### Expand your understanding
 

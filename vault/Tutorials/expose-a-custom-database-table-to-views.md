@@ -100,7 +100,7 @@ If you have database management software, connect to your Drupal site's database
 
 Image
 
-![Screenshot of the database news_subs table](/sites/default/files/styles/max_800w/public/tutorials/images/news_subs_db.png?itok=Oqh1T8EF)
+![Screenshot of the database news_subs table](../assets/images/news_subs_db.png)
 
 ### Populate the table with some data
 
@@ -341,7 +341,7 @@ After defining or editing your `hook_views_data()` code, you'll need to [clear t
 
 Image
 
-![Screenshot of the view wizard](/sites/default/files/styles/max_800w/public/tutorials/images/subs_view_wizard.png?itok=gPlrff2j)
+![Screenshot of the view wizard](../assets/images/subs_view_wizard.png)
 
 1. Press *Save and edit*.
 2. On the next screen add the *First name*, *Last name*, *Email*, *Is active*, and *Created* fields to the View.
@@ -350,13 +350,13 @@ Example:
 
 Image
 
-![Screenshot of the news subscribers view edit screen](/sites/default/files/styles/max_800w/public/tutorials/images/news_subscribers_view.png?itok=bSFJb1m0)
+![Screenshot of the news subscribers view edit screen](../assets/images/news_subscribers_view.png)
 
 1. Scroll to the preview area and you can see the results:
 
 Image
 
-![Screenshot of the news subscribers view preview](/sites/default/files/styles/max_800w/public/tutorials/images/news_subs_preview.png?itok=KNamZDz2)
+![Screenshot of the news subscribers view preview](../assets/images/news_subs_preview.png)
 
 The results can also be viewed on the front-end at the path defined for this page display.
 

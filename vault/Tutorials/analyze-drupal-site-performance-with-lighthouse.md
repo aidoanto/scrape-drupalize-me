@@ -43,19 +43,19 @@ Navigate to the home page of your site in the Google Chrome browser. Open the Go
 
 Image
 
-![Screenshot of Chrome Developer tools dropdown menu](/sites/default/files/styles/max_800w/public/tutorials/images/dev_tools_dropdown.png?itok=wsa7Z6Vw)
+![Screenshot of Chrome Developer tools dropdown menu](../assets/images/dev_tools_dropdown.png)
 
 Under *Categories*, select *Performance*. Under *Device*, select *Desktop*, and press the *Generate report* button.
 
 Image
 
-![Screenshot of Lighthouse report generation UI](/sites/default/files/styles/max_800w/public/tutorials/images/lighthouse_generate_report.png?itok=taPIYqqk)
+![Screenshot of Lighthouse report generation UI](../assets/images/lighthouse_generate_report.png)
 
 Lighthouse will run its tests and generate a report.
 
 Image
 
-![Screenshot of Lighthouse report](/sites/default/files/styles/max_800w/public/tutorials/images/lighthouse_report.png?itok=IgR5X0ZG)
+![Screenshot of Lighthouse report](../assets/images/lighthouse_report.png)
 
 Optionally, run the same tests for mobile devices after the desktop test completes. Under *Device*, select *Mobile*. The results of desktop and mobile performance may vary as mobile performance tests consider optimization for mobile devices and bandwidth.
 
@@ -74,7 +74,7 @@ You can also explore metrics and their relationships using the [Performance calc
 
 Image
 
-![Screenshot of Lighthouse scores calculator](/sites/default/files/styles/max_800w/public/tutorials/images/lighthouse_score_calculator.png?itok=VK1xoebx)
+![Screenshot of Lighthouse scores calculator](../assets/images/lighthouse_score_calculator.png)
 
 ### Understanding the Lighthouse metrics
 
@@ -101,7 +101,7 @@ The cumulative layout shift metric influences the speed of the site, and the ove
 
 Image
 
-![Screenshot of Lighthouse metrics](/sites/default/files/styles/max_800w/public/tutorials/images/metrics.png?itok=hWwkikxL)
+![Screenshot of Lighthouse metrics](../assets/images/metrics.png)
 
 Unless you need to improve a particular metric, we recommend focusing on improving the overall performance score. The report's opportunities and diagnostics sections help identify potential immediate next steps in this process.
 
@@ -111,7 +111,7 @@ The opportunities section of the report contains suggested steps to take for spe
 
 Image
 
-![Screenshot of opportunities section](/sites/default/files/styles/max_800w/public/tutorials/images/opportunities.png?itok=RBKcp5kv)
+![Screenshot of opportunities section](../assets/images/opportunities.png)
 
 Expand the accordion for each option to access more in-depth instructions and implementation details.
 
@@ -121,7 +121,7 @@ In our case, the Umami demo site isn’t using the Responsive Images module for 
 
 Image
 
-![Screenshot of opportunities details section](/sites/default/files/styles/max_800w/public/tutorials/images/opportunities_details.png?itok=FIsjxTw9)
+![Screenshot of opportunities details section](../assets/images/opportunities_details.png)
 
 Please note that even if you are using the Responsive Images module, the Lighthouse results still may show the need for optimization. The typical cause for it is that the original image wasn't optimized for the web, and rendered scaled versions of it are still on the edge of the acceptable size for the optimized web assets.
 
@@ -137,7 +137,7 @@ Navigate to *Configuration* > *Media* > *Image Styles* and press *+ Add image st
 
 Image
 
-![Screenshot of the medium 7x3 image style](/sites/default/files/styles/max_800w/public/tutorials/images/7x3_image_style.png?itok=6sHE72qV)
+![Screenshot of the medium 7x3 image style](../assets/images/7x3_image_style.png)
 
 .
 
@@ -145,7 +145,7 @@ Navigate to *Configuration* > *Media* > *Responsive Image Styles* and add a new 
 
 Image
 
-![Screenshot of responsive image style](/sites/default/files/styles/max_800w/public/tutorials/images/responsive_image_style.png?itok=tJSMjPsX)
+![Screenshot of responsive image style](../assets/images/responsive_image_style.png)
 
 Save the image style and choose non-responsive image styles within the responsive image style.
 
@@ -181,7 +181,7 @@ The Diagnostics section contains the results of the audits. It has informative i
 
 Image
 
-![Screenshot of diagnostics section](/sites/default/files/styles/max_800w/public/tutorials/images/diagnostics.png?itok=miJfN5VX)
+![Screenshot of diagnostics section](../assets/images/diagnostics.png)
 
 Similar to the opportunities section, you can find additional details about the particular diagnostics entry inside each accordion. Each item may contain general or Drupal-specific recommendations.
 
@@ -217,13 +217,13 @@ After you make changes, it's a good idea to run the Lighthouse tests again and c
 
 Image
 
-![Screenshot of the updated performance results](/sites/default/files/styles/max_800w/public/tutorials/images/lighthouse_optimized_performance.png?itok=C98APt76)
+![Screenshot of the updated performance results](../assets/images/lighthouse_optimized_performance.png)
 
 As you can see, our score has improved. We also removed one of the warnings by adding the `swap` option to fonts.
 
 Image
 
-![Screenshot of the retested opportunities and diagnostics section](/sites/default/files/styles/max_800w/public/tutorials/images/lighthouse_optimized_opportunities.png?itok=-lf4BQwM)
+![Screenshot of the retested opportunities and diagnostics section](../assets/images/lighthouse_optimized_opportunities.png)
 
 The image loading time also got slightly reduced compared to our original test.
 

@@ -51,7 +51,7 @@ Fill in the form on the resulting page with the following values. Leave all othe
 
 Image
 
-![Views add form filled in with values indicated above.](/sites/default/files/styles/max_800w/public/tutorials/images/views-add.png?itok=p1P3z7FJ)
+![Views add form filled in with values indicated above.](../assets/images/views-add.png)
 
 Then click the button labeled *Save and edit* to continue.
 
@@ -69,7 +69,7 @@ Sort the list of revisions in reverse chronological order by adding the *Changed
 
 Image
 
-![Form for choosing the sort criteria with Changed selected.](/sites/default/files/styles/max_800w/public/tutorials/images/view-sort-changed.png?itok=FNjB4u5D)
+![Form for choosing the sort criteria with Changed selected.](../assets/images/view-sort-changed.png)
 
 On the resulting configuration form change the *Order* to *Sort descending* and click the button labeled *Apply*.
 
@@ -79,7 +79,7 @@ Expand the Advanced section and select the button labeled *Add* for the *Context
 
 Image
 
-![Form for choosing the ID field with ID field selected.](/sites/default/files/styles/max_800w/public/tutorials/images/view-context-id.png?itok=bza8QUle)
+![Form for choosing the ID field with ID field selected.](../assets/images/view-context-id.png)
 
 In the configuration options set the value of the *When the filter is not available* field to *Provide default value*, and *Type* option to *Content ID from URL*.
 
@@ -87,7 +87,7 @@ In the *When the filter value is available* section choose *Specify validation c
 
 Image
 
-![Form for changing contextual filter options with above values set.](/sites/default/files/styles/max_800w/public/tutorials/images/view-context-options.png?itok=9H36mYJb)
+![Form for changing contextual filter options with above values set.](../assets/images/view-context-options.png)
 
 Click the button labeled *Apply* to save the contextual filter.
 
@@ -105,7 +105,7 @@ Example:
 
 Image
 
-![Node view page with lorem ipsum node and new revisions block showing in the right column listing a couple of revisions.](/sites/default/files/styles/max_800w/public/tutorials/images/views-block-example.png?itok=R10TwTWD)
+![Node view page with lorem ipsum node and new revisions block showing in the right column listing a couple of revisions.](../assets/images/views-block-example.png)
 
 ## Recap
 

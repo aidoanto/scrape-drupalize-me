@@ -73,7 +73,7 @@ Eventually, deprecated code will be removed in order to reduce the maintenance b
 
 Image
 
-![Illustrations showing stack of Drupal 8 API features, some marked as deprecated next to a stack of Drupal 9 API features which are the same ones with the deprecated blocks removed.](/sites/default/files/styles/max_800w/public/tutorials/images/state-of-drupal-slide.png?itok=-BWH5HmR)
+![Illustrations showing stack of Drupal 8 API features, some marked as deprecated next to a stack of Drupal 9 API features which are the same ones with the deprecated blocks removed.](../assets/images/state-of-drupal-slide.png)
 
 Slide from [State of Drupal 9](http://hojtsy.hu/blog/2020-mar-16/whole-new-version-open-source-state-drupal-9-slideshow-present-it-yourself) by Gábor Hojtsy.
 
@@ -87,7 +87,7 @@ Example:
 
 Image
 
-![PHPStorm showing inline deprecation comment for Unicode::strlen()](/sites/default/files/styles/max_800w/public/tutorials/images/phpstorm-deprecation-example.png?itok=Wi6BHaWZ)
+![PHPStorm showing inline deprecation comment for Unicode::strlen()](../assets/images/phpstorm-deprecation-example.png)
 
 The [drupal-check](https://github.com/mglaman/drupal-check) utility can be used to scan a codebase and provide reports about use of deprecated features. [Learn more about using drupal-check](https://drupalize.me/blog/jump-start-your-drupal-9-code-updates-drupal-check-and-drupal-rector).
 

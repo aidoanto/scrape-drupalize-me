@@ -65,7 +65,7 @@ We recommend you start by making a list of the roles, states, and transitions yo
 
 Image
 
-![Illustration of the plan described below, including Roles, States, and Transitions.](/sites/default/files/styles/max_800w/public/tutorials/images/plan.png?itok=KKGECdH5)
+![Illustration of the plan described below, including Roles, States, and Transitions.](../assets/images/plan.png)
 
 ### Roles/Personas
 

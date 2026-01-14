@@ -35,7 +35,7 @@ To install a contributed module, first download the module with Composer. Then i
 
    Image
 
-   ![Finding a module’s composer install command](/sites/default/files/styles/max_800w/public/user_guide/images/extend-module-install-download.png?itok=loWAYZvQ)
+   ![Finding a module’s composer install command](../assets/images/extend-module-install-download.png)
 3. Alternatively, type the following command (substituting the short name of the module and desired version for `admin_toolbar:^3.5`):
 
    ```screen
@@ -51,7 +51,7 @@ To install a contributed module, first download the module with Composer. Then i
 
    Image
 
-   ![Installing Admin Toolbar module](/sites/default/files/styles/max_800w/public/user_guide/images/extend-module-install-admin-toolbar-do.png?itok=yGy0MU50)
+   ![Installing Admin Toolbar module](../assets/images/extend-module-install-admin-toolbar-do.png)
 3. Click *Install* to turn on the new module.
 
 #### Install the module using Drush

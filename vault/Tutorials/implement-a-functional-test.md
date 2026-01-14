@@ -111,11 +111,11 @@ When we open our site's `/` path, we can see the search form, submit a test sear
 
 Image
 
-![Screenshot of front page with search form.](/sites/default/files/styles/max_800w/public/tutorials/images/implement-functional-frontpage-search-form.png?itok=ko05zjUw)
+![Screenshot of front page with search form.](../assets/images/implement-functional-frontpage-search-form.png)
 
 Image
 
-![Screenshot of no search results page.](/sites/default/files/styles/max_800w/public/tutorials/images/implement-functional-search-no-results.png?itok=mURVyqD_)
+![Screenshot of no search results page.](../assets/images/implement-functional-search-no-results.png)
 
 We have some steps. And we have a good idea that--at least in principle--our test class could perform the same steps that we just did. The value of a manual test becomes even more apparent as the tests increase in complexity.
 
@@ -333,7 +333,7 @@ You can copy and paste the URL into a browser location bar and see the output fr
 
 Image
 
-![Screenshot of HTML output printer showing wrong page.](/sites/default/files/styles/max_800w/public/tutorials/images/implement-functional-wrong-page.png?itok=21O8QU1-)
+![Screenshot of HTML output printer showing wrong page.](../assets/images/implement-functional-wrong-page.png)
 
 As you can see, this shows a login form on the front page, not the generic front page we expected. Furthermore, there's no search form. Why is that? Let's figure out which dependencies are missing.
 
@@ -387,7 +387,7 @@ When we run the test again and look at its HTML output, we'll see something like
 
 Image
 
-![Browser test with profile](/sites/default/files/styles/max_800w/public/tutorials/images/implement-functional-search-form-standard-profile.png?itok=5iD3omHJ)
+![Browser test with profile](../assets/images/implement-functional-search-form-standard-profile.png)
 
 Now that's more like what we saw during manual testing.
 

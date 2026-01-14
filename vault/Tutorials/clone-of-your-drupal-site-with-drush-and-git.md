@@ -43,7 +43,7 @@ You will have matching UUIDs if you clone a site. It doesn't matter if you creat
 
 Image
 
-![Configuration YAML file](/sites/default/files/styles/max_800w/public/tutorials/images/system-site-yml-example.png?itok=hlwrS7rC)
+![Configuration YAML file](../assets/images/system-site-yml-example.png)
 
 **Figure 1.** An example of simple configuration. This *system.site.yml* was exported from the active configuration of the "live" instance of my demo site and lives in the active configuration directory of the local development instance of my site.
 

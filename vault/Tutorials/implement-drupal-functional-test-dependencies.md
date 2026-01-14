@@ -367,7 +367,7 @@ And that final output? What does it look like?
 
 Image
 
-![Image of the passing test output](/sites/default/files/styles/max_800w/public/tutorials/images/implement-functional-search-deps-passing-output.png?itok=xxCSa19D)
+![Image of the passing test output](../assets/images/implement-functional-search-deps-passing-output.png)
 
 You'll see that this does not look like Olivero. You'll also see the block name 'ranlfacg'. That's the random name of the block that we added.
 

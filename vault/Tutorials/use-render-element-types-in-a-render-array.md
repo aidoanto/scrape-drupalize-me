@@ -43,7 +43,7 @@ You can get a list of all the render element types provided by Drupal core from 
 
 Image
 
-![Section of the table showing list of render api elements with html_tag element highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/render-elements-list.png?itok=r3ArTN6d)
+![Section of the table showing list of render api elements with html_tag element highlighted](../assets/images/render-elements-list.png)
 
 From this list you can discover the element name (the first column in the table) as well as the class that provides the render element plugin. The element name, `html_tag` in this example, is the value you'll use for the `'#type'` property in your render array.
 

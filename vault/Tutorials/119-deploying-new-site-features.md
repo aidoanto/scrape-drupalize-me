@@ -36,7 +36,7 @@ Sprout Video
 
    Image
 
-   ![Export a single item](/sites/default/files/styles/max_800w/public/user_guide/images/extend-deploy-export-single.png?itok=LZEDOsEr)
+   ![Export a single item](../assets/images/extend-deploy-export-single.png)
 6. Open the production site.
 7. In the *Manage* administrative menu, navigate to *Configuration* > *Development* > *Configuration synchronization* > *Import* > *Single item* (*admin/config/development/configuration*). The *Import* page appears.
 8. Select *View* from the *Configuration type* list.

@@ -45,7 +45,7 @@ Most configuration is fairly straightforward and intuitive to edit in this manne
 
    Image
 
-   ![Translate the Recipes view](/sites/default/files/styles/max_800w/public/user_guide/images/language-config-translate-recipes-view.png?itok=_MAHbag7)
+   ![Translate the Recipes view](../assets/images/language-config-translate-recipes-view.png)
 7. Under *Displays* > *Default display settings* > *Recipes default display options* > *Filters* > *(Empty) taxonomy term ID* > *Find recipes using… Expose*, translate *Label* from "Find recipes using…" to "Encontrar recetas usando…".
 8. Click *Save translation*.
 9. Navigate to the Recipes page and switch to Spanish using the Language switcher block. Verify that the labels have been translated.

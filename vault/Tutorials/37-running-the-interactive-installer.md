@@ -27,12 +27,12 @@ Sprout Video
 
    Image
 
-   ![Choose a language](/sites/default/files/styles/max_800w/public/user_guide/images/install-run-1.png?itok=Mio3EwQ2)
+   ![Choose a language](../assets/images/install-run-1.png)
 3. Select an installation profile. Installation profiles provide site features and functions for a specific type of site as a single download containing the core software, contributed modules, themes, and pre-defined configuration. Core contains two installation profiles. Select the core Standard installation profile. Click *Save and continue*.
 
    Image
 
-   ![Choose an installation profile](/sites/default/files/styles/max_800w/public/user_guide/images/install-run-2.png?itok=LCX6Qa68)
+   ![Choose an installation profile](../assets/images/install-run-2.png)
 4. The next step in the installer will verify that your system meets the minimum requirements. If it does not, you’ll be presented with an outline of what needs to be corrected in order to proceed. If it does, the installer will automatically advance to the next step.
 5. Provide details of the database you created in the [Section 3.1, “Preparing to Install”](https://drupalize.me/tutorial/user-guide/install-prepare "3.1. Preparing to Install") chapter. Then click *Save and continue*.
 
@@ -44,12 +44,12 @@ Sprout Video
 
    Image
 
-   ![Database configuration form](/sites/default/files/styles/max_800w/public/user_guide/images/install-run-3.png?itok=XlCo_tlx)
+   ![Database configuration form](../assets/images/install-run-3.png)
 6. The next step will display a progress bar under the heading *Installing Drupal*. After the installer has completed, it will automatically advance to the next step.
 
    Image
 
-   ![Installation progress bar](/sites/default/files/styles/max_800w/public/user_guide/images/install-run-4.png?itok=h1Tu0f-r)
+   ![Installation progress bar](../assets/images/install-run-4.png)
 7. The next step is to configure some basic information about your new site (also notice if there is a warning about file permissions, for a later step). Note that the user account you create in this step is the site’s admin account. See [Section 7.2, “Concept: The User 1 Account”](https://drupalize.me/tutorial/user-guide/user-admin-account "7.2. Concept: The User 1 Account") for important information about this unique account. You can safely name this account "admin", and make sure to choose a secure and unique password.
 
    Fill in the form with the following information:
@@ -67,13 +67,13 @@ Sprout Video
 
    Image
 
-   ![Configuration form](/sites/default/files/styles/max_800w/public/user_guide/images/install-run-5.png?itok=s5jbhBxz)
+   ![Configuration form](../assets/images/install-run-5.png)
 8. Click *Save and continue*.
 9. You will be redirected to the front page of your new site and you should see the message *Congratulations, you installed Drupal!* displayed at the top of the page.
 
    Image
 
-   ![Installation success](/sites/default/files/styles/max_800w/public/user_guide/images/install-run-6.png?itok=AIvdm2F4)
+   ![Installation success](../assets/images/install-run-6.png)
 10. You may have seen a warning in the Configuration step about file permissions, and you may continue to see this warning until you fix the permissions. To avoid the warning and make your site more secure, change the permissions on the *sites/default* directory and the *sites/default/settings.php* file so that they are read-only (you may need to consult your hosting company documentation about how to do that).
 
 ### Expand your understanding

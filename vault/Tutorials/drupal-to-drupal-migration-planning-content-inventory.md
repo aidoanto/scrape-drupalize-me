@@ -41,7 +41,7 @@ Ask yourself the following questions as a starting point:
 
 Image
 
-![Spreadsheet showing the fields of a Drupal content type and notes about how to migrate each field](/sites/default/files/styles/max_800w/public/tutorials/images/content-inventory-example.png?itok=4qG0G2Kr)
+![Spreadsheet showing the fields of a Drupal content type and notes about how to migrate each field](../assets/images/content-inventory-example.png)
 
 Create a spreadsheet that lists every content type, and every field for each content type. Add notes about how you intend to deal with that fields content. Are you going to rename it? Merge 2 fields together? Ignore a field completely? Your inventory helps tell you when you’re done, and without it, it's easy to forget to account for important data.
 
@@ -51,7 +51,7 @@ I'll generally enter into my spreadsheet every content type, and the fields on e
 
 Image
 
-![Line graph showing time it takes to manually migrate content relative to amount of content to migrate](/sites/default/files/styles/max_800w/public/tutorials/images/cost-to-migrate_1.png?itok=1I5mShky)
+![Line graph showing time it takes to manually migrate content relative to amount of content to migrate](../assets/images/cost-to-migrate_1.png)
 
 This is also another good time to think about the cost to migrate content. If there are only 5 FAQ nodes it might be easier to copy and paste the data into the new site than to write an automated migration.
 

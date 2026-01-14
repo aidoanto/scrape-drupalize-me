@@ -41,7 +41,7 @@ The following illustration depicts the path used to render an array to HTML:
 
 Image
 
-![Flow chart showing steps that HtmlRenderer goes through. See HtmlRenderer::render() documentation](/sites/default/files/styles/max_800w/public/tutorials/images/render-api-flowchart.png?itok=GlmAsiKF)
+![Flow chart showing steps that HtmlRenderer goes through. See HtmlRenderer::render() documentation](../assets/images/render-api-flowchart.png)
 
 [View full size image](https://drupalize.me/sites/default/files/tutorials/images/render-api-flowchart.png).
 

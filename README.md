@@ -162,9 +162,3 @@ Make sure all the JSON files are complete. If the extraction was interrupted, de
 4. **JavaScript Approach**: Running extraction scripts in your browser is indistinguishable from normal usage
 
 This approach may seem more manual, but it's **guaranteed to work** because you're using your own authenticated, trusted browser session.
-
----
-
-## License
-
-For personal educational use only. Respect Drupalize.me's terms of service.

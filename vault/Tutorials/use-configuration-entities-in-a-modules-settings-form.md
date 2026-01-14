@@ -35,7 +35,7 @@ This is what the Transcode profile settings form currently looks like:
 
 Image
 
-![The Transcode profile settings form currently](/sites/default/files/styles/max_800w/public/tutorials/images/transcode-profile-settings-form-before.png?itok=tEtwin9G)
+![The Transcode profile settings form currently](../assets/images/transcode-profile-settings-form-before.png)
 
 Currently, the module settings form is getting an editable simple configuration object whose values can be viewed and updated using this form.
 
@@ -322,7 +322,7 @@ Using the *Manage* menu, go to *Configuration* > *Media* > *Transcode profile se
 
 Image
 
-![The Transcode profile settings form after being updated.](/sites/default/files/styles/max_800w/public/tutorials/images/transcode-profile-settings-using-video-presets.png?itok=_doOCS9G)
+![The Transcode profile settings form after being updated.](../assets/images/transcode-profile-settings-using-video-presets.png)
 
 You can check that the settings configuration object value is updated by the form using Drush.
 

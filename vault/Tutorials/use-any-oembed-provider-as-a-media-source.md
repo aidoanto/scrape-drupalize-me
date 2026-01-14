@@ -61,7 +61,7 @@ For example: Create a bucket named "Social Media" and enable providers like Face
 
 Image
 
-![Form for adding a new oembed provider bucket.](/sites/default/files/styles/max_800w/public/tutorials/images/oembed-providers-add-bucket.png?itok=96XQMhpb)
+![Form for adding a new oembed provider bucket.](../assets/images/oembed-providers-add-bucket.png)
 
 ### Add a new Media type
 
@@ -69,7 +69,7 @@ Next add a new Media type and choose the Provider bucket you created earlier in 
 
 Image
 
-![Screenshot of media type creation form with an arrow pointing to the social media source option that you should select.](/sites/default/files/styles/max_800w/public/tutorials/images/oembed-providers-remove-video.png?itok=dt3afJSb)
+![Screenshot of media type creation form with an arrow pointing to the social media source option that you should select.](../assets/images/oembed-providers-remove-video.png)
 
 ## Custom oEmbed source plugins
 
@@ -182,7 +182,7 @@ You can also use this approach as an alternative to the contributed oEmbed Provi
 
 Image
 
-![Example of Media type creation form showing custom source plugins in the select list for Media source type.](/sites/default/files/styles/max_800w/public/tutorials/images/oembed-providers-custom-source.png?itok=UQgZhQ9t)
+![Example of Media type creation form showing custom source plugins in the select list for Media source type.](../assets/images/oembed-providers-custom-source.png)
 
 This would also allow you to further customize the behavior of that specific provider if necessary. An example, with the minimal amount of code, would be something like:
 

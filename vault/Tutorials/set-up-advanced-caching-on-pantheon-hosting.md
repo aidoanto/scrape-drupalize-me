@@ -38,7 +38,7 @@ Enable the **Redis Add On** through the Pantheon dashboard. If your project is u
 
 Image
 
-![Screenshot of Pantheon dashboard Redis add on interface](/sites/default/files/styles/max_800w/public/tutorials/images/enable_redis.png?itok=IQn94pXp)
+![Screenshot of Pantheon dashboard Redis add on interface](../assets/images/enable_redis.png)
 
 ### Install and configure the Redis module
 
@@ -56,13 +56,13 @@ Install the module in your Drupal site:
 
 Image
 
-![Screenshot of extend section with Redis module](/sites/default/files/styles/max_800w/public/tutorials/images/enable_redis_module.png?itok=zjm9BQl0)
+![Screenshot of extend section with Redis module](../assets/images/enable_redis_module.png)
 
 Export module configuration through Drush (`drush cex -y`) or through the UI (using the *Manage* administrative menu, navigate to *Configuration* > *Configuration Synchronization* > *Export* (*admin/config/development/configuration/full/export*) and export full archive).
 
 Image
 
-![Screenshot of configuration export screen](/sites/default/files/styles/max_800w/public/tutorials/images/export_config.png?itok=mthJoYLW)
+![Screenshot of configuration export screen](../assets/images/export_config.png)
 
 Learn more about [using Drupal's configuration system](https://drupalize.me/topic/manage-and-synchronize-configuration).
 
@@ -106,7 +106,7 @@ After everything is deployed to Pantheon, navigate to the Pantheon dashboard for
 
 Image
 
-![Screenshot of Redis report on Pantheon](/sites/default/files/styles/max_800w/public/tutorials/images/redis_status.png?itok=00RLMEbe)
+![Screenshot of Redis report on Pantheon](../assets/images/redis_status.png)
 
 ## What is Pantheon's Advanced Page Cache module?
 
@@ -136,7 +136,7 @@ Enable the module either with Drush (`drush en pantheon_advanced_page_cache`) or
 
 Image
 
-![Screenshot of extend section with Pantheon Advanced Page Cache module](/sites/default/files/styles/max_800w/public/tutorials/images/enable_advanced_page_cache.png?itok=v40L0DGh)
+![Screenshot of extend section with Pantheon Advanced Page Cache module](../assets/images/enable_advanced_page_cache.png)
 
 This module has no configuration settings; enable it, and it'll pass along information already present in Drupal to the Global CDN.
 

@@ -66,7 +66,7 @@ Check the *Tags* checkbox under *Vocabulary* to indicate that only terms from th
 
 Image
 
-![Form for configuring tags fields options](/sites/default/files/styles/max_800w/public/tutorials/images/media-type-add-tags-field-config.png?itok=lWt7wKPo)
+![Form for configuring tags fields options](../assets/images/media-type-add-tags-field-config.png)
 
 Then press the *Save settings* button.
 
@@ -76,7 +76,7 @@ You can improve the UX of adding tags to an image by changing the default widget
 
 Image
 
-![Form showing widget option for Tags field changed to Autocomplete (Tags style) ](/sites/default/files/styles/max_800w/public/tutorials/images/media-type-add-tags-field-widget-config.png?itok=kqqrVH1W)
+![Form showing widget option for Tags field changed to Autocomplete (Tags style) ](../assets/images/media-type-add-tags-field-widget-config.png)
 
 ### Confirm that it worked
 
@@ -84,7 +84,7 @@ Confirm it worked by adding a new Image media entity or editing an existing one.
 
 Image
 
-![Form for editing an Image media entity with new Tags field displayed and two tags entered.](/sites/default/files/styles/max_800w/public/tutorials/images/media-type-add-tags-field-add-image.png?itok=3NLGPVa-)
+![Form for editing an Image media entity with new Tags field displayed and two tags entered.](../assets/images/media-type-add-tags-field-add-image.png)
 
 By default the newly added fields **are displayed** when the Media entity is displayed. You can change this by modifying the configuration of the view mode being used to display the Media entity via the *Manage display* tab. In this case it makes sense to hide the new tags field as it's intended purely for organizing the library.
 
@@ -102,7 +102,7 @@ For example, note the *Add files* section here:
 
 Image
 
-![Media Library image tab showing form for uploading a new image.](/sites/default/files/styles/max_800w/public/tutorials/images/media-library-widget-ui.png?itok=zmxf8esx)
+![Media Library image tab showing form for uploading a new image.](../assets/images/media-library-widget-ui.png)
 
 When new items are created you'll be presented with a form to provide details about the entity before it's saved. You'll probably want to include at least some of the custom fields you've configured on this form. To do so, you'll need to configure them in the *Media library* form display mode for the Media type in question.
 
@@ -116,7 +116,7 @@ After configuring it the form in the Media library should reflect any changes:
 
 Image
 
-![Screenshot of Media library form with custom photo credit and tags fields added.](/sites/default/files/styles/max_800w/public/tutorials/images/media-type-add-field-form-display-mode-example.png?itok=5cxtKY15)
+![Screenshot of Media library form with custom photo credit and tags fields added.](../assets/images/media-type-add-field-form-display-mode-example.png)
 
 ## Display custom field data
 

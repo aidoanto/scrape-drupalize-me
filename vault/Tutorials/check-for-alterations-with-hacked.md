@@ -45,7 +45,7 @@ The Hacked module is smart enough to compare like versions of modules. So if you
 
 Image
 
-![Hacked module, main report page.](/sites/default/files/styles/max_800w/public/tutorials/images/hacked-d7-site-screenshot.png?itok=r3z8crlv)
+![Hacked module, main report page.](../assets/images/hacked-d7-site-screenshot.png)
 
 ### Review the report
 
@@ -69,7 +69,7 @@ Example:
 
 Image
 
-![Example of hacked module diff of prism.module file](/sites/default/files/styles/max_800w/public/tutorials/images/hacked-prism-status-diff.png?itok=ki8gtlsu)
+![Example of hacked module diff of prism.module file](../assets/images/hacked-prism-status-diff.png)
 
 ## Recap
 

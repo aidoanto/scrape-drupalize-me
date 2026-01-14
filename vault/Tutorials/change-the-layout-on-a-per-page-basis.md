@@ -44,7 +44,7 @@ Select the *Allow each content item to have its layout customized* checkbox and 
 
 Image
 
-![Screenshot of the basic page manage display section](/sites/default/files/styles/max_800w/public/tutorials/images/enable_layout_per_node.png?itok=7C1tNNmo)
+![Screenshot of the basic page manage display section](../assets/images/enable_layout_per_node.png)
 
 ### Test the new layout
 
@@ -56,7 +56,7 @@ You should see a new Basic page using the default layout you created in step 1.
 
 Image
 
-![Screenshot of the complete default layout](/sites/default/files/styles/max_800w/public/tutorials/images/default_layout_w_title.png?itok=Xxwmetkz)
+![Screenshot of the complete default layout](../assets/images/default_layout_w_title.png)
 
 ### Modify the layout for a specific node
 
@@ -68,13 +68,13 @@ Let's create a second node to test. After the node is saved note the *Layout* ta
 
 Image
 
-![Screenshot of tabs for local tasks on Basic page content type](/sites/default/files/styles/max_800w/public/tutorials/images/layout_tab.png?itok=Y0FYWLqm)
+![Screenshot of tabs for local tasks on Basic page content type](../assets/images/layout_tab.png)
 
 Navigate to the *Layout* tab. You should see the Layout Builder interface, and a warning explaining that this is a *local* layout change versus a *global* one.
 
 Image
 
-![Screenshot of local Layout Builder interface](/sites/default/files/styles/max_800w/public/tutorials/images/local_layout_warning.png?itok=g2aL17A4)
+![Screenshot of local Layout Builder interface](../assets/images/local_layout_warning.png)
 
 ### Remove *Authored by* from the node-specific layout
 
@@ -86,7 +86,7 @@ Example:
 
 Image
 
-![Screenshot of the node without Authored on field rendered](/sites/default/files/styles/max_800w/public/tutorials/images/removed_author_result.png?itok=DDdc92t9)
+![Screenshot of the node without Authored on field rendered](../assets/images/removed_author_result.png)
 
 ### Confirm that layout changes are local
 

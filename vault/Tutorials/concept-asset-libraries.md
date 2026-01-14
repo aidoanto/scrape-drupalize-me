@@ -42,7 +42,7 @@ Targeted loading of assets reduces page size and speeds up rendering as browsers
 
 Image
 
-![Parts of an asset library](/sites/default/files/styles/max_800w/public/tutorials/images/define-an-asset-library.png?itok=fYSLQ02Y)
+![Parts of an asset library](../assets/images/define-an-asset-library.png)
 
 Asset libraries consist of CSS and JavaScript files defined in a *MODULE\_NAME.libraries.yml* file. This YAML file specifies the library's name, file locations, and settings, telling Drupal when and how to include the files. CSS assets are grouped into [SMACSS (Scalar and Modular Architecture for CSS) groupings](http://smacss.com/book/categorizing/) to help maintain the appropriate order when adding them to the page.
 

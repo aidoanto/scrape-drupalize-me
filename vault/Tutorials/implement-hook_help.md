@@ -179,7 +179,7 @@ This contains our new implementation of `hook_help`. In the custom code, we:
 
 Image
 
-![Screenshot shows text for anytown module overview](/sites/default/files/styles/max_800w/public/tutorials/images/hooks-events--hooks-implement_help-page.png?itok=RzqDFb6F)
+![Screenshot shows text for anytown module overview](../assets/images/hooks-events--hooks-implement_help-page.png)
 
 See an example of hook\_help() implemented using a function (Drupal 11.0 and earlier).
 

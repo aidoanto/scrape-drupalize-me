@@ -43,7 +43,7 @@ This does not have to be user 1, but user 1 is guaranteed to work.
 
 Image
 
-![Log in as user 1 or administrator](/sites/default/files/styles/max_800w/public/tutorials/images/login-admin-user1.png?itok=bgShtDBx)
+![Log in as user 1 or administrator](../assets/images/login-admin-user1.png)
 
 ### Ensure the following modules are enabled
 
@@ -58,7 +58,7 @@ Install the following modules from the *Extend* (*admin/modules*) page. These mo
 
 Image
 
-![Check that these modules are enabled](/sites/default/files/styles/max_800w/public/tutorials/images/screenshot-modules-enabled.gif?itok=ct3dnv4u)
+![Check that these modules are enabled](../assets/images/screenshot-modules-enabled.gif)
 
 ### Configure your theme's settings to display the features it supports
 
@@ -70,7 +70,7 @@ If you are displaying user pictures in posts or comments, upload a picture for t
 
 Image
 
-![Upload a default user picture](/sites/default/files/styles/max_800w/public/tutorials/images/user-picture-uploaded.png?itok=7kYqRe3y)
+![Upload a default user picture](../assets/images/user-picture-uploaded.png)
 
 If you have a theme-specific default user picture, upload that as well and configure it in *Administration > Configuration > Account settings > Manage fields > Picture > Edit > Default user picture* (*admin/config/people/accounts/fields/user.user.user\_picture*). This will display with the anonymous comment.
 
@@ -80,7 +80,7 @@ Set the site name to the name of the theme and set the slogan to a brief tagline
 
 Image
 
-![Set title and slogan to apply to your theme](/sites/default/files/styles/max_800w/public/tutorials/images/site-info-theme-screenshot.png?itok=JzKpMlQ6)
+![Set title and slogan to apply to your theme](../assets/images/site-info-theme-screenshot.png)
 
 ### Create an example article
 
@@ -99,7 +99,7 @@ Morbi id lacus. Etiam malesuada diam ut libero. Sed blandit, justo nec euismod l
 
 Image
 
-![Example node](/sites/default/files/styles/max_800w/public/tutorials/images/example-node-editing.png?itok=3sVPx2Xr)
+![Example node](../assets/images/example-node-editing.png)
 
 ### Add comments
 
@@ -111,7 +111,7 @@ Add at least 5 more menu link items to the main menu labeled "Link 2, Link 3, Li
 
 Image
 
-![Adding an example link item](/sites/default/files/styles/max_800w/public/tutorials/images/add-example-menu-link.png?itok=yUfrekog)
+![Adding an example link item](../assets/images/add-example-menu-link.png)
 
 ### Place the search block
 
@@ -135,7 +135,7 @@ Edit the screenshot and resize the height to **438px**, scaled proportionately, 
 
 Image
 
-![Resize the height to 438 pixels](/sites/default/files/styles/max_800w/public/tutorials/images/screenshot-height-adj.png?itok=cpMz8ZCH)
+![Resize the height to 438 pixels](../assets/images/screenshot-height-adj.png)
 
 ### Crop the screenshot
 
@@ -143,7 +143,7 @@ Crop the screenshot so that it is exactly **588px (w) x 438px (h)**. You may nee
 
 Image
 
-![Crop to 588x438px](/sites/default/files/styles/max_800w/public/tutorials/images/screenshot-width-adj.png?itok=1DLJ2rk1)
+![Crop to 588x438px](../assets/images/screenshot-width-adj.png)
 
 ### Export screenshot as a PNG file
 
@@ -155,7 +155,7 @@ If you haven't already in the export process, optimize the image to reduce the f
 
 Image
 
-![ImageOptim](/sites/default/files/styles/max_800w/public/tutorials/images/imageoptim.png?itok=ampKE3AT)
+![ImageOptim](../assets/images/imageoptim.png)
 
 ### Save the screenshot in your theme directory
 
@@ -163,7 +163,7 @@ To save the screenshot in the default location, save the file with the name *scr
 
 Image
 
-![Example theme listing showing location of screenshot.png](/sites/default/files/styles/max_800w/public/tutorials/images/finder-icecream-files.png?itok=pyVK5Agr)
+![Example theme listing showing location of screenshot.png](../assets/images/finder-icecream-files.png)
 
 (Optional) If you want to save the screenshot in a sub-directory of your theme, you will need to update your theme's [info file](https://drupalize.me/tutorial/describe-your-theme-info-file). See the next step, "Specify an alternative file location".
 
@@ -177,7 +177,7 @@ If your screenshot image is saved in the theme root directory but called somethi
 
 Image
 
-![Custom screenshot name](/sites/default/files/styles/max_800w/public/tutorials/images/custom_screenshot_name_1.png?itok=n9XxEXvC)
+![Custom screenshot name](../assets/images/custom_screenshot_name_1.png)
 
 #### Scenario 2: Saved in images directory of your theme
 
@@ -185,7 +185,7 @@ If your screenshot image is saved in the images directory of your theme, update 
 
 Image
 
-![Custom screenshot name in images directory](/sites/default/files/styles/max_800w/public/tutorials/images/custom_screenshot_name_2.png?itok=50f8lkCr)
+![Custom screenshot name in images directory](../assets/images/custom_screenshot_name_2.png)
 
 If you already have your site [configured for theme development](https://drupalize.me/tutorial/configure-your-environment-theme-development), you won't need to clear the cache; just refresh the *Appearance* page to see your changes. If you don't have theme development caches disabled, you may need to clear the Drupal cache to see your screenshot image appear on the *Appearance* page.
 
@@ -195,7 +195,7 @@ Visit the *Appearance* page and admire your handy work! Your screenshot should n
 
 Image
 
-![Appearance page showing custom screenshot thumbnail for the Ice Cream theme](/sites/default/files/styles/max_800w/public/tutorials/images/appearance-screenshot.png?itok=eYv63Kzg)
+![Appearance page showing custom screenshot thumbnail for the Ice Cream theme](../assets/images/appearance-screenshot.png)
 
 ## Recap
 

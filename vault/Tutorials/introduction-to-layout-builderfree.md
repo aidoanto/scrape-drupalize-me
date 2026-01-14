@@ -34,7 +34,7 @@ Introduce the core Layout Builder module and related ecosystem.
 
 Image
 
-![Screenshot of Layout Builder graphic UI](/sites/default/files/styles/max_800w/public/tutorials/images/section.png?itok=KeunIu6P)
+![Screenshot of Layout Builder graphic UI](../assets/images/section.png)
 
 One of the most commonly requested features over the years has been for Drupal to provide some kind of easy-to-use page builder with a WYSIWYG sort of experience. These tools are present in other platforms, and can allow for far more flexibility without the need to write code. Such a tool can empower a whole new category of Drupal users to customize the look and feel of their Drupal applications.
 
@@ -62,7 +62,7 @@ One example is a *block* that creates a wrapper for the fields of a content type
 
 Image
 
-![Screenshot of Layout Builder body field options](/sites/default/files/styles/max_800w/public/tutorials/images/field_settings.png?itok=7nfAhj9c)
+![Screenshot of Layout Builder body field options](../assets/images/field_settings.png)
 
 Depending on the field type, the *block* exposes the appropriate field formatter configuration. It's much like the *Manage display* settings for a content type not using the Layout Builder.
 

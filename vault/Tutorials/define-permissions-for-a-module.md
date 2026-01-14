@@ -29,7 +29,7 @@ To access the permissions page, from the Manage menu, navigate to People > Permi
 
 Image
 
-![Permissions page](/sites/default/files/styles/max_800w/public/tutorials/images/permissions.png?itok=MpJflbMS)
+![Permissions page](../assets/images/permissions.png)
 
 ## Add existing permissions to a controller
 
@@ -130,7 +130,7 @@ Since each of these permissions exists for each content type, and site builders 
 
 Image
 
-![Node module permissions](/sites/default/files/styles/max_800w/public/tutorials/images/permissions_node_module.png?itok=Nq6KMN6m)
+![Node module permissions](../assets/images/permissions_node_module.png)
 
 Let's take a look at the permissions YAML file */modules/node/node.permissions.yml* to see how these dynamic permissions are defined.
 

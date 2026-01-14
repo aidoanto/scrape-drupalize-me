@@ -32,7 +32,7 @@ When you first start a new view in the *View settings* you choose the type of it
 
 Image
 
-![Form for creating a new view with select list showing different base tables opened to demonstrate that both content and content revisions are in the list.](/sites/default/files/styles/max_800w/public/tutorials/images/views-show-content-type.png?itok=hXi33E22)
+![Form for creating a new view with select list showing different base tables opened to demonstrate that both content and content revisions are in the list.](../assets/images/views-show-content-type.png)
 
 - **Content:** Always shows the latest default revision of an entity. When creating views for website visitors you'll likely use this to ensure you're showing them only the content they are intended to see. Think of this as building a view using whatever version of the content would be displayed on the page.
 - **Content revisions:** This contains all revisions of a piece of content, including the current default revision. Use this if you're creating views where you want someone to be able to see versions of a piece of content: past, present, and future.

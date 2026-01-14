@@ -36,7 +36,7 @@ To enable Twig debugging, in the *Manage* administration menu navigate to *Confi
 
 Image
 
-![Settings form with checkbox for enabling Twig debugging mode and disabling markup caching](/sites/default/files/styles/max_800w/public/tutorials/images/twig-debug-ui-settings.png?itok=jj0fU-Lm)
+![Settings form with checkbox for enabling Twig debugging mode and disabling markup caching](../assets/images/twig-debug-ui-settings.png)
 
 *Note*: When you turn off *Twig development mode* using the UI, [clear the cache](https://drupalize.me/tutorial/clear-drupals-cache) for it to take effect.
 
@@ -48,7 +48,7 @@ Before enabling the Twig engine's debug mode you'll probably want to start with 
 
 Image
 
-![Flow chart showing how render api and themes find template files](/sites/default/files/styles/max_800w/public/tutorials/images/render-api-lookup-flow.png?itok=a0Xkk5tV)
+![Flow chart showing how render api and themes find template files](../assets/images/render-api-lookup-flow.png)
 
 The above diagram shows the process used to determine where HTML is retrieved from when rendering an `#element`.
 

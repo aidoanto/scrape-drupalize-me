@@ -160,7 +160,7 @@ You can see how Responsive Image module uses the Breakpoint Group in its UI:
 
 Image
 
-![Breakpoint groups in Responsive Image UI](/sites/default/files/styles/max_800w/public/tutorials/images/breakpoint_group_responsive_image.png?itok=3JrVP-TM)
+![Breakpoint groups in Responsive Image UI](../assets/images/breakpoint_group_responsive_image.png)
 
 By default, breakpoints are grouped by the extension name in the identifier key. But you can add a group name to your keys, after the extension name and before the breakpoint name, separated by a dot (`.`) and then your breakpoints will be organized by group. For example: `ice_cream.layout.mobile`.
 
@@ -222,7 +222,7 @@ For example, see in the following screenshot how the Responsive Image module uti
 
 Image
 
-![Custom breakpoint groups in Responsive Image UI](/sites/default/files/styles/max_800w/public/tutorials/images/breakpoint_groups_responsive_image.png?itok=izevY65J)
+![Custom breakpoint groups in Responsive Image UI](../assets/images/breakpoint_groups_responsive_image.png)
 
 ## Add to another theme or module's breakpoint group
 

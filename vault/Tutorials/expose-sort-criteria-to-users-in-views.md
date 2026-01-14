@@ -50,7 +50,7 @@ Locate the *Baseball Players* view and select *Edit* in the *Operations* column.
 
 Image
 
-![Screenshot of list of views with Baseball Players view shown](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--edit-baseball-players.png?itok=ZqGD2mCp)
+![Screenshot of list of views with Baseball Players view shown](../assets/images/exposed-filters--edit-baseball-players.png)
 
 ### Add *Debut (field\_player\_debut)* as a sort criterion
 
@@ -60,7 +60,7 @@ Select the checkbox labeled "Debut" (`field_player_debut`), then select the *Add
 
 Image
 
-![Screenshot of list of possible sort criteria with Debut selected](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-sorts--debut-sort-add.png?itok=-RilHV-f)
+![Screenshot of list of possible sort criteria with Debut selected](../assets/images/exposed-sorts--debut-sort-add.png)
 
 ### Expose *Debut* sort criterion to visitors
 
@@ -68,7 +68,7 @@ After selecting the field we want to configure as a sort criterion, a new modal 
 
 Image
 
-![Screenshot of exposed sort criteria modal window with values changed](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-sorts--debut-sort-exposed.png?itok=Gg-QIa8o)
+![Screenshot of exposed sort criteria modal window with values changed](../assets/images/exposed-sorts--debut-sort-exposed.png)
 
 Select the checkbox *Expose this sort to visitors, to allow them to change it*. The modal window will refresh and show exposed sort configuration options.
 
@@ -78,13 +78,13 @@ The new form for the exposed sort has one option, *Label*. Use the *Label* field
 
 Image
 
-![Screenshot of sort criteria modal window](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-sorts--debut-sort-options.png?itok=mU2JyMJi)
+![Screenshot of sort criteria modal window](../assets/images/exposed-sorts--debut-sort-options.png)
 
 Note: You can customize the label above the field, `Sort by` in the **Advanced** column under **Exposed Form**. Select the *Settings* link next to *Exposed form style* and change the value of *Exposed sorts label* (default value is `Sort by`).
 
 Image
 
-![Screenshot of exposed sort form modal window with exposed sorts label highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-sorts--exposed-sort-form-label.png?itok=yhNFbWYK)
+![Screenshot of exposed sort form modal window with exposed sorts label highlighted](../assets/images/exposed-sorts--exposed-sort-form-label.png)
 
 ### Preview and test exposed sort form
 
@@ -92,7 +92,7 @@ If we scroll down to preview the view we'll see our new exposed sort form in act
 
 Image
 
-![Screenshot of preview of the view with new exposed sort criteria shown](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-sorts--debut-sort-preview.png?itok=KzmLrjLL)
+![Screenshot of preview of the view with new exposed sort criteria shown](../assets/images/exposed-sorts--debut-sort-preview.png)
 
 When we expose any sort criteria, we can decide whether or not to expose the sort operator as well. The operator is exposed by default and here it has the label Order. Site visitors can sort by this criteria in ascending or descending order.
 
@@ -108,7 +108,7 @@ Here is a screenshot of our final results:
 
 Image
 
-![Screenshot of our list of exposed sort criteria and the preview for the view with all the new exposed sort criteria](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-sorts--final-sorts-preview.png?itok=sDxsgYHA)
+![Screenshot of our list of exposed sort criteria and the preview for the view with all the new exposed sort criteria](../assets/images/exposed-sorts--final-sorts-preview.png)
 
 Be sure to preview and test each sort criterion. You can rearrange the order by selecting the dropdown menu *Add* in the **Sort Criteria** section of Views and selecting *Rearrange*. Drag the sort criteria in the order you want them.
 
@@ -120,7 +120,7 @@ Now anyone visiting the *Baseball Players* view can sort the results by any of t
 
 Image
 
-![Screenshot of Baseball Players page with new exposed sort criteria shown](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-sorts--final-sorts-page.png?itok=J_H6sD7N)
+![Screenshot of Baseball Players page with new exposed sort criteria shown](../assets/images/exposed-sorts--final-sorts-page.png)
 
 ## Recap
 

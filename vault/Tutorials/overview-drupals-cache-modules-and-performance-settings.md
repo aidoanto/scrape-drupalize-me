@@ -89,7 +89,7 @@ The performance settings page in Drupal can be accessed by navigation to *Admini
 
 Image
 
-![Screenshot of the performance settings for the site](/sites/default/files/styles/max_800w/public/tutorials/images/drupal_performance_page.png?itok=72VYaesv)
+![Screenshot of the performance settings for the site](../assets/images/drupal_performance_page.png)
 
 Core provides settings for the `Cache-Control` headers. This sets the `max-age` header that Drupal outputs and passes it to browsers and CDNs. This defines an expiration period for the cached version of the page. For sites on shared hosting, or platforms without additional system-level cache or Varnish, it's recommended to set this value to at least a day. Your site configuration and business requirements may vary, and you may want to set the value to be less than a day if you have pages with fast-expiring content that needs to stay fresh. Think of this as how long something external to Drupal should be allowed to cache a page that Drupal has determined is cachable before it is required to check back for a new version.
 

@@ -253,7 +253,7 @@ In the Administrative menu, navigate to the manage layout section of the Basic p
 
 Image
 
-![Screenshot of the configuration form for the section](/sites/default/files/styles/max_800w/public/tutorials/images/three_column_config.png?itok=ytqSq6MN)
+![Screenshot of the configuration form for the section](../assets/images/three_column_config.png)
 
 Fill in the form and place the section. If you inspect the element in your web browser you should see the layout class corresponding to the option you selected applied to the section container.
 

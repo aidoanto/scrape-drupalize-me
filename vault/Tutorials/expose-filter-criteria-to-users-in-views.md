@@ -45,7 +45,7 @@ Locate the Baseball Player view and select *Edit* in the *Operations* column.
 
 Image
 
-![Screenshot of list of views with Baseball Players view shown](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--edit-baseball-players.png?itok=ZqGD2mCp)
+![Screenshot of list of views with Baseball Players view shown](../assets/images/exposed-filters--edit-baseball-players.png)
 
 ### Add new filter criteria: debut
 
@@ -55,7 +55,7 @@ Select the checkbox next to *Debut (field\_player\_debut)*. Then select the *Add
 
 Image
 
-![Screenshot of add new filters modal window open with Debut field selected](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--add-debut-filter.png?itok=q-cUSuZd)
+![Screenshot of add new filters modal window open with Debut field selected](../assets/images/exposed-filters--add-debut-filter.png)
 
 ### Explore exposed filter settings
 
@@ -63,13 +63,13 @@ After selecting the field we want to configure as a filter criteria, a new modal
 
 Image
 
-![Screenshot of filter configuration modal window](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--debut-filter-configuration.png?itok=ofQm5jBo)
+![Screenshot of filter configuration modal window](../assets/images/exposed-filters--debut-filter-configuration.png)
 
 Select the checkbox *Expose this filter to visitors, to allow them to change it*. The modal window will refresh its content and display the exposed filter configuration options.
 
 Image
 
-![Screenshot of exposed filter configuration modal window](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--exposed-debut-filter-configuration.png?itok=7Fa_21bX)
+![Screenshot of exposed filter configuration modal window](../assets/images/exposed-filters--exposed-debut-filter-configuration.png)
 
 #### Exposed filter options
 
@@ -96,7 +96,7 @@ Then select the *Apply* button at the bottom of the modal window.
 
 Image
 
-![Screenshot of Debut exposed filter configuration modal window with values filled in](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--exposed-debut-filter-configured.png?itok=eH5tEeBh)
+![Screenshot of Debut exposed filter configuration modal window with values filled in](../assets/images/exposed-filters--exposed-debut-filter-configured.png)
 
 ### Preview and test exposed filter form
 
@@ -104,7 +104,7 @@ Now that we've added and exposed a filter, let's scroll down and preview our vie
 
 Image
 
-![Screenshot of preview section of the view page showing new exposed filter](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--exposed-filter-preview.png?itok=BbqTrKtU)
+![Screenshot of preview section of the view page showing new exposed filter](../assets/images/exposed-filters--exposed-filter-preview.png)
 
 Here in the preview we can also test the exposed filter.
 
@@ -112,7 +112,7 @@ Change the value of the Player Debut Date field to `2010-06-01` and select the *
 
 Image
 
-![Screenshot of preview of our new view with exposed filter in use](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--exposed-filter-preview-changed.png?itok=BBu0r0oV)
+![Screenshot of preview of our new view with exposed filter in use](../assets/images/exposed-filters--exposed-filter-preview-changed.png)
 
 ### Save the view
 
@@ -122,7 +122,7 @@ Now anyone who visits this view will be able to use our exposed filter to find t
 
 Image
 
-![Screenshot of Baseball Players page with exposed filter shown](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters--exposed-filter-on-page.png?itok=W_fXXcBt)
+![Screenshot of Baseball Players page with exposed filter shown](../assets/images/exposed-filters--exposed-filter-on-page.png)
 
 ## Recap
 

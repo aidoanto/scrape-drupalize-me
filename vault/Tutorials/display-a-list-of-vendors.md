@@ -41,7 +41,7 @@ We need to create a new page at the path */attending* that will list the vendors
 
 Image
 
-![Screenshot of new page displaying vendors attending this week](/sites/default/files/styles/max_800w/public/tutorials/images/data--entity-query_attending.png?itok=xILzlp26)
+![Screenshot of new page displaying vendors attending this week](../assets/images/data--entity-query_attending.png)
 
 We will add this feature to the Anytown module.
 

@@ -38,12 +38,12 @@ Sprout Video
 
    Image
 
-   ![Filters on the module search page on Drupal.org](/sites/default/files/styles/max_800w/public/user_guide/images/extend-module-find_module_finder.png?itok=u8QSNpLn)
+   ![Filters on the module search page on Drupal.org](../assets/images/extend-module-find_module_finder.png)
 3. Click *Search*. Search results will appear.
 
    Image
 
-   ![Module search results page on Drupal.org](/sites/default/files/styles/max_800w/public/user_guide/images/extend-module-find_search_results.png?itok=I5RMtAgD)
+   ![Module search results page on Drupal.org](../assets/images/extend-module-find_search_results.png)
 4. To further evaluate a module, click its title in the list of search results to visit its project page.
 
 Some aspects to pay attention to when evaluating modules:
@@ -57,7 +57,7 @@ Some aspects to pay attention to when evaluating modules:
 
   Image
 
-  ![Information on the project page to look for when evaluating a module](/sites/default/files/styles/max_800w/public/user_guide/images/extend-module-find_project_info.png?itok=LItOiUDo)
+  ![Information on the project page to look for when evaluating a module](../assets/images/extend-module-find_project_info.png)
 
 ### Expand your understanding
 

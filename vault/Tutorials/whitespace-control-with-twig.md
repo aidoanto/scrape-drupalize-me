@@ -73,7 +73,7 @@ To trim leading or trailing whitespace on either side of Twig delimiters, use Tw
 
 Image
 
-![Twig whitespace modifiers](/sites/default/files/styles/max_800w/public/tutorials/images/twig-whitespace-modifers.png?itok=SzG51gnl)
+![Twig whitespace modifiers](../assets/images/twig-whitespace-modifers.png)
 
 For example, to remove both leading and trailing whitespace on either side of a Twig code block, add a dash inside and next to the Twig delimiter outside of which you want to trim whitespace.
 
@@ -91,7 +91,7 @@ Output:
 
 Image
 
-![Twig no extra whitespace demo](/sites/default/files/styles/max_800w/public/tutorials/images/twig-no-extra-whitespace.png?itok=nuiKMwvr)
+![Twig no extra whitespace demo](../assets/images/twig-no-extra-whitespace.png)
 
 Compare with when we remove the whitespace modifier (`-`):
 
@@ -106,7 +106,7 @@ Notice the whitespace in the output around the title:
 
 Image
 
-![Twig extra whitespace demo](/sites/default/files/styles/max_800w/public/tutorials/images/twig-extra-whitespace.png?itok=phX01ggI)
+![Twig extra whitespace demo](../assets/images/twig-extra-whitespace.png)
 
 ## Guidelines for whitespace in Drupal’s Twig template files
 

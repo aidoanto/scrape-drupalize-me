@@ -43,7 +43,7 @@ drush en search_api search_api_db search_api_db_defaults -y
 
 Image
 
-![Screenshot of required modules](/sites/default/files/styles/max_800w/public/tutorials/images/search_api_modules.png?itok=f8DWA4f5)
+![Screenshot of required modules](../assets/images/search_api_modules.png)
 
 [Clear the cache](https://drupalize.me/tutorial/clear-drupals-cache), and then run the site indexing command:
 
@@ -60,7 +60,7 @@ We'll need to make a few modifications to the view configuration for our example
 
   Image
 
-  ![Screenshot of full text filter configuration](/sites/default/files/styles/max_800w/public/tutorials/images/full_text_config.png?itok=SnAsqhOJ)
+  ![Screenshot of full text filter configuration](../assets/images/full_text_config.png)
 - In the **Advanced** column, update the exposed form style to be *Basic* instead of *Input required*.
 - Add a sort by *Relevance (descending)* in the sort criteria of the view.
 
@@ -68,13 +68,13 @@ Your configuration should look like the following:
 
 Image
 
-![Screenshot of search views configuration](/sites/default/files/styles/max_800w/public/tutorials/images/default_search_view_config.png?itok=zFSM8D9l)
+![Screenshot of search views configuration](../assets/images/default_search_view_config.png)
 
 Press *Save* to save your changes. The view that can be found at the */search/content* path.
 
 Image
 
-![Screenshot of default search view](/sites/default/files/styles/max_800w/public/tutorials/images/default_search_view.png?itok=dEttXvmV)
+![Screenshot of default search view](../assets/images/default_search_view.png)
 
 ## Implement `hook_views_query_alter()`
 
@@ -126,7 +126,7 @@ We are checking if the user entered any search terms. If the URL query parameter
 
 Image
 
-![Screenshot of the views filter identifier](/sites/default/files/styles/max_800w/public/tutorials/images/filter_identifier.png?itok=LdSVUze8)
+![Screenshot of the views filter identifier](../assets/images/filter_identifier.png)
 
 We use the `sort()` method of the query object to set the new sorting criteria. The names of the properties should match the machine names of the fields in the search index that can be found under the Search API index configuration at *Configuration* > *Search API* > *Default content index* > *fields* (*admin/config/search/search-api/index/default\_index/fields*). The second argument of the function is the sorting order: *ASC* for ascending, and *DESC* for descending.
 
@@ -136,7 +136,7 @@ You should see something like the following screenshot:
 
 Image
 
-![Screenshot of the search items sorted](/sites/default/files/styles/max_800w/public/tutorials/images/sorted_search_view.png?itok=Fix7J6Tr)
+![Screenshot of the search items sorted](../assets/images/sorted_search_view.png)
 
 In the screenshot above we have *Article 3* at the top. This article has its *sticky* property set and is also the newest article on the website.
 
@@ -144,7 +144,7 @@ Let's search for a term:
 
 Image
 
-![Screenshot of the search results](/sites/default/files/styles/max_800w/public/tutorials/images/search_results.png?itok=tJ6IRHZK)
+![Screenshot of the search results](../assets/images/search_results.png)
 
 Now we still see 3 articles but the order is different. They are now sorted *only* by relevance and not by the time of creation or the *sticky* property.
 

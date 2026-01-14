@@ -55,7 +55,7 @@ For example: Find a page that displays the ["Hello, World" block on your demo si
 
 Image
 
-![Screenshot of the front page of Anytown Farmer's Market site with the Hello World block placed in the sidebar region.](/sites/default/files/styles/max_800w/public/tutorials/images/hello--block_sidebar.png?itok=tgU_YGis)
+![Screenshot of the front page of Anytown Farmer's Market site with the Hello World block placed in the sidebar region.](../assets/images/hello--block_sidebar.png)
 
 In your IDE's search results, you should find the code in *src/Plugin/Block/HelloWorldBlock.php*. Let's take a look:
 

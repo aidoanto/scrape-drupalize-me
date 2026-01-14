@@ -37,7 +37,7 @@ If you are installing a module or theme from *Drupal.org*, follow the downloadin
 
    Image
 
-   ![Suggested directory structure for modules](/sites/default/files/styles/max_800w/public/user_guide/images/extend-manual-install-directories.png?itok=eRfjyMsl)
+   ![Suggested directory structure for modules](../assets/images/extend-manual-install-directories.png)
 2. If you are replacing an existing module or theme with an updated version, put the site into maintenance mode. See [Section 11.2, “Enabling and Disabling Maintenance Mode”](https://drupalize.me/tutorial/user-guide/extend-maintenance "11.2. Enabling and Disabling Maintenance Mode").
 3. If you are replacing an existing module or theme with an updated version, find and delete all the existing files and directories for the existing module or theme. Modules are normally located in directories under the top-level *modules* directory, and themes are normally located in directories under the top-level *themes* directory.
 4. Upload the *.tar.gz* file (or whatever archive you created) to your site. Place it in either the same location from which you deleted the directory (if replacing an existing module or theme) or the appropriate subdirectory of *modules* or *themes* (if adding a new module or theme).

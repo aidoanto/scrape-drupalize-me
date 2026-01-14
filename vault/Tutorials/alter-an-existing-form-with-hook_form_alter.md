@@ -153,7 +153,7 @@ Go register for a new account and confirm that the registration form displays th
 
 Image
 
-![Screenshot of form showing the new terms of service fields added to the top of the registration form](/sites/default/files/styles/max_800w/public/tutorials/images/form_api-tos_example.png?itok=Aeh6WPEF)
+![Screenshot of form showing the new terms of service fields added to the top of the registration form](../assets/images/form_api-tos_example.png)
 
 ## Recap
 

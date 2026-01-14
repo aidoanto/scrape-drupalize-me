@@ -164,19 +164,19 @@ Using the Views UI, build a view of *Article* nodes with a block display limited
 
 Image
 
-![Screenshot of news view block](/sites/default/files/styles/max_800w/public/tutorials/images/news_view_config.png?itok=7X7Iy6BX)
+![Screenshot of news view block](../assets/images/news_view_config.png)
 
 In the sort section of the view, press *Add sort* and search for the *Natural title sort* option.
 
 Image
 
-![Screenshot of natural title sort](/sites/default/files/styles/max_800w/public/tutorials/images/natural_title_sort.png?itok=nsS9Luwj)
+![Screenshot of natural title sort](../assets/images/natural_title_sort.png)
 
 Remove all other sort options and save the view. Scroll to the preview area of the view and see the new sort in action.
 
 Image
 
-![Screenshot of natural title sort preview](/sites/default/files/styles/max_800w/public/tutorials/images/natural_title_sort_preview.png?itok=n_rtF2hT)
+![Screenshot of natural title sort preview](../assets/images/natural_title_sort_preview.png)
 
 In the example screenshot above *The Article 1* is listed first -- and the article *the* is ignored when sorting. If we used the default sort provided for the *title* field *The Article 1* would be at the bottom of the list.
 

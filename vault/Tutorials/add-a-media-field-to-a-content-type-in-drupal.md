@@ -60,7 +60,7 @@ On the next page, you can choose whether or not you want to limit the number of 
 
 Image
 
-![Field settings widget](/sites/default/files/styles/max_800w/public/tutorials/images/add-related-media-field-settings.png?itok=FHRWOKUA)
+![Field settings widget](../assets/images/add-related-media-field-settings.png)
 
 This will save the new field and display a message like "Updated field Related Media field settings."
 
@@ -70,7 +70,7 @@ Next, you'll end up on the form for configuring the field. Here, you can add hel
 
 Image
 
-![Form for configuring the Media field](/sites/default/files/styles/max_800w/public/tutorials/images/add-related-media-field-configuration.png?itok=UPQC7kdn)
+![Form for configuring the Media field](../assets/images/add-related-media-field-configuration.png)
 
 In the *Reference type* section are options related to configuring the underlying entity reference field.
 
@@ -86,7 +86,7 @@ The *Sort by* option allows you to specify which field on the referenced Media e
 
 Image
 
-![Entity reference autocomplete textfield with exposed results of fuzzy search](/sites/default/files/styles/max_800w/public/tutorials/images/add-media-field-sort-example.png?itok=ldO6Jhhl)
+![Entity reference autocomplete textfield with exposed results of fuzzy search](../assets/images/add-media-field-sort-example.png)
 
 ### Save the new field
 
@@ -100,13 +100,13 @@ A default entity reference widget with a few Media related enhancements (no Medi
 
 Image
 
-![Default media reference widget](/sites/default/files/styles/max_800w/public/tutorials/images/add-related-media-field-default-widget.png?itok=aOP5LScg)
+![Default media reference widget](../assets/images/add-related-media-field-default-widget.png)
 
 Or, an *Add media* button (Media Library module installed):
 
 Image
 
-![Media Library field widget](/sites/default/files/styles/max_800w/public/tutorials/images/add-related-media-field-media-library-widget.png?itok=TM873DNq)
+![Media Library field widget](../assets/images/add-related-media-field-media-library-widget.png)
 
 ### Create an Article with attached media
 

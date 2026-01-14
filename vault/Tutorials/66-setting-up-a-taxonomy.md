@@ -30,7 +30,7 @@ Sprout Video
 
    Image
 
-   ![taxonomy list page](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy-setup-taxonomy-page.png?itok=XOY4bH_k)
+   ![taxonomy list page](../assets/images/structure-taxonomy-setup-taxonomy-page.png)
 2. Click *Add vocabulary*, and fill in the values below.
 
    | Field name | Explanation | Example value |
@@ -40,24 +40,24 @@ Sprout Video
 
    Image
 
-   ![taxonomy add Ingredients](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy-setup-add-vocabulary.png?itok=WyfkBc16)
+   ![taxonomy add Ingredients](../assets/images/structure-taxonomy-setup-add-vocabulary.png)
 3. Click *Save*. You will be taken to the Ingredients page, which shows a list of all the terms in this vocabulary.
 
    Image
 
-   ![Ingredients taxonomy term listing](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy-setup-vocabulary-overview.png?itok=KL8kQxAC)
+   ![Ingredients taxonomy term listing](../assets/images/structure-taxonomy-setup-vocabulary-overview.png)
 4. Click *Add term*. Enter "Butter" in the *Name* field. Click *Save*.
 
    Image
 
-   ![Add term page](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy-setup-add-term.png?itok=vUZnIHsM)
+   ![Add term page](../assets/images/structure-taxonomy-setup-add-term.png)
 5. You will receive a confirmation about the term you created. Add more terms. For example, "Eggs" and "Milk".
 6. In the *Manage* administrative menu, navigate to *Structure* > *Content Types* (*admin/structure/types*). Click *Manage fields* for your Recipe content type.
 7. Click *Create a new field*. The *Add field* page appears. Choose the *Reference* field type from the *Choose a field type* options. Click *Continue*. The *Add field* page appears with a form to configure the field.
 
    Image
 
-   ![Add Ingredients field to Content type Recipe](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy-setup-add-field.png?itok=ITDEv0VA)
+   ![Add Ingredients field to Content type Recipe](../assets/images/structure-taxonomy-setup-add-field.png)
 8. Enter values from the table below. Click *Continue*.
 
    | Field name | Explanation | Value |
@@ -67,7 +67,7 @@ Sprout Video
 
    Image
 
-   ![Settings for Ingredients field](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy-setup-add-field-label.png?itok=mEcjk9fp)
+   ![Settings for Ingredients field](../assets/images/structure-taxonomy-setup-add-field-label.png)
 9. On the following configuration screen, enter the values from the table below. Click *Save settings*.
 
    | Field name | Explanation | Value |
@@ -81,12 +81,12 @@ Sprout Video
 
    Image
 
-   ![reference type field settings](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy-setup-field-settings-2.png?itok=Tl3UaJVt)
+   ![reference type field settings](../assets/images/structure-taxonomy-setup-field-settings-2.png)
 10. Click *Save settings*. You will be taken back to the *Manage Fields* page. A message will be displayed saying that the configuration for Ingredients is complete.
 
     Image
 
-    ![Manage fields page for Recipe content type](/sites/default/files/styles/max_800w/public/user_guide/images/structure-taxonomy-setup-finished.png?itok=Pr7whJH9)
+    ![Manage fields page for Recipe content type](../assets/images/structure-taxonomy-setup-finished.png)
 
 Was this helpful?
 

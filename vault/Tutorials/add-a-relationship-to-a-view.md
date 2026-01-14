@@ -43,31 +43,31 @@ Locate the view named *Baseball Awards* and select *Edit* in the *Operations* co
 
 Image
 
-![Screenshot of list of views showing the Baseball Awards view](/sites/default/files/styles/max_800w/public/tutorials/images/relationships-add-item--edit-view.png?itok=k7_zPvT1)
+![Screenshot of list of views showing the Baseball Awards view](../assets/images/relationships-add-item--edit-view.png)
 
 In the right-most column, expand the **Advanced** section. This will allow you to view other configuration settings for views, including relationships.
 
 Image
 
-![Screenshot of view edit page showing advanced column open](/sites/default/files/styles/max_800w/public/tutorials/images/relationships-add-item--advanced-column.png?itok=qEvA2bSf)
+![Screenshot of view edit page showing advanced column open](../assets/images/relationships-add-item--advanced-column.png)
 
 Select the *Add* button located next to the **Relationships** section heading. This will open a new modal window that contains a list of all available relationships that can be added to our view.
 
 Image
 
-![Screenshot of view edit page with relationship list dialog open](/sites/default/files/styles/max_800w/public/tutorials/images/relationships-add-item--open-relationships.png?itok=fGXX4cGM)
+![Screenshot of view edit page with relationship list dialog open](../assets/images/relationships-add-item--open-relationships.png)
 
 Select the box next to the item named *Content referenced from field\_player\_award\_player*. Then select the button labeled *Add and configure relationships* at the bottom of the dialog.
 
 Image
 
-![Screenshot of relationship list dialog with a field selected](/sites/default/files/styles/max_800w/public/tutorials/images/relationships-add-item--select-relationship.png?itok=wXZG_f4i)
+![Screenshot of relationship list dialog with a field selected](../assets/images/relationships-add-item--select-relationship.png)
 
 On the next dialog that appears, select the *Apply* button. We do not need to further configure the relationship.
 
 Image
 
-![Screenshot of relationship configuration page](/sites/default/files/styles/max_800w/public/tutorials/images/relationships-add-item--relationship-config.png?itok=Ia7BjQIG)
+![Screenshot of relationship configuration page](../assets/images/relationships-add-item--relationship-config.png)
 
 ## Add fields that use the new relationship
 
@@ -77,13 +77,13 @@ Select the *Add* button located next to the **Fields** section header. Located t
 
 Image
 
-![Screenshot of view edit page with fields list dialog open](/sites/default/files/styles/max_800w/public/tutorials/images/relationships-add-item--field-bats-add.png?itok=8nzog9kV)
+![Screenshot of view edit page with fields list dialog open](../assets/images/relationships-add-item--field-bats-add.png)
 
 In the next dialog box that appears, locate the dropdown labeled *Relationship*. Change the value for the field to be **`field_player_award_player: Content`**.
 
 Image
 
-![Screenshot of field configuration dialog open](/sites/default/files/styles/max_800w/public/tutorials/images/relationships-add-item--field-bats-config.png?itok=FPncCGDy)
+![Screenshot of field configuration dialog open](../assets/images/relationships-add-item--field-bats-config.png)
 
 ## Preview the view to see the newly related player data
 
@@ -91,7 +91,7 @@ We can now see our new relationship by selecting the *Update Preview* button loc
 
 Image
 
-![Screenshot of view preview with new Bats column](/sites/default/files/styles/max_800w/public/tutorials/images/relationships-add-item--preview-results.png?itok=S8gGp5IY)
+![Screenshot of view preview with new Bats column](../assets/images/relationships-add-item--preview-results.png)
 
 Don't forget to save the view!
 

@@ -46,7 +46,7 @@ Renderable arrays have two kinds of key/value pairs: properties and child elemen
 
 Image
 
-![Diagram showing example render array with nested sets of elements and properties. Highlights that elements are themselves arrays which contain a set of properties and optional child elements.](/sites/default/files/styles/max_800w/public/tutorials/images/render-array-diagram.png?itok=zungXCHZ)
+![Diagram showing example render array with nested sets of elements and properties. Highlights that elements are themselves arrays which contain a set of properties and optional child elements.](../assets/images/render-array-diagram.png)
 
 For example, you might have an array that represents the content of a block which contains a title and some copy. The title might be a markup element that contains a string with an `<h2>` tag. The copy might contain a child element that is an unordered list, which itself contains child elements for each of the list items which are links, followed by a second element which is a five-star voting widget.
 
@@ -83,7 +83,7 @@ The structure of a render array is somewhat analogous to the HTML DOM.
 
 Image
 
-![Screenshot of array code, converted to html, and resulting output](/sites/default/files/styles/max_800w/public/tutorials/images/render-api-array-example.png?itok=qI9qKjR7)
+![Screenshot of array code, converted to html, and resulting output](../assets/images/render-api-array-example.png)
 
 In this example image you can see the following:
 

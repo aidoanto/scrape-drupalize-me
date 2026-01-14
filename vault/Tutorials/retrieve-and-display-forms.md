@@ -36,7 +36,7 @@ Forms can be displayed in one of 2 ways: (1) as the result of a route, or (2) by
 
 Image
 
-![Homepage of Drupal site with a form displayed in a block as secondary content, and a form displayed in the primary content area](/sites/default/files/styles/max_800w/public/tutorials/images/form-api_display.png?itok=qIL89uvN)
+![Homepage of Drupal site with a form displayed in a block as secondary content, and a form displayed in the primary content area](../assets/images/form-api_display.png)
 
 ### Use a route
 

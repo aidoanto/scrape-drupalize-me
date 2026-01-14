@@ -27,7 +27,7 @@ Sprout Video
 
    Image
 
-   ![List of available languages in the website](/sites/default/files/styles/max_800w/public/user_guide/images/language-add-list.png?itok=SsIFfVC-)
+   ![List of available languages in the website](../assets/images/language-add-list.png)
 5. Follow the steps in [Section 8.3, “Placing a Block in a Region”](https://drupalize.me/tutorial/user-guide/block-place "8.3. Placing a Block in a Region") to place the *Language switcher* block in the *Sidebar second* region. This will enable site visitors to switch between languages, once the site has been translated.
 
 ### Expand your understanding

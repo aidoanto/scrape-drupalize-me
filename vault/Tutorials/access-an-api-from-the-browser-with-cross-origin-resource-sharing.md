@@ -63,7 +63,7 @@ We will see how the browser sends a preflight request, and how it fails because 
 
 Image
 
-![CORS failing](/sites/default/files/styles/max_800w/public/tutorials/images/cors-fail.png?itok=WLHymf2X)
+![CORS failing](../assets/images/cors-fail.png)
 
 ### Configure CORS in Drupal
 
@@ -104,7 +104,7 @@ We can see how now the articles are appearing in the demo application. More impo
 
 Image
 
-![CORS succeeding](/sites/default/files/styles/max_800w/public/tutorials/images/cors-success.png?itok=vM0jeBR4)
+![CORS succeeding](../assets/images/cors-success.png)
 
 ## Recap
 

@@ -42,7 +42,7 @@ In the *Manage* administration menu, navigate to *Extend* (*admin/extend*), then
 
 Image
 
-![Screenshot of extend section with layout modules](/sites/default/files/styles/max_800w/public/tutorials/images/enable_modules.png?itok=hDfaJt9y)
+![Screenshot of extend section with layout modules](../assets/images/enable_modules.png)
 
 ### Enable Layout Builder for a content type
 
@@ -52,7 +52,7 @@ In the *Manage* administration menu, navigate to *Structure* > *Content Types* (
 
 Image
 
-![Screenshot of content types landing page with their configuration options](/sites/default/files/styles/max_800w/public/tutorials/images/setup_content_type.png?itok=qyjfkob1)
+![Screenshot of content types landing page with their configuration options](../assets/images/setup_content_type.png)
 
 While there's no explicit restriction about what view mode to use with Layout Builder, the intended purpose for the Layout Builder module is to set up and manage layouts for pages. We recommend using either the *Full content* or *Default* view modes when setting up a layout.
 
@@ -60,7 +60,7 @@ On the *Manage Display* tab under the *Custom Displays* section you should see a
 
 Image
 
-![Screenshot of manage display section of Basic page content type](/sites/default/files/styles/max_800w/public/tutorials/images/enable_use_of_layout_builder_on_content_type.png?itok=-7eJlhhK)
+![Screenshot of manage display section of Basic page content type](../assets/images/enable_use_of_layout_builder_on_content_type.png)
 
 **Note**: We cover the configuration option *Allow each content item to have its layout customized* in the tutorial, [Change the Layout on a Per-Page Basis](https://drupalize.me/tutorial/change-layout-page-basis).
 
@@ -70,13 +70,13 @@ Once you've saved the configuration, you should see that all fields disappear an
 
 Image
 
-![Screenshot of Manage layout button](/sites/default/files/styles/max_800w/public/tutorials/images/manage_layout_button.png?itok=G4QFN3In)
+![Screenshot of Manage layout button](../assets/images/manage_layout_button.png)
 
 When a view mode is set up to use Layout Builder, the appearance and placement of all fields is managed through the layout interface instead of the default *Manage display* interface. Select the *Manage layout* button to open the Layout Builder interface for the Basic page content type (*admin/structure/types/manage/page/display/default/layout*).
 
 Image
 
-![Screenshot of landing page of default layout](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_landing.png?itok=rEyXI8TR)
+![Screenshot of landing page of default layout](../assets/images/layout_builder_landing.png)
 
 You should see the Layout Builder UI, and some help messages explaining the purpose and limitations of the UI.
 
@@ -90,13 +90,13 @@ If you find the preview content makes it harder to manipulate the layout, it is 
 
 Image
 
-![Screenshot of turn off content preview option](/sites/default/files/styles/max_800w/public/tutorials/images/turn_preview_off.png?itok=ZDqdjzqQ)
+![Screenshot of turn off content preview option](../assets/images/turn_preview_off.png)
 
 Now we can see field labels and gain a better understanding of what was placed and where. You should see something like shown below:
 
 Image
 
-![Screenshot of fields labels in layout builder](/sites/default/files/styles/max_800w/public/tutorials/images/field_labels_instead_of_demo_content.png?itok=wj58TOXC)
+![Screenshot of fields labels in layout builder](../assets/images/field_labels_instead_of_demo_content.png)
 
 ### Change base configuration
 
@@ -104,7 +104,7 @@ Layout Builder module created a one-column layout with a single section named *S
 
 Image
 
-![Screenshot of administrative label configuration section](/sites/default/files/styles/max_800w/public/tutorials/images/admin_label_for_the_section.png?itok=RCH2NkWn)
+![Screenshot of administrative label configuration section](../assets/images/admin_label_for_the_section.png)
 
 You should see that the section changed the label to the *Main Content* inside the UI.
 
@@ -118,7 +118,7 @@ This opens a configuration pane that lists all available layouts and icons that 
 
 Image
 
-![Screenshot of available layouts in Layout Builder](/sites/default/files/styles/max_800w/public/tutorials/images/available_layouts.png?itok=OYh52xBn)
+![Screenshot of available layouts in Layout Builder](../assets/images/available_layouts.png)
 
 Selecting an icon will create a new section within the page above the already existing "Main Content" section and open configuration options for it.
 
@@ -126,7 +126,7 @@ Select the *Two column* icon. You should see that this section's configuration n
 
 Image
 
-![Screenshot of content prefix two column section](/sites/default/files/styles/max_800w/public/tutorials/images/content_prefix_section.png?itok=hvK_CsZv)
+![Screenshot of content prefix two column section](../assets/images/content_prefix_section.png)
 
 Now we have a new section above the *Main Content* one.
 
@@ -144,13 +144,13 @@ Let's use our newly created section and place some fields in there. First, selec
 
 Image
 
-![Screenshot of authored by field placed in Layout Builder](/sites/default/files/styles/max_800w/public/tutorials/images/authored_by.png?itok=gHRwaZWO)
+![Screenshot of authored by field placed in Layout Builder](../assets/images/authored_by.png)
 
 Repeat these steps one more time but now select *Authored on* field. Now you should have *Authored on* and *Authored by* field blocks placed one under another in the left narrow column of our layout.
 
 Image
 
-![Screenshot of reordered fields in Layout Builder](/sites/default/files/styles/max_800w/public/tutorials/images/drag_and_drop_reorder.png?itok=oQsyQD8z)
+![Screenshot of reordered fields in Layout Builder](../assets/images/drag_and_drop_reorder.png)
 
 Drag *Authored on* block to appear above *Authored by* block. Notice that you can drag-and-drop blocks not only within one section but also across all sections in the layout.
 
@@ -158,7 +158,7 @@ Settings for each block can be updated by hovering over the block and selecting 
 
 Image
 
-![Screenshot of block configuration options in Layout Builder](/sites/default/files/styles/max_800w/public/tutorials/images/configure_block.png?itok=xyTmyA1V)
+![Screenshot of block configuration options in Layout Builder](../assets/images/configure_block.png)
 
 It's important to note that since the blocks within the Layout Builder are not standard Block plugins, the typical block configuration options are not available here. Instead you have an interface that contains the settings for the field widget or any other entity wrapped in the block.
 
@@ -170,7 +170,7 @@ Select *+ Add block* in the right column and select *+ Create content block* but
 
 Image
 
-![Screenshot of custom block interface in Layout Builder](/sites/default/files/styles/max_800w/public/tutorials/images/add_cta.png?itok=sHzV5YKY)
+![Screenshot of custom block interface in Layout Builder](../assets/images/add_cta.png)
 
 ### Save the layout
 
@@ -184,7 +184,7 @@ Let's give it a try. Navigate to the *Content* (admin/content) menu, select *Add
 
 Image
 
-![Screenshot of example basic page that is using Layout Builder configured layout](/sites/default/files/styles/max_800w/public/tutorials/images/example_basic_page.png?itok=HEjRag_V)
+![Screenshot of example basic page that is using Layout Builder configured layout](../assets/images/example_basic_page.png)
 
 As you can see we populated the Body and Title of the node. The CTA was pulled from the main layout for Basic Page content type.
 

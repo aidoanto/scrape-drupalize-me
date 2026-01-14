@@ -99,7 +99,7 @@ Now that are search view is updated, we can check to see if the excerpt appears 
 
 Image
 
-![Screenshot of search results showing excerpts](/sites/default/files/styles/max_800w/public/tutorials/images/Excerpts.png?itok=nTQPPJWk)
+![Screenshot of search results showing excerpts](../assets/images/Excerpts.png)
 
 If the excerpts do not appear as expected, try a different search term, or force a reindex.
 

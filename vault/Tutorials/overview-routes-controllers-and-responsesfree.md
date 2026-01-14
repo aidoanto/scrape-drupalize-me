@@ -36,7 +36,7 @@ Sprout Video
 
 Image
 
-![](/sites/default/files/styles/max_800w/public/tutorials/images/routing.png?itok=BTI-H4sH)
+![](../assets/images/routing.png)
 
 Drupal's routing system is built on top of [Symfony's routing system](https://symfony.com/doc/current/routing.html). It can do everything the Symfony system can do and more. If you're already familiar with the Symfony routing system, you should be able to get started with Drupal's pretty quickly. If you've never used the Symfony system, that's okay. You can learn everything you need to know about Drupal's routing system without first learning Symfony.
 
@@ -52,7 +52,7 @@ When a user visits the path `/node/42`, the route, `entity.node.canonical`, defi
 
 Image
 
-![Illustration showing the relationship between different parts of a route definition and a URL.](/sites/default/files/styles/max_800w/public/tutorials/images/routing_terminology.png?itok=kf-Gkz6i)
+![Illustration showing the relationship between different parts of a route definition and a URL.](../assets/images/routing_terminology.png)
 
 Routes are not URLs. A route is a named definition that maps to a specific set of instructions for generating a page's content. While a URL (Uniform Resource Locator) is the complete web address that users enter into their browsers to access a specific page or resource. The route's path is a crucial part of the URL that Drupal uses to determine how to handle the request and display the content. URLs can change. Different URLs can point to the same route, while routes remain canonical. Consider, for example, that with URL aliases enabled, both `/node/42`, and `/blog/2023-04/routes-rule` could point to the same route and display the same node. And that a single route like `entity.node.canonical` could display a different node depending on the parameters that are passed to the route. That's why it's common to use the route to generate the link instead of the URL, when writing code that will output a link. Learn more in [Generate URLs and Output Links](https://drupalize.me/tutorial/generate-urls-and-output-links).
 
@@ -97,7 +97,7 @@ Example `var_dump` of the route object for `entity.node.canonical`:
 
 Image
 
-![Screenshot of devel module showing a var_dump of the Route object for entity.node.canonical.](/sites/default/files/styles/max_800w/public/tutorials/images/route_object_example.png?itok=VRztI3ke)
+![Screenshot of devel module showing a var_dump of the Route object for entity.node.canonical.](../assets/images/route_object_example.png)
 
 ---
 

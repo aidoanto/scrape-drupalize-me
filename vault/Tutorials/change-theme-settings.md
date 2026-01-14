@@ -60,13 +60,13 @@ User pictures typically display alongside the author of an article, for example.
 
 Image
 
-![User pictures in posts on](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-user-pic-posts.png?itok=sBhWedDg)
+![User pictures in posts on](../assets/images/global-theme-settings-user-pic-posts.png)
 
 ### User pictures in posts *unchecked*
 
 Image
 
-![User pictures in posts off](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-user-pic-posts-off.png?itok=96CWtXwe)
+![User pictures in posts off](../assets/images/global-theme-settings-user-pic-posts-off.png)
 
 ## User pictures in comments
 
@@ -78,13 +78,13 @@ Sometimes a theme will display the user picture next to the comment poster's nam
 
 Image
 
-![User pictures in comments on](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-user-pic-comments.png?itok=7kUu809T)
+![User pictures in comments on](../assets/images/global-theme-settings-user-pic-comments.png)
 
 ### User pictures in comments *off*
 
 Image
 
-![User pictures in comments off](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-user-pic-comments-off.png?itok=V4iqRmFv)
+![User pictures in comments off](../assets/images/global-theme-settings-user-pic-comments-off.png)
 
 ## User verification status in comments
 
@@ -92,7 +92,7 @@ A theme may display the "verification status" of a user — in particular, anony
 
 Image
 
-![User verification status in comments](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-verification-status.png?itok=_n_GGHAf)
+![User verification status in comments](../assets/images/global-theme-settings-verification-status.png)
 
 ## Shortcut icon
 
@@ -102,13 +102,13 @@ The shortcut icon, or "favicon," is a special type of image that some web browse
 
 Image
 
-![Default shortcut icon setting](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-default-shortcut-icon-settings.png?itok=UUohj1xf)
+![Default shortcut icon setting](../assets/images/global-theme-settings-default-shortcut-icon-settings.png)
 
 ### The default Drupal favicon, as displayed in a browser tab
 
 Image
 
-![The default favicon for Drupal](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-default-favicon.png?itok=03T7nlBC)
+![The default favicon for Drupal](../assets/images/global-theme-settings-default-favicon.png)
 
 ### Use a custom shortcut icon or favicon
 
@@ -118,7 +118,7 @@ There are two ways to specify a new shortcut icon or favicon for your site. You 
 
 Image
 
-![Settings for a custom favicon](/sites/default/files/styles/max_800w/public/tutorials/images/global-theme-settings-custom-favicon.png?itok=_grutLSk)
+![Settings for a custom favicon](../assets/images/global-theme-settings-custom-favicon.png)
 
 ## Logo image settings
 
@@ -130,13 +130,13 @@ If you don't want to change the default logo supplied by the theme, leave this c
 
 Image
 
-![Bartik's logo.svg](/sites/default/files/styles/max_800w/public/tutorials/images/theme-settings-bartik-logo-svg.png?itok=7xSv4t3M)
+![Bartik's logo.svg](../assets/images/theme-settings-bartik-logo-svg.png)
 
 To provide a default logo for your theme, upload a file called *logo.svg* to your theme directory. For example, notice how the Bartik theme has done this:
 
 Image
 
-![Location of default logo in Bartik](/sites/default/files/styles/max_800w/public/tutorials/images/bartik-file-list-default-logo-svg.png?itok=k3RVaR0Q)
+![Location of default logo in Bartik](../assets/images/bartik-file-list-default-logo-svg.png)
 
 ### Provide a custom logo image
 
@@ -146,11 +146,11 @@ To provide a custom logo image, either globally or specifically, to a theme, eit
 
 Image
 
-![Theme settings to provide a custom logo](/sites/default/files/styles/max_800w/public/tutorials/images/theme-settings-custom-logo.png?itok=of6ZXF1x)
+![Theme settings to provide a custom logo](../assets/images/theme-settings-custom-logo.png)
 
 Image
 
-![Result of specifying a custom logo path for the Ice Cream theme](/sites/default/files/styles/max_800w/public/tutorials/images/theme-settings-custom-icecream-logo.png?itok=et2uLD84)
+![Result of specifying a custom logo path for the Ice Cream theme](../assets/images/theme-settings-custom-icecream-logo.png)
 
 ### Add the default logo filename to your theme's info file
 

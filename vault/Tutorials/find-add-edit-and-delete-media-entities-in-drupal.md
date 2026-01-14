@@ -38,7 +38,7 @@ The canonical list of Media entities can be found by navigating to *Content* in 
 
 Image
 
-![Screenshot of the page at admin/content/media that highlights the exposed filters and bulk operations features](/sites/default/files/styles/max_800w/public/tutorials/images/admin-content-media.png?itok=ntxhLJWD)
+![Screenshot of the page at admin/content/media that highlights the exposed filters and bulk operations features](../assets/images/admin-content-media.png)
 
 This page contains 2 Views, *Table* and *Grid*, that list all the existing Media entities for your site. Since the list is a View it can be customized as needed. The form at the top of the list can be used to filter it. The checkbox next to each item in the list can be used to apply actions to media entities in bulk.
 
@@ -56,7 +56,7 @@ The exact fields on the form for adding a media entity will vary depending on th
 
 Image
 
-![Form for adding a new Image media entity with form fields filled in.](/sites/default/files/styles/max_800w/public/tutorials/images/admin-content-media-add-entity.png?itok=vLbnXICd)
+![Form for adding a new Image media entity with form fields filled in.](../assets/images/admin-content-media-add-entity.png)
 
 Fill in the source field, and any other configured fields, and then press the *Save* button.
 
@@ -76,7 +76,7 @@ Find the item you want to edit in the list on the main Media administration page
 
 Image
 
-![Media entity editing form.](/sites/default/files/styles/max_800w/public/tutorials/images/admin-content-media-edit-entity.png?itok=yAIYoglV)
+![Media entity editing form.](../assets/images/admin-content-media-edit-entity.png)
 
 Make the changes you want to make to any of the fields on this page.
 
@@ -94,7 +94,7 @@ Find the item you want to delete in the list on the main Media administration pa
 
 Image
 
-![Confirmation form for confirming you want to delete an entity with Delete and Cancel buttons.](/sites/default/files/styles/max_800w/public/tutorials/images/admin-content-media-entity-delete.png?itok=1-wrYT4V)
+![Confirmation form for confirming you want to delete an entity with Delete and Cancel buttons.](../assets/images/admin-content-media-entity-delete.png)
 
 On the next page, you'll need to confirm you want to delete the item by clicking the *Delete* button.
 

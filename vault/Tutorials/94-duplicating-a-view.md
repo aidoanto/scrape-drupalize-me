@@ -31,13 +31,13 @@ Sprout Video
 
    Image
 
-   ![Duplicate existing view](/sites/default/files/styles/max_800w/public/user_guide/images/views-duplicate_duplicate.png?itok=Dap8-Sc9)
+   ![Duplicate existing view](../assets/images/views-duplicate_duplicate.png)
 2. Name the duplicate "Recipes" and click *Duplicate*. The view configuration page appears.
 3. To change the title of the view page to "Recipes", click Vendors in the *Title* field under *Title*. The *Page: The title of this view* pop-up appears. Enter "Recipes". Click *Apply*.
 
    Image
 
-   ![Change view title](/sites/default/files/styles/max_800w/public/user_guide/images/views-duplicate_title.png?itok=Pw951WIA)
+   ![Change view title](../assets/images/views-duplicate_title.png)
 4. To change from a table to a grid format, click *Table* in the *Format* field under *Format*. The *Page: How should this view be styled* pop-up appears. Check *Grid* and click *Apply*. The *Page: Style options* pop-up appears. Retain the default values and click *Apply*.
 5. To retain only the title and image fields for the Recipes view, click *Content: Body* under *Fields*. Click *Remove* in the pop-up that appears.
 6. To change the content type filter to use the Recipe content type, click *Content: Type (=Vendor)* under *Filter criteria*. In the *Configure filter criterion: Content: Type* pop-up, check Recipe and uncheck Vendor. Click *Apply*.
@@ -52,7 +52,7 @@ Sprout Video
 
    Image
 
-   ![Expose filter](/sites/default/files/styles/max_800w/public/user_guide/images/views-duplicate_expose.png?itok=7FnFvH-t)
+   ![Expose filter](../assets/images/views-duplicate_expose.png)
 9. To change the *Path* label field to "Recipes", click "/vendors" in the *Path* field under *Page settings*. In the pop-up that appears, enter the path "recipes" and click *Apply*.
 
    Note that when editing a view, you enter paths without the leading "/", unlike on other administrative pages (such as when providing a path to a content item page).
@@ -63,7 +63,7 @@ Sprout Video
 
     Image
 
-    ![Recipes view](/sites/default/files/styles/max_800w/public/user_guide/images/views-duplicate_final.png?itok=oZaWfsvw)
+    ![Recipes view](../assets/images/views-duplicate_final.png)
 
 ### Expand your understanding
 

@@ -20,7 +20,7 @@ The available regions depend on the theme design. Only the Content region, which
 
 Image
 
-![core Olivero theme regions](/sites/default/files/styles/max_800w/public/user_guide/images/block-regions-olivero.png?itok=yKARXC1J)
+![core Olivero theme regions](../assets/images/block-regions-olivero.png)
 
 ### Related topics
 

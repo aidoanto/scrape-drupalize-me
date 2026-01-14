@@ -30,7 +30,7 @@ Sprout Video
 
    Image
 
-   ![Page edit link](/sites/default/files/styles/max_800w/public/user_guide/images/menu-link-from-content_edit_page.png?itok=CgUJSiAE)
+   ![Page edit link](../assets/images/menu-link-from-content_edit_page.png)
 3. Click *Menu settings* on the right to expand it.
 4. Check *Provide a menu link* for the menu options to appear.
 5. Enter values from the table below:
@@ -44,12 +44,12 @@ Sprout Video
 
    Image
 
-   ![Creating a menu link from within the content edit form](/sites/default/files/styles/max_800w/public/user_guide/images/menu-link-from-content.png?itok=YaVVPum6)
+   ![Creating a menu link from within the content edit form](../assets/images/menu-link-from-content.png)
 6. Click *Save* to save the changes. Click *Home* or *Return to site* in the navigation bar to see the result, which could look like the picture below.
 
    Image
 
-   ![Link has been added to the main menu](/sites/default/files/styles/max_800w/public/user_guide/images/menu-link-from-content-result.png?itok=YIV10F9U)
+   ![Link has been added to the main menu](../assets/images/menu-link-from-content-result.png)
 
 ### Expand your understanding
 

@@ -55,7 +55,7 @@ Example of a Songwhip media entity attached to an Article node:
 
 Image
 
-![Screenshot showing an article node with a Songwhip page embedded as an iFrame. Shows an album cover and links to various streaming services.](/sites/default/files/styles/max_800w/public/tutorials/images/songwhip-embed-example.png?itok=5ULyCZGH)
+![Screenshot showing an article node with a Songwhip page embedded as an iFrame. Shows an album cover and links to various streaming services.](../assets/images/songwhip-embed-example.png)
 
 The Songwhip.com API takes a URL for an album copied from a service like Spotify or Apple Music and returns details about the album, and links to that same album from other streaming music services. Here's an example API request:
 

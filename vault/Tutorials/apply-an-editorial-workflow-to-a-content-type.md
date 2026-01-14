@@ -47,7 +47,7 @@ In the Manage administration menu navigate to *Configuration* > *Workflows* (*ad
 
 Image
 
-![Workflows](/sites/default/files/styles/max_800w/public/tutorials/images/workflows.png?itok=IBkdc0bc)
+![Workflows](../assets/images/workflows.png)
 
 ### Edit the workflow
 
@@ -55,7 +55,7 @@ Click the *Edit* button for the *Copy editing required* workflow. (Or whichever 
 
 Image
 
-![Editorial workflow configuration page](/sites/default/files/styles/max_800w/public/tutorials/images/edit-workflow.png?itok=a7fZjbaB)
+![Editorial workflow configuration page](../assets/images/edit-workflow.png)
 
 ### Configure the workflow to apply to a content type
 
@@ -63,7 +63,7 @@ In the section, *This workflow applies to:*, click the button labeled *Select* i
 
 Image
 
-![Form for choosing a content type, shows checkboxes for each content type, article and basic page, and a Save button.](/sites/default/files/styles/max_800w/public/tutorials/images/edit-workflow-choose-content-type.png?itok=ux2hqLjr)
+![Form for choosing a content type, shows checkboxes for each content type, article and basic page, and a Save button.](../assets/images/edit-workflow-choose-content-type.png)
 
 This will open a form in a modal window which lists the content types configured for your site. Click the checkbox next to any content types you want this workflow to apply to. Then click the button labeled *Save* to save your changes.
 

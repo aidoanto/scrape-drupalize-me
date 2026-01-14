@@ -44,7 +44,7 @@ Example:
 
 Image
 
-![Screenshot of Manage display section of Basic page content type](/sites/default/files/styles/max_800w/public/tutorials/images/basic_page_fields.png?itok=_JilcsCQ)
+![Screenshot of Manage display section of Basic page content type](../assets/images/basic_page_fields.png)
 
 ### Create the *Hero* and *CTA* view modes
 
@@ -52,7 +52,7 @@ Go to *Structure* > *Display modes* > *View modes* > *Add view mode* (*admin/str
 
 Image
 
-![Screenshot of adding Hero view mode](/sites/default/files/styles/max_800w/public/tutorials/images/add_hero_view_mode.png?itok=8TMdwcGg)
+![Screenshot of adding Hero view mode](../assets/images/add_hero_view_mode.png)
 
 Repeat the same actions to create a *CTA* view mode.
 
@@ -60,7 +60,7 @@ When you are done, you should see something like below in the view modes section
 
 Image
 
-![Screenshot of view modes for content](/sites/default/files/styles/max_800w/public/tutorials/images/view_modes.png?itok=0iM5lpeC)
+![Screenshot of view modes for content](../assets/images/view_modes.png)
 
 ### Set up *Hero* view mode fields for Basic page content type
 
@@ -68,13 +68,13 @@ Navigate to the *Manage display* tab for the *Basic page* content type (*admin/s
 
 Image
 
-![Screenshot of view modes in manage display section of content types](/sites/default/files/styles/max_800w/public/tutorials/images/manage_display_view_modes.png?itok=RIdtsQgE)
+![Screenshot of view modes in manage display section of content types](../assets/images/manage_display_view_modes.png)
 
 Once the configuration is saved, switch to the *Hero* tab and configure it to have *Hero Image* and *Hero Text* present. Hide the rest of the fields.
 
 Image
 
-![Screenshot of Hero view mode on Basic page content type](/sites/default/files/styles/max_800w/public/tutorials/images/hero_view_mode.png?itok=lVU_Nt48)
+![Screenshot of Hero view mode on Basic page content type](../assets/images/hero_view_mode.png)
 
 ### Set up *CTA* view mode fields for Basic page
 
@@ -82,7 +82,7 @@ Switch to the *CTA* tab and set it up so it has *CTA Link* and *CTA Text* displa
 
 Image
 
-![Screenshot of CTA view mode on Basic page content type](/sites/default/files/styles/max_800w/public/tutorials/images/cta_view_mode.png?itok=NQLtX2ug)
+![Screenshot of CTA view mode on Basic page content type](../assets/images/cta_view_mode.png)
 
 ### Clean up *Default* view mode
 
@@ -92,7 +92,7 @@ The final result should look something like this:
 
 Image
 
-![Screenshot of clean default layout on Basic page content type](/sites/default/files/styles/max_800w/public/tutorials/images/clean_default_layout.png?itok=2WUXj74I)
+![Screenshot of clean default layout on Basic page content type](../assets/images/clean_default_layout.png)
 
 ### Install *ctools* and *ctools blocks* module
 
@@ -112,13 +112,13 @@ Navigate to the *Manage display* tab for the *Basic page* content type (*admin/s
 
 Image
 
-![Screenshot of add section area of Layout Builder UI](/sites/default/files/styles/max_800w/public/tutorials/images/add_hero_section.png?itok=-SIflO0Y)
+![Screenshot of add section area of Layout Builder UI](../assets/images/add_hero_section.png)
 
 Repeat these steps and add a *Two column* section named *Content* with *25%/75%* width for columns.
 
 Image
 
-![Screenshot of add section area of Layout Builder UI - for content](/sites/default/files/styles/max_800w/public/tutorials/images/add_content_section.png?itok=4i1It89s)
+![Screenshot of add section area of Layout Builder UI - for content](../assets/images/add_content_section.png)
 
 ### Place blocks inside the sections
 
@@ -126,7 +126,7 @@ In the Layout Builder UI select the *+ Add block* button inside the *Hero* secti
 
 Image
 
-![Screenshot of placing Hero block into the Hero section](/sites/default/files/styles/max_800w/public/tutorials/images/place_hero_block.png?itok=qRwvSkjF)
+![Screenshot of placing Hero block into the Hero section](../assets/images/place_hero_block.png)
 
 Repeat the steps to create a *CTA* view mode block in the *25%* left column section.
 
@@ -134,7 +134,7 @@ Place the *Body* field inside the right *75%* section. Your final layout should 
 
 Image
 
-![Screenshot of final default Basic page layout](/sites/default/files/styles/max_800w/public/tutorials/images/final_basic_page_layout.png?itok=huR68Iga)
+![Screenshot of final default Basic page layout](../assets/images/final_basic_page_layout.png)
 
 ### Add a node and test the new layout
 
@@ -142,7 +142,7 @@ In the *Manage* administration menu navigate to *Content* > *Add content* > *Bas
 
 Image
 
-![Screenshot of final default Basic page layout with content](/sites/default/files/styles/max_800w/public/tutorials/images/test_layout_bp.png?itok=NXqkPPgW)
+![Screenshot of final default Basic page layout with content](../assets/images/test_layout_bp.png)
 
 One thing you may have noticed is that the *Title* field, in our case "Test", rendered twice: once at the top, and once above the *CTA* area. This is happening because we are rendering in the view mode. By default, the template files for the view modes that are not *Default* or *Full text* (in other words, not page view modes) are rendered with titles.
 
@@ -160,7 +160,7 @@ Using this approach allows theme developers to style individual components, like
 
 Image
 
-![Screen shot of page with hero and CTA component themed with custom styles.](/sites/default/files/styles/max_800w/public/tutorials/images/themed-components-example.png?itok=vw1jiBVL)
+![Screen shot of page with hero and CTA component themed with custom styles.](../assets/images/themed-components-example.png)
 
 Imagine that you can move the blue-and-white CTA component to another section in this layout, or use it in a different layout, and you can see how this approach is useful.
 

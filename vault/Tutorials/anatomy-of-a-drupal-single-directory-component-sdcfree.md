@@ -37,7 +37,7 @@ A *single directory component* keeps everything needed to render a UI element—
 
 Image
 
-![Diagram showing the file structure of a Drupal single directory component (SDC) named button. Inside the components/ folder is a button/ directory with: button.component.yml labeled Metadata, button.scss labeled Source styles, button.css labeled Compiled styles, button.twig labeled Template markup, and button.js labeled JavaScript.](/sites/default/files/styles/max_800w/public/tutorials/images/button-component-file-structure.png?itok=9GLKs2EY)
+![Diagram showing the file structure of a Drupal single directory component (SDC) named button. Inside the components/ folder is a button/ directory with: button.component.yml labeled Metadata, button.scss labeled Source styles, button.css labeled Compiled styles, button.twig labeled Template markup, and button.js labeled JavaScript.](../assets/images/button-component-file-structure.png)
 
 ## Where does Drupal look for components?
 
@@ -47,7 +47,7 @@ Here's a simplified example where Drupal discovers two components—`button` and
 
 Image
 
-![Diagram showing where Drupal discovers single directory components in a theme named my_theme. The top-level folder my_theme/ contains my_theme.info.yml, templates/, and components/. Inside components/ are two SDC directories: button/ and card/.](/sites/default/files/styles/max_800w/public/tutorials/images/discover-sdcs-basic.png?itok=5mfzve9S)
+![Diagram showing where Drupal discovers single directory components in a theme named my_theme. The top-level folder my_theme/ contains my_theme.info.yml, templates/, and components/. Inside components/ are two SDC directories: button/ and card/.](../assets/images/discover-sdcs-basic.png)
 
 You can nest organizational directories—e.g. *atoms/*, *molecules/*, *organisms/*—between *components/* and the component directory, but only the leaf directory—the one at the end of the path—containing a *.component.yml* file will Drupal treat as a single directory component.
 

@@ -196,7 +196,7 @@ Adding a custom field widget begins by creating a `FieldWidget` plugin. The code
 
 Image
 
-![RGB Field provided by the field example module.](/sites/default/files/styles/max_800w/public/tutorials/images/example_rgb_field.png?itok=cBxkckDN)
+![RGB Field provided by the field example module.](../assets/images/example_rgb_field.png)
 
 The field example module provides three different widgets for this new field type: a text widget which requires the user to enter a CSS-compatible hex value for the color of their choice; a more complicated text field which accepts separate values for the red, green and blue hex values; and a third widget which uses the Farbtastic color picker library included in core to help users select their color value. Each of these widgets can be found in the *field\_example/src/Plugin/Field/FieldWidget* directory.
 The first widget we'll take a look at is the basic text widget defined in *field\_example/src/Plugin/Field/FieldWidget/TextWidget.php*.
@@ -282,7 +282,7 @@ This is what this field widget looks like on an edit form:
 
 Image
 
-![Text field widget for the RGB example field](/sites/default/files/styles/max_800w/public/tutorials/images/field_example_text_widget.png?itok=3tqhI8Ne)
+![Text field widget for the RGB example field](../assets/images/field_example_text_widget.png)
 
 The second widget provided by the field example module is slightly more complex in that it provides separate text fields for each of the red, green and blue color values. This widget is defined in the file *field\_example/src/Plugin/Field/FieldWidget/Text3Widget.php*. Notice that this widget defines an attribute for the `FieldWidget` plugin and also extends `WidgetBase`. The primary difference between this widget and the `TextWidget` we've already seen is in the `formElement` method it implements.
 
@@ -386,13 +386,13 @@ Here is this widget in action on the edit form:
 
 Image
 
-![Text 3 field widget for the RGB example field](/sites/default/files/styles/max_800w/public/tutorials/images/field_example_text_3_widget.png?itok=2lf_WWTh)
+![Text 3 field widget for the RGB example field](../assets/images/field_example_text_3_widget.png)
 
 By now you can probably guess that the third widget provided by the *field\_example* module, the `ColorPickerWidget`, includes a `FieldWidget` plugin and a class that extends `WidgetBase`. The details of this implementation assume you understand [Drupal's asset library](https://drupalize.me/tutorial/what-are-libraries) system. The JavaScript added to this field widget is responsible for transforming the value from the Farbtastic color picker into a hexadecimal string. On the edit form this widget doesn't require the user to know their hex value in advance.
 
 Image
 
-![Colorpicker field widget for the RGB example field](/sites/default/files/styles/max_800w/public/tutorials/images/field_example_colorpicker_widget.png?itok=zpT1QSwV)
+![Colorpicker field widget for the RGB example field](../assets/images/field_example_colorpicker_widget.png)
 
 ## Recap
 

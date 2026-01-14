@@ -49,7 +49,7 @@ On *Extend*, locate the **Web Services** group of modules. Select the checkbox n
 
 Image
 
-![Screenshot of list of modules with RESTful Web Services and Serialization modules selected](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-install-modules.png?itok=tXM2hcMr)
+![Screenshot of list of modules with RESTful Web Services and Serialization modules selected](../assets/images/displays--rest-install-modules.png)
 
 ### Edit view
 
@@ -57,7 +57,7 @@ Now we're ready to add a new display to our view. Navigate to the Structure > Vi
 
 Image
 
-![Screenshot of list of views showing the Baseball Players view](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-edit-view.png?itok=jWhaoeBh)
+![Screenshot of list of views showing the Baseball Players view](../assets/images/displays--rest-edit-view.png)
 
 ### Add a REST export display
 
@@ -65,13 +65,13 @@ Near the top of the page, locate the **Displays** area. We have one display, *Pa
 
 Image
 
-![Screenshot of add display dropdown menu open with a list of available display plugins shown](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-add-display-dropdown.png?itok=07ya0tFF)
+![Screenshot of add display dropdown menu open with a list of available display plugins shown](../assets/images/displays--rest-add-display-dropdown.png)
 
 From the display dropdown list, select *REST export*. This will cause the page to reload. Once the reload is complete, there will be a new display, *REST export* listed on our view next to *Page*, which is now ready to edit in the Views UI. (When you add a new display to a view, the Views UI will automatically switch you to that new display.)
 
 Image
 
-![Screenshot of view edit form for a new REST export display](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-add-rest-display.png?itok=CyoUlTla)
+![Screenshot of view edit form for a new REST export display](../assets/images/displays--rest-add-rest-display.png)
 
 (You'll see an error message that says that the display uses a path but the path is undefined. We'll be configuring the path in a later step.)
 
@@ -83,13 +83,13 @@ Next to the *Serializer* format, select the *Settings* link. This will open a ne
 
 Image
 
-![Screenshot of modal window with serializer settings form](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-serializer-settings.png?itok=ul_fZ0xz)
+![Screenshot of modal window with serializer settings form](../assets/images/displays--rest-serializer-settings.png)
 
 Here we can configure the serialization format. Since we want our data to be available as JSON, select the checkbox labeled `json` beneath the **Accepted request formats** label. Select the *Apply* button.
 
 Image
 
-![Screenshot of modal window with serializer settings selected](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-serializer-configuration.png?itok=Q5ws3U9p)
+![Screenshot of modal window with serializer settings selected](../assets/images/displays--rest-serializer-configuration.png)
 
 ### Change format *Show* value from `Entity` to `Fields`
 
@@ -101,13 +101,13 @@ Within the modal window, select the *Fields* radio button. Now select the *Apply
 
 Image
 
-![Screenshot of modal window for the Shown option with the Fields value selected](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-change-shown-fields.png?itok=xpcc2ZQq)
+![Screenshot of modal window for the Shown option with the Fields value selected](../assets/images/displays--rest-change-shown-fields.png)
 
 This will open a new modal window where we can configure how our data is output even further. Out of the box, the *REST export: Row style options* allow you to provide an alias for each field shown in our data. This is a useful setting for simplifying the output of our display for consumers, but for now select the *Apply* button to continue without configuring any aliases.
 
 Image
 
-![Screenshot of fields configuration modal window](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-configure-fields-settings.png?itok=ZdIbX6UE)
+![Screenshot of fields configuration modal window](../assets/images/displays--rest-configure-fields-settings.png)
 
 ### Configure display path
 
@@ -115,7 +115,7 @@ With our output configured, we need to provide a path for the our REST endpoint.
 
 Image
 
-![Screenshot of path configuration modal window](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-path-modal.png?itok=YL-nVXGc)
+![Screenshot of path configuration modal window](../assets/images/displays--rest-path-modal.png)
 
 It's common practice to begin an API endpoint path with `api` followed by a version number, e.g. `v1` or `1.0`, then some path that describes the data. For example, we could set the path to `api/v1/baseball-players`.
 
@@ -123,13 +123,13 @@ Change the value of the *Path* field to `api/v1/baseball-players`, then select t
 
 Image
 
-![Screenshot of path configuration with value set](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-configure-path.png?itok=9-10hzef)
+![Screenshot of path configuration with value set](../assets/images/displays--rest-configure-path.png)
 
 Now we are able to preview our display output. Scroll down to the **Preview** area. Notice that the view looks like a lot of plain text code. You might recognize the unformatted text as JSON. That's perfect! We've created a REST export display that outputs JSON data using the Views module.
 
 Image
 
-![Screenshot of preview of our new display showing JSON data](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-preview.png?itok=igcafkVl)
+![Screenshot of preview of our new display showing JSON data](../assets/images/displays--rest-preview.png)
 
 ### Save the view
 
@@ -139,13 +139,13 @@ There we have it. We've added a new REST export display to our view that provide
 
 Image
 
-![Screenshot of raw JSON output for our new REST export Display](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-final-raw.png?itok=x-rQHah3)
+![Screenshot of raw JSON output for our new REST export Display](../assets/images/displays--rest-final-raw.png)
 
 Note: If you often find yourself reviewing JSON data in your browser, look for a good browser plugin that can make this data much easier to read. Here is a screenshot of the same dataset with a JSON browser extension enabled.
 
 Image
 
-![Screenshot of pretty JSON output for our new REST export Display using browser extension](/sites/default/files/styles/max_800w/public/tutorials/images/displays--rest-final-pretty.png?itok=nFVY2jkO)
+![Screenshot of pretty JSON output for our new REST export Display using browser extension](../assets/images/displays--rest-final-pretty.png)
 
 ## Recap
 

@@ -227,13 +227,13 @@ Your view should look something like the screenshot below:
 
 Image
 
-![Screenshot of news view using accordion style plugin](/sites/default/files/styles/max_800w/public/tutorials/images/accordion_view.png?itok=0rRVIW4I)
+![Screenshot of news view using accordion style plugin](../assets/images/accordion_view.png)
 
 Scroll down to the preview area, and you should see your news items being rendered as accordions:
 
 Image
 
-![Screenshot of news view preview using accordion style plugin](/sites/default/files/styles/max_800w/public/tutorials/images/accordion_view_preview.png?itok=kmI4zp59)
+![Screenshot of news view preview using accordion style plugin](../assets/images/accordion_view_preview.png)
 
 ## Recap
 

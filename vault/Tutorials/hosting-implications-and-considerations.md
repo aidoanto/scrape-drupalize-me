@@ -24,7 +24,7 @@ There are three primary ways to build a Drupal site. Monolithic, which is to say
 
 Image
 
-![Future of decoupled Drupal](/sites/default/files/styles/max_800w/public/tutorials/images/future-decoupled-drupal-traditional-vs-decoupled.jpg?itok=lOhA-v5Q)
+![Future of decoupled Drupal](../assets/images/future-decoupled-drupal-traditional-vs-decoupled.jpg)
 
 ## Hosting options
 

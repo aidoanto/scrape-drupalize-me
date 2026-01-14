@@ -36,7 +36,7 @@ Consider the file *node.html.twig*. Any time a node is displayed on your site, t
 
 Image
 
-![Image of page displaying one node with node highlighted to show template usage](/sites/default/files/styles/max_800w/public/tutorials/images/concept-template-node-single.png?itok=HSz4pBZh)
+![Image of page displaying one node with node highlighted to show template usage](../assets/images/concept-template-node-single.png)
 
 The illustration above shows the part of the page that the *node.html.twig* template file is responsible for outputting. In this case it's the primary page content but not things like the logo or main menu.
 
@@ -70,7 +70,7 @@ Let's say we've got a theme named *Ice Cream (icecream)*, which specifies Classy
 
 Image
 
-![Image of page displaying many nodes with nodes highlighted to show template usage](/sites/default/files/styles/max_800w/public/tutorials/images/concept-template-node-many.png?itok=4jGdoVei)
+![Image of page displaying many nodes with nodes highlighted to show template usage](../assets/images/concept-template-node-many.png)
 
 The illustration above shows how a single *node.html.twig* template file is used to generate the output for three different nodes (in teaser mode) all presented on the same page.
 

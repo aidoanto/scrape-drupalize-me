@@ -10,4 +10,4 @@ guide: "[[docker-drupal-developers]]"
 
 Image
 
-![](/sites/default/files/styles/max_800w/public/tutorial_icons/docker-icon-white_3.png?itok=zl0yDPBM)
+![](../assets/images/docker-icon-white_3.png)

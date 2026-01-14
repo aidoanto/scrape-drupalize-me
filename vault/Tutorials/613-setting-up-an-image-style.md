@@ -43,7 +43,7 @@ Sprout Video
 
    Image
 
-   ![Add an image style](/sites/default/files/styles/max_800w/public/user_guide/images/structure-image-style-create-add-style.png?itok=Cwcae3ux)
+   ![Add an image style](../assets/images/structure-image-style-create-add-style.png)
 8. In the *Manage* administrative menu, navigate to *Structure* > *Content types* (*admin/structure/types*).
 9. Click *Manage display* in the *Operations* dropdown for the Vendor content type. The *Manage display* page (*admin/structure/types/manage/vendor/display*) appears.
 10. Ensure that the secondary tab *Default* is selected.
@@ -57,7 +57,7 @@ Sprout Video
 
     Image
 
-    ![Change field formatter settings of image field](/sites/default/files/styles/max_800w/public/user_guide/images/structure-image-style-create-manage-display.png?itok=R20wtrdu)
+    ![Change field formatter settings of image field](../assets/images/structure-image-style-create-manage-display.png)
 13. Click *Update*.
 14. Click *Save*. The new image style will be used while displaying Vendor content.
 15. Open a Vendor content item and verify that it now shows up with the scaled-down image. See [Section 5.3, “Editing a Content Item”](https://drupalize.me/tutorial/user-guide/content-edit "5.3. Editing a Content Item") for information on how to locate an existing content item.

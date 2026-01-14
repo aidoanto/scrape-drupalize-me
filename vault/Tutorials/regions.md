@@ -36,7 +36,7 @@ Themes define regions. Since the theme ultimately controls the layout of a page,
 
 Image
 
-![Screenshot of Bartik regions demo](/sites/default/files/styles/max_800w/public/tutorials/images/bartik-regions-demo.png?itok=nLqYACZa)
+![Screenshot of Bartik regions demo](../assets/images/bartik-regions-demo.png)
 
 ## Plan your theme's regions
 
@@ -74,7 +74,7 @@ One of the best ways to get an idea of what regions your theme is going to need 
 
 Image
 
-![Image showing page with blocks highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/concept-regions-blocks.png?itok=TD_VHsn5)
+![Image showing page with blocks highlighted](../assets/images/concept-regions-blocks.png)
 
 When doing an exercise like this it is important to look at more than one page. Different pages have different content and layout needs. Look for elements that are common to many pages like headers, navigation, and footer, as well as those that only appear in specific designs like a hero image, or a list of "More like this" content at the bottom of an article.
 
@@ -82,7 +82,7 @@ Once you've begun to figure out the blocks on your site, you can begin to think 
 
 Image
 
-![Another image demonstrating regions](/sites/default/files/styles/max_800w/public/tutorials/images/concept-regions-regions.png?itok=XtEa_wXf)
+![Another image demonstrating regions](../assets/images/concept-regions-regions.png)
 
 ### Planning regions for a responsive design
 
@@ -92,13 +92,13 @@ When planning out your regions, keep in mind how the content placed in each regi
 
 Image
 
-![region demonstration](/sites/default/files/styles/max_800w/public/tutorials/images/concept-regions_03.png?itok=5r6Y0dTP)
+![region demonstration](../assets/images/concept-regions_03.png)
 
 #### Figure 2
 
 Image
 
-![region demonstration](/sites/default/files/styles/max_800w/public/tutorials/images/concept-regions_07.png?itok=mJwYV_N-)
+![region demonstration](../assets/images/concept-regions_07.png)
 
 In order to accommodate the smaller layout you'll likely want to create three distinct regions. One holds content, one holds items that appear above the content on mobile devices, and another holds content that appears below the content on mobile devices. Because all blocks placed into a region are grouped together inside of a containing `<div>` that corresponds to the region, this makes the process of creating flexible layouts like this in CSS much easier. It also ensures that when an administrator is adding a new block that wasn't accounted for in the original designs, that it's easy for them to select where that block will appear in the page flow.
 

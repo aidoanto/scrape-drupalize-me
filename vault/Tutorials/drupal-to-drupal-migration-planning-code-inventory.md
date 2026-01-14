@@ -43,7 +43,7 @@ Here's an example of the spreadsheet I created for tracking the modules on Drupa
 
 Image
 
-![Screenshot of example migration tracking spreadsheet](/sites/default/files/styles/max_800w/public/tutorials/images/migration-planning-spreadsheet-example.png?itok=VFvstQRA)
+![Screenshot of example migration tracking spreadsheet](../assets/images/migration-planning-spreadsheet-example.png)
 
 And here's an example from our Drupal-to-Drupal Migration workshop: <https://docs.google.com/spreadsheets/d/1zFKymH1rbZ8PNom7XdE6FkQrXQDtsKtFQQzdiK4tLVg/edit?usp=sharing>
 

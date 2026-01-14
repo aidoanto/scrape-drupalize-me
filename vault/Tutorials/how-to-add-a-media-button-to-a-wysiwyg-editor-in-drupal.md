@@ -48,7 +48,7 @@ In the *Toolbar configuration* section, drag the *Insert item from Media Library
 
 Image
 
-![CKEditor configuration widget showing the media button added to the active toolbar configuration.](/sites/default/files/styles/max_800w/public/tutorials/images/ckeditor-configure.png?itok=LiqSrxQt)
+![CKEditor configuration widget showing the media button added to the active toolbar configuration.](../assets/images/ckeditor-configure.png)
 
 ### Remove the "insert image" button
 
@@ -62,7 +62,7 @@ Under the *Enabled filters* section, check the box for *Embed media*. This filte
 
 Image
 
-![Configuration form for the Media embed filter with default values selected for all fields.](/sites/default/files/styles/max_800w/public/tutorials/images/ckeditor-configure-filter.png?itok=-vM5BLAp)
+![Configuration form for the Media embed filter with default values selected for all fields.](../assets/images/ckeditor-configure-filter.png)
 
 Under *Filter processing order*, make sure the *Embed media* filter is last.
 
@@ -100,7 +100,7 @@ On the form for editing a content item, with CKEditor present, press the *Insert
 
 Image
 
-![Body field on article editing form showing CKEditor with the Insert Media button present.](/sites/default/files/styles/max_800w/public/tutorials/images/ckeditor-insert.png?itok=qeFyAV2V)
+![Body field on article editing form showing CKEditor with the Insert Media button present.](../assets/images/ckeditor-insert.png)
 
 ### Select an item to insert
 
@@ -108,7 +108,7 @@ This will open the Media Library and you can choose the Media entity to embed. N
 
 Image
 
-![Media library widget with a single image item selected](/sites/default/files/styles/max_800w/public/tutorials/images/ckeditor-insert-selected.png?itok=tSM6ZZpw)
+![Media library widget with a single image item selected](../assets/images/ckeditor-insert-selected.png)
 
 Select an item and press *Insert selected*.
 
@@ -116,7 +116,7 @@ The selected Media entity will be embedded into the field, and a preview rendere
 
 Image
 
-![Body field with image inserted.](/sites/default/files/styles/max_800w/public/tutorials/images/ckeditor-inserted-image.png?itok=Jv8BxvA9)
+![Body field with image inserted.](../assets/images/ckeditor-inserted-image.png)
 
 ### Edit the embedded item
 
@@ -124,7 +124,7 @@ If you press the *Edit media* button a modal window will open that allows you to
 
 Image
 
-![Modal window with configuration options for an embedded image media entity.](/sites/default/files/styles/max_800w/public/tutorials/images/ckeditor-inserted-image-edit.png?itok=omc0kxdJ)
+![Modal window with configuration options for an embedded image media entity.](../assets/images/ckeditor-inserted-image-edit.png)
 
 ## Recap
 

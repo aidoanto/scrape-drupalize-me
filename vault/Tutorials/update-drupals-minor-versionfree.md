@@ -208,7 +208,7 @@ Using the *Manage* administrative menu, navigate to *Configuration* > *Developme
 
 Image
 
-![Maintenance mode UI](/sites/default/files/styles/max_800w/public/tutorials/images/maintenance_mode.png?itok=lQ4gno5K)
+![Maintenance mode UI](../assets/images/maintenance_mode.png)
 
 ### Remove old code
 
@@ -242,13 +242,13 @@ By default, access to the *update.php* file in your codebase requires the *Admin
 
 Image
 
-![Pending update](/sites/default/files/styles/max_800w/public/tutorials/images/update_pending.png?itok=Os1_q7VN)
+![Pending update](../assets/images/update_pending.png)
 
 Once the update script has finished you'll either see confirmation that it has been completed successfully, or a series of logged errors where the update failed.
 
 Image
 
-![Successful update](/sites/default/files/styles/max_800w/public/tutorials/images/update_complete.png?itok=Zax9vitk)
+![Successful update](../assets/images/update_complete.png)
 
 With the update complete don't forget to flip the `update_free_access` setting back to `FALSE` to prevent others from being able to access your site's *update.php* through a browser.
 

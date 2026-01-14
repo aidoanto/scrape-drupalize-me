@@ -160,13 +160,13 @@ In the layout management section for the content type select the *+Add section* 
 
 Image
 
-![Screenshot of the new layout section in the UI](/sites/default/files/styles/max_800w/public/tutorials/images/new_three_column.png?itok=pTn5enPU)
+![Screenshot of the new layout section in the UI](../assets/images/new_three_column.png)
 
 Choose the new section. Add a name *New section* and save. Now you should see your new section in the layout of the content type. One thing you'll notice is that all 3 columns are currently rendered one on top of another and don't have different widths applied to them. This is because you will need to add CSS to achieve the desired layout.
 
 Image
 
-![Screenshot of the new layout section placed](/sites/default/files/styles/max_800w/public/tutorials/images/three_column_rendered.png?itok=eUCuE44K)
+![Screenshot of the new layout section placed](../assets/images/three_column_rendered.png)
 
 ## Recap
 

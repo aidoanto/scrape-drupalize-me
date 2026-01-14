@@ -64,7 +64,7 @@ Once applied, no further work is needed to use autocomplete. We do not need to r
 
 Image
 
-![Screenshot of search results autocomplete results](/sites/default/files/styles/max_800w/public/tutorials/images/Autocomplete.png?itok=JNciq7nZ)
+![Screenshot of search results autocomplete results](../assets/images/Autocomplete.png)
 
 ### Customizing autocomplete
 

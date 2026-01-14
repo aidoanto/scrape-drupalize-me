@@ -70,7 +70,7 @@ Example:
 
 Image
 
-![Screenshot of the Field List page in the UI listing fields in the system](/sites/default/files/styles/max_800w/public/tutorials/images/data--entity-read_field-list.png?itok=iNaxtRGc)
+![Screenshot of the Field List page in the UI listing fields in the system](../assets/images/data--entity-read_field-list.png)
 
 ## Accessing field data
 

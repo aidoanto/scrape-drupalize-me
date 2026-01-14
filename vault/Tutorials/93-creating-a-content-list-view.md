@@ -49,7 +49,7 @@ Sprout Video
 
    Image
 
-   ![Add new view wizard](/sites/default/files/styles/max_800w/public/user_guide/images/views-create-wizard.png?itok=gH5_BTts)
+   ![Add new view wizard](../assets/images/views-create-wizard.png)
 3. Click *Save and edit*. The view configuration page appears.
 4. Under *Fields*, click *Add* from the dropdown button. The *Add fields* pop-up appears.
 5. Enter the word "image" in the search field.
@@ -86,12 +86,12 @@ Sprout Video
 
     Image
 
-    ![Vendors view configuration page](/sites/default/files/styles/max_800w/public/user_guide/images/views-create-view.png?itok=KT5ZUiXX)
+    ![Vendors view configuration page](../assets/images/views-create-view.png)
 24. Navigate to the homepage and click Vendors from the main navigation to see the result.
 
     Image
 
-    ![Vendors view output](/sites/default/files/styles/max_800w/public/user_guide/images/views-create-view-output.png?itok=vslN1Ei_)
+    ![Vendors view output](../assets/images/views-create-view-output.png)
 
 ### Expand your understanding
 

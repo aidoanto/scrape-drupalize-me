@@ -43,7 +43,7 @@ All plugin managers are implementations of the `\Drupal\Component\Plugin\PluginM
 
 Image
 
-![PluginManagerInterface inheritance diagram](/sites/default/files/styles/max_800w/public/tutorials/images/PluginManagerInterface-diagram.png?itok=p-dDgoyA)
+![PluginManagerInterface inheritance diagram](../assets/images/PluginManagerInterface-diagram.png)
 
 Core already provides various implementations of these component interfaces, and when writing your own custom plugin manager you're more likely to make use of these existing components and just wire them together with information about your specific plugin type. The best way to do that is by extending `\Drupal\Core\Plugin\DefaultPluginManager`, and using that as the basis for your custom plugin manager.
 
@@ -118,7 +118,7 @@ class PluginTypeExampleController extends ControllerBase {
 
 Image
 
-![Diagram showing SandwichPluginManager methods and which class they are inherited from.](/sites/default/files/styles/max_800w/public/tutorials/images/SandwichPluginManager-diagram.png?itok=koIxStJp)
+![Diagram showing SandwichPluginManager methods and which class they are inherited from.](../assets/images/SandwichPluginManager-diagram.png)
 
 ## List all plugins of a specific type
 

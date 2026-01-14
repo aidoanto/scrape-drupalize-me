@@ -42,7 +42,7 @@ Here is the finished product of placing our asset library *retro* on the homepag
 
 Image
 
-![Retro library in action](/sites/default/files/styles/max_800w/public/tutorials/images/retro-olivero.gif?itok=TyLpvT_N)
+![Retro library in action](../assets/images/retro-olivero.gif)
 
 ## Watch a video of attaching an asset library
 
@@ -56,7 +56,7 @@ For example, if the theme `bartik` defined an asset library called `global-styli
 
 Image
 
-![Asset library name in THEME.libraries.yml](/sites/default/files/styles/max_800w/public/tutorials/images/asset-library-naming.png?itok=Q5ax1PGc)
+![Asset library name in THEME.libraries.yml](../assets/images/asset-library-naming.png)
 
 ## Attach an asset library globally
 

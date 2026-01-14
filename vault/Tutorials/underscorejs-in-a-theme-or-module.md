@@ -48,7 +48,7 @@ Before we dig into an example, let's set up the problem we're going to solve. In
 
 Image
 
-![https://www.drupal.org/project/usage](/sites/default/files/styles/max_800w/public/tutorials/images/project_usage.png?itok=75wTeXaw)
+![https://www.drupal.org/project/usage](../assets/images/project_usage.png)
 
 Rather than just scraping this HTML, we can make use of [the API provided by Drupal.org](https://www.drupal.org/drupalorg/api). We're going to be querying by node type (`project_module`) and then sorting the results by `field_download_count` to see the most popular modules first. The URL we're interested in is:
 
@@ -98,7 +98,7 @@ By passing the JSON along from the Drupal.org API, it will be available in our f
 
 Image
 
-![doProjects snippet](/sites/default/files/styles/max_800w/public/tutorials/images/drupalsettings.doprojects.snip_.png?itok=gM6REZDh)
+![doProjects snippet](../assets/images/drupalsettings-doprojects-snip_.png)
 
 ## Filter the JSON object with Underscore.js
 
@@ -158,7 +158,7 @@ After enabling our custom module, and adding our new block to the second sidebar
 
 Image
 
-![module count block](/sites/default/files/styles/max_800w/public/tutorials/images/module_count_block.png?itok=6qObTarW)
+![module count block](../assets/images/module_count_block.png)
 
 While this example may seem a bit contrived, the Underscore.js library can greatly simplify your code any time you're dealing with relatively large and complex JSON objects. The library contains more than 100 utility functions for making your JavaScript more functional. To further your understanding of Underscore, try improving on the example `doProjects.js` by using the `filter` method.
 

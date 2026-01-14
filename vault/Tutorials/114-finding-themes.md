@@ -37,12 +37,12 @@ Sprout Video
 
    Image
 
-   ![Filters on the theme search page on Drupal.org](/sites/default/files/styles/max_800w/public/user_guide/images/extend-theme-find_theme_finder.png?itok=bazpWBj_)
+   ![Filters on the theme search page on Drupal.org](../assets/images/extend-theme-find_theme_finder.png)
 3. Click *Search*. Search results will appear.
 
    Image
 
-   ![The search results page on Drupal.org](/sites/default/files/styles/max_800w/public/user_guide/images/extend-theme-find_search_results.png?itok=MK8PjQw0)
+   ![The search results page on Drupal.org](../assets/images/extend-theme-find_search_results.png)
 4. To further evaluate a theme, click its title in the list of search results to visit its project page.
 
 Some aspects to pay attention to while evaluating themes:

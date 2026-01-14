@@ -44,7 +44,7 @@ Navigation instructions like this assume that you have the core Toolbar module i
 
 Image
 
-![Admin menu](/sites/default/files/styles/max_800w/public/user_guide/images/preface-conventions-top-menu.png?itok=OdM9-NBx)
+![Admin menu](../assets/images/preface-conventions-top-menu.png)
 
 Here’s another example:
 
@@ -54,7 +54,7 @@ In this example, after clicking on *Manage* and *Configuration*, you would need 
 
 Image
 
-![System section of the Configuration page](/sites/default/files/styles/max_800w/public/user_guide/images/preface-conventions-config-system.png?itok=yJ7HPdn4)
+![System section of the Configuration page](../assets/images/preface-conventions-config-system.png)
 
 One other note: if you are using the standard administrative core Seven theme, many "Add" buttons in the administrative interface are displayed with + signs on them. For instance, on admin/content, the Add new content button appears as *+ Add new content*. However, this is theme-dependent and is not really part of the text on the button (for instance, it would not necessarily be read by a screen reader), so in this guide, the convention is to not mention the + sign on the buttons.
 

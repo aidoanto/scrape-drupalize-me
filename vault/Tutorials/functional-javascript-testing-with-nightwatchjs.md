@@ -41,7 +41,7 @@ In the Drupalize.Me codebase we have a separate directory for all of the code an
 
 Image
 
-![Nightwatch directory file organization](/sites/default/files/styles/max_800w/public/tutorials/images/nightwatch_directory.png?itok=_YvGoXay)
+![Nightwatch directory file organization](../assets/images/nightwatch_directory.png)
 
 Notice that we're using a `nightwatch.config.js` to pass along configuration information to Nightwatch at run time. There are a couple of options we can use to specify additional configuration information. The easiest method is to create a nightwatch.json file in the directory that will contain our tests. This approach has some drawbacks that you're likely to encounter relatively quickly. Instead of creating a `nightwatch.json` file for our configuration we'll create a file called `nightwatch.config.js`. Our configuration will be exported as a JavaScript module. If you're unfamiliar with modules in JavaScript, they are a mechanism you can use to share code. The [Eloquent JavaScript site](https://eloquentjavascript.net/10_modules.html) has a great introduction to this module concept if it is new to you. For now, we'll simply start our configuration file by creating the skeleton of a module in the `nightwatch.config.js` file.
 

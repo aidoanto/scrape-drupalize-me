@@ -42,7 +42,7 @@ This assumes that you are using Composer to manage the files in your site; see [
 
 Image
 
-![Available updates](/sites/default/files/styles/max_800w/public/user_guide/images/security-update-theme-updates.png?itok=VUcuuYqX)
+![Available updates](../assets/images/security-update-theme-updates.png)
 
 1. Determine the short name of the project you want to update. For contributed modules and themes, it is the last part of the URL of the project page; for example, the Honey theme, at <https://www.drupal.org/project/honey>, has short name `honey`.
 2. If you want to update to the latest stable release, use the following command, substituting the short name of the project to be updated for `honey`:

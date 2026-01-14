@@ -40,13 +40,13 @@ Next, locate the view named *Baseball Awards* and select the dropdown arrow next
 
 Image
 
-![Screenshot of list of views](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--duplicate-view.png?itok=BVGz2p-n)
+![Screenshot of list of views](../assets/images/filters-sorts-add-items--duplicate-view.png)
 
 Name the new view **`Baseball Awards - Outfielders`** and select *Duplicate*.
 
 Image
 
-![Screenshot of renaming duplicated view](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--rename-view.png?itok=MgNnToqJ)
+![Screenshot of renaming duplicated view](../assets/images/filters-sorts-add-items--rename-view.png)
 
 ### Update the title
 
@@ -54,7 +54,7 @@ In the first column, select the view title link to open a modal window where we 
 
 Image
 
-![Screenshot of changing the view's title](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--change-title.png?itok=Lts-tR0A)
+![Screenshot of changing the view's title](../assets/images/filters-sorts-add-items--change-title.png)
 
 ### Update the path
 
@@ -62,7 +62,7 @@ In the second column, select the view's path link under **Page Settings** to ope
 
 Image
 
-![Screenshot of changing the path to the view](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--change-path.png?itok=5wqQOlm1)
+![Screenshot of changing the path to the view](../assets/images/filters-sorts-add-items--change-path.png)
 
 ### Save the view
 
@@ -86,7 +86,7 @@ In the first column next to the section title **Filter Criteria**, select the *A
 
 Image
 
-![Screenshot of modal window with list of fields available as filters](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--add-filter.png?itok=YFXfs6zc)
+![Screenshot of modal window with list of fields available as filters](../assets/images/filters-sorts-add-items--add-filter.png)
 
 ### Add *Notes* as a filter criterion
 
@@ -96,7 +96,7 @@ Note: When dealing with a large number of fields, it may be easier to find a spe
 
 Image
 
-![Screenshot of modal window with the Notes field selected](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--select-notes-filter.png?itok=lazQWHiZ)
+![Screenshot of modal window with the Notes field selected](../assets/images/filters-sorts-add-items--select-notes-filter.png)
 
 ### Add filter criterion for "Left Fielder" (LF)
 
@@ -107,7 +107,7 @@ After selecting filters to add, we need to configure them. In our filter configu
 
 Image
 
-![Screenshot of filter configuration modal window](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filter-options-overview.png?itok=gqFlqE7T)
+![Screenshot of filter configuration modal window](../assets/images/filters-sorts-add-items--filter-options-overview.png)
 
 In this example, we want our new filter to find Player Awards where the Notes field **`is equal to`** the value **`LF`** for the position "Left Fielder".
 
@@ -122,7 +122,7 @@ Then select the *Apply* button.
 
 Image
 
-![Screenshot of filter configured to find the value LF](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filter-notes-LF.png?itok=QHuo3-RA)
+![Screenshot of filter configured to find the value LF](../assets/images/filters-sorts-add-items--filter-notes-LF.png)
 
 ### Add filter criterion for "Center Fielder" (CF)
 
@@ -141,7 +141,7 @@ Now, select the *Apply* button.
 
 Image
 
-![Screenshot of filter configured to find the value CF](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filter-notes-CF.png?itok=uYvpZvvK)
+![Screenshot of filter configured to find the value CF](../assets/images/filters-sorts-add-items--filter-notes-CF.png)
 
 ### Add filter criterion for "Right Fielder" (RF)
 
@@ -160,7 +160,7 @@ Select the *Apply* button.
 
 Image
 
-![Screenshot of filter configured to find the value RF](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filter-notes-RF.png?itok=4AwgNkv8)
+![Screenshot of filter configured to find the value RF](../assets/images/filters-sorts-add-items--filter-notes-RF.png)
 
 ## Results that are *too* refined
 
@@ -168,7 +168,7 @@ At this point we should have 5 total filters. One that limits the list to conten
 
 Image
 
-![Screenshot of view configuration page with our new filters added](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filters-group-in-progress.png?itok=0JDNVYEK)
+![Screenshot of view configuration page with our new filters added](../assets/images/filters-sorts-add-items--filters-group-in-progress.png)
 
 By default all filter criteria connect with a logical `AND` keyword. This means that every item in our list must pass through every added filter criterion. If we were to write our current filters criteria as a sentence, that sentence would be:
 
@@ -192,7 +192,7 @@ Next to the **Filter Criteria** section, select the dropdown arrow next to the *
 
 Image
 
-![Screenshot of the dropdown menu open and Add/Or Rearrange button visible](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filters-group-rearrange-button.png?itok=vtJTv5UV)
+![Screenshot of the dropdown menu open and Add/Or Rearrange button visible](../assets/images/filters-sorts-add-items--filters-group-rearrange-button.png)
 
 ### Create a new filter group
 
@@ -202,7 +202,7 @@ Note how at this moment, a single group with an `And` operator contains all filt
 
 Image
 
-![Screenshot of the filter rearrange modal window](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filters-rearrange-overview.png?itok=4rrswpum)
+![Screenshot of the filter rearrange modal window](../assets/images/filters-sorts-add-items--filters-rearrange-overview.png)
 
 Near the top of the modal, select the link labeled *Create new filter group*. This will add a new group to the modal that has its own operator. We can now move filters from one group to another, and change the operator for each group individually.
 
@@ -214,7 +214,7 @@ Near the top of the modal, select the link labeled *Create new filter group*. Th
 
 Image
 
-![Screenshot of the filter rearrange modal window with a new filter group created and our new filters moved to the group](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filters-group-notes-as-or.png?itok=qGgj-3MI)
+![Screenshot of the filter rearrange modal window with a new filter group created and our new filters moved to the group](../assets/images/filters-sorts-add-items--filters-group-notes-as-or.png)
 
 ### Preview the results limited to outfielders
 
@@ -222,7 +222,7 @@ We have now modified our list of content so that the value of the *Notes* field 
 
 Image
 
-![Screenshot of the view configuration page with filters grouped and a preview of the results](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--filters-groups-results-preview.png?itok=tJNKhwSO)
+![Screenshot of the view configuration page with filters grouped and a preview of the results](../assets/images/filters-sorts-add-items--filters-groups-results-preview.png)
 
 ### Save the view
 

@@ -68,7 +68,7 @@ To enable Twig debugging, in the *Manage* administration menu navigate to *Confi
 
 Image
 
-![Settings form with checkbox for enabling Twig debugging mode and disabling markup caching](/sites/default/files/styles/max_800w/public/tutorials/images/twig-debug-ui-settings.png?itok=jj0fU-Lm)
+![Settings form with checkbox for enabling Twig debugging mode and disabling markup caching](../assets/images/twig-debug-ui-settings.png)
 
 ## Exercise: Enable Twig debug mode in files
 

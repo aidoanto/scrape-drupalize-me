@@ -41,7 +41,7 @@ Sprout Video
 
    Image
 
-   ![Create a basic page](/sites/default/files/styles/max_800w/public/user_guide/images/content-create-create-basic-page.png?itok=F82xHlaE)
+   ![Create a basic page](../assets/images/content-create-create-basic-page.png)
 4. Click *Preview* to ensure everything looks like expected.
 5. Click *Back to content editing*.
 6. Click *Save*. The content is saved and can be found on the *Content* page.

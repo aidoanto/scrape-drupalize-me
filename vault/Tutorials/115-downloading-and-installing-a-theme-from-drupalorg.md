@@ -34,7 +34,7 @@ To install a contributed theme, first download the theme with Composer. Then ins
 
    Image
 
-   ![Finding the composer command for a theme](/sites/default/files/styles/max_800w/public/user_guide/images/extend-theme-install-download.png?itok=hByf_syT)
+   ![Finding the composer command for a theme](../assets/images/extend-theme-install-download.png)
 3. Alternatively, type the following command (substituting the short name of the theme and desired version for `honey:^1.0`):
 
    ```screen
@@ -50,7 +50,7 @@ To install a contributed theme, first download the theme with Composer. Then ins
 
    Image
 
-   ![Uninstalled themes on Appearance page](/sites/default/files/styles/max_800w/public/user_guide/images/extend-theme-install-appearance-page.png?itok=f3ceJIoJ)
+   ![Uninstalled themes on Appearance page](../assets/images/extend-theme-install-appearance-page.png)
 
 #### Install the theme using Drush
 

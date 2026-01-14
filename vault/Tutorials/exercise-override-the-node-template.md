@@ -45,7 +45,7 @@ Example:
 
 Image
 
-![Screenshot showing image field of an article node displayed above the body content with a red border around it to indicate that it is in its own container.](/sites/default/files/styles/max_800w/public/tutorials/images/article-node-image-example.png?itok=eZK42iIo)
+![Screenshot showing image field of an article node displayed above the body content with a red border around it to indicate that it is in its own container.](../assets/images/article-node-image-example.png)
 
 ### Override the node template
 

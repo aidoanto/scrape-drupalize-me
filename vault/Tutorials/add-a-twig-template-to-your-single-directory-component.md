@@ -291,7 +291,7 @@ To see this SDC in action, update the *node--card.html.twig* template file (crea
 
 Image
 
-![Screenshot of card component in all its unstyled glory](/sites/default/files/styles/max_800w/public/tutorials/images/add-twig-card-component.png?itok=hn7G4Mmm)
+![Screenshot of card component in all its unstyled glory](../assets/images/add-twig-card-component.png)
 
 ### Clear the cache
 

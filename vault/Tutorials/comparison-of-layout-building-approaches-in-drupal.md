@@ -55,7 +55,7 @@ The second referenced item might be a *Slider*, and the third can be a *Full HTM
 
 Image
 
-![Screenshot of multivalued entity reference approach](/sites/default/files/styles/max_800w/public/tutorials/images/multivalue_er.png?itok=VIgtPfZc)
+![Screenshot of multivalued entity reference approach](../assets/images/multivalue_er.png)
 
 This can be expanded with a few improvements. Using the [Inline Entity Form](https://www.drupal.org/project/inline_entity_form) module will allow for the creation of the helper child nodes from within the parent node's form.
 
@@ -97,7 +97,7 @@ The content authoring form using this setup looks something like the following:
 
 Image
 
-![Screenshot of paragraphs setup](/sites/default/files/styles/max_800w/public/tutorials/images/paragraphs.png?itok=uux1oQAI)
+![Screenshot of paragraphs setup](../assets/images/paragraphs.png)
 
 ### Advantages
 
@@ -135,7 +135,7 @@ An example setup of Bricks can look something like the following:
 
 Image
 
-![Screenshot of Bricks setup](/sites/default/files/styles/max_800w/public/tutorials/images/bricks.png?itok=wTfBhnUC)
+![Screenshot of Bricks setup](../assets/images/bricks.png)
 
 You notice that in *Bricks* setup there is an ability to switch view modes for each brick as well as add additional CSS classes right from the UI. This is useful when a front-end framework like Bootstrap is being used; application of different classes allows for different style results without the need for extra code.
 

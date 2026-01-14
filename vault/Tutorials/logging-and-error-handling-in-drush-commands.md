@@ -52,7 +52,7 @@ Examples of the output of various log message types:
 
 Image
 
-![Screenshot of command line with the logged messages of different types](/sites/default/files/styles/max_800w/public/tutorials/images/logger_messages.png?itok=JIKKadPk)
+![Screenshot of command line with the logged messages of different types](../assets/images/logger_messages.png)
 
 Below we'll provide more details about each message type, and how to implement them in your code.
 

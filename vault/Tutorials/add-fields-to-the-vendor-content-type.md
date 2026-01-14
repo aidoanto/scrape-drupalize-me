@@ -43,13 +43,13 @@ Here's an example of the UI we're working on:
 
 Image
 
-![Screenshot of simplified attendance form UI](/sites/default/files/styles/max_800w/public/tutorials/images/data--setup-content-types_form-example.png?itok=Qeu2KMVT)
+![Screenshot of simplified attendance form UI](../assets/images/data--setup-content-types_form-example.png)
 
 And the Vendor content type with additional fields:
 
 Image
 
-![Screenshot of Vendor content type with new fields](/sites/default/files/styles/max_800w/public/tutorials/images/data--setup-content-types_vendor-example.png?itok=dBa7opvm)
+![Screenshot of Vendor content type with new fields](../assets/images/data--setup-content-types_vendor-example.png)
 
 ## Add the required fields
 

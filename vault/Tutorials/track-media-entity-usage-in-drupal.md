@@ -40,7 +40,7 @@ The module works by keeping track of the relationships between a source entity a
 
 Image
 
-![Diagram illustrating relationship between source and target entities via entity reference fields](/sites/default/files/styles/max_800w/public/tutorials/images/media-source-target.png?itok=uPvt-68N)
+![Diagram illustrating relationship between source and target entities via entity reference fields](../assets/images/media-source-target.png)
 
 Whenever a source entity gets created, updated, or deleted, the Entity Usage module inspects the relationship for any target entities and when it finds one creates a *usage* record.
 

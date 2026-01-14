@@ -31,7 +31,7 @@ Local task links make up the tabs you see when logged in as a site administrator
 
 Image
 
-![Local task links](/sites/default/files/styles/max_800w/public/tutorials/images/local-task-menu-links.png?itok=kUyqc7WK)
+![Local task links](../assets/images/local-task-menu-links.png)
 
 Like the other types of links, local tasks are added to a module by providing a YAML file. Typically we're looking for a file in the top level directory like *MODULE\_NAME.links.task.yml*. For example, the Node module provides several local tasks defined in */core/modules/node/node.links.task.yml*.
 

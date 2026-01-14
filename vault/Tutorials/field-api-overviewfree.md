@@ -30,7 +30,7 @@ From this screen you're able to further examine the field configuration of a par
 
 Image
 
-![Article field configuration settings](/sites/default/files/styles/max_800w/public/tutorials/images/field_configuration.png?itok=mQM6zf87)
+![Article field configuration settings](../assets/images/field_configuration.png)
 
 From this page you can either add new fields or edit the configuration of those that already exist. Core modules that implement the Field API hooks provide us with a variety of data types out of the box, including:
 

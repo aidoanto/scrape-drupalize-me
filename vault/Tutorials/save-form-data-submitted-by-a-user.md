@@ -160,7 +160,7 @@ Example:
 
 Image
 
-![Screenshot of successful form submission](/sites/default/files/styles/max_800w/public/tutorials/images/forms--handle-submit_success.png?itok=gJogL95L)
+![Screenshot of successful form submission](../assets/images/forms--handle-submit_success.png)
 
 In [Retrieve and Update Weather Forecast Settings](https://drupalize.me/tutorial/retrieve-and-update-weather-forecast-settings) we'll make use of the saved configuration data in our `WeatherPage` controller and elsewhere.
 

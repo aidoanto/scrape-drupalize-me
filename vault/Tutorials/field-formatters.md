@@ -41,7 +41,7 @@ Example:
 
 Image
 
-![Screenshot of the manage display page for an article content type showing an image field with the field formatter settings UI open.](/sites/default/files/styles/max_800w/public/tutorials/images/field_formatter_ui_example.png?itok=VyCVwVJJ)
+![Screenshot of the manage display page for an article content type showing an image field with the field formatter settings UI open.](../assets/images/field_formatter_ui_example.png)
 
 Field formatters are specific to [field types](https://drupalize.me/tutorial/field-types). Though many work with multiple field types. And a field type can have multiple formatters. Though only one is active at a time per view mode.
 

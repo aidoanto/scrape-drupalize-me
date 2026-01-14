@@ -34,7 +34,7 @@ To view further instructions, after downloading the updated files, look for *REA
 
 Image
 
-![Release notes link](/sites/default/files/styles/max_800w/public/user_guide/images/security-update-module-release-notes.png?itok=XSuGz2ex)
+![Release notes link](../assets/images/security-update-module-release-notes.png)
 
 Updating a module requires first putting your site into maintenance mode, then obtaining the new code files and applying any required database updates, then finally taking the site out of maintenance mode.
 
@@ -50,7 +50,7 @@ This assumes that you are using Composer to manage the files in your site; see [
 
    Image
 
-   ![Available updates](/sites/default/files/styles/max_800w/public/user_guide/images/security-update-module-updates.png?itok=SVb7OHd7)
+   ![Available updates](../assets/images/security-update-module-updates.png)
 4. Determine the short name of the project you want to update. For contributed modules and themes, it is the last part of the URL of the project page; for example, the Geofield module, at <https://www.drupal.org/project/geofield>, has short name `geofield`.
 5. If you want to update to the latest stable release, use the following command, substituting the short name of the project to be updated for `geofield`:
 

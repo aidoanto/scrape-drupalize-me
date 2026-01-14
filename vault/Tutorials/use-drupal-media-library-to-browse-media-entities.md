@@ -43,7 +43,7 @@ The Media Library module replaces the standard Media entity selection UI, which 
 
 Image
 
-![Pop-up window provided by Media Library module showing a gallery of image thumbnails you can choose from and a form to upload new images.](/sites/default/files/styles/max_800w/public/tutorials/images/media-library-widget-ui.png?itok=zmxf8esx)
+![Pop-up window provided by Media Library module showing a gallery of image thumbnails you can choose from and a form to upload new images.](../assets/images/media-library-widget-ui.png)
 
 ### Enable the Media Library module
 
@@ -87,7 +87,7 @@ Example:
 
 Image
 
-![Example of form described above.](/sites/default/files/styles/max_800w/public/tutorials/images/media-library-basic-ui.png?itok=CT1hx8hn)
+![Example of form described above.](../assets/images/media-library-basic-ui.png)
 
 With the *advanced* UI enabled, this form will show a more detailed list of the currently selected items, and you'll have two buttons: *Save and Select* which will return you to the Media Library with the new item(s) selected (in addition to any existing selected items), and *Save and Insert* which will save the new item(s), close the Media Library, and insert both the new and previously selected items into the corresponding field or editor.
 
@@ -95,7 +95,7 @@ Example:
 
 Image
 
-![Example of form described above.](/sites/default/files/styles/max_800w/public/tutorials/images/media-library-advanced-ui.png?itok=FcltteBe)
+![Example of form described above.](../assets/images/media-library-advanced-ui.png)
 
 ## Recap
 

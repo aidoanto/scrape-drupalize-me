@@ -31,7 +31,7 @@ Sprout Video
 
    Image
 
-   ![Form for creating a new user account](/sites/default/files/styles/max_800w/public/user_guide/images/user-new-user_form.png?itok=d7sahF4j)
+   ![Form for creating a new user account](../assets/images/user-new-user_form.png)
 3. Fill in the form fields. See the table below.
 
    | Field name | Explanation | Example value |
@@ -49,7 +49,7 @@ Sprout Video
 
    Image
 
-   ![New user account has been created](/sites/default/files/styles/max_800w/public/user_guide/images/user-new-user-created.png?itok=dFA7LbxH)
+   ![New user account has been created](../assets/images/user-new-user-created.png)
 5. Create a second Vendor account for Happy Farm by following the steps above.
 
 ### Expand your understanding

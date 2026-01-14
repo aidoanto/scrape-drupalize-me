@@ -31,7 +31,7 @@ Provide an introduction to the suite of media management related modules, concep
 
 Image
 
-![Example of the Media Library UI](/sites/default/files/styles/max_800w/public/tutorials/images/media-library-widget-ui.png?itok=zmxf8esx)
+![Example of the Media Library UI](../assets/images/media-library-widget-ui.png)
 
 The brief answer is: media management makes it possible for content authors to upload and reuse media assets via a common interface.
 

@@ -38,7 +38,7 @@ When trying to decide which testing framework you need to work with, there are 2
 
 Image
 
-![Graph of how to choose a Drupal testing framework.](/sites/default/files/styles/max_800w/public/tutorials/images/frameworks-which.png?itok=woBZlCYU)
+![Graph of how to choose a Drupal testing framework.](../assets/images/frameworks-which.png)
 
 - Can you test the behavior in a unit test without stubbing or mocking a lot of core functions or global constants? If yes, you want to write a *unit test*.
 - If you need to stub or mock a large amount of core behavior, can you test the behavior without performing HTTP requests? If so, then you want to write a *kernel test*.

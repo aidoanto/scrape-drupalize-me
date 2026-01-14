@@ -192,13 +192,13 @@ Each facet is made available for display as an independent block. This differs f
 
    Image
 
-   ![A screenshot showing search results with the facets block in a sidebar](/sites/default/files/styles/max_800w/public/tutorials/images/facetBlock.png?itok=LsLk-QZn)
+   ![A screenshot showing search results with the facets block in a sidebar](../assets/images/facetBlock.png)
 4. Use the facet to drill down in your search results.
 5. Notice that you have the option to deselect a previously selected facet. For the *List of links* facet type, selected facets are prefixed with `(-)`.
 
    Image
 
-   ![A screenshot closeup of the facet block, showing a selected facet](/sites/default/files/styles/max_800w/public/tutorials/images/facetSelected.png?itok=6pOmSRuy)
+   ![A screenshot closeup of the facet block, showing a selected facet](../assets/images/facetSelected.png)
 6. Deselect a previously selected facet. Notice now that the search results and the facet results now show a wider list of results.
 
 ## Recap

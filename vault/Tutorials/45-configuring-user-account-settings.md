@@ -25,19 +25,19 @@ Sprout Video
 
    Image
 
-   ![Account registration only by admin](/sites/default/files/styles/max_800w/public/user_guide/images/config-user_account_reg.png?itok=dJNtCB8v)
+   ![Account registration only by admin](../assets/images/config-user_account_reg.png)
 3. Optionally, change the default email address from which user account notifications from the farmers market website will be sent. This will help you maintain a separate email address from the one used for the website in general. For example, this email address for user account notifications will be useful for a staff member(s) communicating with vendors.
 
    Image
 
-   ![Notification email from address](/sites/default/files/styles/max_800w/public/user_guide/images/config-user_from_email.png?itok=F3ye8-GM)
+   ![Notification email from address](../assets/images/config-user_from_email.png)
 4. Optionally, edit the email templates under *Emails* to customize automated emails. There are several email templates provided by the core software. They are meant for different user-specific occasions. All of them can be personalized and three can be disabled via checkboxes: activation, blocking, and cancellation.
 
    You can send out your own text (for example, welcoming the new vendors for whom accounts were just created) by editing the *Welcome (new user created by administrator)* template.
 
    Image
 
-   ![Email notification on account events](/sites/default/files/styles/max_800w/public/user_guide/images/config-user_email.png?itok=fKErYQLd)
+   ![Email notification on account events](../assets/images/config-user_email.png)
 5. Click *Save configuration* to save the changes.
 
 ### Expand your understanding

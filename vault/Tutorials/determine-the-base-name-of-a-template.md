@@ -37,7 +37,7 @@ The typical pattern for naming template files is `{hook}--{optional context}.htm
 
 Image
 
-![Diagram illustrating how hook names are determined](/sites/default/files/styles/max_800w/public/tutorials/images/hook-name-discovery.png?itok=4-Xzii6p)
+![Diagram illustrating how hook names are determined](../assets/images/hook-name-discovery.png)
 
 You can ignore the `.html.twig` suffix. Which results in `{hook}--{optional context}`
 
@@ -69,7 +69,7 @@ Example:
 
 Image
 
-![An HTML comment output from Twig's debug feature that shows the line THEME HOOK: node highlighted.](/sites/default/files/styles/max_800w/public/tutorials/images/twig-debug-output-hook-highlighted.png?itok=lb2kvz2C)
+![An HTML comment output from Twig's debug feature that shows the line THEME HOOK: node highlighted.](../assets/images/twig-debug-output-hook-highlighted.png)
 
 In the above output the line, "THEME HOOK" contains the hook name, and indicates the base name of the template.
 

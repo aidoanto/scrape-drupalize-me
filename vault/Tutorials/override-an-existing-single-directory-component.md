@@ -53,7 +53,7 @@ Example:
 
 Image
 
-![Snippet of HTML source of page shown in browser developer tools with the component name HTML comment highlighted.](/sites/default/files/styles/max_800w/public/tutorials/images/sdc-debug-locate-component.png?itok=Z6Mrltfu)
+![Snippet of HTML source of page shown in browser developer tools with the component name HTML comment highlighted.](../assets/images/sdc-debug-locate-component.png)
 
 In this case, the component ID is `neo_brutalism:card-simple`. We can identify the project that provides the component (`neo_brutalism`) and the component name (`card-simple`), and know that we should look in the *components/* subdirectory of the project to find the directory that contains the currently used component.
 

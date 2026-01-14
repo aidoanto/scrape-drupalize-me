@@ -64,7 +64,7 @@ Every Drush command consists of 3 main user-facing parts: the command's *name* (
 
 Image
 
-![](/sites/default/files/styles/max_800w/public/tutorials/images/drush-command-anatomy.png?itok=knQMYFOQ)
+![](../assets/images/drush-command-anatomy.png)
 
 Drush commands are written in PHP, and require:
 

@@ -140,7 +140,7 @@ Example:
 
 Image
 
-![Screenshot of form showing error on the location field.](/sites/default/files/styles/max_800w/public/tutorials/images/forms--validate-input_error.png?itok=SIYvU3E0)
+![Screenshot of form showing error on the location field.](../assets/images/forms--validate-input_error.png)
 
 With this update we can ensure that the data our form collects will be in the format we need it.
 

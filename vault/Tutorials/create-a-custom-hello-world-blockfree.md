@@ -113,7 +113,7 @@ After placing the block, return to the home page, and the "Hello World" block sh
 
 Image
 
-![Screenshot of the front page of Anytown Farmer's Market site with the Hello World block placed in the sidebar region.](/sites/default/files/styles/max_800w/public/tutorials/images/hello--block_sidebar.png?itok=tgU_YGis)
+![Screenshot of the front page of Anytown Farmer's Market site with the Hello World block placed in the sidebar region.](../assets/images/hello--block_sidebar.png)
 
 ## Recap
 

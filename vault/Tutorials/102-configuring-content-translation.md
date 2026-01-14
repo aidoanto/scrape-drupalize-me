@@ -30,7 +30,7 @@ Sprout Video
 
    Image
 
-   ![Custom language settings checklist](/sites/default/files/styles/max_800w/public/user_guide/images/language-content-config_custom.png?itok=7SNS5sAD)
+   ![Custom language settings checklist](../assets/images/language-content-config_custom.png)
 3. Configuration options appear for *Content*, *Content block* and *Custom menu link*. Choose the subtypes you want to translate for each entity type. Check *Basic page* for *Content*, *Basic block* for *Content block* and *Custom menu link* for *Custom menu link*.
 4. Verify the settings for the entity types as shown below:
 
@@ -41,7 +41,7 @@ Sprout Video
 
    Image
 
-   ![Default language and translatability for content types](/sites/default/files/styles/max_800w/public/user_guide/images/language-content-config_content.png?itok=W3_v3DaI)
+   ![Default language and translatability for content types](../assets/images/language-content-config_content.png)
 5. Choose the fields that should be translatable for *Basic page* as shown in the table below. If a field is not translation-dependent, leave it unchecked.
 
    | Field name | Explanation | Example value |
@@ -58,7 +58,7 @@ Sprout Video
 
    Image
 
-   ![Translatable content entity subtypes' fields checklist](/sites/default/files/styles/max_800w/public/user_guide/images/language-content-config_basic_page.png?itok=ChtoTtvg)
+   ![Translatable content entity subtypes' fields checklist](../assets/images/language-content-config_basic_page.png)
 6. Similarly, check the appropriate boxes for translatable fields belonging to *Basic block* and *Custom menu link*.
 7. Click *Save configuration*.
 

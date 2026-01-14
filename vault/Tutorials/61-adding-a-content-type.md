@@ -34,7 +34,7 @@ Sprout Video
 
    Image
 
-   ![Adding a Content type](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-add.png?itok=PPh3J_sO)
+   ![Adding a Content type](../assets/images/structure-content-type-add.png)
 3. Under *Submission form settings*, configure the form that is used for creating and editing content of this type. Fill in the fields as shown below.
 
    | Field name | Explanation | Example value |
@@ -45,7 +45,7 @@ Sprout Video
 
    Image
 
-   ![Submission form settings](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-add-submission-form-settings.png?itok=YRvf3BxN)
+   ![Submission form settings](../assets/images/structure-content-type-add-submission-form-settings.png)
 4. Under *Publishing options*, decide on default options for new content of this type. Fill in the fields as shown below.
 
    | Field name | Explanation | Example value |
@@ -59,7 +59,7 @@ Sprout Video
 
    Image
 
-   ![Publishing Options](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-add-Publishing-Options.png?itok=zGys3fME)
+   ![Publishing Options](../assets/images/structure-content-type-add-Publishing-Options.png)
 5. Under *Display settings*, decide if the author and publication date will be visible in the content item. Fill in the fields as shown below.
 
    | Field name | Explanation | Example value |
@@ -68,7 +68,7 @@ Sprout Video
 
    Image
 
-   ![Display settings](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-add-Display-settings.png?itok=Noo9_mcz)
+   ![Display settings](../assets/images/structure-content-type-add-Display-settings.png)
 6. Under *Menu settings*, fill in the fields as shown below.
 
    | Field name | Explanation | Example value |
@@ -77,12 +77,12 @@ Sprout Video
 
    Image
 
-   ![Menu settings](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-add-Menu-settings.png?itok=oP6okY4x)
+   ![Menu settings](../assets/images/structure-content-type-add-Menu-settings.png)
 7. Click *Save and manage fields* to save the content type. The *Manage fields* page appears that allows you to add fields to the content type. See [Section 6.3, “Adding Basic Fields to a Content Type”](https://drupalize.me/tutorial/user-guide/structure-fields "6.3. Adding Basic Fields to a Content Type")
 
    Image
 
-   ![Confirmation](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-type-add-confirmation.png?itok=VRZfpcIa)
+   ![Confirmation](../assets/images/structure-content-type-add-confirmation.png)
 8. Follow the same steps to create a content type for recipes. Example values for the fields in the forms, where they are different from the steps above:
 
    | Field name | Example value |

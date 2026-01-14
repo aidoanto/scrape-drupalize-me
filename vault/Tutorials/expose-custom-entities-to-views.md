@@ -249,7 +249,7 @@ Your field structure may look something like the following:
 
 Image
 
-![Screenshot of fields for the subscriber entity.](/sites/default/files/styles/max_800w/public/tutorials/images/subscriber_fields.png?itok=Q3e2h-Kr)
+![Screenshot of fields for the subscriber entity.](../assets/images/subscriber_fields.png)
 
 ### Add some example content
 
@@ -261,7 +261,7 @@ Example:
 
 Image
 
-![Screenshot of fields for the subscriber entity.](/sites/default/files/styles/max_800w/public/tutorials/images/subscribers.png?itok=rLweXAE7)
+![Screenshot of fields for the subscriber entity.](../assets/images/subscribers.png)
 
 ## Integrate a custom entity type with Views
 
@@ -415,7 +415,7 @@ To test that it's working, let's create a View of subscribers. Navigate to *Stru
 
 Image
 
-![Screenshot of settings of the Views wizard for Subscribers view](/sites/default/files/styles/max_800w/public/tutorials/images/subscribers_add_view.png?itok=U7nqI9bQ)
+![Screenshot of settings of the Views wizard for Subscribers view](../assets/images/subscribers_add_view.png)
 
 Press *Save and edit*. On the next page, scroll down to the preview area and you should see all the subscribers rendered in the default view mode.
 
@@ -425,7 +425,7 @@ The preview of your view should look something like the following:
 
 Image
 
-![Screenshot of subscribers view preview](/sites/default/files/styles/max_800w/public/tutorials/images/subscribers_view_preview.png?itok=EKTbEZGD)
+![Screenshot of subscribers view preview](../assets/images/subscribers_view_preview.png)
 
 Our view now resembles the content administration view with operations links and fields.
 
@@ -437,7 +437,7 @@ Let's add a relationship to the view. Expand the *Advanced* section of the view'
 
 Image
 
-![Screenshot of related users relationship](/sites/default/files/styles/max_800w/public/tutorials/images/rel_subs.png?itok=JbuoSkGv)
+![Screenshot of related users relationship](../assets/images/rel_subs.png)
 
 Now fields from User entities should be available in Views. Press *Add* in the *Fields* section and add the *Email* field in the *User* category. Now administrators can see user emails and which users on the site are subscribers. Rearrange the fields by selecting the dropdown arrow next to *Add* in the *Fields* section, and select *Rearrange*. Drag the Operations links field to the end of the list.
 
@@ -445,7 +445,7 @@ A preview of the results may look something like the following:
 
 Image
 
-![Screenshot of the final results preview for subscribers view](/sites/default/files/styles/max_800w/public/tutorials/images/subs_preview.png?itok=SJOG_FrC)
+![Screenshot of the final results preview for subscribers view](../assets/images/subs_preview.png)
 
 This works because of the custom relationship definition we added.
 

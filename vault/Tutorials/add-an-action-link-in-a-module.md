@@ -26,7 +26,7 @@ Action links are a type of link that provide users with quick access to particul
 
 Image
 
-![Content administration add content action link](/sites/default/files/styles/max_800w/public/tutorials/images/action-link.png?itok=PW6nxdyg)
+![Content administration add content action link](../assets/images/action-link.png)
 
 Local action links, such as this one, are typically rendered as buttons. This is one of the easiest ways to distinguish between a local action and a [local task](https://drupalize.me/tutorial/add-local-task-link-module).
 

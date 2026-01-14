@@ -40,7 +40,7 @@ After the pre-render phase, the `render()` methods of all display handlers are c
 
 Image
 
-![Example render array content](/sites/default/files/styles/max_800w/public/tutorials/images/views-display-handler-output.png?itok=GiFgnGb8)
+![Example render array content](../assets/images/views-display-handler-output.png)
 
 Then, `hook_views_post_render()` implementations are invoked. The `&$output` variable passed to those functions is a reference to `$this->display_handler->output`. These functions can make any modifications to the render array's content.
 
@@ -64,13 +64,13 @@ Your view should look something like the screenshot below.
 
 Image
 
-![Screenshot of news view block](/sites/default/files/styles/max_800w/public/tutorials/images/news_view.png?itok=Ksrtcjpt)
+![Screenshot of news view block](../assets/images/news_view.png)
 
 And the configuration may look something like the following:
 
 Image
 
-![Screenshot of news view block](/sites/default/files/styles/max_800w/public/tutorials/images/news_view_config.png?itok=7X7Iy6BX)
+![Screenshot of news view block](../assets/images/news_view_config.png)
 
 If you'd like to learn more about how to work with Views through the UI, refer to [Display content with views tutorial](https://drupalize.me/topic/display-content-views).
 
@@ -115,7 +115,7 @@ You may see something like the following screenshot.
 
 Image
 
-![Screenshot of the new news title](/sites/default/files/styles/max_800w/public/tutorials/images/news_title.png?itok=z685EYvW)
+![Screenshot of the new news title](../assets/images/news_title.png)
 
 This hook is also a good place to alter Views cache or make alterations to the `$output` render array.
 

@@ -47,7 +47,7 @@ After you log in, you should land on the APM dashboard. In the top left corner o
 
 Image
 
-![Screenshot of web transactions dashboard overview](/sites/default/files/styles/max_800w/public/tutorials/images/web_transactions_overview.png?itok=J9XYU0EJ)
+![Screenshot of web transactions dashboard overview](../assets/images/web_transactions_overview.png)
 
 Based on this graph, we can see which service takes the longest time to respond. In our case, we see that PHP is taking much longer than MySQL. This indicates we can focus on code optimizations since the MySQL layer seems slim. You may want to look into query optimization if you have a bulky MySQL layer.
 
@@ -59,13 +59,13 @@ After you gain an overview of the performance profile of your application, you c
 
 Image
 
-![Screenshot of transactions overview](/sites/default/files/styles/max_800w/public/tutorials/images/transactions_overview.png?itok=-uAdlkrv)
+![Screenshot of transactions overview](../assets/images/transactions_overview.png)
 
 In this example, the slowest transactions seem to be the Drupal 404 controller. Press on the link of your slowest transaction to see a detailed breakdown of it.
 
 Image
 
-![Screenshot of transaction details](/sites/default/files/styles/max_800w/public/tutorials/images/transaction_details.png?itok=WVzUaKpV)
+![Screenshot of transaction details](../assets/images/transaction_details.png)
 
 Hover over the graph, and you can see the caller that takes the most time to execute. In our case, it’s *\Drupal\system\Controller\Http4xxController* Drupal core controller and its `on404` method. This example is somewhat contrived because Drupal's 404 controller is already pretty fast, but it illustrates how we go about finding slow code.
 
@@ -85,13 +85,13 @@ To understand which Database operations take the longest, navigate to the *Datab
 
 Image
 
-![Screenshot of databases operations overview](/sites/default/files/styles/max_800w/public/tutorials/images/databases_operations_overview.png?itok=5zetkNL_)
+![Screenshot of databases operations overview](../assets/images/databases_operations_overview.png)
 
 Here you can see the top 20 most time-consuming operations. In this example, it’s `MySQL path_alias select`. Press on the operation to see its detailed breakdown, including its top callers. We can see that the 404 controller is one of the slowest callers.
 
 Image
 
-![Screenshot of slowest callers](/sites/default/files/styles/max_800w/public/tutorials/images/slowest_callers.png?itok=bebAHwk2)
+![Screenshot of slowest callers](../assets/images/slowest_callers.png)
 
 If you select it, it will return you to the slowest transaction we analyzed. This way, you can connect database operations with the PHP caller.
 

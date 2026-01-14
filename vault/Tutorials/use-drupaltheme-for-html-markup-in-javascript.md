@@ -115,7 +115,7 @@ First we've provided a new implementation of `Drupal.theme.placeholder` which ch
 
 Image
 
-![friendly placeholder override](/sites/default/files/styles/max_800w/public/tutorials/images/drupalsettings-placeholder-demo.png?itok=KF3hvR5o)
+![friendly placeholder override](../assets/images/drupalsettings-placeholder-demo.png)
 
 Congratulations, you've successfully replaced a core `Drupal.theme` implementation with your own custom output. Remember, any time you need to output complex markup from within JavaScript, it's best to define a `Drupal.theme` function. This not only makes your code more readable, but also helps you replace outputting complex markup with a simple call to a `Drupal.theme` function.
 

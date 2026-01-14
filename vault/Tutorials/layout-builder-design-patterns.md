@@ -68,7 +68,7 @@ This approach works best in combination with the [Layout Builder Restrictions mo
 
 Image
 
-![Diagram of Layout Builder setup with fields](/sites/default/files/styles/max_800w/public/tutorials/images/fields_drawing.png?itok=JxYbuMho)
+![Diagram of Layout Builder setup with fields](../assets/images/fields_drawing.png)
 
 ### Advantages
 
@@ -100,7 +100,7 @@ In this approach some, but maybe not all, standard blocks are displayed on the p
 
 Image
 
-![Diagram of Layout Builder setup with fields and blocks](/sites/default/files/styles/max_800w/public/tutorials/images/fields_blocks.png?itok=pv06EzmM)
+![Diagram of Layout Builder setup with fields and blocks](../assets/images/fields_blocks.png)
 
 ### Advantages
 
@@ -141,7 +141,7 @@ Learn how to implement this technique in the tutorial, [Implement the Layout Bui
 
 Image
 
-![Diagram of Layout Builder setup with view modes](/sites/default/files/styles/max_800w/public/tutorials/images/view_modes.png?itok=0iM5lpeC)
+![Diagram of Layout Builder setup with view modes](../assets/images/view_modes.png)
 
 ### Advantages
 

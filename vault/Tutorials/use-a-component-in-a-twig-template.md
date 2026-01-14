@@ -179,7 +179,7 @@ The result should be a list of nodes rendered with the *Card* view mode—using 
 
 Image
 
-![The frontpage view using the card view mode which uses the card SDC](/sites/default/files/styles/max_800w/public/tutorials/images/use-sdc-twig--final-result.png?itok=Nfh2WNo9)
+![The frontpage view using the card view mode which uses the card SDC](../assets/images/use-sdc-twig--final-result.png)
 
 ## Troubleshooting
 

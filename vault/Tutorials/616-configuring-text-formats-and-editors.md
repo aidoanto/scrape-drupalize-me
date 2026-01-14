@@ -32,18 +32,18 @@ Sprout Video
 
    Image
 
-   ![Configuring the editor](/sites/default/files/styles/max_800w/public/user_guide/images/structure-text-format-config-editor-config.png?itok=ihHXedvF)
+   ![Configuring the editor](../assets/images/structure-text-format-config-editor-config.png)
 5. Note that you can change the *Filter processing order*.
 6. Under *Filter settings* > *Limit allowed HTML tags and correct faulty HTML*, in the field *Allowed HTML tags*, verify that `<hr>` is present (adding its editor button will automatically update the allowed tags).
 
    Image
 
-   ![Configuring the HTML tags](/sites/default/files/styles/max_800w/public/user_guide/images/structure-text-format-config-allowed-html.png?itok=1l_tDaJy)
+   ![Configuring the HTML tags](../assets/images/structure-text-format-config-allowed-html.png)
 7. Click *Save configuration*. You will be taken back to the *Text formats and editors* page. A message will be displayed saying that the text format has been updated.
 
    Image
 
-   ![Confirmation message for text format configuration](/sites/default/files/styles/max_800w/public/user_guide/images/structure-text-format-config-summary.png?itok=zR-9P561)
+   ![Confirmation message for text format configuration](../assets/images/structure-text-format-config-summary.png)
 
 ### Expand your understanding
 

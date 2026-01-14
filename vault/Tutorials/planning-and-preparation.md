@@ -113,7 +113,7 @@ One thing to consider might be whether it's worth it to develop a custom migrati
 
 Image
 
-![Cost to migrate graph](/sites/default/files/styles/max_800w/public/tutorials/images/cost-to-migrate_1.png?itok=1I5mShky)
+![Cost to migrate graph](../assets/images/cost-to-migrate_1.png)
 
 For Drupal-to-Drupal migrations I believe that this will be less of an issue as a large part of the work in developing migrations and field mappings is handled automatically. But, it's still worth considering.
 

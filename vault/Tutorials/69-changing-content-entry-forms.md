@@ -33,13 +33,13 @@ Sprout Video
 
    Image
 
-   ![Manage the Recipe form](/sites/default/files/styles/max_800w/public/user_guide/images/structure-form-editing-manage-form.png?itok=2wJ3tGbm)
+   ![Manage the Recipe form](../assets/images/structure-form-editing-manage-form.png)
 4. Click *Save*.
 5. In the *Manage* administrative menu, navigate to *Content* > *Add content* > Recipe (*node/add/recipe*) to verify the changed behavior of the content form. The Ingredients field is now a single text field that accepts multiple values.
 
    Image
 
-   ![Add a recipe](/sites/default/files/styles/max_800w/public/user_guide/images/structure-form-editing-add-recipe.png?itok=rjDYaSAZ)
+   ![Add a recipe](../assets/images/structure-form-editing-add-recipe.png)
 6. Create two Recipe content items (see [Section 5.2, “Creating a Content Item”](https://drupalize.me/tutorial/user-guide/content-create "5.2. Creating a Content Item")), such as recipes for "Green Salad" and "Fresh Carrots". Make sure all the fields have values, including images, ingredients, and submitted by (set this to one of the Vendor content items you created in [Section 6.3, “Adding Basic Fields to a Content Type”](https://drupalize.me/tutorial/user-guide/structure-fields "6.3. Adding Basic Fields to a Content Type")).
 
 ### Expand your understanding

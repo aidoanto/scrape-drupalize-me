@@ -39,7 +39,7 @@ Or a string with the background color set:
 
 Image
 
-![Text that says that the background color has been changed to #137cc1 with the background of the text set to that color](/sites/default/files/styles/max_800w/public/tutorials/images/field_formatter_field_example_background_color.png?itok=ZYoyFRxM)
+![Text that says that the background color has been changed to #137cc1 with the background of the text set to that color](../assets/images/field_formatter_field_example_background_color.png)
 
 ### Determine where the code should go
 
@@ -107,13 +107,13 @@ Example settings form:
 
 Image
 
-![Field formatter settings form with a checkbox to toggle the automatically adjusting foreground color option.](/sites/default/files/styles/max_800w/public/tutorials/images/formatter_settings_form_example.png?itok=T7YdJI_P)
+![Field formatter settings form with a checkbox to toggle the automatically adjusting foreground color option.](../assets/images/formatter_settings_form_example.png)
 
 Example of output with the foreground color adjustment enabled:
 
 Image
 
-![Screenshot of multivalue field output with rainbow colors and the foreground text showing white for some and black for others.](/sites/default/files/styles/max_800w/public/tutorials/images/formatter_settings_output_example.png?itok=nd3vCcpu)
+![Screenshot of multivalue field output with rainbow colors and the foreground text showing white for some and black for others.](../assets/images/formatter_settings_output_example.png)
 
 ### Define your configuration schema
 
@@ -275,7 +275,7 @@ Example of `settingsSummary()` output:
 
 Image
 
-![Screenshot of manage display page for article entity type showing where the settingsSummary() output appears in the table.](/sites/default/files/styles/max_800w/public/tutorials/images/formatter_settings_summary_example.png?itok=xFfo_uLs)
+![Screenshot of manage display page for article entity type showing where the settingsSummary() output appears in the table.](../assets/images/formatter_settings_summary_example.png)
 
 Then we updated the `viewElements()` method to make use of our new configuration. The current configured value for the setting can be accessed using the `$this->getSetting()` method. In our case, this returns a boolean value which we can use as part of an if/else statement to determine if we should set the foreground color or not.
 

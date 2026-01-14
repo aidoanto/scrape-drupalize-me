@@ -35,7 +35,7 @@ Next to the **Sort Criteria** section, select *Add*. This will open a modal wind
 
 Image
 
-![Screenshot of modal window with list of fields available as sort criteria](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--sort-fields-overview.png?itok=W6cpVY58)
+![Screenshot of modal window with list of fields available as sort criteria](../assets/images/filters-sorts-add-items--sort-fields-overview.png)
 
 ### Add *Year* (*field\_player\_award\_year*) as a sort criterion
 
@@ -43,7 +43,7 @@ In the search field at the top type the word **`Year`** to limit results to fiel
 
 Image
 
-![Screenshot of sort criteria modal window with Year field selected](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--sort-select-year-field.png?itok=8JCpmzRn)
+![Screenshot of sort criteria modal window with Year field selected](../assets/images/filters-sorts-add-items--sort-select-year-field.png)
 
 ### Configure sort criterion to "sort descending"
 
@@ -55,7 +55,7 @@ Select the radio button next to the option for *Sort descending*, then select *A
 
 Image
 
-![Screenshot of sort criteria configuration modal with descending option selected](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--sort-year-descending.png?itok=M-3azyFq)
+![Screenshot of sort criteria configuration modal with descending option selected](../assets/images/filters-sorts-add-items--sort-year-descending.png)
 
 ### Preview results
 
@@ -63,7 +63,7 @@ We have now modified our list of content so that the most recent award listed fi
 
 Image
 
-![Screenshot of view configuration with new sort criteria added and preview of sorted list](/sites/default/files/styles/max_800w/public/tutorials/images/filters-sorts-add-items--sort-preview.png?itok=cOk4uiEe)
+![Screenshot of view configuration with new sort criteria added and preview of sorted list](../assets/images/filters-sorts-add-items--sort-preview.png)
 
 ### Save the view
 

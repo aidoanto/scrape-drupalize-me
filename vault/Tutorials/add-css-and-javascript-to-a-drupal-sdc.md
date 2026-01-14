@@ -252,11 +252,11 @@ Let's test out that all our asset files are embedded as expected.
 
 Image
 
-![HTML source showing embedded component CSS file](/sites/default/files/styles/max_800w/public/tutorials/images/add-css-js--view-source-card-css.png?itok=Yj6gwgaN)
+![HTML source showing embedded component CSS file](../assets/images/add-css-js--view-source-card-css.png)
 
 Image
 
-![HTML source showing embedded component JavaScript file](/sites/default/files/styles/max_800w/public/tutorials/images/add-css-js--view-source-card-js.png?itok=sLJFyLm8)
+![HTML source showing embedded component JavaScript file](../assets/images/add-css-js--view-source-card-js.png)
 
 Because we only overrode `dependencies`, the card component's CSS and JavaScript assets remain auto-attached by Drupal core. That's why the paths to those files start with `/core/..`. If we had overridden `css` or `js` keys under `libraryOverrides`, we would list all asset files including those previously auto-attached, and the paths to those files would no longer start with `/core/..`.
 

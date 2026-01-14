@@ -53,13 +53,13 @@ To identify if your page is appropriately cached, open your page in a browser, o
 
 Image
 
-![Cache headers in Firefox](/sites/default/files/styles/max_800w/public/tutorials/images/cache_response_firefox.png?itok=xcAnW-vW)
+![Cache headers in Firefox](../assets/images/cache_response_firefox.png)
 
 And in Chrome:
 
 Image
 
-![Cache headers in Chrome](/sites/default/files/styles/max_800w/public/tutorials/images/cache_response_chrome.png?itok=iOSzYHLo)
+![Cache headers in Chrome](../assets/images/cache_response_chrome.png)
 
 ### Cache headers
 
@@ -100,7 +100,7 @@ parameters:
 
 Image
 
-![Screenshot of cache tags and contexts](/sites/default/files/styles/max_800w/public/tutorials/images/cache_tags_contexts.png?itok=CTUDljpJ)
+![Screenshot of cache tags and contexts](../assets/images/cache_tags_contexts.png)
 
 The cache tags and contexts allow seeing which blocks and render elements contribute to the cache status of the particular page. From there, you need to narrow it down to a specific offender. It might be a slow process. We recommend using XDebug and setting a breakpoint on the `shouldCacheResponse()` method of `DynamicPageCacheSubscriber`. You need to catch when the method returns `FALSE`. Work backwards from there.
 

@@ -44,7 +44,7 @@ We could be tempted to solve that by having different fields `field_title_positi
 
 Image
 
-![An article with many presentational field groups when requested by the iPhone app](/sites/default/files/styles/max_800w/public/tutorials/images/presentation-fields.png?itok=7AnPcYYz)
+![An article with many presentational field groups when requested by the iPhone app](../assets/images/presentation-fields.png)
 
 Another non-ideal solution to avoid, is to keep only one `field_title_position` but have multiple nodes for the same content, one per consumer application. In that scenario we need to do *N* different updates each time we need to edit the content. Moreover we have to start worrying about duplicated content in content lists and other complications.
 
@@ -58,7 +58,7 @@ I am fully aware that avoiding the problem is sometimes not possible. When that 
 
 Image
 
-![An article with many presentational references when requested by the iPhone app](/sites/default/files/styles/max_800w/public/tutorials/images/client-properties.png?itok=4PJKbaam)
+![An article with many presentational references when requested by the iPhone app](../assets/images/client-properties.png)
 
 This is not an ideal solution, but it's the best we can do when we cannot avoid the problem altogether. With this technique we contain all the presentational fields in a set of separate content types. Some of the problems still exist (adding a new consumer requires back end intervention), but now the responses for the Alexa application will not get bloated with presentational fields for Windows Phone, Facebook App, Slack Chatbot, etc. Each consumer now has to worry about the article node, and the child presentational node associated to the article, for that particular consumer. We will learn that this is not a problem when using JSON:API, GraphQL or similar.
 

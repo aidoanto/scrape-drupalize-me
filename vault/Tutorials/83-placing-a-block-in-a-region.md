@@ -40,7 +40,7 @@ Sprout Video
 
    Image
 
-   ![Block configuration page](/sites/default/files/styles/max_800w/public/user_guide/images/block-place-configure-block.png?itok=hTetImJX)
+   ![Block configuration page](../assets/images/block-place-configure-block.png)
 5. Click *Save block*. The *Block layout* page appears. You can drag the cross bar handles of blocks to change their order within each region. As an alternative to dragging, you can click the *Show row weights* link at the top of the table and select numerical weights (blocks with lower or more negative weights will be shown first).
 6. Verify that the Hours and location block is listed in the *Sidebar* region, and click *Save blocks*.
 
@@ -48,7 +48,7 @@ Sprout Video
 
    Image
 
-   ![Page with a block placed on the Sidebar region](/sites/default/files/styles/max_800w/public/user_guide/images/block-place-sidebar.png?itok=Z-ZV-kTM)
+   ![Page with a block placed on the Sidebar region](../assets/images/block-place-sidebar.png)
 
 ### Expand your understanding
 

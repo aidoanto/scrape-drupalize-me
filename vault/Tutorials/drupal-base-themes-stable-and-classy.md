@@ -64,13 +64,13 @@ The decision to use Stable or Classy as the base theme for you site comes down t
 
 Image
 
-![Stark theme files](/sites/default/files/styles/max_800w/public/tutorials/images/stark-files.png?itok=c6u2Io3R)
+![Stark theme files](../assets/images/stark-files.png)
 
 If we compare that to the Stable theme (*/core/themes/stable*) we see that it ships with several templates. (In fact Stable includes every template available to Drupal core.)
 
 Image
 
-![Stable theme files](/sites/default/files/styles/max_800w/public/tutorials/images/stable-files.png?itok=zgHgIPJL)
+![Stable theme files](../assets/images/stable-files.png)
 
 The existence of these template files gives our theme some stability, and provides us with an example of what we need to override in our custom theme without being extremely opinionated about the markup and classes in our templates. To illustrate what this means, let's take a look at the main node template in both the Stable and Classy themes.
 

@@ -46,7 +46,7 @@ Once the module is installed, enable it either with Drush (`drush en layout_buil
 
 Image
 
-![Screenshot of extend section with Layout Builder Styles module](/sites/default/files/styles/max_800w/public/tutorials/images/enable_layout_builder_styles.png?itok=nAlXv3s6)
+![Screenshot of extend section with Layout Builder Styles module](../assets/images/enable_layout_builder_styles.png)
 
 Learn more about [installing modules with Composer](https://drupalize.me/tutorial/user-guide/install-composer?p=3074), and [downloading and installing modules from Drupal.org](https://drupalize.me/tutorial/user-guide/extend-module-install?p=3072).
 
@@ -58,7 +58,7 @@ In the *Manage* administration menu, navigate to *Configuration* > *Layout Build
 
 Image
 
-![Screenshot of Layout Builder Styles configuration page](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_styles_config.png?itok=OaOn3K4p)
+![Screenshot of Layout Builder Styles configuration page](../assets/images/layout_builder_styles_config.png)
 
 The configuration is divided into two tabs:
 
@@ -79,7 +79,7 @@ On the *Styles* tab, select the *+ Add layout builder style* button. On the next
 
 Image
 
-![Screenshot of Layout Builder Add Style interface](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_add_style.png?itok=zTf6vq8C)
+![Screenshot of Layout Builder Add Style interface](../assets/images/layout_builder_add_style.png)
 
 The Layout Builder Styles module provides the ability to apply styles to the entire Layout Builder layout plugin section or to the blocks placed in this section.
 
@@ -87,7 +87,7 @@ For this example, we want to apply the style to blocks, and restricted to the *B
 
 Image
 
-![Screenshot of Layout Builder Block Restriction Interface](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_style_restrict_block.png?itok=gqFvR9uy)
+![Screenshot of Layout Builder Block Restriction Interface](../assets/images/layout_builder_style_restrict_block.png)
 
 Press the *Save* button to save your new style configuration.
 
@@ -101,7 +101,7 @@ Now in the block configuration form you should see a *Style* dropdown. Fill in t
 
 Image
 
-![Screenshot of adding style to basic block](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_style_warning_block.png?itok=eiITZv16)
+![Screenshot of adding style to basic block](../assets/images/layout_builder_style_warning_block.png)
 
 **Note**: The *Layout Builder Modal* module is used in our example site so the block form is displayed in a modal. To learn how to set it up yourself refer to [Use Layout Builder Modal When Creating Custom Blocks](https://drupalize.me/tutorial/use-layout-builder-modal-when-creating-custom-blocks).
 
@@ -109,7 +109,7 @@ After you save the configuration you should see your new block rendered in the s
 
 Image
 
-![Screenshot of warning block](/sites/default/files/styles/max_800w/public/tutorials/images/layout_builder_style_warning_block_render.png?itok=_aA3Wnis)
+![Screenshot of warning block](../assets/images/layout_builder_style_warning_block_render.png)
 
 **Note**: these styles only work since we are using the *Bartik* theme for this example. If you are using a different theme, make sure to define required classes in your theme's CSS. The Layout Builder Styles module does not define any CSS classes on its own, and instead expects those styles will be defined and loaded by the active theme.
 

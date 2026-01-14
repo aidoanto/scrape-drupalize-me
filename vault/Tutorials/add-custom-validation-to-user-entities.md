@@ -198,7 +198,7 @@ Example:
 
 Image
 
-![Screenshot of add user form with error returned](/sites/default/files/styles/max_800w/public/tutorials/images/data--entity-validation_user-add-form.png?itok=MCWMVmO0)
+![Screenshot of add user form with error returned](../assets/images/data--entity-validation_user-add-form.png)
 
 ## Recap
 

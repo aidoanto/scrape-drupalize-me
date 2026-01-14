@@ -12,7 +12,7 @@ Drupal provides module developers several different methods for creating the dif
 
 Image
 
-![Link types illustrated](/sites/default/files/styles/max_800w/public/tutorials/images/content_entity_example_links.png?itok=muYLlC0j)
+![Link types illustrated](../assets/images/content_entity_example_links.png)
 
 In this tutorial we'll provide an overview of the following concepts:
 
@@ -106,7 +106,7 @@ Contextual links provide shortcuts to common administrator tasks. For example, w
 
 Image
 
-![Contextual links on a node](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-links.png?itok=LeUk1D3c)
+![Contextual links on a node](../assets/images/contextual-links.png)
 
 Contextual links, unlike the links we've looked at so far, are not only specified via a YAML file. Contextual links should identify the particular route (named URL path) that will be used as contextual links. These routes are listed in a YAML file with the *.links.contextual.yml* extension. In addition to the YAML file a contextual link needs to add a `#contextual_links` element to the render array where the link needs to appear. Returning to the Node module for an example we can find the */core/modules/node/node.links.contextual.yml* file:
 

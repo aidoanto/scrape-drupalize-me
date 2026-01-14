@@ -264,7 +264,7 @@ This update attaches the `forecast` library from the `anytown` module to the `we
 
 Image
 
-![Screenshot shows new toggle button added and styled with our new asset library](/sites/default/files/styles/max_800w/public/tutorials/images/output--add-css-js_weather-page.png?itok=nmOWemEd)
+![Screenshot shows new toggle button added and styled with our new asset library](../assets/images/output--add-css-js_weather-page.png)
 
 [Clear the cache](https://drupalize.me/tutorial/clear-drupals-cache) so that Drupal finds our new asset library definition and includes it with the weather page.
 

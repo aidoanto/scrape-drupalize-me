@@ -10,4 +10,4 @@ guide: "[[decoupled-headless-drupal]]"
 
 Image
 
-![](/sites/default/files/styles/max_800w/public/tutorial_icons/reactanddrupal.png?itok=Wj6fNn5h)
+![](../assets/images/reactanddrupal.png)

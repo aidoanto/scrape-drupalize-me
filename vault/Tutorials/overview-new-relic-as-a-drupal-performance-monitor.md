@@ -65,25 +65,25 @@ The chart in the top left corner shows the average web transaction time - the av
 
 Image
 
-![Screenshot of web transaction time report](/sites/default/files/styles/max_800w/public/tutorials/images/web_transaction_time.png?itok=FTDdGIy-)
+![Screenshot of web transaction time report](../assets/images/web_transaction_time.png)
 
 If you see transactions (usually representative of a user viewing a page on your site) that take over 200ms, they may need further investigation. Transactions that took longer than two seconds are traced so you can dive deeper into what series of events resulted in a slow transaction. The top five slowest transactions are logged in the report at the bottom of the page. The sidebar menu can also dive into detailed information about the transactions.
 
 Image
 
-![Screenshot of 5 slowest transactions report](/sites/default/files/styles/max_800w/public/tutorials/images/slowest_transactions_report.png?itok=CdZ9-e1p)
+![Screenshot of 5 slowest transactions report](../assets/images/slowest_transactions_report.png)
 
 Next to the transaction time report is the [Apdex score](https://www.apdex.org/) report. Apdex is an industry standard to measure a user's satisfaction with the response time of web applications and services. It's represented as a score from 0-1. The closer your score is to 1, the better your app performs. The default value for a satisfactory experience is 0.5 seconds. You can set a different target for your app under the settings section.
 
 Image
 
-![Screenshot of Apdex score](/sites/default/files/styles/max_800w/public/tutorials/images/apdex_score.png?itok=WzfQSWT_)
+![Screenshot of Apdex score](../assets/images/apdex_score.png)
 
 The throughput report shows how many requests the service processes per minute. This report is helpful to see the busiest service in your infrastructure.
 
 Image
 
-![Screenshot of web throughput](/sites/default/files/styles/max_800w/public/tutorials/images/web_throughput.png?itok=ZF3fh5v_)
+![Screenshot of web throughput](../assets/images/web_throughput.png)
 
 The final report on this screen is an error rate. It’s the percentage of transactions that result in an error during a particular time range. New Relic sends all errors to the *error inbox* found under the *Triage* section of the menu so that developers can proactively address them and make changes to the application before the user experience degrades too much.
 
@@ -95,7 +95,7 @@ You should see a detailed transaction report if you select the *Transactions* it
 
 Image
 
-![Screenshot of detailed transaction report](/sites/default/files/styles/max_800w/public/tutorials/images/detailed_transaction_report.png?itok=OSMPKt-f)
+![Screenshot of detailed transaction report](../assets/images/detailed_transaction_report.png)
 
 Each transaction gets an Apdex score, and you can also see the historical performance for it to identify any recent changes.
 
@@ -135,7 +135,7 @@ At the top, it has pages with JavaScript error reports, which shows the rate of 
 
 Image
 
-![Screenshot of core web vitals report](/sites/default/files/styles/max_800w/public/tutorials/images/core_web_vitals.png?itok=a0p-sqsX)
+![Screenshot of core web vitals report](../assets/images/core_web_vitals.png)
 
 The rest of the summary view consists of detailed reports on the Core Web Vitals metrics by device type, URL, and browser.
 

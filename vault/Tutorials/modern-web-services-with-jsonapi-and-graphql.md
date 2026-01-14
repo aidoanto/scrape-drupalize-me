@@ -51,7 +51,7 @@ We will need to transform that long consumer request to the appropriate syntax, 
 
 Image
 
-![The schematics of a response with the emdedded resources described above.](/sites/default/files/styles/max_800w/public/tutorials/images/embedding-levels.png?itok=nagOq6Rr)
+![The schematics of a response with the emdedded resources described above.](../assets/images/embedding-levels.png)
 
 You can see that there are three embedding levels, encoded by colors. Without resource embedding, each level contains information about a resource that the consumer cannot start requesting until the parent response has come back from the server. The Android app wouldn't know that the user they want to display is user 36 until the response for the article has come back. You can see how the time spent waiting on responses -- so we can request more related data -- increases with the number of nesting levels. With resource embedding, the Android app will get all the information it needs from the API server in a single request.
 

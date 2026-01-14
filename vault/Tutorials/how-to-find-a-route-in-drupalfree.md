@@ -80,7 +80,7 @@ The [Devel](https://www.drupal.org/project/devel) module's *Routes info* page en
 
 Image
 
-![Devel route example](/sites/default/files/styles/max_800w/public/tutorials/images/find-route-using-devel-example.png?itok=xKDARoAt)
+![Devel route example](../assets/images/find-route-using-devel-example.png)
 
 ## Webprofiler
 
@@ -88,7 +88,7 @@ The [Webprofiler](https://www.drupal.org/project/webprofiler) module makes it ea
 
 Image
 
-![Webprofiler Route Example](/sites/default/files/styles/max_800w/public/tutorials/images/webprofiler-route-example.png?itok=hyrRwSvp)
+![Webprofiler Route Example](../assets/images/webprofiler-route-example.png)
 
 Webprofiler can be used to view a list of all available routes by enabling the *Routing* toolbar item in the module's settings at *Configuration* > *Devel settings* > *Webprofiler* (*admin/config/development/devel/webprofiler*).
 

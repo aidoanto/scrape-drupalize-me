@@ -32,7 +32,7 @@ Sprout Video
 
    Image
 
-   ![Add a content block](/sites/default/files/styles/max_800w/public/user_guide/images/block-create-custom-add-custom-block.png?itok=kpcS6k_2)
+   ![Add a content block](../assets/images/block-create-custom-add-custom-block.png)
 4. Click *Save*. A message appears indicating the block has been saved.
 
 ### Expand your understanding

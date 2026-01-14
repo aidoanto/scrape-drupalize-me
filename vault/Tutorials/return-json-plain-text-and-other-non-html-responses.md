@@ -138,7 +138,7 @@ In this screenshot you can see the appropriate HTTP headers set for the response
 
 Image
 
-![](/sites/default/files/styles/max_800w/public/tutorials/images/routing_cacheable_text_response_example.png?itok=7lRRGWLv)
+![](../assets/images/routing_cacheable_text_response_example.png)
 
 **Note:** If you want Drupal to return appropriate HTTP headers for cacheable data, make sure you have Drupal's caching modules configured correctly. Learn more in [Overview: Drupal's Cache Modules and Performance Settings](https://drupalize.me/tutorial/overview-drupals-cache-modules-and-performance-settings).
 
@@ -218,7 +218,7 @@ JSON output example:
 
 Image
 
-![Screenshot of JSON response shown in browser with network console showing HTTP headers.](/sites/default/files/styles/max_800w/public/tutorials/images/routing_json_response.png?itok=dinYcvNs)
+![Screenshot of JSON response shown in browser with network console showing HTTP headers.](../assets/images/routing_json_response.png)
 
 You can also use `CacheableJsonResponse` and `JsonResponse` as an example of how to create your own non-HTML `Response` objects. For example, if you needed to create a lot of different XML responses you might create your own custom `Response` subclass that sets the appropriate headers in the constructor, and adds some logic for converting an array of data to an XML string.
 

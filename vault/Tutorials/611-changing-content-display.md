@@ -34,12 +34,12 @@ Sprout Video
 
    Image
 
-   ![Manage display](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-display_manage_display.png?itok=z62iUh-L)
+   ![Manage display](../assets/images/structure-content-display_manage_display.png)
 3. Under the *Label* column, select *Hidden* for Main image. Do the same for Vendor URL.
 
    Image
 
-   ![Selecting main image title as hidden](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-display_main_image_hidden.png?itok=lenqdlHc)
+   ![Selecting main image title as hidden](../assets/images/structure-content-display_main_image_hidden.png)
 4. Click the gear wheel for the Vendor URL field, to open the configuration options.
 5. Fill in the fields as shown below.
 
@@ -50,13 +50,13 @@ Sprout Video
 
    Image
 
-   ![Link trim length](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-display_trim_length.png?itok=kQ1zI2RC)
+   ![Link trim length](../assets/images/structure-content-display_trim_length.png)
 6. Click *Update*.
 7. Drag the cross bar handles of the fields to reorder as Main image, *Body*, Vendor URL, and *Links*. As an alternative to dragging, you can click the *Show row weights* link at the top of the table and enter numerical weights (fields with lower or more negative weights will be shown first).
 
    Image
 
-   ![Changing order of fields](/sites/default/files/styles/max_800w/public/user_guide/images/structure-content-display_change_order.png?itok=eED6wdtW)
+   ![Changing order of fields](../assets/images/structure-content-display_change_order.png)
 8. Click *Save*.
 9. Find the Vendor content item from step 1 again, and verify that the updates have been made.
 10. Repeat similar steps to manage the display of the Recipe content type fields.

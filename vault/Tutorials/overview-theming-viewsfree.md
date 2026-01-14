@@ -42,7 +42,7 @@ When working with views we often want to change the style for how the list of co
 
 Image
 
-![A view with the different template sections highlighted and labeled](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming--overview.png?itok=_5lkLoKD)
+![A view with the different template sections highlighted and labeled](../assets/images/twig-theming--overview.png)
 
 Each of the sections highlighted are controlled by a Twig template.
 
@@ -61,7 +61,7 @@ If you've [configured your environment for theme development](https://drupalize.
 
 Image
 
-![Screenshot of the templates folder within the views module](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming--templates-location.png?itok=FpGU1EnX)
+![Screenshot of the templates folder within the views module](../assets/images/twig-theming--templates-location.png)
 
 We never want to edit the template files in this location. Instead, we want to override individual templates by copying them from this folder into our theme's folder.
 
@@ -73,7 +73,7 @@ For example, if we wanted to override the Wrapper template for every view on our
 
 Image
 
-![Animated GIF showing how to copy a template from the views module into our custom theme](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming--copy-template.gif?itok=5dO9-1KT)
+![Animated GIF showing how to copy a template from the views module into our custom theme](../assets/images/twig-theming--copy-template.gif)
 
 After copying a template to our theme the Views module will discover and make use of our custom template going forward. We are free to edit the new template copy as much as we like.
 
@@ -108,7 +108,7 @@ From the administration dashboard, navigate to Structure > Views (*admin/structu
 
 Image
 
-![Screenshot of the administration list of views with the machine name column highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming--locate-view-machine-name.png?itok=6qgRO7Zg)
+![Screenshot of the administration list of views with the machine name column highlighted](../assets/images/twig-theming--locate-view-machine-name.png)
 
 ### Find the display ID
 
@@ -116,7 +116,7 @@ The display ID for any view display is located on the view's edit form in the *A
 
 Image
 
-![Screenshot of a view edit form with the advanced column open and the display's machine name highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming--locate-display-id.png?itok=dnOi2l_d)
+![Screenshot of a view edit form with the advanced column open and the display's machine name highlighted](../assets/images/twig-theming--locate-display-id.png)
 
 To locate the Display ID for another display on our view, we need to switch to the display we want and then locate the *Machine Name* within the **Advanced** section.
 
@@ -131,7 +131,7 @@ A field's ID is a little trickier to locate. To find these we need to edit a fie
 
 Image
 
-![Screenshot of a field's configuration modal form with the replacement patterns highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/twig-theming--locate-field-id.png?itok=q62TNLSZ)
+![Screenshot of a field's configuration modal form with the replacement patterns highlighted](../assets/images/twig-theming--locate-field-id.png)
 
 Here we can see a list of some of the fields on our view and their field IDs. The field ID is the part of the list between the curly braces, not including the double-curly braces. For example, the image above lists the following items as replacement patterns:
 

@@ -44,7 +44,7 @@ When configuring exposed sort criteria, we have the following options:
 
 Image
 
-![Screenshot of simple text sort criteria exposed configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--sort-text-example.png?itok=MkXlbIzy)
+![Screenshot of simple text sort criteria exposed configuration form](../assets/images/exposed-filters-sorts--sort-text-example.png)
 
 Some sort criteria will have additional options, for example, date fields. Date fields have an extra option, granularity.
 
@@ -52,7 +52,7 @@ Some sort criteria will have additional options, for example, date fields. Date 
 
 Image
 
-![Screenshot of a date field sort criteria exposed configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--sort-date-example.png?itok=ml37pogE)
+![Screenshot of a date field sort criteria exposed configuration form](../assets/images/exposed-filters-sorts--sort-date-example.png)
 
 ## Preview and test the exposed sort form
 
@@ -63,7 +63,7 @@ Like exposed filter criteria, we can preview and test our exposed sort criteria 
 
 Image
 
-![Screenshot of preview showing our exposed sort criteria as a field in the exposed form above the list of content](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--sort-preview.png?itok=ZCpK51ZN)
+![Screenshot of preview showing our exposed sort criteria as a field in the exposed form above the list of content](../assets/images/exposed-filters-sorts--sort-preview.png)
 
 ## Exposed form options
 
@@ -71,7 +71,7 @@ When working with either exposed filter or sort criteria, also consider the conf
 
 Image
 
-![Screenshot of view edit form with the exposed form section highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--highlight-form-options.png?itok=GjH742bE)
+![Screenshot of view edit form with the exposed form section highlighted](../assets/images/exposed-filters-sorts--highlight-form-options.png)
 
 | Setting | Description |
 | --- | --- |
@@ -94,7 +94,7 @@ You can configure the form used for the exposed filter or sort criteria, like th
 
 Image
 
-![Screenshot of exposed form settings configuration form](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--exposed-form-settings.png?itok=dWN9FYmd)
+![Screenshot of exposed form settings configuration form](../assets/images/exposed-filters-sorts--exposed-form-settings.png)
 
 ## Recap
 
@@ -110,7 +110,7 @@ You can use these options to change simple lists of content into powerful tools 
 
 Image
 
-![Screenshot of exposed form settings configration form](/sites/default/files/styles/max_800w/public/tutorials/images/exposed-filters-sorts--table-sort.png?itok=hcanHHkz)
+![Screenshot of exposed form settings configration form](../assets/images/exposed-filters-sorts--table-sort.png)
 
 ## Additional resources
 

@@ -81,7 +81,7 @@ Because the `$variables` array is passed by reference, preprocess functions do n
 
 Image
 
-![preprocess add variables](/sites/default/files/styles/max_800w/public/tutorials/images/task-preprocess_add_variables.png?itok=M7gcbuAL)
+![preprocess add variables](../assets/images/task-preprocess_add_variables.png)
 
 A note about naming: Because keys added to the `$variables` array are ultimately converted to Twig variables, it's important to use names that will result in a valid Twig variable name. For this reason, when adding variables via a preprocess function make sure you start with an alphabetical character, and replace any spaces with an underscore.
 

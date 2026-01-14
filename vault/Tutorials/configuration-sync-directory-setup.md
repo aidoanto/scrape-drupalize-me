@@ -39,7 +39,7 @@ It might strike you as odd to place a directory that will contain important info
 
 Image
 
-![Default file structure for configuration sync](/sites/default/files/styles/max_800w/public/tutorials/images/files_0.png?itok=IdFwg5_D)
+![Default file structure for configuration sync](../assets/images/files_0.png)
 
 The configuration sync directory does not contain any configuration files when you first install Drupal. As you will learn later on in this series, when performing a synchronization, an exported archived file is imported and unarchived into this synchronization directory. After the import is complete, you can navigate to this directory and see the YAML files that describe the configuration of your site (assuming a *full export*).
 
@@ -47,7 +47,7 @@ The *sync* directory is used to stage configuration for import. It is the place 
 
 Image
 
-![Alert message about configuration changes](/sites/default/files/styles/max_800w/public/tutorials/images/synchronize_configuration_management.png?itok=woTUQQR2)
+![Alert message about configuration changes](../assets/images/synchronize_configuration_management.png)
 
 *Screenshot shows an example of an alert message that displays on the "Configuration synchronization" administrative page when there are configuration changes.*
 

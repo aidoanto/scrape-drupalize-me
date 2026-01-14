@@ -46,7 +46,7 @@ The keys in this YAML file represent the machine name for the contextual link. T
 
 Image
 
-![Contextual links for nodes](/sites/default/files/styles/max_800w/public/tutorials/images/contextual-links.png?itok=LeUk1D3c)
+![Contextual links for nodes](../assets/images/contextual-links.png)
 
 ### The context group
 

@@ -199,7 +199,7 @@ Test it by filling in the form and pressing the *Save configuration* button.
 
 Image
 
-![Screenshot of custom configuration form for layout plugins](/sites/default/files/styles/max_800w/public/tutorials/images/layout_config_form.png?itok=8W5E5yhd)
+![Screenshot of custom configuration form for layout plugins](../assets/images/layout_config_form.png)
 
 You should see a message that the configuration has been saved.
 
@@ -423,7 +423,7 @@ Press *Manage layout*. Then press *Add section*; at the bottom of the sidebar yo
 
 Image
 
-![Screenshot of custom layout section](/sites/default/files/styles/max_800w/public/tutorials/images/custom_layout_section.png?itok=Q0W28-Nv)
+![Screenshot of custom layout section](../assets/images/custom_layout_section.png)
 
 *Note*: Regions may not display side by side for you on the first placement, depending on your theme. To fix it you probably would want to add some CSS to your section -- either to its Twig template or within your theme.
 

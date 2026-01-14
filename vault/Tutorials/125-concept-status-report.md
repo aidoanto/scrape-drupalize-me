@@ -16,7 +16,7 @@ You can find the status report in the *Manage* administrative menu by navigating
 
 Image
 
-![Status report of a basic site](/sites/default/files/styles/max_800w/public/user_guide/images/prevent-status.png?itok=jF4fRaoB)
+![Status report of a basic site](../assets/images/prevent-status.png)
 
 ### Related topics
 

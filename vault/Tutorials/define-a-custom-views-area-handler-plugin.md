@@ -188,25 +188,25 @@ Your configuration may look something like the following:
 
 Image
 
-![Screenshot of news view block](/sites/default/files/styles/max_800w/public/tutorials/images/news_view_config.png?itok=7X7Iy6BX)
+![Screenshot of news view block](../assets/images/news_view_config.png)
 
 In the *Header* section of the UI, press *Add* and search for *Header link*. Once found, add it to the view, configure the *Link text* and *Link URL* options, and save.
 
 Image
 
-![Screenshot of header link area handler search](/sites/default/files/styles/max_800w/public/tutorials/images/header_link_search.png?itok=-j_IQiYO)
+![Screenshot of header link area handler search](../assets/images/header_link_search.png)
 
 The configuration may look similar to what's shown below:
 
 Image
 
-![Screenshot of header link area handler config](/sites/default/files/styles/max_800w/public/tutorials/images/header_link_config.png?itok=l0jx8EQA)
+![Screenshot of header link area handler config](../assets/images/header_link_config.png)
 
 Scroll down to the preview area, and you should see a new header area handler rendered above the results area:
 
 Image
 
-![Screenshot of header link area handler in the view preview area](/sites/default/files/styles/max_800w/public/tutorials/images/header_link_preview.png?itok=2i7g9oyu)
+![Screenshot of header link area handler in the view preview area](../assets/images/header_link_preview.png)
 
 ## Recap
 

@@ -1,11 +1,10 @@
 ---
-title: ""
+title: "Understanding Drupal"
 url: "https://drupalize.me/tutorial/user-guide/understanding-drupal?p=0"
 guide: "[[introduction-drupal]]"
 ---
 
-# 
-
+# Understanding Drupal
 ## Content
 
 ### What is a Content Management System?

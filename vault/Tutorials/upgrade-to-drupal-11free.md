@@ -125,7 +125,7 @@ Look at the project's page on Drupal.org for more details about compatibility:
 
 Image
 
-![Screenshot of project info data from the Consumers project page with info about Drupal 10 highlighted](/sites/default/files/styles/max_800w/public/tutorials/images/drupal11-project-info-example.png?itok=JeWkqm6J)
+![Screenshot of project info data from the Consumers project page with info about Drupal 10 highlighted](../assets/images/drupal11-project-info-example.png)
 
 Acquia has created [a useful tool for checking compatibility](https://dev.acquia.com/drupal11/deprecation_status).
 
@@ -145,7 +145,7 @@ Use the *Manage* administrative menu, navigate to *Reports* > *Upgrade status* t
 
 Image
 
-![Screenshot of an example Upgrade Status report](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade_status_example_report_d11.png?itok=U5Ft3sbA)
+![Screenshot of an example Upgrade Status report](../assets/images/upgrade_status_example_report_d11.png)
 
 If a module isn't Drupal 11 compatible you've got a few options:
 
@@ -175,7 +175,7 @@ Once you have addressed all blockers to a Drupal 10 upgrade, you will see "N/A" 
 
 Image
 
-![Screenshot of Upgrade Status report when site is Drupal 11-ready](/sites/default/files/styles/max_800w/public/tutorials/images/upgrade_status_green_drupal11_ready.png?itok=wNz4n0GB)
+![Screenshot of Upgrade Status report when site is Drupal 11-ready](../assets/images/upgrade_status_green_drupal11_ready.png)
 
 ## Upgrade Drupal core
 
@@ -268,7 +268,7 @@ Congratulations! You've upgraded your site to Drupal 11!
 
 Image
 
-![Screenshot of Available updates page showing Drupal 11.0.5 installed](/sites/default/files/styles/max_800w/public/tutorials/images/available_updates_drupal11.png?itok=GkPmPrVe)
+![Screenshot of Available updates page showing Drupal 11.0.5 installed](../assets/images/available_updates_drupal11.png)
 
 ## Troubleshooting a Drupal 10 upgrade to Drupal 11
 

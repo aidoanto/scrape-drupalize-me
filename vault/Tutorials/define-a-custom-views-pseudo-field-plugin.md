@@ -43,13 +43,13 @@ Create a *Recipe* content type and add 2 integer numeric fields: *Cook time* and
 
 Image
 
-![Screenshot of Recipe content type](/sites/default/files/styles/max_800w/public/tutorials/images/recipe_content_type.png?itok=kR7R-ziX)
+![Screenshot of Recipe content type](../assets/images/recipe_content_type.png)
 
 Your time field setup can look something like below:
 
 Image
 
-![Screenshot of cook time field settings](/sites/default/files/styles/max_800w/public/tutorials/images/cook_time_field.png?itok=9Nqo6Ylx)
+![Screenshot of cook time field settings](../assets/images/cook_time_field.png)
 
 Fields:
 
@@ -209,7 +209,7 @@ Navigate to *Structure* > *Views* > *Add view*. Add a *Recipes* view with a page
 
 Image
 
-![Screenshot of recipes view](/sites/default/files/styles/max_800w/public/tutorials/images/recipes_view.png?itok=eTFjmAHd)
+![Screenshot of recipes view](../assets/images/recipes_view.png)
 
 Here we create a view with a page display that lists content of the type *Recipe* displayed as an unformatted list of fields. If necessary, change the format to use fields (*Format* > *Show*, select *Fields*). For now, we only add *Title* as a field, and order by *Authoring date* descending. Leave other settings as defaults or modify them to match your needs.
 
@@ -217,7 +217,7 @@ In the *Fields* section, select *Add* button and search for *Full cook and prep 
 
 Image
 
-![Screenshot of recipes view preview](/sites/default/files/styles/max_800w/public/tutorials/images/recipes_view_preview.png?itok=yo1qZPIo)
+![Screenshot of recipes view preview](../assets/images/recipes_view_preview.png)
 
 ## Computed fields
 

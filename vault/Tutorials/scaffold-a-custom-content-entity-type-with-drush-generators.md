@@ -189,7 +189,7 @@ Choose *Manage form display* tab. You should see all the base fields we defined 
 
 Image
 
-![Screenshot of News entity form display](/sites/default/files/styles/max_800w/public/tutorials/images/news_entity_form_display.png?itok=KWHlGZfK)
+![Screenshot of News entity form display](../assets/images/news_entity_form_display.png)
 
 Similarly, we can see the base fields on the *Manage display* tab and manipulate their settings.
 

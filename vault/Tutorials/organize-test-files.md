@@ -79,7 +79,7 @@ For example, a functional test would be *module\_name/tests/src/Functional/YourT
 
 Image
 
-![Image of a file directory for Functional tests](/sites/default/files/styles/max_800w/public/tutorials/images/frameworks-organizing-functional.jpg?itok=4I3FcCYb)
+![Image of a file directory for Functional tests](../assets/images/frameworks-organizing-functional.jpg)
 
 ## Traits
 

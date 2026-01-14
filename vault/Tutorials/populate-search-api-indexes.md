@@ -127,7 +127,7 @@ The web UI can be used to reindex a site's content. This method is easy and acce
 
    Image
 
-   ![Screenshot of Search API Index status page](/sites/default/files/styles/max_800w/public/tutorials/images/search-api-index-status.png?itok=DVV6VVwj)
+   ![Screenshot of Search API Index status page](../assets/images/search-api-index-status.png)
 5. Click *Index now*.
 
 ### Use Drush to reindex the site

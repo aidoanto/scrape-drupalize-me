@@ -126,7 +126,7 @@ The following image shows the individual migrations that make up the Drupalize.M
 
 Image
 
-![Diagram showing relationships between a bunch of individual migrations](/sites/default/files/styles/max_800w/public/tutorials/images/inidividual-migrations-graph.gif?itok=E3eRoWfR)
+![Diagram showing relationships between a bunch of individual migrations](../assets/images/inidividual-migrations-graph.gif)
 
 An individual migration is responsible for one unit of data. If you want to migrate article nodes, you'll need a migration for roles, a migration for user accounts, and a migration for article nodes--at a minimum.
 
@@ -142,7 +142,7 @@ Example:
 
 Image
 
-![Diagram showing dependencies between content types, users, files, etc.](/sites/default/files/styles/max_800w/public/tutorials/images/migration-dependency-diagram.png?itok=UHfk3sfq)
+![Diagram showing dependencies between content types, users, files, etc.](../assets/images/migration-dependency-diagram.png)
 
 When you start developing migrations, start with the innermost smallest buckets, and work outwards.
 

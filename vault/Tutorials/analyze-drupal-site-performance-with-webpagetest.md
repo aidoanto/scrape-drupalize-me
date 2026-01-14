@@ -33,7 +33,7 @@ Navigate to <https://www.webpagetest.org>. In the dropdown of tests, choose *Sit
 
 Image
 
-![Screenshot of the WebPageTest site UI](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_top_ui.png?itok=xZsaa66z)
+![Screenshot of the WebPageTest site UI](../assets/images/webpagetest_top_ui.png)
 
 Scroll down the page to the *Simple Configuration* section and open the accordion. For this tutorial, we’ll be focusing on the desktop tests. You can run tests on your own for mobile devices and different bandwidth scenarios by following the same steps. Choose the *Desktop cable* option.
 
@@ -43,7 +43,7 @@ Note: We focus on running and analyzing Lighthouse tests in [Analyze Drupal Site
 
 Image
 
-![Screenshot of the WebPageTest simple test configuration](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_simple_config.png?itok=OcCtZO_2)
+![Screenshot of the WebPageTest simple test configuration](../assets/images/webpagetest_simple_config.png)
 
 In the advanced configuration, you can refine location and speed settings. It’s helpful if you’re trying to test for a specific user audience or geographic region. For this tutorial, we’ll keep it unchanged.
 
@@ -51,13 +51,13 @@ In the *Repeat View* row, choose the *First View and Repeat View* option and unc
 
 Image
 
-![Screenshot of the WebPageTest simple test configuration](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_advanced_config.png?itok=HxLduxmy)
+![Screenshot of the WebPageTest simple test configuration](../assets/images/webpagetest_advanced_config.png)
 
 Press the *Start Test* button. The test may take a while to run depending on the size of the queue.
 
 Image
 
-![Screenshot of the WebPageTest simple test configuration](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_waiting_screen.png?itok=sAnBuv3_)
+![Screenshot of the WebPageTest simple test configuration](../assets/images/webpagetest_waiting_screen.png)
 
 ### Review your test results
 
@@ -65,13 +65,13 @@ After the test completes, you'll see a general summary of the test.
 
 Image
 
-![Screenshot of the WebPageTest results summary](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_results_summary.png?itok=_1Cnjctc)
+![Screenshot of the WebPageTest results summary](../assets/images/webpagetest_results_summary.png)
 
 Scroll down the page, and you should see the *Observed Metrics* summary based on the median run. To generate this, WebPageTest runs a set of tests 3 times and then produces a median run. It’s helpful because performance test results fluctuate, and sites may perform differently under different sets of conditions.
 
 Image
 
-![Screenshot of the WebPageTest observed metrics](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_observed_metrics.png?itok=I2mC5RCt)
+![Screenshot of the WebPageTest observed metrics](../assets/images/webpagetest_observed_metrics.png)
 
 The metrics highlight the scores, and results, for Largest Contentful Paint (LCP), Cumulative Layout Shift (CLS), and Total Blocking Time (TBT). The results also include measurements like time to first byte, time to the first render, First Contentful Paint (FCP), and speed index.
 
@@ -100,7 +100,7 @@ Press on the *LCP* metric in the *Metrics* section of the results to dive deeper
 
 Image
 
-![Screenshot of LCP](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_lcp.png?itok=ML5n2crb)
+![Screenshot of LCP](../assets/images/webpagetest_lcp.png)
 
 In our case, the largest content on the page is a hero banner. Since we optimized this image in [Analyze Drupal Site Performance with Lighthouse](https://drupalize.me/tutorial/analyze-drupal-site-performance-lighthouse), the metric is still within the range of under 2.5 seconds.
 
@@ -108,7 +108,7 @@ We could optimize the image more or deliver it in the next-gen web image format 
 
 Image
 
-![Screenshot of LCP details](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_lcp_details.png?itok=itn6yldb)
+![Screenshot of LCP details](../assets/images/webpagetest_lcp_details.png)
 
 The test showed that our TBT is 0 ms which is a perfect result, and there is nothing to improve. Solutions for the improvement of TBT may vary based on the third-party libraries, scripts, and resources you are using on the site.
 
@@ -126,31 +126,31 @@ The first shift happened when the logo loaded.
 
 Image
 
-![Screenshot of the logo loading shift – no logo](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_shft_1_a.png?itok=_8FUDKxI)
+![Screenshot of the logo loading shift – no logo](../assets/images/webpagetest_shft_1_a.png)
 
 Image
 
-![Screenshot of the logo loading shift – logo present](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_shft_1_b.png?itok=F5d7PCbE)
+![Screenshot of the logo loading shift – logo present](../assets/images/webpagetest_shft_1_b.png)
 
 The next shift happened when the search icon was loaded.
 
 Image
 
-![Screenshot of the search icon loading shift – no icon](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_shft_2_a.png?itok=v1oXIUNQ)
+![Screenshot of the search icon loading shift – no icon](../assets/images/webpagetest_shft_2_a.png)
 
 Image
 
-![Screenshot of the search icon loading shift – icon](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_shft_2_b.png?itok=ihOWufOD)
+![Screenshot of the search icon loading shift – icon](../assets/images/webpagetest_shft_2_b.png)
 
 And the final shift happened when the font was replaced with the fully loaded Google Font and text on the page was rerendered with the font.
 
 Image
 
-![Screenshot of the font loading shift – no font](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_shft_3_a.png?itok=dHkD8Axf)
+![Screenshot of the font loading shift – no font](../assets/images/webpagetest_shft_3_a.png)
 
 Image
 
-![Screenshot of the font loading shift – font present](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_shft_3_b.png?itok=uYNTDfPW)
+![Screenshot of the font loading shift – font present](../assets/images/webpagetest_shft_3_b.png)
 
 To fix the first 2 shifts, let's set a defined width and height for the image containers. You can apply the fix in the CSS for your theme by giving container elements for these images explicit dimensions, so they'll effectively hold the space necessary to display the image once it's loaded.
 
@@ -162,7 +162,7 @@ Scroll to the individual runs results on the main results page. You should see t
 
 Image
 
-![Screenshot of the content breakdown results](/sites/default/files/styles/max_800w/public/tutorials/images/webpagetest_content_breakdown.png?itok=2Ycl6F1g)
+![Screenshot of the content breakdown results](../assets/images/webpagetest_content_breakdown.png)
 
 The results show that the majority of the content is images. Image optimization can influence the performance further. The second category is fonts. Preloading fonts or hosting them locally, and using variable fonts can also improve the performance.
 

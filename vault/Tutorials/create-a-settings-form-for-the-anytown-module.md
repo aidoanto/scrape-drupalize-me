@@ -194,7 +194,7 @@ Then, in the *Manage* administration menu, navigate to *Configuration* > *System
 
 Image
 
-![Screenshot of the Anytown Settings form](/sites/default/files/styles/max_800w/public/tutorials/images/forms--create-settings-form.png?itok=OiBULg85)
+![Screenshot of the Anytown Settings form](../assets/images/forms--create-settings-form.png)
 
 ## Using Drush to generate a configuration form
 

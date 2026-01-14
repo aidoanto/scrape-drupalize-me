@@ -34,7 +34,7 @@ Sprout Video
 
    Image
 
-   ![Configure the core Automated Cron module](/sites/default/files/styles/max_800w/public/user_guide/images/security-cron.png?itok=QQf5Z6r5)
+   ![Configure the core Automated Cron module](../assets/images/security-cron.png)
 4. If you want to run cron maintenance tasks from outside the website, uninstall the core Automated Cron module (see [Section 4.4, “Uninstalling Unused Modules”](https://drupalize.me/tutorial/user-guide/config-uninstall "4.4. Uninstalling Unused Modules")). Next, find the cron URL. This URL is shown in the *Status report* (see [Section 12.5, “Concept: Status Report”](https://drupalize.me/tutorial/user-guide/prevent-status "12.5. Concept: Status Report")), and in the *Cron* administration page (see previous step). The URL looks like this: *[http://www.example.com/cron/0MgWtfB33FYbbQ5UAC3L0LL3RC0PT3RNUBZILLA0Nf1…](http://www.example.com/cron/0MgWtfB33FYbbQ5UAC3L0LL3RC0PT3RNUBZILLA0Nf1Re)*
 
    Whenever this URL is visited, cron maintenance tasks will run. Set up one of the following schedulers to access this URL regularly:
