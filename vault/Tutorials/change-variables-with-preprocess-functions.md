@@ -2,6 +2,7 @@
 title: "Change Variables with Preprocess Functions"
 url: "https://drupalize.me/tutorial/change-variables-preprocess-functions?p=2851"
 guide: "[[frontend-theming]]"
+order: 7
 ---
 
 # Change Variables with Preprocess Functions

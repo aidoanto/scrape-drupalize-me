@@ -2,6 +2,7 @@
 title: "Use Drupal Media Library to Browse Media Entities"
 url: "https://drupalize.me/tutorial/use-drupal-media-library-browse-media-entities?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 5
 ---
 
 # Use Drupal Media Library to Browse Media Entities

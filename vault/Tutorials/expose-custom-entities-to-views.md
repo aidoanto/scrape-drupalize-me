@@ -2,6 +2,7 @@
 title: "Expose Custom Entities to Views"
 url: "https://drupalize.me/tutorial/expose-custom-entities-views?p=2939"
 guide: "[[views-drupal]]"
+order: 24
 ---
 
 # Expose Custom Entities to Views

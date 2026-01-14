@@ -2,6 +2,7 @@
 title: "Alter a View before It's Rendered"
 url: "https://drupalize.me/tutorial/alter-view-its-rendered?p=2939"
 guide: "[[views-drupal]]"
+order: 19
 ---
 
 # Alter a View before It's Rendered

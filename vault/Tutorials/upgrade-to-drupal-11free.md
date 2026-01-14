@@ -2,6 +2,7 @@
 title: "Upgrade to Drupal 11free"
 url: "https://drupalize.me/tutorial/upgrade-drupal-11?p=3282"
 guide: "[[keep-drupal-up-to-date]]"
+order: 4
 ---
 
 # Upgrade to Drupal 11free

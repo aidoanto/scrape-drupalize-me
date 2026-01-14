@@ -2,6 +2,7 @@
 title: "Reset and Clean Git Commands"
 url: "https://drupalize.me/tutorial/reset-and-clean-git-commands?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 57
 ---
 
 # Reset and Clean Git Commands

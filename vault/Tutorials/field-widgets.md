@@ -2,6 +2,7 @@
 title: "Field Widgets"
 url: "https://drupalize.me/tutorial/field-widgets?p=2628"
 guide: "[[work-data-modules]]"
+order: 16
 ---
 
 # Field Widgets

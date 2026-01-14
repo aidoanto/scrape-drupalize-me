@@ -2,6 +2,7 @@
 title: "Working with Entity CRUD"
 url: "https://drupalize.me/tutorial/working-entity-crud"
 guide: "[[acquia-certified-drupal-front-end-specialist-exam]]"
+order: 6
 ---
 
 # Working with Entity CRUD

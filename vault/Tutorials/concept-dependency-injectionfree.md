@@ -2,6 +2,7 @@
 title: "Concept: Dependency Injectionfree"
 url: "https://drupalize.me/tutorial/concept-dependency-injection?p=3238"
 guide: "[[drupal-module-developer-guide]]"
+order: 24
 ---
 
 # Concept: Dependency Injectionfree

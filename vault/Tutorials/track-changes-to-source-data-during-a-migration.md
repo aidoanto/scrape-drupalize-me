@@ -2,6 +2,7 @@
 title: "Track Changes to Source Data During a Migration"
 url: "https://drupalize.me/tutorial/track-changes-source-data-during-migration?p=3115"
 guide: "[[learn-migrate-drupal]]"
+order: 30
 ---
 
 # Track Changes to Source Data During a Migration

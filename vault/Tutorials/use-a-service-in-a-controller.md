@@ -2,6 +2,7 @@
 title: "Use a Service in a Controller"
 url: "https://drupalize.me/tutorial/use-service-controller?p=3238"
 guide: "[[drupal-module-developer-guide]]"
+order: 26
 ---
 
 # Use a Service in a Controller

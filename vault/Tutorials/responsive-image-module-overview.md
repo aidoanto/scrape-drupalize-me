@@ -2,6 +2,7 @@
 title: "Responsive Image Module Overview"
 url: "https://drupalize.me/tutorial/responsive-image-module-overview?p=2864"
 guide: "[[media-and-responsive-images]]"
+order: 20
 ---
 
 # Responsive Image Module Overview

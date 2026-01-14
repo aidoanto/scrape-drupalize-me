@@ -2,6 +2,7 @@
 title: "Drupal-to-Drupal Migration with the UI"
 url: "https://drupalize.me/tutorial/drupal-drupal-migration-ui?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 13
 ---
 
 # Drupal-to-Drupal Migration with the UI

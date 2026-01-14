@@ -2,6 +2,7 @@
 title: "Reimport Default Configuration during Development"
 url: "https://drupalize.me/tutorial/reimport-default-configuration-during-development?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 14
 ---
 
 # Reimport Default Configuration during Development

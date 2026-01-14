@@ -2,6 +2,7 @@
 title: "Separation of Concerns: Content vs. Presentation"
 url: "https://drupalize.me/tutorial/separation-concerns-content-vs-presentation?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 6
 ---
 
 # Separation of Concerns: Content vs. Presentation

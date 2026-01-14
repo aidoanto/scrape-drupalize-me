@@ -2,6 +2,7 @@
 title: "Define a New Permission"
 url: "https://drupalize.me/tutorial/define-new-permission?p=3236"
 guide: "[[drupal-module-developer-guide]]"
+order: 22
 ---
 
 # Define a New Permission

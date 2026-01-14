@@ -2,6 +2,7 @@
 title: "Use Render Element Types in a Render Array"
 url: "https://drupalize.me/tutorial/use-render-element-types-render-array?p=3252"
 guide: "[[output-and-format-data-code]]"
+order: 10
 ---
 
 # Use Render Element Types in a Render Array

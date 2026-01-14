@@ -2,6 +2,7 @@
 title: "Copy, Move, Delete on Command Linefree"
 url: "https://drupalize.me/tutorial/copy-move-delete-command-line?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 31
 ---
 
 # Copy, Move, Delete on Command Linefree

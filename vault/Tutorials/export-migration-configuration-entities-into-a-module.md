@@ -2,6 +2,7 @@
 title: "Export Migration Configuration Entities into a Module"
 url: "https://drupalize.me/tutorial/export-migration-configuration-entities-module?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 18
 ---
 
 # Export Migration Configuration Entities into a Module

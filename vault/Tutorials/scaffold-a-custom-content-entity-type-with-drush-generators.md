@@ -2,6 +2,7 @@
 title: "Scaffold a Custom Content Entity Type with Drush Generators"
 url: "https://drupalize.me/tutorial/scaffold-custom-content-entity-type-drush-generators?p=2607"
 guide: "[[work-data-modules]]"
+order: 5
 ---
 
 # Scaffold a Custom Content Entity Type with Drush Generators

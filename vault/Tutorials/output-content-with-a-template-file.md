@@ -2,6 +2,7 @@
 title: "Output Content with a Template File"
 url: "https://drupalize.me/tutorial/output-content-template-file?p=3252"
 guide: "[[output-and-format-data-code]]"
+order: 13
 ---
 
 # Output Content with a Template File

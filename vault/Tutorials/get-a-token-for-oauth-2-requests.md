@@ -2,6 +2,7 @@
 title: "Get a Token for OAuth 2 Requests"
 url: "https://drupalize.me/tutorial/get-token-oauth-2-requests?p=3279"
 guide: "[[decoupled-headless-drupal]]"
+order: 23
 ---
 
 # Get a Token for OAuth 2 Requests

@@ -2,6 +2,7 @@
 title: "Change Theme Settings"
 url: "https://drupalize.me/tutorial/change-theme-settings?p=3266"
 guide: "[[frontend-theming]]"
+order: 4
 ---
 
 # Change Theme Settings

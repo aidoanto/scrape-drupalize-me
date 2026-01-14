@@ -2,6 +2,7 @@
 title: "Use Vite to Start a Decoupled React Application"
 url: "https://drupalize.me/tutorial/use-vite-start-decoupled-react-application?p=2798"
 guide: "[[decoupled-headless-drupal]]"
+order: 40
 ---
 
 # Use Vite to Start a Decoupled React Application

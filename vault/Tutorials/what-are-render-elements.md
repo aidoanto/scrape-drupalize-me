@@ -2,6 +2,7 @@
 title: "What Are Render Elements?"
 url: "https://drupalize.me/tutorial/what-are-render-elements?p=2775"
 guide: "[[output-and-format-data-code]]"
+order: 3
 ---
 
 # What Are Render Elements?

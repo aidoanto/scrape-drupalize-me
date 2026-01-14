@@ -2,6 +2,7 @@
 title: "Implement a YAML Plugin"
 url: "https://drupalize.me/tutorial/implement-yaml-plugin?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 12
 ---
 
 # Implement a YAML Plugin

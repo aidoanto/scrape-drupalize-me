@@ -2,6 +2,7 @@
 title: "Overview: Views Pluginsfree"
 url: "https://drupalize.me/tutorial/overview-views-plugins?p=2939"
 guide: "[[views-drupal]]"
+order: 25
 ---
 
 # Overview: Views Pluginsfree

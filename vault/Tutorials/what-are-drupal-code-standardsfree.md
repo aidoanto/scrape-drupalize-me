@@ -2,6 +2,7 @@
 title: "What Are Drupal Code Standards?free"
 url: "https://drupalize.me/tutorial/what-are-drupal-code-standards?p=2458"
 guide: "[[develop-drupal-sites]]"
+order: 6
 ---
 
 # What Are Drupal Code Standards?free

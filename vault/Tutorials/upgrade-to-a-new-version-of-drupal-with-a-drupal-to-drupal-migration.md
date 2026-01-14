@@ -2,6 +2,7 @@
 title: "Upgrade to a New Version of Drupal with a Drupal-to-Drupal Migration"
 url: "https://drupalize.me/tutorial/upgrade-new-version-drupal-drupal-drupal-migration?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 7
 ---
 
 # Upgrade to a New Version of Drupal with a Drupal-to-Drupal Migration

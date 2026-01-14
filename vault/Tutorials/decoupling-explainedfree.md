@@ -2,6 +2,7 @@
 title: "Decoupling Explainedfree"
 url: "https://drupalize.me/tutorial/decoupling-explained?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 1
 ---
 
 # Decoupling Explainedfree

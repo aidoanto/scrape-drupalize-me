@@ -2,6 +2,7 @@
 title: "Breakpoints and Media Queries"
 url: "https://drupalize.me/tutorial/breakpoints-and-media-queries?p=3275"
 guide: "[[media-and-responsive-images]]"
+order: 17
 ---
 
 # Breakpoints and Media Queries

@@ -2,6 +2,7 @@
 title: "Backbone.js in a Theme or Module"
 url: "https://drupalize.me/tutorial/backbonejs-theme-or-module?p=2883"
 guide: "[[integrate-javascript-drupal]]"
+order: 10
 ---
 
 # Backbone.js in a Theme or Module

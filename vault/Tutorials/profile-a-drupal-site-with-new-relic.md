@@ -2,6 +2,7 @@
 title: "Profile a Drupal Site with New Relic"
 url: "https://drupalize.me/tutorial/profile-drupal-site-new-relic?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 50
 ---
 
 # Profile a Drupal Site with New Relic

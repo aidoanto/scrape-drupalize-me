@@ -2,6 +2,7 @@
 title: "Automating Drupal Tasks with Drush and Bash Scripts"
 url: "https://drupalize.me/tutorial/automating-drupal-tasks-drush-and-bash-scripts?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 16
 ---
 
 # Automating Drupal Tasks with Drush and Bash Scripts

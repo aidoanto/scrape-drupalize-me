@@ -2,6 +2,7 @@
 title: "Solr Cores"
 url: "https://drupalize.me/tutorial/solr-cores?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 18
 ---
 
 # Solr Cores

@@ -2,6 +2,7 @@
 title: "JSON:API POST Requests: Create an Entity"
 url: "https://drupalize.me/tutorial/jsonapi-post-requests-create-entity?p=3279"
 guide: "[[decoupled-headless-drupal]]"
+order: 26
 ---
 
 # JSON:API POST Requests: Create an Entity

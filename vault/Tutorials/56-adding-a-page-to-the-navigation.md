@@ -2,6 +2,7 @@
 title: "5.6. Adding a Page to the Navigation"
 url: "https://drupalize.me/tutorial/user-guide/menu-link-from-content?p=2350"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 29
 ---
 
 # 5.6. Adding a Page to the Navigation

@@ -2,6 +2,7 @@
 title: "Getting Help with Drupal"
 url: "https://drupalize.me/tutorial/getting-help-drupal?p=1350"
 guide: "[[build-drupal-sites]]"
+order: 1
 ---
 
 # Getting Help with Drupal

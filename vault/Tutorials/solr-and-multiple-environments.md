@@ -2,6 +2,7 @@
 title: "Solr and Multiple Environments"
 url: "https://drupalize.me/tutorial/solr-and-multiple-environments?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 20
 ---
 
 # Solr and Multiple Environments

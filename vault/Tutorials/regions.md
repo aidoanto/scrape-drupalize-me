@@ -2,6 +2,7 @@
 title: "Regions"
 url: "https://drupalize.me/tutorial/regions?p=3267"
 guide: "[[frontend-theming]]"
+order: 47
 ---
 
 # Regions

@@ -2,6 +2,7 @@
 title: "Set Up Your Development Environmentfree"
 url: "https://drupalize.me/tutorial/set-your-development-environment?p=3234"
 guide: "[[drupal-module-developer-guide]]"
+order: 8
 ---
 
 # Set Up Your Development Environmentfree

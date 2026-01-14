@@ -2,6 +2,7 @@
 title: "Define Custom Layouts in a Module or Theme"
 url: "https://drupalize.me/tutorial/define-custom-layouts-module-or-theme?p=2653"
 guide: "[[layout-builder]]"
+order: 9
 ---
 
 # Define Custom Layouts in a Module or Theme

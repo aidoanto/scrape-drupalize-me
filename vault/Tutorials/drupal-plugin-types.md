@@ -2,6 +2,7 @@
 title: "Drupal Plugin Types"
 url: "https://drupalize.me/tutorial/drupal-plugin-types?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 6
 ---
 
 # Drupal Plugin Types

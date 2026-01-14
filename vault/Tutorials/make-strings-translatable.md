@@ -2,6 +2,7 @@
 title: "Make Strings Translatable"
 url: "https://drupalize.me/tutorial/make-strings-translatable?p=3253"
 guide: "[[output-and-format-data-code]]"
+order: 21
 ---
 
 # Make Strings Translatable

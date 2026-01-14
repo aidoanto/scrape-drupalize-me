@@ -2,6 +2,7 @@
 title: "Define a Weather Forecast Service"
 url: "https://drupalize.me/tutorial/define-weather-forecast-service?p=3238"
 guide: "[[drupal-module-developer-guide]]"
+order: 28
 ---
 
 # Define a Weather Forecast Service

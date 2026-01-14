@@ -2,6 +2,7 @@
 title: "Using MySQL from Command Linefree"
 url: "https://drupalize.me/tutorial/using-mysql-command-line?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 42
 ---
 
 # Using MySQL from Command Linefree

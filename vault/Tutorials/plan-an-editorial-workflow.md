@@ -2,6 +2,7 @@
 title: "Plan an Editorial Workflow"
 url: "https://drupalize.me/tutorial/plan-editorial-workflow?p=2501"
 guide: "[[drupal-site-administration]]"
+order: 53
 ---
 
 # Plan an Editorial Workflow

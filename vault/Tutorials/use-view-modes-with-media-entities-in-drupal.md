@@ -2,6 +2,7 @@
 title: "Use View Modes with Media Entities in Drupal"
 url: "https://drupalize.me/tutorial/use-view-modes-media-entities-drupal?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 12
 ---
 
 # Use View Modes with Media Entities in Drupal

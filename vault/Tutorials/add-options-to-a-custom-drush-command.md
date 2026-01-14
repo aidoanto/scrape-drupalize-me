@@ -2,6 +2,7 @@
 title: "Add Options to a Custom Drush Command"
 url: "https://drupalize.me/tutorial/add-options-custom-drush-command?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 24
 ---
 
 # Add Options to a Custom Drush Command

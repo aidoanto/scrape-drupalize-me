@@ -2,6 +2,7 @@
 title: "Form API Life Cycle"
 url: "https://drupalize.me/tutorial/form-api-life-cycle?p=2734"
 guide: "[[develop-forms-drupal]]"
+order: 2
 ---
 
 # Form API Life Cycle

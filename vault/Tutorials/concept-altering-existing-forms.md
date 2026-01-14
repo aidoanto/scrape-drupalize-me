@@ -2,6 +2,7 @@
 title: "Concept: Altering Existing Forms"
 url: "https://drupalize.me/tutorial/concept-altering-existing-forms?p=3242"
 guide: "[[drupal-module-developer-guide]]"
+order: 50
 ---
 
 # Concept: Altering Existing Forms

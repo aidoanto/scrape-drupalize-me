@@ -2,6 +2,7 @@
 title: "6.8. Concept: Forms and Widgets"
 url: "https://drupalize.me/tutorial/user-guide/structure-widgets?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 9
 ---
 
 # 6.8. Concept: Forms and Widgets

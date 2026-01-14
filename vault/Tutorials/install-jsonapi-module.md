@@ -2,6 +2,7 @@
 title: "Install JSON:API Module"
 url: "https://drupalize.me/tutorial/install-jsonapi-module?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 11
 ---
 
 # Install JSON:API Module

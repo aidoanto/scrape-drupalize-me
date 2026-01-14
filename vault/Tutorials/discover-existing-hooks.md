@@ -2,6 +2,7 @@
 title: "Discover Existing Hooks"
 url: "https://drupalize.me/tutorial/discover-existing-hooks?p=2751"
 guide: "[[alter-drupal-modules]]"
+order: 3
 ---
 
 # Discover Existing Hooks

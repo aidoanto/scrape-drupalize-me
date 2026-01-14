@@ -2,6 +2,7 @@
 title: "Drupal Code Standards: Documentationfree"
 url: "https://drupalize.me/tutorial/drupal-code-standards-documentation?p=2458"
 guide: "[[develop-drupal-sites]]"
+order: 8
 ---
 
 # Drupal Code Standards: Documentationfree

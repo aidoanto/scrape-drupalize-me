@@ -2,6 +2,7 @@
 title: "Specify the Version of a Composer Package"
 url: "https://drupalize.me/tutorial/specify-version-composer-package?p=2467"
 guide: "[[command-line-tools-drupal]]"
+order: 4
 ---
 
 # Specify the Version of a Composer Package

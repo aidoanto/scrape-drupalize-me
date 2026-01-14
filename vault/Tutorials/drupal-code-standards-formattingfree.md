@@ -2,6 +2,7 @@
 title: "Drupal Code Standards: Formattingfree"
 url: "https://drupalize.me/tutorial/drupal-code-standards-formatting?p=2458"
 guide: "[[develop-drupal-sites]]"
+order: 7
 ---
 
 # Drupal Code Standards: Formattingfree

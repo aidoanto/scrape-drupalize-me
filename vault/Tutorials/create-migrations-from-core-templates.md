@@ -2,6 +2,7 @@
 title: "Create Migrations from Core Templates"
 url: "https://drupalize.me/tutorial/create-migrations-core-templates?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 17
 ---
 
 # Create Migrations from Core Templates

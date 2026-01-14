@@ -2,6 +2,7 @@
 title: "Git Aliases and Other Fun Configuration"
 url: "https://drupalize.me/tutorial/git-aliases-and-other-fun-configuration?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 63
 ---
 
 # Git Aliases and Other Fun Configuration

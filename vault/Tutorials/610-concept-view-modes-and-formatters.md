@@ -2,6 +2,7 @@
 title: "6.10. Concept: View Modes and Formatters"
 url: "https://drupalize.me/tutorial/user-guide/structure-view-modes?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 11
 ---
 
 # 6.10. Concept: View Modes and Formatters

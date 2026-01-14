@@ -2,6 +2,7 @@
 title: "Create a Controller for the Weather Page"
 url: "https://drupalize.me/tutorial/create-controller-weather-page?p=3236"
 guide: "[[drupal-module-developer-guide]]"
+order: 17
 ---
 
 # Create a Controller for the Weather Page

@@ -2,6 +2,7 @@
 title: "Add Classes and HTML Attributes to Render Arrays"
 url: "https://drupalize.me/tutorial/add-classes-and-html-attributes-render-arrays?p=3252"
 guide: "[[output-and-format-data-code]]"
+order: 14
 ---
 
 # Add Classes and HTML Attributes to Render Arrays

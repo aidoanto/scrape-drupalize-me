@@ -2,6 +2,7 @@
 title: "How Drupal Turns a Request into a Response"
 url: "https://drupalize.me/tutorial/how-drupal-turns-request-response?p=3134"
 guide: "[[develop-custom-pages]]"
+order: 9
 ---
 
 # How Drupal Turns a Request into a Response

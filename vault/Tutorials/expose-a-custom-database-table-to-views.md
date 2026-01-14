@@ -2,6 +2,7 @@
 title: "Expose a Custom Database Table to Views"
 url: "https://drupalize.me/tutorial/expose-custom-database-table-views?p=2939"
 guide: "[[views-drupal]]"
+order: 22
 ---
 
 # Expose a Custom Database Table to Views

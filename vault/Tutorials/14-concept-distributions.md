@@ -2,6 +2,7 @@
 title: "1.4. Concept: Distributions"
 url: "https://drupalize.me/tutorial/user-guide/understanding-distributions?p=2433"
 guide: "[[introduction-drupal]]"
+order: 7
 ---
 
 # 1.4. Concept: Distributions

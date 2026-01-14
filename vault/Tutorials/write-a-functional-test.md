@@ -2,6 +2,7 @@
 title: "Write a Functional Test"
 url: "https://drupalize.me/tutorial/write-functional-test?p=3245"
 guide: "[[drupal-module-developer-guide]]"
+order: 75
 ---
 
 # Write a Functional Test

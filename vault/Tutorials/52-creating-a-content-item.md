@@ -2,6 +2,7 @@
 title: "5.2. Creating a Content Item"
 url: "https://drupalize.me/tutorial/user-guide/content-create?p=2350"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 25
 ---
 
 # 5.2. Creating a Content Item

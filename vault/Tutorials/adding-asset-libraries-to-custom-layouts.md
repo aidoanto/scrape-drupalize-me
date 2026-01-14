@@ -2,6 +2,7 @@
 title: "Adding Asset Libraries to Custom Layouts"
 url: "https://drupalize.me/tutorial/adding-asset-libraries-custom-layouts?p=2653"
 guide: "[[layout-builder]]"
+order: 14
 ---
 
 # Adding Asset Libraries to Custom Layouts

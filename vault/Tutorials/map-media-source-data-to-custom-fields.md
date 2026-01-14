@@ -2,6 +2,7 @@
 title: "Map Media Source Data to Custom Fields"
 url: "https://drupalize.me/tutorial/map-media-source-data-custom-fields?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 8
 ---
 
 # Map Media Source Data to Custom Fields

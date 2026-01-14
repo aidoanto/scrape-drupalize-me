@@ -2,6 +2,7 @@
 title: "Add Access Checking to a Route"
 url: "https://drupalize.me/tutorial/add-access-checking-route?p=3134"
 guide: "[[develop-custom-pages]]"
+order: 8
 ---
 
 # Add Access Checking to a Route

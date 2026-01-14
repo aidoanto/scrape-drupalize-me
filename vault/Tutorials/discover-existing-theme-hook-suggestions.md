@@ -2,6 +2,7 @@
 title: "Discover Existing Theme Hook Suggestions"
 url: "https://drupalize.me/tutorial/discover-existing-theme-hook-suggestions?p=3268"
 guide: "[[frontend-theming]]"
+order: 9
 ---
 
 # Discover Existing Theme Hook Suggestions

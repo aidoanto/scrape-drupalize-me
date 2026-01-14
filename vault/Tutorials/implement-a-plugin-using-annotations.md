@@ -2,6 +2,7 @@
 title: "Implement a Plugin Using Annotations"
 url: "https://drupalize.me/tutorial/implement-plugin-using-annotations?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 11
 ---
 
 # Implement a Plugin Using Annotations

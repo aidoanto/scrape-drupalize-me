@@ -2,6 +2,7 @@
 title: "Concept: Render APIfree"
 url: "https://drupalize.me/tutorial/concept-render-api?p=3239"
 guide: "[[drupal-module-developer-guide]]"
+order: 30
 ---
 
 # Concept: Render APIfree

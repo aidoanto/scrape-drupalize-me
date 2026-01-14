@@ -2,6 +2,7 @@
 title: "Field API Hooks"
 url: "https://drupalize.me/tutorial/field-api-hooks?p=2628"
 guide: "[[work-data-modules]]"
+order: 19
 ---
 
 # Field API Hooks

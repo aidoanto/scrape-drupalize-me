@@ -2,6 +2,7 @@
 title: "6.14. Concept: Responsive Image Styles"
 url: "https://drupalize.me/tutorial/user-guide/structure-image-responsive?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 15
 ---
 
 # 6.14. Concept: Responsive Image Styles

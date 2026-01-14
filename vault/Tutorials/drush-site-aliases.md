@@ -2,6 +2,7 @@
 title: "Drush Site Aliases"
 url: "https://drupalize.me/tutorial/drush-site-aliases?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 17
 ---
 
 # Drush Site Aliases

@@ -2,6 +2,7 @@
 title: "Validate User Input for the Settings Form"
 url: "https://drupalize.me/tutorial/validate-user-input-settings-form?p=3242"
 guide: "[[drupal-module-developer-guide]]"
+order: 48
 ---
 
 # Validate User Input for the Settings Form

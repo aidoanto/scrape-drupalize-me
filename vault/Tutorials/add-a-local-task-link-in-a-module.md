@@ -2,6 +2,7 @@
 title: "Add a Local Task Link in a Module"
 url: "https://drupalize.me/tutorial/add-local-task-link-module?p=2758"
 guide: "[[develop-custom-pages]]"
+order: 15
 ---
 
 # Add a Local Task Link in a Module

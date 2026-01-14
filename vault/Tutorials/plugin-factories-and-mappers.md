@@ -2,6 +2,7 @@
 title: "Plugin Factories and Mappers"
 url: "https://drupalize.me/tutorial/plugin-factories-and-mappers?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 15
 ---
 
 # Plugin Factories and Mappers

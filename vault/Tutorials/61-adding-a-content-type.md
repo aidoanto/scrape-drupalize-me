@@ -2,6 +2,7 @@
 title: "6.1. Adding a Content Type"
 url: "https://drupalize.me/tutorial/user-guide/structure-content-type?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 2
 ---
 
 # 6.1. Adding a Content Type

@@ -2,6 +2,7 @@
 title: "Load JavaScript in Drupal with Drupal.behaviors"
 url: "https://drupalize.me/tutorial/load-javascript-drupal-drupalbehaviors?p=2883"
 guide: "[[integrate-javascript-drupal]]"
+order: 2
 ---
 
 # Load JavaScript in Drupal with Drupal.behaviors

@@ -2,6 +2,7 @@
 title: "Concept: Internationalization (i18n)"
 url: "https://drupalize.me/tutorial/concept-internationalization-i18n?p=3239"
 guide: "[[drupal-module-developer-guide]]"
+order: 36
 ---
 
 # Concept: Internationalization (i18n)

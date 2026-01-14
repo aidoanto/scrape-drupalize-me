@@ -2,6 +2,7 @@
 title: "Understanding Props and Slots in Drupal Single Directory Components"
 url: "https://drupalize.me/tutorial/understanding-props-and-slots-drupal-single-directory-components?p=3329"
 guide: "[[frontend-theming]]"
+order: 23
 ---
 
 # Understanding Props and Slots in Drupal Single Directory Components

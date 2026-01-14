@@ -2,6 +2,7 @@
 title: "13.2. Configuring Cron Maintenance Tasks"
 url: "https://drupalize.me/tutorial/user-guide/security-cron?p=2404"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 32
 ---
 
 # 13.2. Configuring Cron Maintenance Tasks

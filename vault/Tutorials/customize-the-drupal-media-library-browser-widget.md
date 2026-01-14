@@ -2,6 +2,7 @@
 title: "Customize the Drupal Media Library Browser Widget"
 url: "https://drupalize.me/tutorial/customize-drupal-media-library-browser-widget?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 10
 ---
 
 # Customize the Drupal Media Library Browser Widget

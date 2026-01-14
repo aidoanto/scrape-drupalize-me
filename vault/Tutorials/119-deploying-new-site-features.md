@@ -2,6 +2,7 @@
 title: "11.9. Deploying New Site Features"
 url: "https://drupalize.me/tutorial/user-guide/extend-deploy?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 55
 ---
 
 # 11.9. Deploying New Site Features

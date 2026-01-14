@@ -2,6 +2,7 @@
 title: "Add Relationships Between 2 Tables in Views"
 url: "https://drupalize.me/tutorial/add-relationships-between-2-tables-views?p=2939"
 guide: "[[views-drupal]]"
+order: 23
 ---
 
 # Add Relationships Between 2 Tables in Views

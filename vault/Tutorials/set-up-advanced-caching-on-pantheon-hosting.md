@@ -2,6 +2,7 @@
 title: "Set Up Advanced Caching on Pantheon Hosting"
 url: "https://drupalize.me/tutorial/set-advanced-caching-pantheon-hosting?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 43
 ---
 
 # Set Up Advanced Caching on Pantheon Hosting

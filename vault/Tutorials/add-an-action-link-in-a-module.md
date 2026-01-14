@@ -2,6 +2,7 @@
 title: "Add an Action Link in a Module"
 url: "https://drupalize.me/tutorial/add-action-link-module?p=2758"
 guide: "[[develop-custom-pages]]"
+order: 13
 ---
 
 # Add an Action Link in a Module

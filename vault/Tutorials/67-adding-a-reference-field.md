@@ -2,6 +2,7 @@
 title: "6.7. Adding a Reference Field"
 url: "https://drupalize.me/tutorial/user-guide/structure-adding-reference?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 8
 ---
 
 # 6.7. Adding a Reference Field

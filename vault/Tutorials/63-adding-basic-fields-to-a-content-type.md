@@ -2,6 +2,7 @@
 title: "6.3. Adding Basic Fields to a Content Type"
 url: "https://drupalize.me/tutorial/user-guide/structure-fields?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 4
 ---
 
 # 6.3. Adding Basic Fields to a Content Type

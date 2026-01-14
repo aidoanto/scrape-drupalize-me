@@ -2,6 +2,7 @@
 title: "Why Solr?free"
 url: "https://drupalize.me/tutorial/why-solr?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 15
 ---
 
 # Why Solr?free

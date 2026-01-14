@@ -2,6 +2,7 @@
 title: "Understanding Drupal"
 url: "https://drupalize.me/tutorial/user-guide/understanding-drupal?p=0"
 guide: "[[introduction-drupal]]"
+order: 1
 ---
 
 # Understanding Drupal

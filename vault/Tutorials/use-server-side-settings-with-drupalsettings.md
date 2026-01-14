@@ -2,6 +2,7 @@
 title: "Use Server-Side Settings with drupalSettings"
 url: "https://drupalize.me/tutorial/use-server-side-settings-drupalsettings?p=2883"
 guide: "[[integrate-javascript-drupal]]"
+order: 4
 ---
 
 # Use Server-Side Settings with drupalSettings

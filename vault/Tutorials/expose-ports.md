@@ -2,6 +2,7 @@
 title: "Expose Ports"
 url: "https://drupalize.me/tutorial/expose-ports?p=3287"
 guide: "[[docker-drupal-developers]]"
+order: 13
 ---
 
 # Expose Ports

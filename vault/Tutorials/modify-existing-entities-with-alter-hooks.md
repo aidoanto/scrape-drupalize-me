@@ -2,6 +2,7 @@
 title: "Modify Existing Entities with Alter Hooks"
 url: "https://drupalize.me/tutorial/modify-existing-entities-alter-hooks?p=2607"
 guide: "[[work-data-modules]]"
+order: 9
 ---
 
 # Modify Existing Entities with Alter Hooks

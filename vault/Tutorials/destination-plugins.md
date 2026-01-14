@@ -2,6 +2,7 @@
 title: "Destination Plugins"
 url: "https://drupalize.me/tutorial/destination-plugins?p=3115"
 guide: "[[learn-migrate-drupal]]"
+order: 63
 ---
 
 # Destination Plugins

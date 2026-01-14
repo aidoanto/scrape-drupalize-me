@@ -2,6 +2,7 @@
 title: "Clear Drupal's Cachefree"
 url: "https://drupalize.me/tutorial/clear-drupals-cache?p=3285"
 guide: "[[drupal-site-administration]]"
+order: 1
 ---
 
 # Clear Drupal's Cachefree

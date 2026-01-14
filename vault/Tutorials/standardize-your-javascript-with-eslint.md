@@ -2,6 +2,7 @@
 title: "Standardize Your JavaScript with ESLint"
 url: "https://drupalize.me/tutorial/standardize-your-javascript-eslint?p=2883"
 guide: "[[integrate-javascript-drupal]]"
+order: 7
 ---
 
 # Standardize Your JavaScript with ESLint

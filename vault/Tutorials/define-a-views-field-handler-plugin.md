@@ -2,6 +2,7 @@
 title: "Define a Views Field Handler Plugin"
 url: "https://drupalize.me/tutorial/define-views-field-handler-plugin?p=2939"
 guide: "[[views-drupal]]"
+order: 26
 ---
 
 # Define a Views Field Handler Plugin

@@ -2,6 +2,7 @@
 title: "Create Search API Indexes"
 url: "https://drupalize.me/tutorial/create-search-api-indexes?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 21
 ---
 
 # Create Search API Indexes

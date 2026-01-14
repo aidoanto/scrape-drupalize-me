@@ -2,6 +2,7 @@
 title: "Use Drush to Deploy Drupal Updates"
 url: "https://drupalize.me/tutorial/use-drush-deploy-drupal-updates?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 14
 ---
 
 # Use Drush to Deploy Drupal Updates

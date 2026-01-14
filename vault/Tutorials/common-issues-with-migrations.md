@@ -2,6 +2,7 @@
 title: "Common Issues with Migrations"
 url: "https://drupalize.me/tutorial/common-issues-migrations?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 12
 ---
 
 # Common Issues with Migrations

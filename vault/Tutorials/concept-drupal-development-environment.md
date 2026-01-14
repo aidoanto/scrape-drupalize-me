@@ -2,6 +2,7 @@
 title: "Concept: Drupal Development Environment"
 url: "https://drupalize.me/tutorial/concept-drupal-development-environment?p=3234"
 guide: "[[drupal-module-developer-guide]]"
+order: 6
 ---
 
 # Concept: Drupal Development Environment

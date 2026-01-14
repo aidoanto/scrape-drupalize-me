@@ -2,6 +2,7 @@
 title: "Clone of Your Drupal Site with Drush and Git"
 url: "https://drupalize.me/tutorial/clone-your-drupal-site-drush-and-git?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 4
 ---
 
 # Clone of Your Drupal Site with Drush and Git

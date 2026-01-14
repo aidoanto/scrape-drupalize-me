@@ -2,6 +2,7 @@
 title: "Configuration Interdependencies"
 url: "https://drupalize.me/tutorial/configuration-interdependencies?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 10
 ---
 
 # Configuration Interdependencies

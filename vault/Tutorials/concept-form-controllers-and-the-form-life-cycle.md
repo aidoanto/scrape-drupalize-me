@@ -2,6 +2,7 @@
 title: "Concept: Form Controllers and the Form Life Cycle"
 url: "https://drupalize.me/tutorial/concept-form-controllers-and-form-life-cycle?p=3242"
 guide: "[[drupal-module-developer-guide]]"
+order: 46
 ---
 
 # Concept: Form Controllers and the Form Life Cycle

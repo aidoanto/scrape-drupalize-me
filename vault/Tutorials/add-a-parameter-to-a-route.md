@@ -2,6 +2,7 @@
 title: "Add a Parameter to a Route"
 url: "https://drupalize.me/tutorial/add-parameter-route?p=3236"
 guide: "[[drupal-module-developer-guide]]"
+order: 18
 ---
 
 # Add a Parameter to a Route

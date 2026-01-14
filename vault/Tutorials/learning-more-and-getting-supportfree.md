@@ -2,6 +2,7 @@
 title: "Learning More and Getting Supportfree"
 url: "https://drupalize.me/tutorial/learning-more-and-getting-support?p=3248"
 guide: "[[drupal-module-developer-guide]]"
+order: 82
 ---
 
 # Learning More and Getting Supportfree

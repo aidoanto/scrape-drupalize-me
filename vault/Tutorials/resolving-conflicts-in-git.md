@@ -2,6 +2,7 @@
 title: "Resolving Conflicts in Git"
 url: "https://drupalize.me/tutorial/resolving-conflicts-git?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 53
 ---
 
 # Resolving Conflicts in Git

@@ -2,6 +2,7 @@
 title: "Define a Custom Views Area Handler Plugin"
 url: "https://drupalize.me/tutorial/define-custom-views-area-handler-plugin?p=2939"
 guide: "[[views-drupal]]"
+order: 30
 ---
 
 # Define a Custom Views Area Handler Plugin

@@ -2,6 +2,7 @@
 title: "Add CSS and JavaScript to a Module's Output"
 url: "https://drupalize.me/tutorial/add-css-and-javascript-modules-output?p=3239"
 guide: "[[drupal-module-developer-guide]]"
+order: 35
 ---
 
 # Add CSS and JavaScript to a Module's Output

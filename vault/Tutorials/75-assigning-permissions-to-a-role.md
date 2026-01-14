@@ -2,6 +2,7 @@
 title: "7.5. Assigning Permissions to a Role"
 url: "https://drupalize.me/tutorial/user-guide/user-permissions?p=2441"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 44
 ---
 
 # 7.5. Assigning Permissions to a Role

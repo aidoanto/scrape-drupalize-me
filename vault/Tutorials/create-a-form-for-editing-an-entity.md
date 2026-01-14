@@ -2,6 +2,7 @@
 title: "Create a Form for Editing an Entity"
 url: "https://drupalize.me/tutorial/create-form-editing-entity?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 59
 ---
 
 # Create a Form for Editing an Entity

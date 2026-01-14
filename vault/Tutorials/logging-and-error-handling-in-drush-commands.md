@@ -2,6 +2,7 @@
 title: "Logging and Error Handling in Drush Commands"
 url: "https://drupalize.me/tutorial/logging-and-error-handling-drush-commands?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 26
 ---
 
 # Logging and Error Handling in Drush Commands

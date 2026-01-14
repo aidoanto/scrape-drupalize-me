@@ -2,6 +2,7 @@
 title: "Concept: Creating Custom Services"
 url: "https://drupalize.me/tutorial/concept-creating-custom-services?p=3238"
 guide: "[[drupal-module-developer-guide]]"
+order: 27
 ---
 
 # Concept: Creating Custom Services

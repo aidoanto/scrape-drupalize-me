@@ -2,6 +2,7 @@
 title: "Run Functional JavaScript Testsfree"
 url: "https://drupalize.me/tutorial/run-functional-javascript-tests?p=3263"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 9
 ---
 
 # Run Functional JavaScript Testsfree

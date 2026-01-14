@@ -2,6 +2,7 @@
 title: "Install Drupal Locally with DDEVfree"
 url: "https://drupalize.me/tutorial/install-drupal-locally-ddev?p=3281"
 guide: "[[keep-drupal-up-to-date]]"
+order: 1
 ---
 
 # Install Drupal Locally with DDEVfree

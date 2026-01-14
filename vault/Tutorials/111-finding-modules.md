@@ -2,6 +2,7 @@
 title: "11.1. Finding Modules"
 url: "https://drupalize.me/tutorial/user-guide/extend-module-find?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 47
 ---
 
 # 11.1. Finding Modules

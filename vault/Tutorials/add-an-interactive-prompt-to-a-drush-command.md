@@ -2,6 +2,7 @@
 title: "Add an Interactive Prompt to a Drush Command"
 url: "https://drupalize.me/tutorial/add-interactive-prompt-drush-command?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 25
 ---
 
 # Add an Interactive Prompt to a Drush Command

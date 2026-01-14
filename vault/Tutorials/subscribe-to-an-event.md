@@ -2,6 +2,7 @@
 title: "Subscribe to an Event"
 url: "https://drupalize.me/tutorial/subscribe-event?p=2725"
 guide: "[[alter-drupal-modules]]"
+order: 20
 ---
 
 # Subscribe to an Event

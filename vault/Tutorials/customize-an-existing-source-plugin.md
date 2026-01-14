@@ -2,6 +2,7 @@
 title: "Customize an Existing Source Plugin"
 url: "https://drupalize.me/tutorial/customize-existing-source-plugin?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 19
 ---
 
 # Customize an Existing Source Plugin

@@ -2,6 +2,7 @@
 title: "String Manipulation in JavaScript"
 url: "https://drupalize.me/tutorial/string-manipulation-javascript?p=2883"
 guide: "[[integrate-javascript-drupal]]"
+order: 5
 ---
 
 # String Manipulation in JavaScript

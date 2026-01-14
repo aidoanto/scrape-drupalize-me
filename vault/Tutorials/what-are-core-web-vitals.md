@@ -2,6 +2,7 @@
 title: "What Are Core Web Vitals?"
 url: "https://drupalize.me/tutorial/what-are-core-web-vitals?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 36
 ---
 
 # What Are Core Web Vitals?

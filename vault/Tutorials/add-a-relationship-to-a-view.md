@@ -2,6 +2,7 @@
 title: "Add a Relationship to a View"
 url: "https://drupalize.me/tutorial/add-relationship-view?p=2670"
 guide: "[[views-drupal]]"
+order: 12
 ---
 
 # Add a Relationship to a View

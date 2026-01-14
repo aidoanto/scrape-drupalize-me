@@ -2,6 +2,7 @@
 title: "Set up and Use Configuration Split Modulefree"
 url: "https://drupalize.me/tutorial/set-and-use-configuration-split-module?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 12
 ---
 
 # Set up and Use Configuration Split Modulefree

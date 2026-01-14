@@ -2,6 +2,7 @@
 title: "Discover Existing Events"
 url: "https://drupalize.me/tutorial/discover-existing-events?p=2725"
 guide: "[[alter-drupal-modules]]"
+order: 19
 ---
 
 # Discover Existing Events

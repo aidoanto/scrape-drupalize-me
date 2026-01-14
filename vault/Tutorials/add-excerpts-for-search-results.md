@@ -2,6 +2,7 @@
 title: "Add Excerpts for Search Results"
 url: "https://drupalize.me/tutorial/add-excerpts-search-results?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 27
 ---
 
 # Add Excerpts for Search Results

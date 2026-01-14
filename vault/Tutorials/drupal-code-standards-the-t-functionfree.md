@@ -2,6 +2,7 @@
 title: "Drupal Code Standards: The t() Functionfree"
 url: "https://drupalize.me/tutorial/drupal-code-standards-t-function?p=2458"
 guide: "[[develop-drupal-sites]]"
+order: 10
 ---
 
 # Drupal Code Standards: The t() Functionfree

@@ -2,6 +2,7 @@
 title: "Define a Custom Views Filter Plugin"
 url: "https://drupalize.me/tutorial/define-custom-views-filter-plugin?p=2939"
 guide: "[[views-drupal]]"
+order: 28
 ---
 
 # Define a Custom Views Filter Plugin

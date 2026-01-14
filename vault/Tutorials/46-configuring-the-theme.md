@@ -2,6 +2,7 @@
 title: "4.6. Configuring the Theme"
 url: "https://drupalize.me/tutorial/user-guide/config-theme?p=2343"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 23
 ---
 
 # 4.6. Configuring the Theme

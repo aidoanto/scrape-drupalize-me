@@ -2,6 +2,7 @@
 title: "Facets in Search"
 url: "https://drupalize.me/tutorial/facets-search?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 30
 ---
 
 # Facets in Search

@@ -2,6 +2,7 @@
 title: "Introduction to Layout Builderfree"
 url: "https://drupalize.me/tutorial/introduction-layout-builder?p=2653"
 guide: "[[layout-builder]]"
+order: 1
 ---
 
 # Introduction to Layout Builderfree

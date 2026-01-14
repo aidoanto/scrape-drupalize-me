@@ -2,6 +2,7 @@
 title: "Override a Template File"
 url: "https://drupalize.me/tutorial/override-template-file?p=2879"
 guide: "[[frontend-theming]]"
+order: 46
 ---
 
 # Override a Template File

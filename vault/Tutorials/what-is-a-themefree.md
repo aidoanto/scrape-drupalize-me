@@ -2,6 +2,7 @@
 title: "What Is a Theme?free"
 url: "https://drupalize.me/tutorial/what-theme?p=3266"
 guide: "[[frontend-theming]]"
+order: 30
 ---
 
 # What Is a Theme?free

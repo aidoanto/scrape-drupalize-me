@@ -2,6 +2,7 @@
 title: "Discover Hooks and Their Documentation"
 url: "https://drupalize.me/tutorial/discover-hooks-and-their-documentation?p=3240"
 guide: "[[drupal-module-developer-guide]]"
+order: 40
 ---
 
 # Discover Hooks and Their Documentation

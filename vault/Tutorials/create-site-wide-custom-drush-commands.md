@@ -2,6 +2,7 @@
 title: "Create Site-Wide Custom Drush Commands"
 url: "https://drupalize.me/tutorial/create-site-wide-custom-drush-commands?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 27
 ---
 
 # Create Site-Wide Custom Drush Commands

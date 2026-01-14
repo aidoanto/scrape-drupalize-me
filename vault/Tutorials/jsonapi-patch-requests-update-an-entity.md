@@ -2,6 +2,7 @@
 title: "JSON:API PATCH Requests: Update an Entity"
 url: "https://drupalize.me/tutorial/jsonapi-patch-requests-update-entity?p=3279"
 guide: "[[decoupled-headless-drupal]]"
+order: 27
 ---
 
 # JSON:API PATCH Requests: Update an Entity

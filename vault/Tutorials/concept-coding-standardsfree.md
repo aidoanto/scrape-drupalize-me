@@ -2,6 +2,7 @@
 title: "Concept: Coding Standardsfree"
 url: "https://drupalize.me/tutorial/concept-coding-standards?p=3246"
 guide: "[[drupal-module-developer-guide]]"
+order: 77
 ---
 
 # Concept: Coding Standardsfree

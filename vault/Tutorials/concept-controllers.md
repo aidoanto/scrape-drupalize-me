@@ -2,6 +2,7 @@
 title: "Concept: Controllers"
 url: "https://drupalize.me/tutorial/concept-controllers?p=3236"
 guide: "[[drupal-module-developer-guide]]"
+order: 15
 ---
 
 # Concept: Controllers

@@ -2,6 +2,7 @@
 title: "Set a Dynamic Title for a Route"
 url: "https://drupalize.me/tutorial/set-dynamic-title-route?p=3134"
 guide: "[[develop-custom-pages]]"
+order: 6
 ---
 
 # Set a Dynamic Title for a Route

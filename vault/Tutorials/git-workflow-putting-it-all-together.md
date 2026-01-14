@@ -2,6 +2,7 @@
 title: "Git Workflow: Putting It All Together"
 url: "https://drupalize.me/tutorial/git-workflow-putting-it-all-together?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 65
 ---
 
 # Git Workflow: Putting It All Together

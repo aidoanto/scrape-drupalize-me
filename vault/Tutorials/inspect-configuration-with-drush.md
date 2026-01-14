@@ -2,6 +2,7 @@
 title: "Inspect Configuration with Drush"
 url: "https://drupalize.me/tutorial/inspect-configuration-drush?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 8
 ---
 
 # Inspect Configuration with Drush

@@ -2,6 +2,7 @@
 title: "How to Add Fields to a Media Type in Drupal"
 url: "https://drupalize.me/tutorial/how-add-fields-media-type-drupal?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 7
 ---
 
 # How to Add Fields to a Media Type in Drupal

@@ -2,6 +2,7 @@
 title: "Customize Theme Settings"
 url: "https://drupalize.me/tutorial/customize-theme-settings?p=3261"
 guide: "[[develop-forms-drupal]]"
+order: 22
 ---
 
 # Customize Theme Settings

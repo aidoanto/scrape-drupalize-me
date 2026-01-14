@@ -2,6 +2,7 @@
 title: "Write a Kernel Test"
 url: "https://drupalize.me/tutorial/write-kernel-test?p=3245"
 guide: "[[drupal-module-developer-guide]]"
+order: 74
 ---
 
 # Write a Kernel Test

@@ -2,6 +2,7 @@
 title: "Define a Custom Views Access Plugin"
 url: "https://drupalize.me/tutorial/define-custom-views-access-plugin?p=2939"
 guide: "[[views-drupal]]"
+order: 31
 ---
 
 # Define a Custom Views Access Plugin

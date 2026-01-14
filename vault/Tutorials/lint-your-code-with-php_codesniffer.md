@@ -2,6 +2,7 @@
 title: "Lint Your Code with PHP_CodeSniffer"
 url: "https://drupalize.me/tutorial/lint-your-code-phpcodesniffer?p=3246"
 guide: "[[drupal-module-developer-guide]]"
+order: 78
 ---
 
 # Lint Your Code with PHP_CodeSniffer

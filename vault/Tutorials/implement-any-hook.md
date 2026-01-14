@@ -2,6 +2,7 @@
 title: "Implement Any Hook"
 url: "https://drupalize.me/tutorial/implement-any-hook?p=2751"
 guide: "[[alter-drupal-modules]]"
+order: 2
 ---
 
 # Implement Any Hook

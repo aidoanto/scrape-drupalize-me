@@ -2,6 +2,7 @@
 title: "Implement hook_help()"
 url: "https://drupalize.me/tutorial/implement-hookhelp?p=3240"
 guide: "[[drupal-module-developer-guide]]"
+order: 41
 ---
 
 # Implement hook_help()

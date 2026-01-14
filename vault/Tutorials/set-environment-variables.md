@@ -2,6 +2,7 @@
 title: "Set Environment Variables"
 url: "https://drupalize.me/tutorial/set-environment-variables?p=3287"
 guide: "[[docker-drupal-developers]]"
+order: 12
 ---
 
 # Set Environment Variables

@@ -2,6 +2,7 @@
 title: "4.4. Uninstalling Unused Modules"
 url: "https://drupalize.me/tutorial/user-guide/config-uninstall?p=2343"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 21
 ---
 
 # 4.4. Uninstalling Unused Modules

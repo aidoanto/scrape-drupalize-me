@@ -2,6 +2,7 @@
 title: "Install Drush Using Composerfree"
 url: "https://drupalize.me/tutorial/install-drush-using-composer?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 10
 ---
 
 # Install Drush Using Composerfree

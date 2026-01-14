@@ -2,6 +2,7 @@
 title: "11.8. Making a Development Site"
 url: "https://drupalize.me/tutorial/user-guide/install-dev-making?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 54
 ---
 
 # 11.8. Making a Development Site

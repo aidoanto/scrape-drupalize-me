@@ -2,6 +2,7 @@
 title: "Plan a Solr Installationfree"
 url: "https://drupalize.me/tutorial/plan-solr-installation?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 16
 ---
 
 # Plan a Solr Installationfree

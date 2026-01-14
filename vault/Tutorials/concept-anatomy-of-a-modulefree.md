@@ -2,6 +2,7 @@
 title: "Concept: Anatomy of a Modulefree"
 url: "https://drupalize.me/tutorial/concept-anatomy-module?p=3235"
 guide: "[[drupal-module-developer-guide]]"
+order: 10
 ---
 
 # Concept: Anatomy of a Modulefree

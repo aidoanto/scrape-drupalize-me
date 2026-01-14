@@ -2,6 +2,7 @@
 title: "Run Drupal Tests with PHPUnit"
 url: "https://drupalize.me/tutorial/run-drupal-tests-phpunit?p=3263"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 7
 ---
 
 # Run Drupal Tests with PHPUnit

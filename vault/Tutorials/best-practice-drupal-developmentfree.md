@@ -2,6 +2,7 @@
 title: "Best Practice Drupal Developmentfree"
 url: "https://drupalize.me/tutorial/best-practice-drupal-development?p=3292"
 guide: "[[develop-drupal-sites]]"
+order: 5
 ---
 
 # Best Practice Drupal Developmentfree

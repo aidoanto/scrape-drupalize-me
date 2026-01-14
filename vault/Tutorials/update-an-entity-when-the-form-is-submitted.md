@@ -2,6 +2,7 @@
 title: "Update an Entity When the Form Is Submitted"
 url: "https://drupalize.me/tutorial/update-entity-when-form-submitted?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 61
 ---
 
 # Update an Entity When the Form Is Submitted

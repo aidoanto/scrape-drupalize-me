@@ -2,6 +2,7 @@
 title: "6.16. Configuring Text Formats and Editors"
 url: "https://drupalize.me/tutorial/user-guide/structure-text-format-config?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 17
 ---
 
 # 6.16. Configuring Text Formats and Editors

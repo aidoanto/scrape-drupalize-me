@@ -2,6 +2,7 @@
 title: "Overview: Media Types, Media Entities, and Media Fields in Drupalfree"
 url: "https://drupalize.me/tutorial/overview-media-types-media-entities-and-media-fields-drupal?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 2
 ---
 
 # Overview: Media Types, Media Entities, and Media Fields in Drupalfree

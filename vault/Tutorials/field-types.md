@@ -2,6 +2,7 @@
 title: "Field Types"
 url: "https://drupalize.me/tutorial/field-types?p=2628"
 guide: "[[work-data-modules]]"
+order: 15
 ---
 
 # Field Types

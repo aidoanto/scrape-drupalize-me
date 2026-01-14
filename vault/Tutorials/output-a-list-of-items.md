@@ -2,6 +2,7 @@
 title: "Output a List of Items"
 url: "https://drupalize.me/tutorial/output-list-items?p=3252"
 guide: "[[output-and-format-data-code]]"
+order: 11
 ---
 
 # Output a List of Items

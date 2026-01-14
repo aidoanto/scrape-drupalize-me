@@ -2,6 +2,7 @@
 title: "4.5. Configuring User Account Settings"
 url: "https://drupalize.me/tutorial/user-guide/config-user?p=2343"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 22
 ---
 
 # 4.5. Configuring User Account Settings

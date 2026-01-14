@@ -2,6 +2,7 @@
 title: "Update Drupal's Minor Versionfree"
 url: "https://drupalize.me/tutorial/update-drupals-minor-version?p=3281"
 guide: "[[keep-drupal-up-to-date]]"
+order: 2
 ---
 
 # Update Drupal's Minor Versionfree

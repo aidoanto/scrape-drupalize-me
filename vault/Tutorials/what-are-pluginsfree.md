@@ -2,6 +2,7 @@
 title: "What Are Plugins?free"
 url: "https://drupalize.me/tutorial/what-are-plugins?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 5
 ---
 
 # What Are Plugins?free

@@ -2,6 +2,7 @@
 title: "2.4. Concept: Modular Content"
 url: "https://drupalize.me/tutorial/user-guide/planning-modular?p=2341"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 4
 ---
 
 # 2.4. Concept: Modular Content

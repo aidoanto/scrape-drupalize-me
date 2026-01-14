@@ -2,6 +2,7 @@
 title: "planning and preparation"
 url: "https://drupalize.me/tutorial/preparing-migration-drupal"
 guide: "[[learn-migrate-drupal]]"
+order: 32
 ---
 
 # planning and preparation

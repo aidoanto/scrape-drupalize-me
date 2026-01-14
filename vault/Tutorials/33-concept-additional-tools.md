@@ -2,6 +2,7 @@
 title: "3.3. Concept: Additional Tools"
 url: "https://drupalize.me/tutorial/user-guide/install-tools?p=2368"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 13
 ---
 
 # 3.3. Concept: Additional Tools

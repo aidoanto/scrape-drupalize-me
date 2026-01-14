@@ -2,6 +2,7 @@
 title: "Advanced Git Add and .gitignore"
 url: "https://drupalize.me/tutorial/advanced-git-add-and-gitignore?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 54
 ---
 
 # Advanced Git Add and .gitignore

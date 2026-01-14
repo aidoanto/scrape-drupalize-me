@@ -2,6 +2,7 @@
 title: "Responsive Image Style Use Cases"
 url: "https://drupalize.me/tutorial/responsive-image-style-use-cases?p=2864"
 guide: "[[media-and-responsive-images]]"
+order: 21
 ---
 
 # Responsive Image Style Use Cases

@@ -2,6 +2,7 @@
 title: "Concept: Services and the Containerfree"
 url: "https://drupalize.me/tutorial/concept-services-and-container?p=3238"
 guide: "[[drupal-module-developer-guide]]"
+order: 23
 ---
 
 # Concept: Services and the Containerfree

@@ -2,6 +2,7 @@
 title: "i.3. Organizationfree"
 url: "https://drupalize.me/tutorial/user-guide/preface-organization?p=2355"
 guide: "[[drupal-user-guide]]"
+order: 3
 ---
 
 # i.3. Organizationfree

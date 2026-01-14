@@ -2,6 +2,7 @@
 title: "Define and Invoke a New Hook"
 url: "https://drupalize.me/tutorial/define-and-invoke-new-hook?p=2751"
 guide: "[[alter-drupal-modules]]"
+order: 4
 ---
 
 # Define and Invoke a New Hook

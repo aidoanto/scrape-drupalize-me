@@ -2,6 +2,7 @@
 title: "Tips for Theming with Layout Builder"
 url: "https://drupalize.me/tutorial/tips-theming-layout-builder?p=2653"
 guide: "[[layout-builder]]"
+order: 11
 ---
 
 # Tips for Theming with Layout Builder

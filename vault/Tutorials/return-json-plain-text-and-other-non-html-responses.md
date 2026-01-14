@@ -2,6 +2,7 @@
 title: "Return JSON, Plain Text, and Other Non-HTML Responses"
 url: "https://drupalize.me/tutorial/return-json-plain-text-and-other-non-html-responses?p=3134"
 guide: "[[develop-custom-pages]]"
+order: 10
 ---
 
 # Return JSON, Plain Text, and Other Non-HTML Responses

@@ -2,6 +2,7 @@
 title: "Install and Configure Simple OAuth"
 url: "https://drupalize.me/tutorial/install-and-configure-simple-oauth?p=3279"
 guide: "[[decoupled-headless-drupal]]"
+order: 22
 ---
 
 # Install and Configure Simple OAuth

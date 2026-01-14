@@ -2,6 +2,7 @@
 title: "Retrieve and Update Weather Forecast Settings"
 url: "https://drupalize.me/tutorial/retrieve-and-update-weather-forecast-settings?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 54
 ---
 
 # Retrieve and Update Weather Forecast Settings

@@ -2,6 +2,7 @@
 title: "Connect React to a Drupal Theme or Modulefree"
 url: "https://drupalize.me/tutorial/connect-react-drupal-theme-or-module?p=2798"
 guide: "[[decoupled-headless-drupal]]"
+order: 32
 ---
 
 # Connect React to a Drupal Theme or Modulefree

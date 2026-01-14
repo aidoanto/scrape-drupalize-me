@@ -2,6 +2,7 @@
 title: "PHP Attributes"
 url: "https://drupalize.me/tutorial/php-attributes?p=3292"
 guide: "[[develop-drupal-sites]]"
+order: 3
 ---
 
 # PHP Attributes

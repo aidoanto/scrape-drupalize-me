@@ -2,6 +2,7 @@
 title: "Using the Grep Commandfree"
 url: "https://drupalize.me/tutorial/using-grep-command?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 37
 ---
 
 # Using the Grep Commandfree

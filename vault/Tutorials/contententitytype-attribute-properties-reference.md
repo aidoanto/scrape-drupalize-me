@@ -2,6 +2,7 @@
 title: "ContentEntityType Attribute: Properties Reference"
 url: "https://drupalize.me/tutorial/contententitytype-attribute-properties-reference?p=2607"
 guide: "[[work-data-modules]]"
+order: 4
 ---
 
 # ContentEntityType Attribute: Properties Reference

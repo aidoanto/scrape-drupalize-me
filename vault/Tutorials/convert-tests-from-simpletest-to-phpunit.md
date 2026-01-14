@@ -2,6 +2,7 @@
 title: "Convert Tests from Simpletest to PHPUnit"
 url: "https://drupalize.me/tutorial/convert-tests-simpletest-phpunit?p=3264"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 15
 ---
 
 # Convert Tests from Simpletest to PHPUnit

@@ -2,6 +2,7 @@
 title: "Why Use Migrate Upgrade and Migrate Plus?"
 url: "https://drupalize.me/tutorial/why-use-migrate-upgrade-and-migrate-plus?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 49
 ---
 
 # Why Use Migrate Upgrade and Migrate Plus?

@@ -2,6 +2,7 @@
 title: "Install Drupal Locally with DDEV"
 url: "https://drupalize.me/tutorial/install-drupal-locally-ddev"
 guide: "[[docker-drupal-developers]]"
+order: 38
 ---
 
 # Install Drupal Locally with DDEV

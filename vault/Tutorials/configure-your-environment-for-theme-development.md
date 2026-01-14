@@ -2,6 +2,7 @@
 title: "Configure Your Environment for Theme Development"
 url: "https://drupalize.me/tutorial/configure-your-environment-theme-development?p=3267"
 guide: "[[frontend-theming]]"
+order: 44
 ---
 
 # Configure Your Environment for Theme Development

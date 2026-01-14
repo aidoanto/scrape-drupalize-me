@@ -2,6 +2,7 @@
 title: "fast by default"
 url: "https://drupalize.me/tutorial/fast-default"
 guide: "[[theming-cheat-sheet]]"
+order: 43
 ---
 
 # fast by default

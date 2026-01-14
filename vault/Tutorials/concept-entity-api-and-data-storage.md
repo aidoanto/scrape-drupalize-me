@@ -2,6 +2,7 @@
 title: "Concept: Entity API and Data Storage"
 url: "https://drupalize.me/tutorial/concept-entity-api-and-data-storage?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 56
 ---
 
 # Concept: Entity API and Data Storage

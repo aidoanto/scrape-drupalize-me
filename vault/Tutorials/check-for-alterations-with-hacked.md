@@ -2,6 +2,7 @@
 title: "Check for Alterations with Hacked"
 url: "https://drupalize.me/tutorial/check-alterations-hacked?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 10
 ---
 
 # Check for Alterations with Hacked

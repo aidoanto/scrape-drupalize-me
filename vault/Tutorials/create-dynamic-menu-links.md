@@ -2,6 +2,7 @@
 title: "Create Dynamic Menu Links"
 url: "https://drupalize.me/tutorial/create-dynamic-menu-links?p=2758"
 guide: "[[develop-custom-pages]]"
+order: 16
 ---
 
 # Create Dynamic Menu Links

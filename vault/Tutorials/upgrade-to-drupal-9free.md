@@ -2,6 +2,7 @@
 title: "Upgrade to Drupal 9free"
 url: "https://drupalize.me/tutorial/upgrade-drupal-9?p=3282"
 guide: "[[keep-drupal-up-to-date]]"
+order: 6
 ---
 
 # Upgrade to Drupal 9free

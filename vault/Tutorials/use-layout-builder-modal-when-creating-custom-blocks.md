@@ -2,6 +2,7 @@
 title: "Use Layout Builder Modal When Creating Custom Blocks"
 url: "https://drupalize.me/tutorial/use-layout-builder-modal-when-creating-custom-blocks?p=2653"
 guide: "[[layout-builder]]"
+order: 8
 ---
 
 # Use Layout Builder Modal When Creating Custom Blocks

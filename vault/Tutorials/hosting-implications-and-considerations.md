@@ -2,6 +2,7 @@
 title: "Hosting Implications and Considerations"
 url: "https://drupalize.me/tutorial/hosting-implications-and-considerations?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 4
 ---
 
 # Hosting Implications and Considerations

@@ -2,6 +2,7 @@
 title: "Overview: Benchmarking and Performance Budgets"
 url: "https://drupalize.me/tutorial/overview-benchmarking-and-performance-budgets?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 47
 ---
 
 # Overview: Benchmarking and Performance Budgets

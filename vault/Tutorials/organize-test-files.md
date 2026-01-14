@@ -2,6 +2,7 @@
 title: "Organize Test Files"
 url: "https://drupalize.me/tutorial/organize-test-files?p=3262"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 5
 ---
 
 # Organize Test Files

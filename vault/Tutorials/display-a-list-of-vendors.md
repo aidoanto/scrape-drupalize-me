@@ -2,6 +2,7 @@
 title: "Display a List of Vendors"
 url: "https://drupalize.me/tutorial/display-list-vendors?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 66
 ---
 
 # Display a List of Vendors

@@ -2,6 +2,7 @@
 title: "Create a Custom Content Entity"
 url: "https://drupalize.me/tutorial/create-custom-content-entity?p=2607"
 guide: "[[work-data-modules]]"
+order: 3
 ---
 
 # Create a Custom Content Entity

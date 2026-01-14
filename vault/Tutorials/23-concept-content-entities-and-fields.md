@@ -2,6 +2,7 @@
 title: "2.3. Concept: Content Entities and Fields"
 url: "https://drupalize.me/tutorial/user-guide/planning-data-types?p=2341"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 3
 ---
 
 # 2.3. Concept: Content Entities and Fields

@@ -2,6 +2,7 @@
 title: "Create a Custom Media Source Plugin"
 url: "https://drupalize.me/tutorial/create-custom-media-source-plugin?p=3274"
 guide: "[[media-and-responsive-images]]"
+order: 16
 ---
 
 # Create a Custom Media Source Plugin

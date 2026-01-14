@@ -2,6 +2,7 @@
 title: "Overview: Configuration Management in Drupalfree"
 url: "https://drupalize.me/tutorial/overview-configuration-management-drupal?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 2
 ---
 
 # Overview: Configuration Management in Drupalfree

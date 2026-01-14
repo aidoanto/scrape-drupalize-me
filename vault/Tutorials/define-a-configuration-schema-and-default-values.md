@@ -2,6 +2,7 @@
 title: "Define a Configuration Schema and Default Values"
 url: "https://drupalize.me/tutorial/define-configuration-schema-and-default-values?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 55
 ---
 
 # Define a Configuration Schema and Default Values

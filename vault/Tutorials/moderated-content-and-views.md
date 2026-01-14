@@ -2,6 +2,7 @@
 title: "Moderated Content and Views"
 url: "https://drupalize.me/tutorial/moderated-content-and-views?p=2501"
 guide: "[[drupal-site-administration]]"
+order: 57
 ---
 
 # Moderated Content and Views

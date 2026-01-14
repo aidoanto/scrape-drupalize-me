@@ -2,6 +2,7 @@
 title: "Multiple Search API Indexes"
 url: "https://drupalize.me/tutorial/multiple-search-api-indexes?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 25
 ---
 
 # Multiple Search API Indexes

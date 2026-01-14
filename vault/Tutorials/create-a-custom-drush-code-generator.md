@@ -2,6 +2,7 @@
 title: "Create a Custom Drush Code Generator"
 url: "https://drupalize.me/tutorial/create-custom-drush-code-generator?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 20
 ---
 
 # Create a Custom Drush Code Generator

@@ -2,6 +2,7 @@
 title: "Discover and Use Existing Services"
 url: "https://drupalize.me/tutorial/discover-and-use-existing-services?p=3254"
 guide: "[[alter-drupal-modules]]"
+order: 17
 ---
 
 # Discover and Use Existing Services

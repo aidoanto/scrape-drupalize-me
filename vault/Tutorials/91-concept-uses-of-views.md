@@ -2,6 +2,7 @@
 title: "9.1. Concept: Uses of Views"
 url: "https://drupalize.me/tutorial/user-guide/views-concept?p=2449"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 31
 ---
 
 # 9.1. Concept: Uses of Views

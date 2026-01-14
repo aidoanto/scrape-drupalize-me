@@ -2,6 +2,7 @@
 title: "Create a Facet"
 url: "https://drupalize.me/tutorial/create-facet?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 31
 ---
 
 # Create a Facet

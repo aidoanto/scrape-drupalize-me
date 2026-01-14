@@ -2,6 +2,7 @@
 title: "JSON:API Sparse Fieldsets"
 url: "https://drupalize.me/tutorial/jsonapi-sparse-fieldsets?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 16
 ---
 
 # JSON:API Sparse Fieldsets

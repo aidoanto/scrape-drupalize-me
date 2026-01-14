@@ -2,6 +2,7 @@
 title: "Theme Inheritance with Base Themes"
 url: "https://drupalize.me/tutorial/theme-inheritance-base-themes?p=3267"
 guide: "[[frontend-theming]]"
+order: 38
 ---
 
 # Theme Inheritance with Base Themes

@@ -2,6 +2,7 @@
 title: "API Authentication and Authorization"
 url: "https://drupalize.me/tutorial/api-authentication-and-authorization?p=3279"
 guide: "[[decoupled-headless-drupal]]"
+order: 21
 ---
 
 # API Authentication and Authorization

@@ -2,6 +2,7 @@
 title: "Run Drupal Tests with the run-tests.sh Script"
 url: "https://drupalize.me/tutorial/run-drupal-tests-run-testssh-script?p=3263"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 11
 ---
 
 # Run Drupal Tests with the run-tests.sh Script

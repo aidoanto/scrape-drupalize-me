@@ -2,6 +2,7 @@
 title: "Set up Demo Site with Views and Contentfree"
 url: "https://drupalize.me/tutorial/set-demo-site-views-and-content?p=2670"
 guide: "[[views-drupal]]"
+order: 1
 ---
 
 # Set up Demo Site with Views and Contentfree

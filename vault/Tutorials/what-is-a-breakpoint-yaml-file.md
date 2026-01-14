@@ -2,6 +2,7 @@
 title: "What Is a Breakpoint YAML File?"
 url: "https://drupalize.me/tutorial/what-breakpoint-yaml-file?p=3275"
 guide: "[[media-and-responsive-images]]"
+order: 18
 ---
 
 # What Is a Breakpoint YAML File?

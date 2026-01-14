@@ -2,6 +2,7 @@
 title: "Drupal-to-Drupal Migration Planning: Code Inventory"
 url: "https://drupalize.me/tutorial/drupal-drupal-migration-planning-code-inventory?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 8
 ---
 
 # Drupal-to-Drupal Migration Planning: Code Inventory

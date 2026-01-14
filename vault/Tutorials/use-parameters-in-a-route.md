@@ -2,6 +2,7 @@
 title: "Use Parameters in a Route"
 url: "https://drupalize.me/tutorial/use-parameters-route?p=3134"
 guide: "[[develop-custom-pages]]"
+order: 5
 ---
 
 # Use Parameters in a Route

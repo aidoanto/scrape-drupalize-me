@@ -2,6 +2,7 @@
 title: "Add Files to an Image"
 url: "https://drupalize.me/tutorial/add-files-image?p=3288"
 guide: "[[docker-drupal-developers]]"
+order: 20
 ---
 
 # Add Files to an Image

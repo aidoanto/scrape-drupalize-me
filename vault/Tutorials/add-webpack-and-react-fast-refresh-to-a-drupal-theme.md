@@ -2,6 +2,7 @@
 title: "Add Webpack and React Fast Refresh to a Drupal Theme"
 url: "https://drupalize.me/tutorial/add-webpack-and-react-fast-refresh-drupal-theme?p=2798"
 guide: "[[decoupled-headless-drupal]]"
+order: 34
 ---
 
 # Add Webpack and React Fast Refresh to a Drupal Theme

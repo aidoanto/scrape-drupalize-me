@@ -2,6 +2,7 @@
 title: "Create a View of Moderated Content"
 url: "https://drupalize.me/tutorial/create-view-moderated-content?p=2501"
 guide: "[[drupal-site-administration]]"
+order: 58
 ---
 
 # Create a View of Moderated Content

@@ -2,6 +2,7 @@
 title: "Render Pipeline"
 url: "https://drupalize.me/tutorial/render-pipeline?p=2775"
 guide: "[[output-and-format-data-code]]"
+order: 5
 ---
 
 # Render Pipeline

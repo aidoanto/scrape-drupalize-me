@@ -2,6 +2,7 @@
 title: "Add a Twig Template to Your Single Directory Component"
 url: "https://drupalize.me/tutorial/add-twig-template-your-single-directory-component?p=3329"
 guide: "[[frontend-theming]]"
+order: 25
 ---
 
 # Add a Twig Template to Your Single Directory Component

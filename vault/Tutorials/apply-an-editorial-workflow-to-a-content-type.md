@@ -2,6 +2,7 @@
 title: "Apply an Editorial Workflow to a Content Type"
 url: "https://drupalize.me/tutorial/apply-editorial-workflow-content-type?p=2501"
 guide: "[[drupal-site-administration]]"
+order: 55
 ---
 
 # Apply an Editorial Workflow to a Content Type

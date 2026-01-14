@@ -2,6 +2,7 @@
 title: "Create a Route and Controller"
 url: "https://drupalize.me/tutorial/create-route-and-controller?p=3134"
 guide: "[[develop-custom-pages]]"
+order: 3
 ---
 
 # Create a Route and Controller

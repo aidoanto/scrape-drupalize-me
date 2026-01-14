@@ -2,6 +2,7 @@
 title: "Concept: Update Hooks"
 url: "https://drupalize.me/tutorial/concept-update-hooks?p=3246"
 guide: "[[drupal-module-developer-guide]]"
+order: 79
 ---
 
 # Concept: Update Hooks

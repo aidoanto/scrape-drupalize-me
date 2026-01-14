@@ -2,6 +2,7 @@
 title: "What Are Events?"
 url: "https://drupalize.me/tutorial/what-are-events?p=2626"
 guide: "[[symfony-drupal-developers]]"
+order: 4
 ---
 
 # What Are Events?

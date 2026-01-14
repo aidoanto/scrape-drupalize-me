@@ -2,6 +2,7 @@
 title: "Attach an Asset Library"
 url: "https://drupalize.me/tutorial/attach-asset-library?p=2860"
 guide: "[[integrate-javascript-drupal]]"
+order: 13
 ---
 
 # Attach an Asset Library

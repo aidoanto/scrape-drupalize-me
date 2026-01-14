@@ -2,6 +2,7 @@
 title: "Add Cache Context and Tags to Renderable Arrays"
 url: "https://drupalize.me/tutorial/add-cache-context-and-tags-renderable-arrays?p=3244"
 guide: "[[drupal-module-developer-guide]]"
+order: 70
 ---
 
 # Add Cache Context and Tags to Renderable Arrays

@@ -2,6 +2,7 @@
 title: "Configure Your Environment to Run Tests"
 url: "https://drupalize.me/tutorial/configure-your-environment-run-tests?p=3245"
 guide: "[[drupal-module-developer-guide]]"
+order: 72
 ---
 
 # Configure Your Environment to Run Tests

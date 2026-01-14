@@ -2,6 +2,7 @@
 title: "Creating Symbolic Links on Command Linefree"
 url: "https://drupalize.me/tutorial/creating-symbolic-links-command-line?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 34
 ---
 
 # Creating Symbolic Links on Command Linefree

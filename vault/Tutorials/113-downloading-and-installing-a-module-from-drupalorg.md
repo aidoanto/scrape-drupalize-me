@@ -2,6 +2,7 @@
 title: "11.3. Downloading and Installing a Module from Drupal.org"
 url: "https://drupalize.me/tutorial/user-guide/extend-module-install?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 49
 ---
 
 # 11.3. Downloading and Installing a Module from Drupal.org

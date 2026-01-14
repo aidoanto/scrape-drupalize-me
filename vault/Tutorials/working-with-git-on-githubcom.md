@@ -2,6 +2,7 @@
 title: "Working with Git on Github.com"
 url: "https://drupalize.me/tutorial/working-git-githubcom?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 62
 ---
 
 # Working with Git on Github.com

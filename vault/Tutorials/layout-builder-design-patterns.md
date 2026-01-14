@@ -2,6 +2,7 @@
 title: "Layout Builder Design Patterns"
 url: "https://drupalize.me/tutorial/layout-builder-design-patterns?p=2653"
 guide: "[[layout-builder]]"
+order: 6
 ---
 
 # Layout Builder Design Patterns

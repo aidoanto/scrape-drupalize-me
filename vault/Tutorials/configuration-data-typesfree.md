@@ -2,6 +2,7 @@
 title: "Configuration Data Typesfree"
 url: "https://drupalize.me/tutorial/configuration-data-types?p=2476"
 guide: "[[work-data-modules]]"
+order: 21
 ---
 
 # Configuration Data Typesfree

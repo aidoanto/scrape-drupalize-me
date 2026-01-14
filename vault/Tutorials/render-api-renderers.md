@@ -2,6 +2,7 @@
 title: "Render API Renderers"
 url: "https://drupalize.me/tutorial/render-api-renderers?p=2775"
 guide: "[[output-and-format-data-code]]"
+order: 6
 ---
 
 # Render API Renderers

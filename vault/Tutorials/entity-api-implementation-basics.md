@@ -2,6 +2,7 @@
 title: "Entity API Implementation Basics"
 url: "https://drupalize.me/tutorial/entity-api-implementation-basics?p=2607"
 guide: "[[work-data-modules]]"
+order: 2
 ---
 
 # Entity API Implementation Basics

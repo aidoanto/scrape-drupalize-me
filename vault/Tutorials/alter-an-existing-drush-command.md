@@ -2,6 +2,7 @@
 title: "Alter an Existing Drush Command"
 url: "https://drupalize.me/tutorial/alter-existing-drush-command?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 29
 ---
 
 # Alter an Existing Drush Command

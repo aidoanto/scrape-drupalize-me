@@ -2,6 +2,7 @@
 title: "Core Migration Modules"
 url: "https://drupalize.me/tutorial/core-migration-modules?p=3117"
 guide: "[[learn-migrate-drupal]]"
+order: 36
 ---
 
 # Core Migration Modules

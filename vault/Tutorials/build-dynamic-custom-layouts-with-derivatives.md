@@ -2,6 +2,7 @@
 title: "Build Dynamic Custom Layouts with Derivatives"
 url: "https://drupalize.me/tutorial/build-dynamic-custom-layouts-derivatives?p=3271"
 guide: "[[layout-builder]]"
+order: 17
 ---
 
 # Build Dynamic Custom Layouts with Derivatives

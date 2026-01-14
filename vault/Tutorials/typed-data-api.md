@@ -2,6 +2,7 @@
 title: "Typed Data API"
 url: "https://drupalize.me/tutorial/typed-data-api?p=2607"
 guide: "[[work-data-modules]]"
+order: 13
 ---
 
 # Typed Data API

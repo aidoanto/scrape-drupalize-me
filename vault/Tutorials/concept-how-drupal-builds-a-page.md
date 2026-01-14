@@ -2,6 +2,7 @@
 title: "Concept: How Drupal Builds a Page"
 url: "https://drupalize.me/tutorial/concept-how-drupal-builds-page?p=3234"
 guide: "[[drupal-module-developer-guide]]"
+order: 4
 ---
 
 # Concept: How Drupal Builds a Page

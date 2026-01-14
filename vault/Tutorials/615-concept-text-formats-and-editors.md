@@ -2,6 +2,7 @@
 title: "6.15. Concept: Text Formats and Editors"
 url: "https://drupalize.me/tutorial/user-guide/structure-text-formats?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 16
 ---
 
 # 6.15. Concept: Text Formats and Editors

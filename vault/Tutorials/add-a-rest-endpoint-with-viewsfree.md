@@ -2,6 +2,7 @@
 title: "Add a REST Endpoint with Viewsfree"
 url: "https://drupalize.me/tutorial/add-rest-endpoint-views?p=2670"
 guide: "[[views-drupal]]"
+order: 2
 ---
 
 # Add a REST Endpoint with Viewsfree

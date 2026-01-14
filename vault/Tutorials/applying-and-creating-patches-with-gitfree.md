@@ -2,6 +2,7 @@
 title: "Applying and Creating Patches with Gitfree"
 url: "https://drupalize.me/tutorial/applying-and-creating-patches-git?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 61
 ---
 
 # Applying and Creating Patches with Gitfree

@@ -2,6 +2,7 @@
 title: "Use #access to Show/Hide Elements in a Render Array"
 url: "https://drupalize.me/tutorial/use-access-showhide-elements-render-array?p=3252"
 guide: "[[output-and-format-data-code]]"
+order: 17
 ---
 
 # Use #access to Show/Hide Elements in a Render Array

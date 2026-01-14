@@ -2,6 +2,7 @@
 title: "Install Composer and Try It Outfree"
 url: "https://drupalize.me/tutorial/install-composer-and-try-it-out?p=2467"
 guide: "[[command-line-tools-drupal]]"
+order: 2
 ---
 
 # Install Composer and Try It Outfree

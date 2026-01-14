@@ -2,6 +2,7 @@
 title: "8.1. Concept: Blocks"
 url: "https://drupalize.me/tutorial/user-guide/block-concept?p=2337"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 25
 ---
 
 # 8.1. Concept: Blocks

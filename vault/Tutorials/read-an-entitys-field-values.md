@@ -2,6 +2,7 @@
 title: "Read an Entity's Field Values"
 url: "https://drupalize.me/tutorial/read-entitys-field-values?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 60
 ---
 
 # Read an Entity's Field Values

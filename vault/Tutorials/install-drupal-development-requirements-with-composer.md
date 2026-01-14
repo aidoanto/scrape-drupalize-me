@@ -2,6 +2,7 @@
 title: "Install Drupal Development Requirements with Composer"
 url: "https://drupalize.me/tutorial/install-drupal-development-requirements-composer?p=3262"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 4
 ---
 
 # Install Drupal Development Requirements with Composer

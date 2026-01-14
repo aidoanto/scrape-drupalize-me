@@ -2,6 +2,7 @@
 title: "What Are Preprocess Functions?"
 url: "https://drupalize.me/tutorial/what-are-preprocess-functions?p=2851"
 guide: "[[frontend-theming]]"
+order: 49
 ---
 
 # What Are Preprocess Functions?

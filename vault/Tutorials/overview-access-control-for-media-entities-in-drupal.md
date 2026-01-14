@@ -2,6 +2,7 @@
 title: "Overview: Access Control for Media Entities in Drupal"
 url: "https://drupalize.me/tutorial/overview-access-control-media-entities-drupal?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 9
 ---
 
 # Overview: Access Control for Media Entities in Drupal

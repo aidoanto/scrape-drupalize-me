@@ -2,6 +2,7 @@
 title: "Concept: Asset Libraries"
 url: "https://drupalize.me/tutorial/concept-asset-libraries?p=3239"
 guide: "[[drupal-module-developer-guide]]"
+order: 34
 ---
 
 # Concept: Asset Libraries

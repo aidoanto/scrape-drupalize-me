@@ -2,6 +2,7 @@
 title: "Populate Search API Indexes"
 url: "https://drupalize.me/tutorial/populate-search-api-indexes?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 22
 ---
 
 # Populate Search API Indexes

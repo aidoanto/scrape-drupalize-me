@@ -2,6 +2,7 @@
 title: "Define Permissions for a Module"
 url: "https://drupalize.me/tutorial/define-permissions-module?p=3134"
 guide: "[[develop-custom-pages]]"
+order: 7
 ---
 
 # Define Permissions for a Module

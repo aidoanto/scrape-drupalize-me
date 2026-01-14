@@ -2,6 +2,7 @@
 title: "Drupal-to-Drupal Migration Planning: Content Inventory"
 url: "https://drupalize.me/tutorial/drupal-drupal-migration-planning-content-inventory?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 11
 ---
 
 # Drupal-to-Drupal Migration Planning: Content Inventory

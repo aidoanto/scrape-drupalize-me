@@ -2,6 +2,7 @@
 title: "Overview: Content Delivery Networks (CDNs) and Drupal"
 url: "https://drupalize.me/tutorial/overview-content-delivery-networks-cdns-and-drupal?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 45
 ---
 
 # Overview: Content Delivery Networks (CDNs) and Drupal

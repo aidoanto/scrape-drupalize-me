@@ -2,6 +2,7 @@
 title: "Overview: JavaScript in Drupal"
 url: "https://drupalize.me/tutorial/overview-javascript-drupal?p=2883"
 guide: "[[integrate-javascript-drupal]]"
+order: 1
 ---
 
 # Overview: JavaScript in Drupal

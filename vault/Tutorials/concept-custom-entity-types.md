@@ -2,6 +2,7 @@
 title: "Concept: Custom Entity Types"
 url: "https://drupalize.me/tutorial/concept-custom-entity-types?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 67
 ---
 
 # Concept: Custom Entity Types

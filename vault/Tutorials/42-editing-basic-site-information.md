@@ -2,6 +2,7 @@
 title: "4.2. Editing Basic Site Information"
 url: "https://drupalize.me/tutorial/user-guide/config-basic?p=2343"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 19
 ---
 
 # 4.2. Editing Basic Site Information

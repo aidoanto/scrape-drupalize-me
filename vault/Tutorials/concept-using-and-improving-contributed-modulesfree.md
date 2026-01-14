@@ -2,6 +2,7 @@
 title: "Concept: Using and Improving Contributed Modulesfree"
 url: "https://drupalize.me/tutorial/concept-using-and-improving-contributed-modules?p=3247"
 guide: "[[drupal-module-developer-guide]]"
+order: 80
 ---
 
 # Concept: Using and Improving Contributed Modulesfree

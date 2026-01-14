@@ -2,6 +2,7 @@
 title: "Overview: New Relic as a Drupal Performance Monitor"
 url: "https://drupalize.me/tutorial/overview-new-relic-drupal-performance-monitor?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 49
 ---
 
 # Overview: New Relic as a Drupal Performance Monitor

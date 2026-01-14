@@ -2,6 +2,7 @@
 title: "Overview: Filter Criteria in Viewsfree"
 url: "https://drupalize.me/tutorial/overview-filter-criteria-views?p=2670"
 guide: "[[views-drupal]]"
+order: 3
 ---
 
 # Overview: Filter Criteria in Viewsfree

@@ -2,6 +2,7 @@
 title: "i.5. Conventions of the Guidefree"
 url: "https://drupalize.me/tutorial/user-guide/preface-conventions?p=2355"
 guide: "[[drupal-user-guide]]"
+order: 5
 ---
 
 # i.5. Conventions of the Guidefree

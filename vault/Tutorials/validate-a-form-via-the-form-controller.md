@@ -2,6 +2,7 @@
 title: "Validate a Form via the Form Controller"
 url: "https://drupalize.me/tutorial/validate-form-form-controller?p=3255"
 guide: "[[develop-forms-drupal]]"
+order: 12
 ---
 
 # Validate a Form via the Form Controller

@@ -2,6 +2,7 @@
 title: "Define a New Render Element Type"
 url: "https://drupalize.me/tutorial/define-new-render-element-type?p=2775"
 guide: "[[output-and-format-data-code]]"
+order: 4
 ---
 
 # Define a New Render Element Type

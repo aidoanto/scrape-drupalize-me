@@ -2,6 +2,7 @@
 title: "Reviewing Changes and Using Git Diff"
 url: "https://drupalize.me/tutorial/reviewing-changes-and-using-git-diff?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 52
 ---
 
 # Reviewing Changes and Using Git Diff

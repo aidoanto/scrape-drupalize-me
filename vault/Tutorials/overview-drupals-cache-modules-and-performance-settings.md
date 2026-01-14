@@ -2,6 +2,7 @@
 title: "Overview: Drupal's Cache Modules and Performance Settings"
 url: "https://drupalize.me/tutorial/overview-drupals-cache-modules-and-performance-settings?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 39
 ---
 
 # Overview: Drupal's Cache Modules and Performance Settings

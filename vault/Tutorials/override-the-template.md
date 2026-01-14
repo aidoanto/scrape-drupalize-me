@@ -2,6 +2,7 @@
 title: "override the template"
 url: "https://drupalize.me/tutorial/override-template-file"
 guide: "[[theming-cheat-sheet]]"
+order: 5
 ---
 
 # override the template

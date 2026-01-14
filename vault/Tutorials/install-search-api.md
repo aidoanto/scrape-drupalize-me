@@ -2,6 +2,7 @@
 title: "Install Search API"
 url: "https://drupalize.me/tutorial/install-search-api?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 19
 ---
 
 # Install Search API

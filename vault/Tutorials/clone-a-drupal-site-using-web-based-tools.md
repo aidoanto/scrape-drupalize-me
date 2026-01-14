@@ -2,6 +2,7 @@
 title: "Clone a Drupal Site using Web-Based Tools"
 url: "https://drupalize.me/tutorial/clone-drupal-site-using-web-based-tools?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 5
 ---
 
 # Clone a Drupal Site using Web-Based Tools

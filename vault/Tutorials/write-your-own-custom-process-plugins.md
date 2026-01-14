@@ -2,6 +2,7 @@
 title: "write your own custom process plugins"
 url: "https://drupalize.me/tutorial/write-custom-process-plugin"
 guide: "[[learn-migrate-drupal]]"
+order: 61
 ---
 
 # write your own custom process plugins

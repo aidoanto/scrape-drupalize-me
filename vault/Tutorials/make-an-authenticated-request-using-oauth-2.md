@@ -2,6 +2,7 @@
 title: "Make an Authenticated Request Using OAuth 2"
 url: "https://drupalize.me/tutorial/make-authenticated-request-using-oauth-2?p=3279"
 guide: "[[decoupled-headless-drupal]]"
+order: 24
 ---
 
 # Make an Authenticated Request Using OAuth 2

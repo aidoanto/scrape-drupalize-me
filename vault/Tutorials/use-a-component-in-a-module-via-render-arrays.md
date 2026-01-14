@@ -2,6 +2,7 @@
 title: "Use a Component in a Module via Render Arrays"
 url: "https://drupalize.me/tutorial/use-component-module-render-arrays?p=3329"
 guide: "[[frontend-theming]]"
+order: 27
 ---
 
 # Use a Component in a Module via Render Arrays

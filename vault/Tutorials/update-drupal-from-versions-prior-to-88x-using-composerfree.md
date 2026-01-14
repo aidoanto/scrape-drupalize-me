@@ -2,6 +2,7 @@
 title: "Update Drupal from Versions Prior to 8.8.x using Composerfree"
 url: "https://drupalize.me/tutorial/update-drupal-versions-prior-88x-using-composer?p=3282"
 guide: "[[keep-drupal-up-to-date]]"
+order: 7
 ---
 
 # Update Drupal from Versions Prior to 8.8.x using Composerfree

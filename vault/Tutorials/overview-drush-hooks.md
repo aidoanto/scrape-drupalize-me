@@ -2,6 +2,7 @@
 title: "Overview: Drush Hooks"
 url: "https://drupalize.me/tutorial/overview-drush-hooks?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 28
 ---
 
 # Overview: Drush Hooks

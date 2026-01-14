@@ -2,6 +2,7 @@
 title: "Handy Command Line Shortcutsfree"
 url: "https://drupalize.me/tutorial/handy-command-line-shortcuts?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 41
 ---
 
 # Handy Command Line Shortcutsfree

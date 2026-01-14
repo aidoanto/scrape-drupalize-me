@@ -2,6 +2,7 @@
 title: "Overview: Info Files for Drupal Modulesfree"
 url: "https://drupalize.me/tutorial/overview-info-files-drupal-modules?p=3292"
 guide: "[[develop-drupal-sites]]"
+order: 1
 ---
 
 # Overview: Info Files for Drupal Modulesfree

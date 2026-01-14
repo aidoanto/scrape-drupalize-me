@@ -2,6 +2,7 @@
 title: "Use Drush to Speed up Common Drupal Development Tasks"
 url: "https://drupalize.me/tutorial/use-drush-speed-common-drupal-development-tasks?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 13
 ---
 
 # Use Drush to Speed up Common Drupal Development Tasks

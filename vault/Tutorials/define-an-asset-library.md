@@ -2,6 +2,7 @@
 title: "Define an Asset Library"
 url: "https://drupalize.me/tutorial/define-asset-library?p=2860"
 guide: "[[integrate-javascript-drupal]]"
+order: 12
 ---
 
 # Define an Asset Library

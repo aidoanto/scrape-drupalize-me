@@ -2,6 +2,7 @@
 title: "Use a Service in a Plugin"
 url: "https://drupalize.me/tutorial/use-service-plugin?p=3241"
 guide: "[[drupal-module-developer-guide]]"
+order: 44
 ---
 
 # Use a Service in a Plugin

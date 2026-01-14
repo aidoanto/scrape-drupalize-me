@@ -2,6 +2,7 @@
 title: "Get Information about the Current User"
 url: "https://drupalize.me/tutorial/get-information-about-current-user?p=3252"
 guide: "[[output-and-format-data-code]]"
+order: 16
 ---
 
 # Get Information about the Current User

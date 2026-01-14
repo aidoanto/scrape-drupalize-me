@@ -2,6 +2,7 @@
 title: "Plugin Derivatives"
 url: "https://drupalize.me/tutorial/plugin-derivatives?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 16
 ---
 
 # Plugin Derivatives

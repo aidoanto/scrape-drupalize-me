@@ -2,6 +2,7 @@
 title: "Plugin Discovery"
 url: "https://drupalize.me/tutorial/plugin-discovery?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 14
 ---
 
 # Plugin Discovery

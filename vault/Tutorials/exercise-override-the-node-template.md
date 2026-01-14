@@ -2,6 +2,7 @@
 title: "Exercise: Override the Node Template"
 url: "https://drupalize.me/tutorial/exercise-override-node-template?p=3269"
 guide: "[[frontend-theming]]"
+order: 16
 ---
 
 # Exercise: Override the Node Template

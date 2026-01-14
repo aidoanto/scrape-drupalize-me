@@ -2,6 +2,7 @@
 title: "Use Tags in Docker"
 url: "https://drupalize.me/tutorial/use-tags-docker?p=3287"
 guide: "[[docker-drupal-developers]]"
+order: 17
 ---
 
 # Use Tags in Docker

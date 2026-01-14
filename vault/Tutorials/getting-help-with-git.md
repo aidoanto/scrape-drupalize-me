@@ -2,6 +2,7 @@
 title: "Getting Help with Git"
 url: "https://drupalize.me/tutorial/getting-help-git?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 48
 ---
 
 # Getting Help with Git

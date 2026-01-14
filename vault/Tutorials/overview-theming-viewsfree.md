@@ -2,6 +2,7 @@
 title: "Overview: Theming Viewsfree"
 url: "https://drupalize.me/tutorial/overview-theming-views?p=2670"
 guide: "[[views-drupal]]"
+order: 15
 ---
 
 # Overview: Theming Viewsfree

@@ -2,6 +2,7 @@
 title: "Overview: Menu Links in a Modulefree"
 url: "https://drupalize.me/tutorial/overview-menu-links-module?p=2758"
 guide: "[[develop-custom-pages]]"
+order: 11
 ---
 
 # Overview: Menu Links in a Modulefree

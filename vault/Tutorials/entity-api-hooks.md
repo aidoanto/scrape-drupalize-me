@@ -2,6 +2,7 @@
 title: "Entity API Hooks"
 url: "https://drupalize.me/tutorial/entity-api-hooks?p=2607"
 guide: "[[work-data-modules]]"
+order: 8
 ---
 
 # Entity API Hooks

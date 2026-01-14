@@ -2,6 +2,7 @@
 title: "What Are Hooks?free"
 url: "https://drupalize.me/tutorial/what-are-hooks?p=2751"
 guide: "[[alter-drupal-modules]]"
+order: 1
 ---
 
 # What Are Hooks?free

@@ -2,6 +2,7 @@
 title: "Create a Route for the Weather Page"
 url: "https://drupalize.me/tutorial/create-route-weather-page?p=3236"
 guide: "[[drupal-module-developer-guide]]"
+order: 16
 ---
 
 # Create a Route for the Weather Page

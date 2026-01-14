@@ -2,6 +2,7 @@
 title: "Dispatch an Event"
 url: "https://drupalize.me/tutorial/dispatch-event?p=2725"
 guide: "[[alter-drupal-modules]]"
+order: 21
 ---
 
 # Dispatch an Event

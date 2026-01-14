@@ -2,6 +2,7 @@
 title: "Using SSH and SCPfree"
 url: "https://drupalize.me/tutorial/using-ssh-and-scp?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 35
 ---
 
 # Using SSH and SCPfree

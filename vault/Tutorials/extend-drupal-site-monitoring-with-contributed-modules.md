@@ -2,6 +2,7 @@
 title: "Extend Drupal Site Monitoring with Contributed Modules"
 url: "https://drupalize.me/tutorial/extend-drupal-site-monitoring-contributed-modules?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 42
 ---
 
 # Extend Drupal Site Monitoring with Contributed Modules

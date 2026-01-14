@@ -2,6 +2,7 @@
 title: "Add a Menu Link in a Module"
 url: "https://drupalize.me/tutorial/add-menu-link-module?p=2758"
 guide: "[[develop-custom-pages]]"
+order: 12
 ---
 
 # Add a Menu Link in a Module

@@ -2,6 +2,7 @@
 title: "4.3. Installing a Module"
 url: "https://drupalize.me/tutorial/user-guide/config-install?p=2343"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 20
 ---
 
 # 4.3. Installing a Module

@@ -2,6 +2,7 @@
 title: "Entity Access Control"
 url: "https://drupalize.me/tutorial/entity-access-control?p=2607"
 guide: "[[work-data-modules]]"
+order: 12
 ---
 
 # Entity Access Control

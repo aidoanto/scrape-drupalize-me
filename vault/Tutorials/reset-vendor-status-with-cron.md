@@ -2,6 +2,7 @@
 title: "Reset Vendor Status with Cron"
 url: "https://drupalize.me/tutorial/reset-vendor-status-cron?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 65
 ---
 
 # Reset Vendor Status with Cron

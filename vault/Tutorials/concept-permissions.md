@@ -2,6 +2,7 @@
 title: "Concept: Permissions"
 url: "https://drupalize.me/tutorial/concept-permissions?p=3236"
 guide: "[[drupal-module-developer-guide]]"
+order: 21
 ---
 
 # Concept: Permissions

@@ -2,6 +2,7 @@
 title: "Moving Through Git History"
 url: "https://drupalize.me/tutorial/moving-through-git-history?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 51
 ---
 
 # Moving Through Git History

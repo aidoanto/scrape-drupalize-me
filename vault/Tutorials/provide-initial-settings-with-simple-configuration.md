@@ -2,6 +2,7 @@
 title: "Provide Initial Settings with Simple Configuration"
 url: "https://drupalize.me/tutorial/provide-initial-settings-simple-configuration?p=2476"
 guide: "[[work-data-modules]]"
+order: 23
 ---
 
 # Provide Initial Settings with Simple Configuration

@@ -2,6 +2,7 @@
 title: "Is Decoupling the Right Choice?"
 url: "https://drupalize.me/tutorial/decoupling-right-choice?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 2
 ---
 
 # Is Decoupling the Right Choice?

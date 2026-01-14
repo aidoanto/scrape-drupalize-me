@@ -2,6 +2,7 @@
 title: "What Is Deprecated Code?free"
 url: "https://drupalize.me/tutorial/what-deprecated-code?p=3282"
 guide: "[[keep-drupal-up-to-date]]"
+order: 3
 ---
 
 # What Is Deprecated Code?free

@@ -2,6 +2,7 @@
 title: "Reverting Git Commits"
 url: "https://drupalize.me/tutorial/reverting-git-commits?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 58
 ---
 
 # Reverting Git Commits

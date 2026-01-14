@@ -2,6 +2,7 @@
 title: "Migrate System: Terms and Conceptsfree"
 url: "https://drupalize.me/tutorial/migrate-system-terms-and-concepts?p=3117"
 guide: "[[learn-migrate-drupal]]"
+order: 2
 ---
 
 # Migrate System: Terms and Conceptsfree

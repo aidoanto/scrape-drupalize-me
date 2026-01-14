@@ -2,6 +2,7 @@
 title: "JSON:API DELETE Requests: Delete an Entity"
 url: "https://drupalize.me/tutorial/jsonapi-delete-requests-delete-entity?p=3279"
 guide: "[[decoupled-headless-drupal]]"
+order: 28
 ---
 
 # JSON:API DELETE Requests: Delete an Entity

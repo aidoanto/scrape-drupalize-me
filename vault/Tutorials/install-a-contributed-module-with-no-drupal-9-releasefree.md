@@ -2,6 +2,7 @@
 title: "Install a Contributed Module with No Drupal 9 Releasefree"
 url: "https://drupalize.me/tutorial/install-contributed-module-no-drupal-9-release?p=3282"
 guide: "[[keep-drupal-up-to-date]]"
+order: 8
 ---
 
 # Install a Contributed Module with No Drupal 9 Releasefree

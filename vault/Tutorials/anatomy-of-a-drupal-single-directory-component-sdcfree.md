@@ -2,6 +2,7 @@
 title: "Anatomy of a Drupal Single Directory Component (SDC)free"
 url: "https://drupalize.me/tutorial/anatomy-drupal-single-directory-component-sdc?p=3329"
 guide: "[[frontend-theming]]"
+order: 21
 ---
 
 # Anatomy of a Drupal Single Directory Component (SDC)free

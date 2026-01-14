@@ -2,6 +2,7 @@
 title: "Debug Drupal Cache Misses and Low Hit Rates"
 url: "https://drupalize.me/tutorial/debug-drupal-cache-misses-and-low-hit-rates?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 41
 ---
 
 # Debug Drupal Cache Misses and Low Hit Rates

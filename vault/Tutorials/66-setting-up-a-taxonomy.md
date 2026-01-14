@@ -2,6 +2,7 @@
 title: "6.6. Setting Up a Taxonomy"
 url: "https://drupalize.me/tutorial/user-guide/structure-taxonomy-setup?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 7
 ---
 
 # 6.6. Setting Up a Taxonomy

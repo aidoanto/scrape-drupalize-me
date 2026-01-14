@@ -2,6 +2,7 @@
 title: "Use create-react-app to Start a Decoupled React Application"
 url: "https://drupalize.me/tutorial/use-create-react-app-start-decoupled-react-application?p=2798"
 guide: "[[decoupled-headless-drupal]]"
+order: 41
 ---
 
 # Use create-react-app to Start a Decoupled React Application

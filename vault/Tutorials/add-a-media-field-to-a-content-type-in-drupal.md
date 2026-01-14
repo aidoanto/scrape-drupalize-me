@@ -2,6 +2,7 @@
 title: "Add a Media Field to a Content Type in Drupal"
 url: "https://drupalize.me/tutorial/add-media-field-content-type-drupal?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 3
 ---
 
 # Add a Media Field to a Content Type in Drupal

@@ -2,6 +2,7 @@
 title: "Add a Contextual Link in a Module"
 url: "https://drupalize.me/tutorial/add-contextual-link-module?p=2758"
 guide: "[[develop-custom-pages]]"
+order: 14
 ---
 
 # Add a Contextual Link in a Module

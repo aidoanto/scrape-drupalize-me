@@ -2,6 +2,7 @@
 title: "Add Input Elements to a Form"
 url: "https://drupalize.me/tutorial/add-input-elements-form?p=2734"
 guide: "[[develop-forms-drupal]]"
+order: 4
 ---
 
 # Add Input Elements to a Form

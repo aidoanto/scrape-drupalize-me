@@ -2,6 +2,7 @@
 title: "Handle Submitted Form Data"
 url: "https://drupalize.me/tutorial/handle-submitted-form-data?p=3256"
 guide: "[[develop-forms-drupal]]"
+order: 15
 ---
 
 # Handle Submitted Form Data

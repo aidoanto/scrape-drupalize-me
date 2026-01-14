@@ -2,6 +2,7 @@
 title: "Install Drush"
 url: "https://drupalize.me/tutorial/install-drush?p=3234"
 guide: "[[drupal-module-developer-guide]]"
+order: 9
 ---
 
 # Install Drush

@@ -2,6 +2,7 @@
 title: "Classes and Attributes in Twig Templates"
 url: "https://drupalize.me/tutorial/classes-and-attributes-twig-templates?p=2464"
 guide: "[[frontend-theming]]"
+order: 2
 ---
 
 # Classes and Attributes in Twig Templates

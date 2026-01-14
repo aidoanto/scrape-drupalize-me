@@ -2,6 +2,7 @@
 title: "Installing and Configuring Gitfree"
 url: "https://drupalize.me/tutorial/installing-and-configuring-git?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 47
 ---
 
 # Installing and Configuring Gitfree

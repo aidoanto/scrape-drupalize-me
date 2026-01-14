@@ -2,6 +2,7 @@
 title: "Overview: Exposed Sort Criteria in Views"
 url: "https://drupalize.me/tutorial/overview-exposed-sort-criteria-views?p=2670"
 guide: "[[views-drupal]]"
+order: 9
 ---
 
 # Overview: Exposed Sort Criteria in Views

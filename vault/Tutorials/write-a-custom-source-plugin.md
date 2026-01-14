@@ -2,6 +2,7 @@
 title: "Write a Custom Source Plugin"
 url: "https://drupalize.me/tutorial/write-custom-source-plugin?p=3115"
 guide: "[[learn-migrate-drupal]]"
+order: 23
 ---
 
 # Write a Custom Source Plugin

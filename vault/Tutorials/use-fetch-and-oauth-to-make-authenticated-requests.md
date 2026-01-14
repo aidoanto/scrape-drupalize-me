@@ -2,6 +2,7 @@
 title: "Use Fetch and OAuth to Make Authenticated Requests"
 url: "https://drupalize.me/tutorial/use-fetch-and-oauth-make-authenticated-requests?p=2798"
 guide: "[[decoupled-headless-drupal]]"
+order: 43
 ---
 
 # Use Fetch and OAuth to Make Authenticated Requests

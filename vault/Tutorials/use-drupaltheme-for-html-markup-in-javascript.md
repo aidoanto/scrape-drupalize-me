@@ -2,6 +2,7 @@
 title: "Use Drupal.theme for HTML Markup in JavaScript"
 url: "https://drupalize.me/tutorial/use-drupaltheme-html-markup-javascript?p=2883"
 guide: "[[integrate-javascript-drupal]]"
+order: 6
 ---
 
 # Use Drupal.theme for HTML Markup in JavaScript

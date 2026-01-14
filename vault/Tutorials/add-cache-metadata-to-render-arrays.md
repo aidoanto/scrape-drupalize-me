@@ -2,6 +2,7 @@
 title: "Add Cache Metadata to Render Arrays"
 url: "https://drupalize.me/tutorial/add-cache-metadata-render-arrays?p=2723"
 guide: "[[output-and-format-data-code]]"
+order: 19
 ---
 
 # Add Cache Metadata to Render Arrays

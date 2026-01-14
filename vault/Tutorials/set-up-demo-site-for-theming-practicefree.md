@@ -2,6 +2,7 @@
 title: "Set Up Demo Site for Theming Practicefree"
 url: "https://drupalize.me/tutorial/set-demo-site-theming-practice?p=3269"
 guide: "[[frontend-theming]]"
+order: 11
 ---
 
 # Set Up Demo Site for Theming Practicefree

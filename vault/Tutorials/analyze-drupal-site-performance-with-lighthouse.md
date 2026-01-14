@@ -2,6 +2,7 @@
 title: "Analyze Drupal Site Performance with Lighthouse"
 url: "https://drupalize.me/tutorial/analyze-drupal-site-performance-lighthouse?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 37
 ---
 
 # Analyze Drupal Site Performance with Lighthouse

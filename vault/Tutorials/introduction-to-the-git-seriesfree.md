@@ -2,6 +2,7 @@
 title: "Introduction to the Git Seriesfree"
 url: "https://drupalize.me/tutorial/introduction-git-series?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 45
 ---
 
 # Introduction to the Git Seriesfree

@@ -2,6 +2,7 @@
 title: "Building a Solid API"
 url: "https://drupalize.me/tutorial/building-solid-api?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 3
 ---
 
 # Building a Solid API

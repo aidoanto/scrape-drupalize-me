@@ -2,6 +2,7 @@
 title: "Live vs. Local Configuration Management"
 url: "https://drupalize.me/tutorial/live-vs-local-configuration-management?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 9
 ---
 
 # Live vs. Local Configuration Management

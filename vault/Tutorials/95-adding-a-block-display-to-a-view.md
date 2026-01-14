@@ -2,6 +2,7 @@
 title: "9.5. Adding a Block Display to a View"
 url: "https://drupalize.me/tutorial/user-guide/views-block?p=2449"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 35
 ---
 
 # 9.5. Adding a Block Display to a View

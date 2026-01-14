@@ -2,6 +2,7 @@
 title: "Define a Field Formatter Plugin"
 url: "https://drupalize.me/tutorial/define-field-formatter-plugin?p=2628"
 guide: "[[work-data-modules]]"
+order: 18
 ---
 
 # Define a Field Formatter Plugin

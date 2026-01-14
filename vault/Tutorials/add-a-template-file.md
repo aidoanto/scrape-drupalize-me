@@ -2,6 +2,7 @@
 title: "Add a Template File"
 url: "https://drupalize.me/tutorial/add-template-file?p=3239"
 guide: "[[drupal-module-developer-guide]]"
+order: 33
 ---
 
 # Add a Template File

@@ -2,6 +2,7 @@
 title: "Overview: Drupal's Caching System"
 url: "https://drupalize.me/tutorial/overview-drupals-caching-system?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 40
 ---
 
 # Overview: Drupal's Caching System

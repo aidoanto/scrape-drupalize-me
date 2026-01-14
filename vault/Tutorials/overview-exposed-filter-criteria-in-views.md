@@ -2,6 +2,7 @@
 title: "Overview: Exposed Filter Criteria in Views"
 url: "https://drupalize.me/tutorial/overview-exposed-filter-criteria-views?p=2670"
 guide: "[[views-drupal]]"
+order: 5
 ---
 
 # Overview: Exposed Filter Criteria in Views

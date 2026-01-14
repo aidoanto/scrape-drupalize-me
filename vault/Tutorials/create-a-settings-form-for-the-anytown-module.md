@@ -2,6 +2,7 @@
 title: "Create a Settings Form for the Anytown Module"
 url: "https://drupalize.me/tutorial/create-settings-form-anytown-module?p=3242"
 guide: "[[drupal-module-developer-guide]]"
+order: 47
 ---
 
 # Create a Settings Form for the Anytown Module

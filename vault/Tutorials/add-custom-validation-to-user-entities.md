@@ -2,6 +2,7 @@
 title: "Add Custom Validation to User Entities"
 url: "https://drupalize.me/tutorial/add-custom-validation-user-entities?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 63
 ---
 
 # Add Custom Validation to User Entities

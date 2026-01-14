@@ -2,6 +2,7 @@
 title: "1.5. Concept: Types of Data"
 url: "https://drupalize.me/tutorial/user-guide/understanding-data?p=2433"
 guide: "[[introduction-drupal]]"
+order: 8
 ---
 
 # 1.5. Concept: Types of Data

@@ -2,6 +2,7 @@
 title: "6.13. Setting Up an Image Style"
 url: "https://drupalize.me/tutorial/user-guide/structure-image-style-create?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 14
 ---
 
 # 6.13. Setting Up an Image Style

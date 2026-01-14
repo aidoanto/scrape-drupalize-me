@@ -2,6 +2,7 @@
 title: "Concept: Template Files"
 url: "https://drupalize.me/tutorial/concept-template-files?p=3239"
 guide: "[[drupal-module-developer-guide]]"
+order: 32
 ---
 
 # Concept: Template Files

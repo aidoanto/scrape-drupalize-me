@@ -2,6 +2,7 @@
 title: "Output Plain Text and Simple HTML Markup"
 url: "https://drupalize.me/tutorial/output-plain-text-and-simple-html-markup?p=3252"
 guide: "[[output-and-format-data-code]]"
+order: 8
 ---
 
 # Output Plain Text and Simple HTML Markup

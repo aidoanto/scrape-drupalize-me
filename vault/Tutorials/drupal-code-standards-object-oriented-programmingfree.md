@@ -2,6 +2,7 @@
 title: "Drupal Code Standards: Object-Oriented Programmingfree"
 url: "https://drupalize.me/tutorial/drupal-code-standards-object-oriented-programming?p=2458"
 guide: "[[develop-drupal-sites]]"
+order: 9
 ---
 
 # Drupal Code Standards: Object-Oriented Programmingfree

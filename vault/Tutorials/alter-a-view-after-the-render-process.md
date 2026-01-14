@@ -2,6 +2,7 @@
 title: "Alter a View after the Render Process"
 url: "https://drupalize.me/tutorial/alter-view-after-render-process?p=2939"
 guide: "[[views-drupal]]"
+order: 20
 ---
 
 # Alter a View after the Render Process

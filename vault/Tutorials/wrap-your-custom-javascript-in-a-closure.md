@@ -2,6 +2,7 @@
 title: "Wrap Your Custom JavaScript in a Closure"
 url: "https://drupalize.me/tutorial/wrap-your-custom-javascript-closure?p=2883"
 guide: "[[integrate-javascript-drupal]]"
+order: 3
 ---
 
 # Wrap Your Custom JavaScript in a Closure

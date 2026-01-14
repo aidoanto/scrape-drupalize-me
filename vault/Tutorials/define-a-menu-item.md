@@ -2,6 +2,7 @@
 title: "Define a Menu Item"
 url: "https://drupalize.me/tutorial/define-menu-item?p=3236"
 guide: "[[drupal-module-developer-guide]]"
+order: 20
 ---
 
 # Define a Menu Item

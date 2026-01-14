@@ -2,6 +2,7 @@
 title: "Develop Drupal Modules Faster with Drush Code Generators"
 url: "https://drupalize.me/tutorial/develop-drupal-modules-faster-drush-code-generators?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 19
 ---
 
 # Develop Drupal Modules Faster with Drush Code Generators

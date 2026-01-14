@@ -2,6 +2,7 @@
 title: "Add Autocomplete to Search"
 url: "https://drupalize.me/tutorial/add-autocomplete-search?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 28
 ---
 
 # Add Autocomplete to Search

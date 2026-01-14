@@ -2,6 +2,7 @@
 title: "Overview: Sort Criteria in Views"
 url: "https://drupalize.me/tutorial/overview-sort-criteria-views?p=2670"
 guide: "[[views-drupal]]"
+order: 7
 ---
 
 # Overview: Sort Criteria in Views

@@ -2,6 +2,7 @@
 title: "Synchronize Configuration with Drush"
 url: "https://drupalize.me/tutorial/synchronize-configuration-drush?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 7
 ---
 
 # Synchronize Configuration with Drush

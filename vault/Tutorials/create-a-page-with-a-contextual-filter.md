@@ -2,6 +2,7 @@
 title: "Create a Page with a Contextual Filter"
 url: "https://drupalize.me/tutorial/create-page-contextual-filter?p=2670"
 guide: "[[views-drupal]]"
+order: 14
 ---
 
 # Create a Page with a Contextual Filter

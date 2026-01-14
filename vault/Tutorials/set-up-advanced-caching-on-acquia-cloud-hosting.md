@@ -2,6 +2,7 @@
 title: "Set Up Advanced Caching on Acquia Cloud Hosting"
 url: "https://drupalize.me/tutorial/set-advanced-caching-acquia-cloud-hosting?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 44
 ---
 
 # Set Up Advanced Caching on Acquia Cloud Hosting

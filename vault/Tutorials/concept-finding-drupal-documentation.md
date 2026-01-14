@@ -2,6 +2,7 @@
 title: "Concept: Finding Drupal Documentation"
 url: "https://drupalize.me/tutorial/concept-finding-drupal-documentation?p=3234"
 guide: "[[drupal-module-developer-guide]]"
+order: 5
 ---
 
 # Concept: Finding Drupal Documentation

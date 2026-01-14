@@ -2,6 +2,7 @@
 title: "Output Content Using Render API"
 url: "https://drupalize.me/tutorial/output-content-using-render-api?p=3239"
 guide: "[[drupal-module-developer-guide]]"
+order: 31
 ---
 
 # Output Content Using Render API

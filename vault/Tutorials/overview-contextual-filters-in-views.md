@@ -2,6 +2,7 @@
 title: "Overview: Contextual Filters in Views"
 url: "https://drupalize.me/tutorial/overview-contextual-filters-views?p=2670"
 guide: "[[views-drupal]]"
+order: 13
 ---
 
 # Overview: Contextual Filters in Views

@@ -2,6 +2,7 @@
 title: "Define a New Plugin Type"
 url: "https://drupalize.me/tutorial/define-new-plugin-type?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 7
 ---
 
 # Define a New Plugin Type

@@ -2,6 +2,7 @@
 title: "Concept: Data Types in Drupalfree"
 url: "https://drupalize.me/tutorial/concept-data-types-drupal?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 52
 ---
 
 # Concept: Data Types in Drupalfree

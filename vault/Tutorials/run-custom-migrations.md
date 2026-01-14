@@ -2,6 +2,7 @@
 title: "Run Custom Migrations"
 url: "https://drupalize.me/tutorial/run-custom-migrations?p=3115"
 guide: "[[learn-migrate-drupal]]"
+order: 69
 ---
 
 # Run Custom Migrations

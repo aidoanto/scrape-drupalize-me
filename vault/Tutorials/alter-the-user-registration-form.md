@@ -2,6 +2,7 @@
 title: "Alter the User Registration Form"
 url: "https://drupalize.me/tutorial/alter-user-registration-form?p=3242"
 guide: "[[drupal-module-developer-guide]]"
+order: 51
 ---
 
 # Alter the User Registration Form

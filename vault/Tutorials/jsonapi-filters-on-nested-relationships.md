@@ -2,6 +2,7 @@
 title: "JSON:API Filters on Nested Relationships"
 url: "https://drupalize.me/tutorial/jsonapi-filters-nested-relationships?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 18
 ---
 
 # JSON:API Filters on Nested Relationships

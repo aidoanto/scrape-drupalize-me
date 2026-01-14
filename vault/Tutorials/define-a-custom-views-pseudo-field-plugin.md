@@ -2,6 +2,7 @@
 title: "Define a Custom Views Pseudo Field Plugin"
 url: "https://drupalize.me/tutorial/define-custom-views-pseudo-field-plugin?p=2939"
 guide: "[[views-drupal]]"
+order: 27
 ---
 
 # Define a Custom Views Pseudo Field Plugin

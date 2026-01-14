@@ -2,6 +2,7 @@
 title: "Use Drupal.t() for Translatable Strings in JavaScript"
 url: "https://drupalize.me/tutorial/use-drupalt-translatable-strings-javascript?p=3253"
 guide: "[[output-and-format-data-code]]"
+order: 22
 ---
 
 # Use Drupal.t() for Translatable Strings in JavaScript

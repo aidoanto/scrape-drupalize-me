@@ -2,6 +2,7 @@
 title: "Output a Table"
 url: "https://drupalize.me/tutorial/output-table?p=3252"
 guide: "[[output-and-format-data-code]]"
+order: 12
 ---
 
 # Output a Table

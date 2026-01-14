@@ -2,6 +2,7 @@
 title: "2.1. Concept: Regions in a Theme"
 url: "https://drupalize.me/tutorial/user-guide/block-regions?p=2341"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 1
 ---
 
 # 2.1. Concept: Regions in a Theme

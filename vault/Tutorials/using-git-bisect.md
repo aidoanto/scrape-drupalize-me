@@ -2,6 +2,7 @@
 title: "Using Git Bisect"
 url: "https://drupalize.me/tutorial/using-git-bisect?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 64
 ---
 
 # Using Git Bisect

@@ -2,6 +2,7 @@
 title: "Dynamic Layout Plugins in Drupal's Layout Builder"
 url: "https://drupalize.me/tutorial/dynamic-layout-plugins-drupals-layout-builder?p=3271"
 guide: "[[layout-builder]]"
+order: 15
 ---
 
 # Dynamic Layout Plugins in Drupal's Layout Builder

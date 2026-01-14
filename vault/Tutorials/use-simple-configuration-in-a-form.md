@@ -2,6 +2,7 @@
 title: "Use Simple Configuration in a Form"
 url: "https://drupalize.me/tutorial/use-simple-configuration-form?p=2476"
 guide: "[[work-data-modules]]"
+order: 25
 ---
 
 # Use Simple Configuration in a Form

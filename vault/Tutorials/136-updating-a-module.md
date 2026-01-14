@@ -2,6 +2,7 @@
 title: "13.6. Updating a Module"
 url: "https://drupalize.me/tutorial/user-guide/security-update-module?p=2404"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 36
 ---
 
 # 13.6. Updating a Module

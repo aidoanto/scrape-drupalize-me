@@ -2,6 +2,7 @@
 title: "Use Ajax with Forms"
 url: "https://drupalize.me/tutorial/use-ajax-forms?p=2730"
 guide: "[[develop-forms-drupal]]"
+order: 18
 ---
 
 # Use Ajax with Forms

@@ -2,6 +2,7 @@
 title: "Process Plugins"
 url: "https://drupalize.me/tutorial/process-plugins?p=3115"
 guide: "[[learn-migrate-drupal]]"
+order: 68
 ---
 
 # Process Plugins

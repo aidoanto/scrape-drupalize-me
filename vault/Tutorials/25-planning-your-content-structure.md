@@ -2,6 +2,7 @@
 title: "2.5. Planning your Content Structure"
 url: "https://drupalize.me/tutorial/user-guide/planning-structure?p=2341"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 5
 ---
 
 # 2.5. Planning your Content Structure

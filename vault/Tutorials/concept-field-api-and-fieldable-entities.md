@@ -2,6 +2,7 @@
 title: "Concept: Field API and Fieldable Entities"
 url: "https://drupalize.me/tutorial/concept-field-api-and-fieldable-entities?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 57
 ---
 
 # Concept: Field API and Fieldable Entities

@@ -2,6 +2,7 @@
 title: "Theme Settings Overview"
 url: "https://drupalize.me/tutorial/theme-settings-overview?p=3266"
 guide: "[[frontend-theming]]"
+order: 3
 ---
 
 # Theme Settings Overview

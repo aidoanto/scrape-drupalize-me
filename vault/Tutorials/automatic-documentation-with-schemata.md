@@ -2,6 +2,7 @@
 title: "Automatic Documentation with Schemata"
 url: "https://drupalize.me/tutorial/automatic-documentation-schemata?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 10
 ---
 
 # Automatic Documentation with Schemata

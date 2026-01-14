@@ -2,6 +2,7 @@
 title: "Default Configuration in a Module"
 url: "https://drupalize.me/tutorial/default-configuration-module?p=2476"
 guide: "[[work-data-modules]]"
+order: 22
 ---
 
 # Default Configuration in a Module

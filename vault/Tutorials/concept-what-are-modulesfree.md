@@ -2,6 +2,7 @@
 title: "Concept: What Are Modules?free"
 url: "https://drupalize.me/tutorial/concept-what-are-modules?p=3234"
 guide: "[[drupal-module-developer-guide]]"
+order: 3
 ---
 
 # Concept: What Are Modules?free

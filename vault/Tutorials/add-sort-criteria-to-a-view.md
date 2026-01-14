@@ -2,6 +2,7 @@
 title: "Add Sort Criteria to a View"
 url: "https://drupalize.me/tutorial/add-sort-criteria-view?p=2670"
 guide: "[[views-drupal]]"
+order: 8
 ---
 
 # Add Sort Criteria to a View

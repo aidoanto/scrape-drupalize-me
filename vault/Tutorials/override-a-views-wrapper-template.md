@@ -2,6 +2,7 @@
 title: "Override a View's Wrapper Template"
 url: "https://drupalize.me/tutorial/override-views-wrapper-template?p=2670"
 guide: "[[views-drupal]]"
+order: 16
 ---
 
 # Override a View's Wrapper Template

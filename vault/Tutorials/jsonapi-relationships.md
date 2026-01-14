@@ -2,6 +2,7 @@
 title: "JSON:API Relationships"
 url: "https://drupalize.me/tutorial/jsonapi-relationships?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 13
 ---
 
 # JSON:API Relationships

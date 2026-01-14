@@ -2,6 +2,7 @@
 title: "Working with Git Branches and Tags"
 url: "https://drupalize.me/tutorial/working-git-branches-and-tags?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 50
 ---
 
 # Working with Git Branches and Tags

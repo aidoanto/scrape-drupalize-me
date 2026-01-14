@@ -2,6 +2,7 @@
 title: "Concept: Contributing Your Custom Modules"
 url: "https://drupalize.me/tutorial/concept-contributing-your-custom-modules?p=3247"
 guide: "[[drupal-module-developer-guide]]"
+order: 81
 ---
 
 # Concept: Contributing Your Custom Modules

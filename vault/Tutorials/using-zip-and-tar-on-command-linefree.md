@@ -2,6 +2,7 @@
 title: "Using Zip and Tar on Command Linefree"
 url: "https://drupalize.me/tutorial/using-zip-and-tar-command-line?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 33
 ---
 
 # Using Zip and Tar on Command Linefree

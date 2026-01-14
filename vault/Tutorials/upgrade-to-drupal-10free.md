@@ -2,6 +2,7 @@
 title: "Upgrade to Drupal 10free"
 url: "https://drupalize.me/tutorial/upgrade-drupal-10?p=3282"
 guide: "[[keep-drupal-up-to-date]]"
+order: 5
 ---
 
 # Upgrade to Drupal 10free

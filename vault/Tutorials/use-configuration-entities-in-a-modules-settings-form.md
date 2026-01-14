@@ -2,6 +2,7 @@
 title: "Use Configuration Entities in a Module's Settings Form"
 url: "https://drupalize.me/tutorial/use-configuration-entities-modules-settings-form?p=2476"
 guide: "[[work-data-modules]]"
+order: 28
 ---
 
 # Use Configuration Entities in a Module's Settings Form

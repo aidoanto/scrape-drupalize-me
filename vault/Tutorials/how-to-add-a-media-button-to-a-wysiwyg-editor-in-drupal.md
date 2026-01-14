@@ -2,6 +2,7 @@
 title: "How to Add a Media Button to a WYSIWYG Editor in Drupal"
 url: "https://drupalize.me/tutorial/how-add-media-button-wysiwyg-editor-drupal?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 6
 ---
 
 # How to Add a Media Button to a WYSIWYG Editor in Drupal

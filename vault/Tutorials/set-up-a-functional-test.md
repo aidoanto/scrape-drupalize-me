@@ -2,6 +2,7 @@
 title: "Set Up a Functional Test"
 url: "https://drupalize.me/tutorial/set-functional-test?p=3263"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 8
 ---
 
 # Set Up a Functional Test

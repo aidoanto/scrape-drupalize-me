@@ -2,6 +2,7 @@
 title: "Implement a Plugin of Any Type"
 url: "https://drupalize.me/tutorial/implement-plugin-any-type?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 9
 ---
 
 # Implement a Plugin of Any Type

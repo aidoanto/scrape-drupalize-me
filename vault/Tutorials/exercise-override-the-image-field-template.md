@@ -2,6 +2,7 @@
 title: "Exercise: Override the Image Field Template"
 url: "https://drupalize.me/tutorial/exercise-override-image-field-template?p=3269"
 guide: "[[frontend-theming]]"
+order: 18
 ---
 
 # Exercise: Override the Image Field Template

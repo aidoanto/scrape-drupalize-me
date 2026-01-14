@@ -2,6 +2,7 @@
 title: "Implement a Plugin Using PHP Attributes"
 url: "https://drupalize.me/tutorial/implement-plugin-using-php-attributes?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 10
 ---
 
 # Implement a Plugin Using PHP Attributes

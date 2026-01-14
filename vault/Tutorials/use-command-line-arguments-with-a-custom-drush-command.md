@@ -2,6 +2,7 @@
 title: "Use Command Line Arguments with a Custom Drush Command"
 url: "https://drupalize.me/tutorial/use-command-line-arguments-custom-drush-command?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 23
 ---
 
 # Use Command Line Arguments with a Custom Drush Command

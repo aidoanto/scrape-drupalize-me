@@ -2,6 +2,7 @@
 title: "Use a Base Theme"
 url: "https://drupalize.me/tutorial/use-base-theme?p=3267"
 guide: "[[frontend-theming]]"
+order: 40
 ---
 
 # Use a Base Theme

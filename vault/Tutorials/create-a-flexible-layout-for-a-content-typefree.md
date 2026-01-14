@@ -2,6 +2,7 @@
 title: "Create a Flexible Layout for a Content Typefree"
 url: "https://drupalize.me/tutorial/create-flexible-layout-content-type?p=2653"
 guide: "[[layout-builder]]"
+order: 2
 ---
 
 # Create a Flexible Layout for a Content Typefree

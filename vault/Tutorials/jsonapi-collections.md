@@ -2,6 +2,7 @@
 title: "JSON:API Collections"
 url: "https://drupalize.me/tutorial/jsonapi-collections?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 14
 ---
 
 # JSON:API Collections

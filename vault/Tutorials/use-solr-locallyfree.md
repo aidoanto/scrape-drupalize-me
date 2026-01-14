@@ -2,6 +2,7 @@
 title: "Use Solr Locallyfree"
 url: "https://drupalize.me/tutorial/use-solr-locally?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 17
 ---
 
 # Use Solr Locallyfree

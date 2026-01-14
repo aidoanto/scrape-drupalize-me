@@ -2,6 +2,7 @@
 title: "Anatomy of a Composer Project"
 url: "https://drupalize.me/tutorial/anatomy-composer-project?p=2467"
 guide: "[[command-line-tools-drupal]]"
+order: 3
 ---
 
 # Anatomy of a Composer Project

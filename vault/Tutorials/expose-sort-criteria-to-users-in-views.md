@@ -2,6 +2,7 @@
 title: "Expose Sort Criteria to Users in Views"
 url: "https://drupalize.me/tutorial/expose-sort-criteria-users-views?p=2670"
 guide: "[[views-drupal]]"
+order: 10
 ---
 
 # Expose Sort Criteria to Users in Views

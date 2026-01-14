@@ -2,6 +2,7 @@
 title: "Add Views to a Layout"
 url: "https://drupalize.me/tutorial/add-views-layout?p=2653"
 guide: "[[layout-builder]]"
+order: 12
 ---
 
 # Add Views to a Layout

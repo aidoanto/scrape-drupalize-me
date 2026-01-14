@@ -2,6 +2,7 @@
 title: "What Are Render Arrays?"
 url: "https://drupalize.me/tutorial/what-are-render-arrays?p=2775"
 guide: "[[output-and-format-data-code]]"
+order: 2
 ---
 
 # What Are Render Arrays?

@@ -2,6 +2,7 @@
 title: "Create a Configuration Entity Type"
 url: "https://drupalize.me/tutorial/create-configuration-entity-type?p=2476"
 guide: "[[work-data-modules]]"
+order: 26
 ---
 
 # Create a Configuration Entity Type

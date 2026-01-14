@@ -2,6 +2,7 @@
 title: "What Are Asset Libraries?"
 url: "https://drupalize.me/tutorial/what-are-asset-libraries?p=2860"
 guide: "[[integrate-javascript-drupal]]"
+order: 11
 ---
 
 # What Are Asset Libraries?

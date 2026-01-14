@@ -2,6 +2,7 @@
 title: "Add a Screenshot to Your Theme"
 url: "https://drupalize.me/tutorial/add-screenshot-your-theme?p=3266"
 guide: "[[frontend-theming]]"
+order: 34
 ---
 
 # Add a Screenshot to Your Theme

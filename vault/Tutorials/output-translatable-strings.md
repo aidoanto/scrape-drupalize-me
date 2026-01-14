@@ -2,6 +2,7 @@
 title: "Output Translatable Strings"
 url: "https://drupalize.me/tutorial/output-translatable-strings?p=3239"
 guide: "[[drupal-module-developer-guide]]"
+order: 37
 ---
 
 # Output Translatable Strings

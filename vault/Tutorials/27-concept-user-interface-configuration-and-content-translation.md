@@ -2,6 +2,7 @@
 title: "2.7. Concept: User Interface, Configuration, and Content translation"
 url: "https://drupalize.me/tutorial/user-guide/language-concept?p=2341"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 7
 ---
 
 # 2.7. Concept: User Interface, Configuration, and Content translation

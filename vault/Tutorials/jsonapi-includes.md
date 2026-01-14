@@ -2,6 +2,7 @@
 title: "JSON:API Includes"
 url: "https://drupalize.me/tutorial/jsonapi-includes?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 15
 ---
 
 # JSON:API Includes

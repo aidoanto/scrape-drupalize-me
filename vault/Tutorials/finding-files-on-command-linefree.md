@@ -2,6 +2,7 @@
 title: "Finding Files on Command Linefree"
 url: "https://drupalize.me/tutorial/finding-files-command-line?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 36
 ---
 
 # Finding Files on Command Linefree

@@ -2,6 +2,7 @@
 title: "1.6. Concept: The Drupal Project"
 url: "https://drupalize.me/tutorial/user-guide/understanding-project?p=2433"
 guide: "[[introduction-drupal]]"
+order: 9
 ---
 
 # 1.6. Concept: The Drupal Project

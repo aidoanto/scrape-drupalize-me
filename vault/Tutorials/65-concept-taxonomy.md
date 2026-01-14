@@ -2,6 +2,7 @@
 title: "6.5. Concept: Taxonomy"
 url: "https://drupalize.me/tutorial/user-guide/structure-taxonomy?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 6
 ---
 
 # 6.5. Concept: Taxonomy

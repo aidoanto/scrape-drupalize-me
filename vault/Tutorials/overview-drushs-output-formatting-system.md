@@ -2,6 +2,7 @@
 title: "Overview: Drush's Output Formatting System"
 url: "https://drupalize.me/tutorial/overview-drushs-output-formatting-system?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 15
 ---
 
 # Overview: Drush's Output Formatting System

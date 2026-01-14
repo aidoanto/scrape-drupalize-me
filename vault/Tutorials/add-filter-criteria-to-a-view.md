@@ -2,6 +2,7 @@
 title: "Add Filter Criteria to a View"
 url: "https://drupalize.me/tutorial/add-filter-criteria-view?p=2670"
 guide: "[[views-drupal]]"
+order: 4
 ---
 
 # Add Filter Criteria to a View

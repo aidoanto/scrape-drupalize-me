@@ -2,6 +2,7 @@
 title: "Use Layout Builder Restrictions to Configure Available Layouts and Blocks"
 url: "https://drupalize.me/tutorial/use-layout-builder-restrictions-configure-available-layouts-and-blocks?p=2653"
 guide: "[[layout-builder]]"
+order: 5
 ---
 
 # Use Layout Builder Restrictions to Configure Available Layouts and Blocks

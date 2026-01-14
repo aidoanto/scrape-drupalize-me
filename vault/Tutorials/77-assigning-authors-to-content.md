@@ -2,6 +2,7 @@
 title: "7.7. Assigning Authors to Content"
 url: "https://drupalize.me/tutorial/user-guide/user-content?p=2441"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 46
 ---
 
 # 7.7. Assigning Authors to Content

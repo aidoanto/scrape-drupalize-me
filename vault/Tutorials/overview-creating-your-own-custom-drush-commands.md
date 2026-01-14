@@ -2,6 +2,7 @@
 title: "Overview: Creating Your Own Custom Drush Commands"
 url: "https://drupalize.me/tutorial/overview-creating-your-own-custom-drush-commands?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 21
 ---
 
 # Overview: Creating Your Own Custom Drush Commands

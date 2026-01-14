@@ -2,6 +2,7 @@
 title: "Twig Template Inheritance"
 url: "https://drupalize.me/tutorial/twig-template-inheritance?p=2464"
 guide: "[[frontend-theming]]"
+order: 4
 ---
 
 # Twig Template Inheritance

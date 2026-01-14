@@ -2,6 +2,7 @@
 title: "Use Ajax to Submit a Form"
 url: "https://drupalize.me/tutorial/use-ajax-submit-form?p=2730"
 guide: "[[develop-forms-drupal]]"
+order: 20
 ---
 
 # Use Ajax to Submit a Form

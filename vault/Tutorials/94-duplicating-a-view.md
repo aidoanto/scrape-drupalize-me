@@ -2,6 +2,7 @@
 title: "9.4. Duplicating a View"
 url: "https://drupalize.me/tutorial/user-guide/views-duplicate?p=2449"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 34
 ---
 
 # 9.4. Duplicating a View

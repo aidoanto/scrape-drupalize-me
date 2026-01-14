@@ -2,6 +2,7 @@
 title: "Make Your Theme Translatable"
 url: "https://drupalize.me/tutorial/make-your-theme-translatable?p=3253"
 guide: "[[output-and-format-data-code]]"
+order: 23
 ---
 
 # Make Your Theme Translatable

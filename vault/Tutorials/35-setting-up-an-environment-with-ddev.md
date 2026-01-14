@@ -2,6 +2,7 @@
 title: "3.5. Setting Up an Environment with DDEV"
 url: "https://drupalize.me/tutorial/user-guide/install-ddev?p=2368"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 15
 ---
 
 # 3.5. Setting Up an Environment with DDEV

@@ -2,6 +2,7 @@
 title: "Limit Blocks Available in Layout Builder with Block List Override"
 url: "https://drupalize.me/tutorial/limit-blocks-available-layout-builder-block-list-override?p=2653"
 guide: "[[layout-builder]]"
+order: 4
 ---
 
 # Limit Blocks Available in Layout Builder with Block List Override

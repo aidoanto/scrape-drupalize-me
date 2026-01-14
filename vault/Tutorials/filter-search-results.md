@@ -2,6 +2,7 @@
 title: "Filter Search Results"
 url: "https://drupalize.me/tutorial/filter-search-results?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 29
 ---
 
 # Filter Search Results

@@ -2,6 +2,7 @@
 title: "Extend or Alter Existing CSS and JavaScript Asset Libraries"
 url: "https://drupalize.me/tutorial/extend-or-alter-existing-css-and-javascript-asset-libraries?p=2860"
 guide: "[[integrate-javascript-drupal]]"
+order: 14
 ---
 
 # Extend or Alter Existing CSS and JavaScript Asset Libraries

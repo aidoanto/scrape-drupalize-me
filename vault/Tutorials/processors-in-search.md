@@ -2,6 +2,7 @@
 title: "Processors in Search"
 url: "https://drupalize.me/tutorial/processors-search?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 26
 ---
 
 # Processors in Search

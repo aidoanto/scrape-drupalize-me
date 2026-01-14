@@ -2,6 +2,7 @@
 title: "Access an API from the Browser with Cross-Origin Resource Sharing"
 url: "https://drupalize.me/tutorial/access-api-browser-cross-origin-resource-sharing?p=3279"
 guide: "[[decoupled-headless-drupal]]"
+order: 25
 ---
 
 # Access an API from the Browser with Cross-Origin Resource Sharing

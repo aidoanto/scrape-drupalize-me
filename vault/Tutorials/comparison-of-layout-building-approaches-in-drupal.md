@@ -2,6 +2,7 @@
 title: "Comparison of Layout-Building Approaches in Drupal"
 url: "https://drupalize.me/tutorial/comparison-layout-building-approaches-drupal?p=2653"
 guide: "[[layout-builder]]"
+order: 10
 ---
 
 # Comparison of Layout-Building Approaches in Drupal

@@ -2,6 +2,7 @@
 title: "Concept: What Are Hooks?free"
 url: "https://drupalize.me/tutorial/concept-what-are-hooks?p=3240"
 guide: "[[drupal-module-developer-guide]]"
+order: 38
 ---
 
 # Concept: What Are Hooks?free

@@ -2,6 +2,7 @@
 title: "Plugin Managers"
 url: "https://drupalize.me/tutorial/plugin-managers?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 13
 ---
 
 # Plugin Managers

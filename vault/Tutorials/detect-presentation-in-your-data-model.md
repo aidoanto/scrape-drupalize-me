@@ -2,6 +2,7 @@
 title: "Detect Presentation in Your Data Model"
 url: "https://drupalize.me/tutorial/detect-presentation-your-data-model?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 7
 ---
 
 # Detect Presentation in Your Data Model

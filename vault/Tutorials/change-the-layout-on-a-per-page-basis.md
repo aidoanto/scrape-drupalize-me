@@ -2,6 +2,7 @@
 title: "Change the Layout on a Per-Page Basis"
 url: "https://drupalize.me/tutorial/change-layout-page-basis?p=2653"
 guide: "[[layout-builder]]"
+order: 3
 ---
 
 # Change the Layout on a Per-Page Basis

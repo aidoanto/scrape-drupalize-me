@@ -2,6 +2,7 @@
 title: "Twig Syntax Delimiters"
 url: "https://drupalize.me/tutorial/twig-syntax-delimiters?p=2464"
 guide: "[[frontend-theming]]"
+order: 52
 ---
 
 # Twig Syntax Delimiters

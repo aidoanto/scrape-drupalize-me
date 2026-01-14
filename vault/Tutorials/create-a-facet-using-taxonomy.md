@@ -2,6 +2,7 @@
 title: "Create a Facet using Taxonomy"
 url: "https://drupalize.me/tutorial/create-facet-using-taxonomy?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 32
 ---
 
 # Create a Facet using Taxonomy

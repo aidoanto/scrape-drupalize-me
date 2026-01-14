@@ -2,6 +2,7 @@
 title: "Define a Custom Views Sort Plugin"
 url: "https://drupalize.me/tutorial/define-custom-views-sort-plugin?p=2939"
 guide: "[[views-drupal]]"
+order: 29
 ---
 
 # Define a Custom Views Sort Plugin

@@ -2,6 +2,7 @@
 title: "Implement a Functional Test"
 url: "https://drupalize.me/tutorial/implement-functional-test?p=3264"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 12
 ---
 
 # Implement a Functional Test

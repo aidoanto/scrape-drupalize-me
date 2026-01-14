@@ -2,6 +2,7 @@
 title: "Create a Custom \"Hello, World!\" Blockfree"
 url: "https://drupalize.me/tutorial/create-custom-hello-world-block?p=3235"
 guide: "[[drupal-module-developer-guide]]"
+order: 12
 ---
 
 # Create a Custom "Hello, World!" Blockfree

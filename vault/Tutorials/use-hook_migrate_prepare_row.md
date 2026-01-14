@@ -2,6 +2,7 @@
 title: "Use hook_migrate_prepare_row()"
 url: "https://drupalize.me/tutorial/use-hookmigratepreparerow?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 20
 ---
 
 # Use hook_migrate_prepare_row()

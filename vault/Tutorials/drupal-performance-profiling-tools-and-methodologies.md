@@ -2,6 +2,7 @@
 title: "Drupal Performance Profiling: Tools and Methodologies"
 url: "https://drupalize.me/tutorial/drupal-performance-profiling-tools-and-methodologies?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 35
 ---
 
 # Drupal Performance Profiling: Tools and Methodologies

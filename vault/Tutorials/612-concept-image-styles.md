@@ -2,6 +2,7 @@
 title: "6.12. Concept: Image Styles"
 url: "https://drupalize.me/tutorial/user-guide/structure-image-styles?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 13
 ---
 
 # 6.12. Concept: Image Styles

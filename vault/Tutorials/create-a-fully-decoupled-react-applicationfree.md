@@ -2,6 +2,7 @@
 title: "Create a Fully Decoupled React Applicationfree"
 url: "https://drupalize.me/tutorial/create-fully-decoupled-react-application?p=2798"
 guide: "[[decoupled-headless-drupal]]"
+order: 39
 ---
 
 # Create a Fully Decoupled React Applicationfree

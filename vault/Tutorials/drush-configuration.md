@@ -2,6 +2,7 @@
 title: "Drush Configuration"
 url: "https://drupalize.me/tutorial/drush-configuration?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 18
 ---
 
 # Drush Configuration

@@ -2,6 +2,7 @@
 title: "Implement Drupal Functional Test Dependencies"
 url: "https://drupalize.me/tutorial/implement-drupal-functional-test-dependencies?p=3264"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 13
 ---
 
 # Implement Drupal Functional Test Dependencies

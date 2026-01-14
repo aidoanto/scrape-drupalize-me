@@ -2,6 +2,7 @@
 title: "Tail: Command Line Debugfree"
 url: "https://drupalize.me/tutorial/tail-command-line-debug?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 44
 ---
 
 # Tail: Command Line Debugfree

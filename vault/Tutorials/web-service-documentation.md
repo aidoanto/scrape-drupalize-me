@@ -2,6 +2,7 @@
 title: "Web Service Documentation"
 url: "https://drupalize.me/tutorial/web-service-documentation?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 9
 ---
 
 # Web Service Documentation

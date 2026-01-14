@@ -2,6 +2,7 @@
 title: "Use Drush for Common Site and Environment Management Tasks"
 url: "https://drupalize.me/tutorial/use-drush-common-site-and-environment-management-tasks?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 12
 ---
 
 # Use Drush for Common Site and Environment Management Tasks

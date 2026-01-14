@@ -2,6 +2,7 @@
 title: "An Introduction to YAMLfree"
 url: "https://drupalize.me/tutorial/introduction-yaml?p=3292"
 guide: "[[develop-drupal-sites]]"
+order: 2
 ---
 
 # An Introduction to YAMLfree

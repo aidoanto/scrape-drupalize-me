@@ -2,6 +2,7 @@
 title: "Git Crash Course"
 url: "https://drupalize.me/tutorial/git-crash-course?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 49
 ---
 
 # Git Crash Course

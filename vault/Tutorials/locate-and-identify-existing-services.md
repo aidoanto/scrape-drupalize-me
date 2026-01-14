@@ -2,6 +2,7 @@
 title: "Locate and Identify Existing Services"
 url: "https://drupalize.me/tutorial/locate-and-identify-existing-services?p=3238"
 guide: "[[drupal-module-developer-guide]]"
+order: 25
 ---
 
 # Locate and Identify Existing Services

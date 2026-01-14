@@ -2,6 +2,7 @@
 title: "Expose Filter Criteria to Users in Views"
 url: "https://drupalize.me/tutorial/expose-filter-criteria-users-views?p=2670"
 guide: "[[views-drupal]]"
+order: 6
 ---
 
 # Expose Filter Criteria to Users in Views

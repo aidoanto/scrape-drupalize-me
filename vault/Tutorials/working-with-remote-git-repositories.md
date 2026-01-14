@@ -2,6 +2,7 @@
 title: "Working with Remote Git Repositories"
 url: "https://drupalize.me/tutorial/working-remote-git-repositories?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 59
 ---
 
 # Working with Remote Git Repositories

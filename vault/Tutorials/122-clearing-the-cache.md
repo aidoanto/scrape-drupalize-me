@@ -2,6 +2,7 @@
 title: "12.2. Clearing the Cache"
 url: "https://drupalize.me/tutorial/user-guide/prevent-cache-clear?p=2398"
 guide: "[[acquia-certified-drupal-front-end-specialist-exam]]"
+order: 12
 ---
 
 # 12.2. Clearing the Cache

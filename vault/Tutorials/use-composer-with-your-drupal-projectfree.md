@@ -2,6 +2,7 @@
 title: "Use Composer with Your Drupal Projectfree"
 url: "https://drupalize.me/tutorial/use-composer-your-drupal-project?p=2467"
 guide: "[[command-line-tools-drupal]]"
+order: 6
 ---
 
 # Use Composer with Your Drupal Projectfree

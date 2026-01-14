@@ -2,6 +2,7 @@
 title: "Download, Install, and Uninstall Themesfree"
 url: "https://drupalize.me/tutorial/download-install-and-uninstall-themes?p=3266"
 guide: "[[frontend-theming]]"
+order: 31
 ---
 
 # Download, Install, and Uninstall Themesfree

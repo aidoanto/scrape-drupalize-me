@@ -2,6 +2,7 @@
 title: "Concept: Tools for Module Developers"
 url: "https://drupalize.me/tutorial/concept-tools-module-developers?p=3234"
 guide: "[[drupal-module-developer-guide]]"
+order: 7
 ---
 
 # Concept: Tools for Module Developers

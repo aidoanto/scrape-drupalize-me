@@ -2,6 +2,7 @@
 title: "Find Data with EntityQuery"
 url: "https://drupalize.me/tutorial/find-data-entityquery?p=2607"
 guide: "[[work-data-modules]]"
+order: 7
 ---
 
 # Find Data with EntityQuery

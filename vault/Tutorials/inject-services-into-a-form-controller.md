@@ -2,6 +2,7 @@
 title: "Inject Services into a Form Controller"
 url: "https://drupalize.me/tutorial/inject-services-form-controller?p=2734"
 guide: "[[develop-forms-drupal]]"
+order: 5
 ---
 
 # Inject Services into a Form Controller

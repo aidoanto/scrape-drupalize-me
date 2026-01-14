@@ -2,6 +2,7 @@
 title: "6.9. Changing Content Entry Forms"
 url: "https://drupalize.me/tutorial/user-guide/structure-form-editing?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 10
 ---
 
 # 6.9. Changing Content Entry Forms

@@ -2,6 +2,7 @@
 title: "Configuration Sync Directory Setup"
 url: "https://drupalize.me/tutorial/configuration-sync-directory-setup?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 3
 ---
 
 # Configuration Sync Directory Setup

@@ -2,6 +2,7 @@
 title: "How to Override Configuration"
 url: "https://drupalize.me/tutorial/how-override-configuration?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 11
 ---
 
 # How to Override Configuration

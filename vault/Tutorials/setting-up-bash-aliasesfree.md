@@ -2,6 +2,7 @@
 title: "Setting up Bash Aliasesfree"
 url: "https://drupalize.me/tutorial/setting-bash-aliases?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 43
 ---
 
 # Setting up Bash Aliasesfree

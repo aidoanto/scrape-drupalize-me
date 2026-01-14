@@ -2,6 +2,7 @@
 title: "Removing, Moving and Renaming Files with Git"
 url: "https://drupalize.me/tutorial/removing-moving-and-renaming-files-git?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 56
 ---
 
 # Removing, Moving and Renaming Files with Git

@@ -2,6 +2,7 @@
 title: "Use Lazy Builders and Placeholders"
 url: "https://drupalize.me/tutorial/use-lazy-builders-and-placeholders?p=2723"
 guide: "[[output-and-format-data-code]]"
+order: 59
 ---
 
 # Use Lazy Builders and Placeholders

@@ -2,6 +2,7 @@
 title: "Arrays and Objects in Twig"
 url: "https://drupalize.me/tutorial/arrays-and-objects-twig?p=2464"
 guide: "[[frontend-theming]]"
+order: 53
 ---
 
 # Arrays and Objects in Twig

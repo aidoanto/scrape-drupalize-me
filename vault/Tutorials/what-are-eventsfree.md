@@ -2,6 +2,7 @@
 title: "What Are Events?free"
 url: "https://drupalize.me/tutorial/what-are-events?p=2725"
 guide: "[[alter-drupal-modules]]"
+order: 18
 ---
 
 # What Are Events?free

@@ -2,6 +2,7 @@
 title: "6.2. Deleting a Content Type"
 url: "https://drupalize.me/tutorial/user-guide/structure-content-type-delete?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 3
 ---
 
 # 6.2. Deleting a Content Type

@@ -2,6 +2,7 @@
 title: "Alter an Existing Form with hook_form_alter()"
 url: "https://drupalize.me/tutorial/alter-existing-form-hookformalter?p=2734"
 guide: "[[develop-forms-drupal]]"
+order: 8
 ---
 
 # Alter an Existing Form with hook_form_alter()

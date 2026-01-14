@@ -2,6 +2,7 @@
 title: "JSON:API Resource Requestsfree"
 url: "https://drupalize.me/tutorial/jsonapi-resource-requests?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 12
 ---
 
 # JSON:API Resource Requestsfree

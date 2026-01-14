@@ -2,6 +2,7 @@
 title: "JSON:API Filtering Collections"
 url: "https://drupalize.me/tutorial/jsonapi-filtering-collections?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 17
 ---
 
 # JSON:API Filtering Collections

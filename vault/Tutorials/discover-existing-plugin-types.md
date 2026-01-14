@@ -2,6 +2,7 @@
 title: "Discover Existing Plugin Types"
 url: "https://drupalize.me/tutorial/discover-existing-plugin-types?p=2765"
 guide: "[[alter-drupal-modules]]"
+order: 8
 ---
 
 # Discover Existing Plugin Types

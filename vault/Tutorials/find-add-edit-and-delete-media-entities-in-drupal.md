@@ -2,6 +2,7 @@
 title: "Find, Add, Edit, and Delete Media Entities in Drupal"
 url: "https://drupalize.me/tutorial/find-add-edit-and-delete-media-entities-drupal?p=2672"
 guide: "[[media-and-responsive-images]]"
+order: 4
 ---
 
 # Find, Add, Edit, and Delete Media Entities in Drupal

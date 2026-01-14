@@ -2,6 +2,7 @@
 title: "Boost Drupal Performance with Contributed Modulesfree"
 url: "https://drupalize.me/tutorial/boost-drupal-performance-contributed-modules?p=3091"
 guide: "[[drupal-site-administration]]"
+order: 34
 ---
 
 # Boost Drupal Performance with Contributed Modulesfree

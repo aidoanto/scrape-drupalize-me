@@ -2,6 +2,7 @@
 title: "JSON:API Security Considerations"
 url: "https://drupalize.me/tutorial/jsonapi-security-considerations?p=3277"
 guide: "[[decoupled-headless-drupal]]"
+order: 20
 ---
 
 # JSON:API Security Considerations

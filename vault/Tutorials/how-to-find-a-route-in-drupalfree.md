@@ -2,6 +2,7 @@
 title: "How to Find a Route in Drupalfree"
 url: "https://drupalize.me/tutorial/how-find-route-drupal?p=3134"
 guide: "[[develop-custom-pages]]"
+order: 2
 ---
 
 # How to Find a Route in Drupalfree

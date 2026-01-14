@@ -2,6 +2,7 @@
 title: "Dealing with Command Line Permissionsfree"
 url: "https://drupalize.me/tutorial/dealing-command-line-permissions?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 32
 ---
 
 # Dealing with Command Line Permissionsfree

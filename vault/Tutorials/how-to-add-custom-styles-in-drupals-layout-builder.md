@@ -2,6 +2,7 @@
 title: "How to Add Custom Styles in Drupal's Layout Builder"
 url: "https://drupalize.me/tutorial/how-add-custom-styles-drupals-layout-builder?p=2653"
 guide: "[[layout-builder]]"
+order: 13
 ---
 
 # How to Add Custom Styles in Drupal's Layout Builder

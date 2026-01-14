@@ -2,6 +2,7 @@
 title: "Use Parameter Upcasting for Entities in Routes"
 url: "https://drupalize.me/tutorial/use-parameter-upcasting-entities-routes?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 62
 ---
 
 # Use Parameter Upcasting for Entities in Routes

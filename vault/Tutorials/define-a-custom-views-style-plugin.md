@@ -2,6 +2,7 @@
 title: "Define a Custom Views Style Plugin"
 url: "https://drupalize.me/tutorial/define-custom-views-style-plugin?p=2939"
 guide: "[[views-drupal]]"
+order: 32
 ---
 
 # Define a Custom Views Style Plugin

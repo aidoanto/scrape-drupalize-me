@@ -2,6 +2,7 @@
 title: "Modern Web Services with JSON:API and GraphQL"
 url: "https://drupalize.me/tutorial/modern-web-services-jsonapi-and-graphql?p=2960"
 guide: "[[decoupled-headless-drupal]]"
+order: 8
 ---
 
 # Modern Web Services with JSON:API and GraphQL

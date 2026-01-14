@@ -2,6 +2,7 @@
 title: "Introduction to Vi/vim Editorfree"
 url: "https://drupalize.me/tutorial/introduction-vivim-editor?p=880"
 guide: "[[command-line-tools-drupal]]"
+order: 38
 ---
 
 # Introduction to Vi/vim Editorfree

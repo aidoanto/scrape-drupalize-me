@@ -2,6 +2,7 @@
 title: "Print Values from a Field with a For Loop"
 url: "https://drupalize.me/tutorial/print-values-field-loop?p=2464"
 guide: "[[frontend-theming]]"
+order: 55
 ---
 
 # Print Values from a Field with a For Loop

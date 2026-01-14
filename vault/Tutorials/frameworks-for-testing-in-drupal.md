@@ -2,6 +2,7 @@
 title: "Frameworks for Testing in Drupal"
 url: "https://drupalize.me/tutorial/frameworks-testing-drupal?p=3262"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 3
 ---
 
 # Frameworks for Testing in Drupal

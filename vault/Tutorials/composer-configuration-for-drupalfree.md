@@ -2,6 +2,7 @@
 title: "Composer Configuration for Drupalfree"
 url: "https://drupalize.me/tutorial/composer-configuration-drupal?p=2467"
 guide: "[[command-line-tools-drupal]]"
+order: 5
 ---
 
 # Composer Configuration for Drupalfree

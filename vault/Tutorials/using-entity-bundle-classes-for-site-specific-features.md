@@ -2,6 +2,7 @@
 title: "Using Entity Bundle Classes for Site-Specific Features"
 url: "https://drupalize.me/tutorial/using-entity-bundle-classes-site-specific-features?p=2607"
 guide: "[[work-data-modules]]"
+order: 10
 ---
 
 # Using Entity Bundle Classes for Site-Specific Features

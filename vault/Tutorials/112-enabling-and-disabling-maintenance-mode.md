@@ -2,6 +2,7 @@
 title: "11.2. Enabling and Disabling Maintenance Mode"
 url: "https://drupalize.me/tutorial/user-guide/extend-maintenance?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 48
 ---
 
 # 11.2. Enabling and Disabling Maintenance Mode

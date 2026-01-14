@@ -2,6 +2,7 @@
 title: "Concept: PHP Namespaces and PSR-4free"
 url: "https://drupalize.me/tutorial/concept-php-namespaces-and-psr-4?p=3236"
 guide: "[[drupal-module-developer-guide]]"
+order: 14
 ---
 
 # Concept: PHP Namespaces and PSR-4free

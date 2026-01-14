@@ -2,6 +2,7 @@
 title: "Create a Breakpoint YAML File"
 url: "https://drupalize.me/tutorial/create-breakpoint-yaml-file?p=3275"
 guide: "[[media-and-responsive-images]]"
+order: 19
 ---
 
 # Create a Breakpoint YAML File

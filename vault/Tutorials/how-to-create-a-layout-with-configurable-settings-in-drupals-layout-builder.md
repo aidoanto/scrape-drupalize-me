@@ -2,6 +2,7 @@
 title: "How to Create a Layout with Configurable Settings in Drupal's Layout Builder"
 url: "https://drupalize.me/tutorial/how-create-layout-configurable-settings-drupals-layout-builder?p=3271"
 guide: "[[layout-builder]]"
+order: 16
 ---
 
 # How to Create a Layout with Configurable Settings in Drupal's Layout Builder

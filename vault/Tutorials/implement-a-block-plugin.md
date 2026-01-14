@@ -2,6 +2,7 @@
 title: "Implement a Block Plugin"
 url: "https://drupalize.me/tutorial/implement-block-plugin?p=3241"
 guide: "[[drupal-module-developer-guide]]"
+order: 43
 ---
 
 # Implement a Block Plugin

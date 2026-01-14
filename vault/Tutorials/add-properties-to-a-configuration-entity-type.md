@@ -2,6 +2,7 @@
 title: "Add Properties to a Configuration Entity Type"
 url: "https://drupalize.me/tutorial/add-properties-configuration-entity-type?p=2476"
 guide: "[[work-data-modules]]"
+order: 27
 ---
 
 # Add Properties to a Configuration Entity Type

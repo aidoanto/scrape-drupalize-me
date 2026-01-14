@@ -2,6 +2,7 @@
 title: "How to Implement Drupal Code Standardsfree"
 url: "https://drupalize.me/tutorial/how-implement-drupal-code-standards?p=2458"
 guide: "[[develop-drupal-sites]]"
+order: 12
 ---
 
 # How to Implement Drupal Code Standardsfree

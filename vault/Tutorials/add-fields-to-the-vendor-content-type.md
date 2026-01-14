@@ -2,6 +2,7 @@
 title: "Add Fields to the Vendor Content Type"
 url: "https://drupalize.me/tutorial/add-fields-vendor-content-type?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 58
 ---
 
 # Add Fields to the Vendor Content Type

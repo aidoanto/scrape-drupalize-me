@@ -2,6 +2,7 @@
 title: "Functional JavaScript Testing with Nightwatch.js"
 url: "https://drupalize.me/tutorial/functional-javascript-testing-nightwatchjs?p=3263"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 10
 ---
 
 # Functional JavaScript Testing with Nightwatch.js

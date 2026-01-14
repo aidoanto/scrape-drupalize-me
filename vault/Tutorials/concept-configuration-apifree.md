@@ -2,6 +2,7 @@
 title: "Concept: Configuration APIfree"
 url: "https://drupalize.me/tutorial/concept-configuration-api?p=3243"
 guide: "[[drupal-module-developer-guide]]"
+order: 53
 ---
 
 # Concept: Configuration APIfree

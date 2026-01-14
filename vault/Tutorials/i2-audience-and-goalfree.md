@@ -2,6 +2,7 @@
 title: "i.2. Audience and Goalfree"
 url: "https://drupalize.me/tutorial/user-guide/preface-audience?p=2355"
 guide: "[[drupal-user-guide]]"
+order: 2
 ---
 
 # i.2. Audience and Goalfree

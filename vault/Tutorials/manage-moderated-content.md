@@ -2,6 +2,7 @@
 title: "Manage Moderated Content"
 url: "https://drupalize.me/tutorial/manage-moderated-content?p=2501"
 guide: "[[drupal-site-administration]]"
+order: 56
 ---
 
 # Manage Moderated Content

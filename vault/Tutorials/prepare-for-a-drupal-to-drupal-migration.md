@@ -2,6 +2,7 @@
 title: "Prepare for a Drupal-to-Drupal Migration"
 url: "https://drupalize.me/tutorial/prepare-drupal-drupal-migration?p=3116"
 guide: "[[learn-migrate-drupal]]"
+order: 38
 ---
 
 # Prepare for a Drupal-to-Drupal Migration

@@ -2,6 +2,7 @@
 title: "Use Any oEmbed Provider as a Media Source"
 url: "https://drupalize.me/tutorial/use-any-oembed-provider-media-source?p=3274"
 guide: "[[media-and-responsive-images]]"
+order: 15
 ---
 
 # Use Any oEmbed Provider as a Media Source

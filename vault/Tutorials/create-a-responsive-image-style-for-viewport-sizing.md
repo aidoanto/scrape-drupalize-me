@@ -2,6 +2,7 @@
 title: "Create a Responsive Image Style for Viewport-Sizing"
 url: "https://drupalize.me/tutorial/create-responsive-image-style-viewport-sizing?p=2864"
 guide: "[[media-and-responsive-images]]"
+order: 22
 ---
 
 # Create a Responsive Image Style for Viewport-Sizing

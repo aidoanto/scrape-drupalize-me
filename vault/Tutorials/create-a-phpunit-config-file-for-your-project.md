@@ -2,6 +2,7 @@
 title: "Create a PHPUnit Config File for Your Project"
 url: "https://drupalize.me/tutorial/create-phpunit-config-file-your-project?p=3262"
 guide: "[[test-drupal-sites-automated-tests]]"
+order: 6
 ---
 
 # Create a PHPUnit Config File for Your Project

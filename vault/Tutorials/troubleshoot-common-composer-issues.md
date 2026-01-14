@@ -2,6 +2,7 @@
 title: "Troubleshoot Common Composer Issues"
 url: "https://drupalize.me/tutorial/troubleshoot-common-composer-issues?p=2467"
 guide: "[[command-line-tools-drupal]]"
+order: 8
 ---
 
 # Troubleshoot Common Composer Issues

@@ -2,6 +2,7 @@
 title: "Concept: What Are Plugins?free"
 url: "https://drupalize.me/tutorial/concept-what-are-plugins?p=3241"
 guide: "[[drupal-module-developer-guide]]"
+order: 42
 ---
 
 # Concept: What Are Plugins?free

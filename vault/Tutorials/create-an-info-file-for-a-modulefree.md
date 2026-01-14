@@ -2,6 +2,7 @@
 title: "Create an Info File for a Modulefree"
 url: "https://drupalize.me/tutorial/create-info-file-module-mdg?p=3235"
 guide: "[[drupal-module-developer-guide]]"
+order: 11
 ---
 
 # Create an Info File for a Modulefree

@@ -2,6 +2,7 @@
 title: "6.11. Changing Content Display"
 url: "https://drupalize.me/tutorial/user-guide/structure-content-display?p=2412"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 12
 ---
 
 # 6.11. Changing Content Display

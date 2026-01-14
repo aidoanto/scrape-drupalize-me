@@ -2,6 +2,7 @@
 title: "Automate Deployment of Configuration"
 url: "https://drupalize.me/tutorial/automate-deployment-configuration?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 13
 ---
 
 # Automate Deployment of Configuration

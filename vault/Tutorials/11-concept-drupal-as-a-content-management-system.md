@@ -2,6 +2,7 @@
 title: "1.1. Concept: Drupal as a Content Management System"
 url: "https://drupalize.me/tutorial/user-guide/understanding-drupal?p=2433"
 guide: "[[introduction-drupal]]"
+order: 4
 ---
 
 # 1.1. Concept: Drupal as a Content Management System

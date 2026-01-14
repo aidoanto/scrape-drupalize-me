@@ -2,6 +2,7 @@
 title: "Create Search Pages and Blocks with Views"
 url: "https://drupalize.me/tutorial/create-search-pages-and-blocks-views?p=2815"
 guide: "[[drupal-site-administration]]"
+order: 24
 ---
 
 # Create Search Pages and Blocks with Views

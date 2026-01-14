@@ -2,6 +2,7 @@
 title: "12.4. Concept: Log"
 url: "https://drupalize.me/tutorial/user-guide/prevent-log?p=2398"
 guide: "[[acquia-certified-drupal-front-end-specialist-exam]]"
+order: 14
 ---
 
 # 12.4. Concept: Log

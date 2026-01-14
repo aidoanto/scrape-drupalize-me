@@ -2,6 +2,7 @@
 title: "Quicker Git Commits and Modifying Previous Commits"
 url: "https://drupalize.me/tutorial/quicker-git-commits-and-modifying-previous-commits?p=1469"
 guide: "[[command-line-tools-drupal]]"
+order: 55
 ---
 
 # Quicker Git Commits and Modifying Previous Commits

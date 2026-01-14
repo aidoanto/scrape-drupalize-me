@@ -2,6 +2,7 @@
 title: "Overview: Configuration API in Drupal"
 url: "https://drupalize.me/tutorial/overview-configuration-api-drupal?p=2476"
 guide: "[[work-data-modules]]"
+order: 20
 ---
 
 # Overview: Configuration API in Drupal

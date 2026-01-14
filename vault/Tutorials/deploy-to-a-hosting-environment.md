@@ -2,6 +2,7 @@
 title: "Deploy to a Hosting Environment"
 url: "https://drupalize.me/tutorial/deploy-hosting-environment?p=2467"
 guide: "[[command-line-tools-drupal]]"
+order: 7
 ---
 
 # Deploy to a Hosting Environment

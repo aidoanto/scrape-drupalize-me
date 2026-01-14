@@ -2,6 +2,7 @@
 title: "Enable, Update, and Manage Modules and Themes with Drushfree"
 url: "https://drupalize.me/tutorial/enable-update-and-manage-modules-and-themes-drush?p=2593"
 guide: "[[command-line-tools-drupal]]"
+order: 11
 ---
 
 # Enable, Update, and Manage Modules and Themes with Drushfree

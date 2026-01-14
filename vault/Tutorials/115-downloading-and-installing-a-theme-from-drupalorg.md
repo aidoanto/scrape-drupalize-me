@@ -2,6 +2,7 @@
 title: "11.5. Downloading and Installing a Theme from Drupal.org"
 url: "https://drupalize.me/tutorial/user-guide/extend-theme-install?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
+order: 51
 ---
 
 # 11.5. Downloading and Installing a Theme from Drupal.org

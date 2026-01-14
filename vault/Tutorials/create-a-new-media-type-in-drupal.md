@@ -2,6 +2,7 @@
 title: "Create a New Media Type in Drupal"
 url: "https://drupalize.me/tutorial/create-new-media-type-drupal?p=3274"
 guide: "[[media-and-responsive-images]]"
+order: 14
 ---
 
 # Create a New Media Type in Drupal

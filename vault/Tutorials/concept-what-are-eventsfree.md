@@ -2,6 +2,7 @@
 title: "Concept: What Are Events?free"
 url: "https://drupalize.me/tutorial/concept-what-are-events?p=3240"
 guide: "[[drupal-module-developer-guide]]"
+order: 39
 ---
 
 # Concept: What Are Events?free

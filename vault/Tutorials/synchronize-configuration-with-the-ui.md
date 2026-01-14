@@ -2,6 +2,7 @@
 title: "Synchronize Configuration with the UI"
 url: "https://drupalize.me/tutorial/synchronize-configuration-ui?p=2478"
 guide: "[[drupal-site-administration]]"
+order: 6
 ---
 
 # Synchronize Configuration with the UI
