@@ -2,7 +2,7 @@
 title: "Structure of a Theme"
 url: "https://drupalize.me/tutorial/structure-theme?p=3267"
 guide: "[[frontend-theming]]"
-order: 35
+order: 6
 ---
 
 # Structure of a Theme

@@ -2,7 +2,7 @@
 title: "3.1. Preparing to Install"
 url: "https://drupalize.me/tutorial/user-guide/install-prepare?p=2368"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 11
+order: 18
 ---
 
 # 3.1. Preparing to Install

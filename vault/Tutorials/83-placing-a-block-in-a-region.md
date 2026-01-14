@@ -2,7 +2,7 @@
 title: "8.3. Placing a Block in a Region"
 url: "https://drupalize.me/tutorial/user-guide/block-place?p=2337"
 guide: "[[acquia-certified-drupal-developer-exam]]"
-order: 27
+order: 20
 ---
 
 # 8.3. Placing a Block in a Region

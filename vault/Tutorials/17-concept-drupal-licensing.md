@@ -2,7 +2,7 @@
 title: "1.7. Concept: Drupal Licensing"
 url: "https://drupalize.me/tutorial/user-guide/understanding-gpl?p=2433"
 guide: "[[introduction-drupal]]"
-order: 10
+order: 2
 ---
 
 # 1.7. Concept: Drupal Licensing

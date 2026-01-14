@@ -2,6 +2,7 @@
 title: "Overview: Build and Render Cycles in Views"
 url: "https://drupalize.me/tutorial/overview-build-and-render-cycles-views?p=2939"
 guide: "[[views-drupal]]"
+order: 18
 ---
 
 # Overview: Build and Render Cycles in Views

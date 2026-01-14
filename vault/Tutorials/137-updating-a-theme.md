@@ -2,7 +2,7 @@
 title: "13.7. Updating a Theme"
 url: "https://drupalize.me/tutorial/user-guide/security-update-theme?p=2404"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 37
+order: 49
 ---
 
 # 13.7. Updating a Theme

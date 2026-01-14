@@ -2,7 +2,7 @@
 title: "Create a Settings Form in a Module"
 url: "https://drupalize.me/tutorial/create-settings-form-module?p=2476"
 guide: "[[work-data-modules]]"
-order: 21
+order: 24
 ---
 
 # Create a Settings Form in a Module

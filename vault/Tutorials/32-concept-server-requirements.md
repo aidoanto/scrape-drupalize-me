@@ -2,7 +2,7 @@
 title: "3.2. Concept: Server Requirements"
 url: "https://drupalize.me/tutorial/user-guide/install-requirements?p=2368"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 12
+order: 19
 ---
 
 # 3.2. Concept: Server Requirements

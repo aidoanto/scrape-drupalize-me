@@ -2,7 +2,7 @@
 title: "Add a Component YAML File for a Drupal SDC"
 url: "https://drupalize.me/tutorial/add-component-yaml-file-drupal-sdc?p=3329"
 guide: "[[frontend-theming]]"
-order: 24
+order: 55
 ---
 
 # Add a Component YAML File for a Drupal SDC

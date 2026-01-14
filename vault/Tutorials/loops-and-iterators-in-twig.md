@@ -2,7 +2,7 @@
 title: "Loops and Iterators in Twig"
 url: "https://drupalize.me/tutorial/loops-and-iterators-twig?p=2464"
 guide: "[[frontend-theming]]"
-order: 54
+order: 25
 ---
 
 # Loops and Iterators in Twig

@@ -2,7 +2,7 @@
 title: "3.6. Using Composer to Download and Update Files"
 url: "https://drupalize.me/tutorial/user-guide/install-composer?p=2368"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 16
+order: 23
 ---
 
 # 3.6. Using Composer to Download and Update Files

@@ -2,7 +2,7 @@
 title: "Exercise: Override the Main Page Template"
 url: "https://drupalize.me/tutorial/exercise-override-main-page-template?p=3269"
 guide: "[[frontend-theming]]"
-order: 15
+order: 46
 ---
 
 # Exercise: Override the Main Page Template

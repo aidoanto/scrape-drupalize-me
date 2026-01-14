@@ -2,7 +2,7 @@
 title: "Set up Migrate Demo Site and Source Data"
 url: "https://drupalize.me/tutorial/set-migrate-demo-site-and-source-data?p=3115"
 guide: "[[learn-migrate-drupal]]"
-order: 56
+order: 21
 ---
 
 # Set up Migrate Demo Site and Source Data

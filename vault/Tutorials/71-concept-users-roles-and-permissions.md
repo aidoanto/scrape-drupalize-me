@@ -2,7 +2,7 @@
 title: "7.1. Concept: Users, Roles, and Permissions"
 url: "https://drupalize.me/tutorial/user-guide/user-concept?p=2441"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 40
+order: 78
 ---
 
 # 7.1. Concept: Users, Roles, and Permissions

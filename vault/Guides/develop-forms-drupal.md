@@ -27,4 +27,5 @@ type: guide
 18. [[Tutorials/use-ajax-with-forms|Use Ajax with Forms]]
 19. [[Tutorials/create-a-dependent-dropdown-with-ajax|Create a Dependent Dropdown with Ajax]]
 20. [[Tutorials/use-ajax-to-submit-a-form|Use Ajax to Submit a Form]]
-21. [[Tutorials/customize-theme-settings|Customize Theme Settings]]
+21. [[Tutorials/create-a-settings-form-in-a-module|Create a Settings Form in a Module]]
+22. [[Tutorials/customize-theme-settings|Customize Theme Settings]]

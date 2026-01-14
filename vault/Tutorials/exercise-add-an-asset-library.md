@@ -2,6 +2,7 @@
 title: "Exercise: Add an Asset Library"
 url: "https://drupalize.me/tutorial/exercise-add-asset-library?p=3269"
 guide: "[[frontend-theming]]"
+order: 44
 ---
 
 # Exercise: Add an Asset Library

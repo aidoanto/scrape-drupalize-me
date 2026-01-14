@@ -2,7 +2,7 @@
 title: "13.1. Concept: Cron"
 url: "https://drupalize.me/tutorial/user-guide/security-cron-concept?p=2404"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 31
+order: 43
 ---
 
 # 13.1. Concept: Cron

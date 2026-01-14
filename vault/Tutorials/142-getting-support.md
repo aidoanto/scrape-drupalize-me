@@ -2,7 +2,7 @@
 title: "14.2. Getting Support"
 url: "https://drupalize.me/tutorial/user-guide/thoughts-support?p=2429"
 guide: "[[learn-drupal]]"
-order: 2
+order: 3
 ---
 
 # 14.2. Getting Support

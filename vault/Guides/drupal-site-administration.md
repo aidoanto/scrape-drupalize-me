@@ -65,3 +65,4 @@ type: guide
 56. [[Tutorials/manage-moderated-content|Manage Moderated Content]]
 57. [[Tutorials/moderated-content-and-views|Moderated Content and Views]]
 58. [[Tutorials/create-a-view-of-moderated-content|Create a View of Moderated Content]]
+59. [[Tutorials/install-drupal-locally-with-ddevfree|Install Drupal Locally with DDEVfree]]

@@ -2,7 +2,7 @@
 title: "13.5. Updating the Core Software"
 url: "https://drupalize.me/tutorial/user-guide/security-update-core?p=2404"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 35
+order: 47
 ---
 
 # 13.5. Updating the Core Software

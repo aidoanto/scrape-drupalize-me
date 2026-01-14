@@ -2,7 +2,7 @@
 title: "creating a custom Drupal-to-Drupal migration"
 url: "https://drupalize.me/tutorial/custom-drupal-drupal-migrations"
 guide: "[[learn-migrate-drupal]]"
-order: 52
+order: 33
 ---
 
 # creating a custom Drupal-to-Drupal migration

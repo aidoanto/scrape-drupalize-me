@@ -2,7 +2,7 @@
 title: "Add Variables to a Template File"
 url: "https://drupalize.me/tutorial/add-variables-template-file?p=2851"
 guide: "[[frontend-theming]]"
-order: 8
+order: 39
 ---
 
 # Add Variables to a Template File

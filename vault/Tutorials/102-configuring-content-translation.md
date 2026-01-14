@@ -2,7 +2,7 @@
 title: "10.2. Configuring Content Translation"
 url: "https://drupalize.me/tutorial/user-guide/language-content-config?p=2378"
 guide: "[[acquia-certified-drupal-developer-exam]]"
-order: 37
+order: 43
 ---
 
 # 10.2. Configuring Content Translation

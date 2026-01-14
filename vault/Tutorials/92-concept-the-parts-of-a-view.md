@@ -2,7 +2,7 @@
 title: "9.2. Concept: The Parts of a View"
 url: "https://drupalize.me/tutorial/user-guide/views-parts?p=2449"
 guide: "[[acquia-certified-drupal-developer-exam]]"
-order: 32
+order: 25
 ---
 
 # 9.2. Concept: The Parts of a View

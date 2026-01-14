@@ -2,7 +2,7 @@
 title: "Inspect Variables Available in a Template"
 url: "https://drupalize.me/tutorial/inspect-variables-available-template?p=2879"
 guide: "[[frontend-theming]]"
-order: 48
+order: 19
 ---
 
 # Inspect Variables Available in a Template

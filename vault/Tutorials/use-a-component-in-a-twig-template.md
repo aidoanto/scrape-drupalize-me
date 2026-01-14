@@ -2,7 +2,7 @@
 title: "Use a Component in a Twig Template"
 url: "https://drupalize.me/tutorial/use-component-twig-template?p=3329"
 guide: "[[frontend-theming]]"
-order: 28
+order: 59
 ---
 
 # Use a Component in a Twig Template

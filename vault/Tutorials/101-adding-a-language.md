@@ -2,7 +2,7 @@
 title: "10.1. Adding a Language"
 url: "https://drupalize.me/tutorial/user-guide/language-add?p=2378"
 guide: "[[acquia-certified-drupal-developer-exam]]"
-order: 36
+order: 42
 ---
 
 # 10.1. Adding a Language

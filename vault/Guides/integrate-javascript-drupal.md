@@ -21,3 +21,6 @@ type: guide
 12. [[Tutorials/define-an-asset-library|Define an Asset Library]]
 13. [[Tutorials/attach-an-asset-library|Attach an Asset Library]]
 14. [[Tutorials/extend-or-alter-existing-css-and-javascript-asset-libraries|Extend or Alter Existing CSS and JavaScript Asset Libraries]]
+15. [[Tutorials/make-strings-translatable|Make Strings Translatable]]
+16. [[Tutorials/use-drupalt-for-translatable-strings-in-javascript|Use Drupal.t() for Translatable Strings in JavaScript]]
+17. [[Tutorials/make-your-theme-translatable|Make Your Theme Translatable]]

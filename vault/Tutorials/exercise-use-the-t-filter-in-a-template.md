@@ -2,7 +2,7 @@
 title: "Exercise: Use the t Filter in a Template"
 url: "https://drupalize.me/tutorial/exercise-use-t-filter-template?p=3269"
 guide: "[[frontend-theming]]"
-order: 19
+order: 50
 ---
 
 # Exercise: Use the t Filter in a Template

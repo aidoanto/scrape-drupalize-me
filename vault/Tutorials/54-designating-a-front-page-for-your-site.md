@@ -2,7 +2,7 @@
 title: "5.4. Designating a Front Page for your Site"
 url: "https://drupalize.me/tutorial/user-guide/menu-home?p=2350"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 27
+order: 34
 ---
 
 # 5.4. Designating a Front Page for your Site

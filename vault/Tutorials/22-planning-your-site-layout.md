@@ -2,7 +2,7 @@
 title: "2.2. Planning Your Site Layout"
 url: "https://drupalize.me/tutorial/user-guide/planning-layout?p=2341"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 2
+order: 9
 ---
 
 # 2.2. Planning Your Site Layout

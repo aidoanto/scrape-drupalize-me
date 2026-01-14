@@ -2,6 +2,7 @@
 title: "9.3. Creating a Content List View"
 url: "https://drupalize.me/tutorial/user-guide/views-create?p=2449"
 guide: "[[acquia-certified-drupal-developer-exam]]"
+order: 26
 ---
 
 # 9.3. Creating a Content List View

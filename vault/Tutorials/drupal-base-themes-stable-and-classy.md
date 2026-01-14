@@ -2,7 +2,7 @@
 title: "Drupal Base Themes: Stable and Classy"
 url: "https://drupalize.me/tutorial/drupal-base-themes-stable-and-classy?p=3267"
 guide: "[[frontend-theming]]"
-order: 39
+order: 10
 ---
 
 # Drupal Base Themes: Stable and Classy

@@ -2,7 +2,7 @@
 title: "12.1. Concept: Cache"
 url: "https://drupalize.me/tutorial/user-guide/prevent-cache?p=2398"
 guide: "[[acquia-certified-drupal-front-end-specialist-exam]]"
-order: 11
+order: 65
 ---
 
 # 12.1. Concept: Cache

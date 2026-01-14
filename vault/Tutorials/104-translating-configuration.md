@@ -2,7 +2,7 @@
 title: "10.4. Translating Configuration"
 url: "https://drupalize.me/tutorial/user-guide/language-config-translate?p=2378"
 guide: "[[acquia-certified-drupal-developer-exam]]"
-order: 39
+order: 45
 ---
 
 # 10.4. Translating Configuration

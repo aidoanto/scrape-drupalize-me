@@ -2,6 +2,7 @@
 title: "Migrate to Drupal: Documentation and Examples"
 url: "https://drupalize.me/tutorial/migrate-drupal-documentation-and-examples?p=3117"
 guide: "[[learn-migrate-drupal]]"
+order: 3
 ---
 
 # Migrate to Drupal: Documentation and Examples

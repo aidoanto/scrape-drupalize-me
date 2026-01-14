@@ -2,7 +2,7 @@
 title: "a destination"
 url: "https://drupalize.me/tutorial/destination-plugins"
 guide: "[[learn-migrate-drupal]]"
-order: 67
+order: 37
 ---
 
 # a destination

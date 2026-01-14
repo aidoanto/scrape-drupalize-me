@@ -2,6 +2,7 @@
 title: "Create Your First Drupal Single Directory Component (SDC)free"
 url: "https://drupalize.me/tutorial/create-your-first-drupal-single-directory-component-sdc?p=3329"
 guide: "[[frontend-theming]]"
+order: 53
 ---
 
 # Create Your First Drupal Single Directory Component (SDC)free

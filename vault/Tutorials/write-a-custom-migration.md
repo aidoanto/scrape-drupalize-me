@@ -2,7 +2,7 @@
 title: "Write a Custom Migration"
 url: "https://drupalize.me/tutorial/write-custom-migration?p=3115"
 guide: "[[learn-migrate-drupal]]"
-order: 50
+order: 27
 ---
 
 # Write a Custom Migration

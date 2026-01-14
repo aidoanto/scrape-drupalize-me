@@ -2,7 +2,7 @@
 title: "11.4. Finding Themes"
 url: "https://drupalize.me/tutorial/user-guide/extend-theme-find?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 50
+order: 88
 ---
 
 # 11.4. Finding Themes

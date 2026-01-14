@@ -2,7 +2,7 @@
 title: "Describe Your Theme with an Info File"
 url: "https://drupalize.me/tutorial/describe-your-theme-info-file?p=3267"
 guide: "[[frontend-theming]]"
-order: 37
+order: 8
 ---
 
 # Describe Your Theme with an Info File

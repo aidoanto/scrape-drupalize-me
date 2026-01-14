@@ -2,7 +2,7 @@
 title: "Add New Theme Hook Suggestions"
 url: "https://drupalize.me/tutorial/add-new-theme-hook-suggestions?p=3268"
 guide: "[[frontend-theming]]"
-order: 54
+order: 41
 ---
 
 # Add New Theme Hook Suggestions

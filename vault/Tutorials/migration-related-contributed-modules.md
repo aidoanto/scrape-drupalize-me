@@ -2,7 +2,7 @@
 title: "Migration-Related Contributed Modules"
 url: "https://drupalize.me/tutorial/migration-related-contributed-modules?p=3117"
 guide: "[[learn-migrate-drupal]]"
-order: 37
+order: 5
 ---
 
 # Migration-Related Contributed Modules

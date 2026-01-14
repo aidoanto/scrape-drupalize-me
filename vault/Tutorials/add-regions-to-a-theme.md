@@ -2,7 +2,7 @@
 title: "Add Regions to a Theme"
 url: "https://drupalize.me/tutorial/add-regions-theme?p=3267"
 guide: "[[frontend-theming]]"
-order: 42
+order: 13
 ---
 
 # Add Regions to a Theme

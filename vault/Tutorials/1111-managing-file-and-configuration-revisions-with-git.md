@@ -2,7 +2,7 @@
 title: "11.11. Managing File and Configuration Revisions with Git"
 url: "https://drupalize.me/tutorial/user-guide/extend-git?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 57
+order: 95
 ---
 
 # 11.11. Managing File and Configuration Revisions with Git

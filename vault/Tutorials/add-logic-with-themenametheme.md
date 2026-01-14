@@ -2,7 +2,7 @@
 title: "Add Logic with THEMENAME.theme"
 url: "https://drupalize.me/tutorial/add-logic-themenametheme?p=2851"
 guide: "[[frontend-theming]]"
-order: 5
+order: 36
 ---
 
 # Add Logic with THEMENAME.theme

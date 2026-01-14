@@ -2,7 +2,7 @@
 title: "7.4. Creating a User Account"
 url: "https://drupalize.me/tutorial/user-guide/user-new-user?p=2441"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 43
+order: 81
 ---
 
 # 7.4. Creating a User Account

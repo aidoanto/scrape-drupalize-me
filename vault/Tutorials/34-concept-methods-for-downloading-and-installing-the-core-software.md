@@ -2,7 +2,7 @@
 title: "3.4. Concept: Methods for Downloading and Installing the Core Software"
 url: "https://drupalize.me/tutorial/user-guide/install-decide?p=2368"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 14
+order: 21
 ---
 
 # 3.4. Concept: Methods for Downloading and Installing the Core Software

@@ -2,7 +2,7 @@
 title: "10.3. Translating Content"
 url: "https://drupalize.me/tutorial/user-guide/language-content-translate?p=2378"
 guide: "[[acquia-certified-drupal-developer-exam]]"
-order: 38
+order: 44
 ---
 
 # 10.3. Translating Content

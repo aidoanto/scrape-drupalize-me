@@ -2,7 +2,7 @@
 title: "2.6. Concept: Editorial Workflow"
 url: "https://drupalize.me/tutorial/user-guide/planning-workflow?p=2341"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 6
+order: 13
 ---
 
 # 2.6. Concept: Editorial Workflow

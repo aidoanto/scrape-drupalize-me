@@ -2,7 +2,7 @@
 title: "Determine the Base Name of a Template"
 url: "https://drupalize.me/tutorial/determine-base-name-template?p=2879"
 guide: "[[frontend-theming]]"
-order: 47
+order: 18
 ---
 
 # Determine the Base Name of a Template

@@ -2,7 +2,7 @@
 title: "Exercise: Override the Main Menu Template"
 url: "https://drupalize.me/tutorial/exercise-override-main-menu-template?p=3269"
 guide: "[[frontend-theming]]"
-order: 17
+order: 48
 ---
 
 # Exercise: Override the Main Menu Template

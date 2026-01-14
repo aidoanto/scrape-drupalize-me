@@ -2,7 +2,7 @@
 title: "Exercise: Preprocess Functions"
 url: "https://drupalize.me/tutorial/exercise-preprocess-functions?p=3269"
 guide: "[[frontend-theming]]"
-order: 20
+order: 51
 ---
 
 # Exercise: Preprocess Functions

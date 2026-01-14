@@ -39,3 +39,8 @@ type: guide
 30. [[Tutorials/define-a-custom-views-area-handler-plugin|Define a Custom Views Area Handler Plugin]]
 31. [[Tutorials/define-a-custom-views-access-plugin|Define a Custom Views Access Plugin]]
 32. [[Tutorials/define-a-custom-views-style-plugin|Define a Custom Views Style Plugin]]
+33. [[Tutorials/91-concept-uses-of-views|9.1. Concept: Uses of Views]]
+34. [[Tutorials/92-concept-the-parts-of-a-view|9.2. Concept: The Parts of a View]]
+35. [[Tutorials/93-creating-a-content-list-view|9.3. Creating a Content List View]]
+36. [[Tutorials/94-duplicating-a-view|9.4. Duplicating a View]]
+37. [[Tutorials/95-adding-a-block-display-to-a-view|9.5. Adding a Block Display to a View]]

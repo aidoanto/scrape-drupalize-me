@@ -2,7 +2,7 @@
 title: "14.1. Connecting with the Community"
 url: "https://drupalize.me/tutorial/user-guide/thoughts-connecting?p=2429"
 guide: "[[learn-drupal]]"
-order: 1
+order: 2
 ---
 
 # 14.1. Connecting with the Community

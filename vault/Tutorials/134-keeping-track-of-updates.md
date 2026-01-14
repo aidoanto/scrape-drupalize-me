@@ -2,7 +2,7 @@
 title: "13.4. Keeping Track of Updates"
 url: "https://drupalize.me/tutorial/user-guide/security-announce?p=2404"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 34
+order: 46
 ---
 
 # 13.4. Keeping Track of Updates

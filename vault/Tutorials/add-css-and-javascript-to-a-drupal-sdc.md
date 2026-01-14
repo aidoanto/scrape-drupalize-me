@@ -2,6 +2,7 @@
 title: "Add CSS and JavaScript to a Drupal SDC"
 url: "https://drupalize.me/tutorial/add-css-and-javascript-drupal-sdc?p=3329"
 guide: "[[frontend-theming]]"
+order: 57
 ---
 
 # Add CSS and JavaScript to a Drupal SDC

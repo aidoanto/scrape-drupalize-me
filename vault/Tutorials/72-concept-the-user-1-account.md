@@ -2,7 +2,7 @@
 title: "7.2. Concept: The User 1 Account"
 url: "https://drupalize.me/tutorial/user-guide/user-admin-account?p=2441"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 41
+order: 79
 ---
 
 # 7.2. Concept: The User 1 Account

@@ -2,7 +2,7 @@
 title: "1.3. Concept: Themes"
 url: "https://drupalize.me/tutorial/user-guide/understanding-themes?p=2433"
 guide: "[[introduction-drupal]]"
-order: 6
+order: 5
 ---
 
 # 1.3. Concept: Themes

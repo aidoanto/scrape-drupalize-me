@@ -2,7 +2,7 @@
 title: "5.3. Editing a Content Item"
 url: "https://drupalize.me/tutorial/user-guide/content-edit?p=2350"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 26
+order: 33
 ---
 
 # 5.3. Editing a Content Item

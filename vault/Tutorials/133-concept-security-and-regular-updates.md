@@ -2,7 +2,7 @@
 title: "13.3. Concept: Security and Regular Updates"
 url: "https://drupalize.me/tutorial/user-guide/security-concept?p=2404"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 33
+order: 45
 ---
 
 # 13.3. Concept: Security and Regular Updates

@@ -2,7 +2,7 @@
 title: "5.1. Concept: Paths, Aliases, and URLs"
 url: "https://drupalize.me/tutorial/user-guide/content-paths?p=2350"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 24
+order: 31
 ---
 
 # 5.1. Concept: Paths, Aliases, and URLs

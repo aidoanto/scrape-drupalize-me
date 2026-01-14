@@ -2,7 +2,7 @@
 title: "Source Plugins"
 url: "https://drupalize.me/tutorial/source-plugins?p=3115"
 guide: "[[learn-migrate-drupal]]"
-order: 58
+order: 22
 ---
 
 # Source Plugins

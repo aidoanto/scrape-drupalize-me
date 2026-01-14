@@ -2,6 +2,7 @@
 title: "Implement the Layout Builder View Modes Pattern"
 url: "https://drupalize.me/tutorial/implement-layout-builder-view-modes-pattern?p=2653"
 guide: "[[layout-builder]]"
+order: 7
 ---
 
 # Implement the Layout Builder View Modes Pattern

@@ -2,6 +2,7 @@
 title: "What Are Template Files?"
 url: "https://drupalize.me/tutorial/what-are-template-files?p=2879"
 guide: "[[frontend-theming]]"
+order: 16
 ---
 
 # What Are Template Files?

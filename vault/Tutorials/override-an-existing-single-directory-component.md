@@ -2,6 +2,7 @@
 title: "Override an Existing Single Directory Component"
 url: "https://drupalize.me/tutorial/override-existing-single-directory-component?p=3329"
 guide: "[[frontend-theming]]"
+order: 60
 ---
 
 # Override an Existing Single Directory Component

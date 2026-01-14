@@ -2,7 +2,7 @@
 title: "Use Upgrade Status and Contrib Tracker"
 url: "https://drupalize.me/tutorial/use-upgrade-status-and-contrib-tracker?p=3116"
 guide: "[[learn-migrate-drupal]]"
-order: 42
+order: 9
 ---
 
 # Use Upgrade Status and Contrib Tracker

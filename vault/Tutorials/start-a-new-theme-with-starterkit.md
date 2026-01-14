@@ -2,7 +2,7 @@
 title: "Start a New Theme with Starterkit"
 url: "https://drupalize.me/tutorial/start-new-theme-starterkit?p=3267"
 guide: "[[frontend-theming]]"
-order: 36
+order: 7
 ---
 
 # Start a New Theme with Starterkit

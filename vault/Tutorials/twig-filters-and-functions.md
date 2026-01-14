@@ -2,7 +2,7 @@
 title: "Twig Filters and Functions"
 url: "https://drupalize.me/tutorial/twig-filters-and-functions?p=2464"
 guide: "[[frontend-theming]]"
-order: 56
+order: 27
 ---
 
 # Twig Filters and Functions

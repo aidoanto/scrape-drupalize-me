@@ -2,7 +2,7 @@
 title: "7.6. Changing a User’s Roles"
 url: "https://drupalize.me/tutorial/user-guide/user-roles?p=2441"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 45
+order: 83
 ---
 
 # 7.6. Changing a User’s Roles

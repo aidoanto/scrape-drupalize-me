@@ -2,7 +2,7 @@
 title: "8.2. Creating A Custom Block"
 url: "https://drupalize.me/tutorial/user-guide/block-create-custom?p=2337"
 guide: "[[acquia-certified-drupal-developer-exam]]"
-order: 26
+order: 19
 ---
 
 # 8.2. Creating A Custom Block

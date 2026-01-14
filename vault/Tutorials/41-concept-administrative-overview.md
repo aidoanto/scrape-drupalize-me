@@ -2,7 +2,7 @@
 title: "4.1. Concept: Administrative Overview"
 url: "https://drupalize.me/tutorial/user-guide/config-overview?p=2343"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 18
+order: 25
 ---
 
 # 4.1. Concept: Administrative Overview

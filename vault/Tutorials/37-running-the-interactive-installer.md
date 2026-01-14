@@ -2,7 +2,7 @@
 title: "3.7. Running the Interactive Installer"
 url: "https://drupalize.me/tutorial/user-guide/install-run?p=2368"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 17
+order: 24
 ---
 
 # 3.7. Running the Interactive Installer

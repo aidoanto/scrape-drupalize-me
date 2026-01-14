@@ -2,7 +2,7 @@
 title: "11.10. Synchronizing Configuration Versions"
 url: "https://drupalize.me/tutorial/user-guide/extend-config-versions?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 56
+order: 94
 ---
 
 # 11.10. Synchronizing Configuration Versions

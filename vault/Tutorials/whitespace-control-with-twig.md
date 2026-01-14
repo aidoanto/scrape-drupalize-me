@@ -2,7 +2,7 @@
 title: "Whitespace Control with Twig"
 url: "https://drupalize.me/tutorial/whitespace-control-twig?p=2464"
 guide: "[[frontend-theming]]"
-order: 1
+order: 28
 ---
 
 # Whitespace Control with Twig

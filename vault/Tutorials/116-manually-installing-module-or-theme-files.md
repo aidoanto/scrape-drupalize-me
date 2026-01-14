@@ -2,7 +2,7 @@
 title: "11.6. Manually Installing Module or Theme Files"
 url: "https://drupalize.me/tutorial/user-guide/extend-manual-install?p=2357"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 52
+order: 90
 ---
 
 # 11.6. Manually Installing Module or Theme Files

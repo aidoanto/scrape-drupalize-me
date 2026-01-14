@@ -2,7 +2,7 @@
 title: "Exercise: Create a New Theme"
 url: "https://drupalize.me/tutorial/exercise-create-new-theme?p=3269"
 guide: "[[frontend-theming]]"
-order: 12
+order: 43
 ---
 
 # Exercise: Create a New Theme

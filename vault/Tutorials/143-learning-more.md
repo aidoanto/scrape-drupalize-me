@@ -2,7 +2,7 @@
 title: "14.3. Learning More"
 url: "https://drupalize.me/tutorial/user-guide/thoughts-learn-more?p=2429"
 guide: "[[learn-drupal]]"
-order: 3
+order: 4
 ---
 
 # 14.3. Learning More

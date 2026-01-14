@@ -2,6 +2,7 @@
 title: "Alter the Query Used for a View"
 url: "https://drupalize.me/tutorial/alter-query-used-view?p=2939"
 guide: "[[views-drupal]]"
+order: 21
 ---
 
 # Alter the Query Used for a View

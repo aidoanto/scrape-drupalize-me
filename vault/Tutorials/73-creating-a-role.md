@@ -2,7 +2,7 @@
 title: "7.3. Creating a Role"
 url: "https://drupalize.me/tutorial/user-guide/user-new-role?p=2441"
 guide: "[[acquia-certified-drupal-site-builder-exam]]"
-order: 42
+order: 80
 ---
 
 # 7.3. Creating a Role

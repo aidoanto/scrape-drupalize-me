@@ -2,7 +2,7 @@
 title: "ETL (Extract, Transform, Load) process"
 url: "https://drupalize.me/tutorial/migrate-system-terms-and-concepts"
 guide: "[[learn-migrate-drupal]]"
-order: 64
+order: 35
 ---
 
 # ETL (Extract, Transform, Load) process

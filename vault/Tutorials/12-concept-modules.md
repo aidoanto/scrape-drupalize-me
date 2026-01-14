@@ -2,7 +2,7 @@
 title: "1.2. Concept: Modules"
 url: "https://drupalize.me/tutorial/user-guide/understanding-modules?p=2433"
 guide: "[[introduction-drupal]]"
-order: 5
+order: 4
 ---
 
 # 1.2. Concept: Modules
