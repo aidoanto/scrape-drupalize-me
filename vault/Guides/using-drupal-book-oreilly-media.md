@@ -7,4 +7,4 @@ type: guide
 
 ## Tutorials
 
-1. [[Tutorials/getting-help-with-drupal|Getting Help with Drupal]]
+1. [[Tutorials/build-drupal-sites-1-getting-help-with-drupal|Getting Help with Drupal]]

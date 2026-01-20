@@ -7,7 +7,7 @@ type: guide
 
 ## Tutorials
 
-1. [[Tutorials/install-drupal-locally-with-ddevfree|Install Drupal Locally with DDEVfree]]
-2. [[Tutorials/how-drupal-turns-a-request-into-a-response|How Drupal Turns a Request into a Response]]
-3. [[Tutorials/overview-routes-controllers-and-responsesfree|Overview: Routes, Controllers, and Responsesfree]]
-4. [[Tutorials/what-are-events|What Are Events?]]
+1. [[Tutorials/keep-drupal-up-to-date-1-install-drupal-locally-with-ddev|Install Drupal Locally with DDEV]]
+2. [[Tutorials/develop-custom-pages-9-how-drupal-turns-a-request-into-a-response|How Drupal Turns a Request into a Response]]
+3. [[Tutorials/develop-custom-pages-1-overview-routes-controllers-and-responses|Overview: Routes, Controllers, and Responses]]
+4. [[Tutorials/symfony-drupal-developers-4-what-are-events|What Are Events?]]

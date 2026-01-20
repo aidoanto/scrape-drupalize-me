@@ -7,11 +7,11 @@ type: guide
 
 ## Tutorials
 
-1. [[Tutorials/install-drupal-locally-with-ddevfree|Install Drupal Locally with DDEVfree]]
-2. [[Tutorials/update-drupals-minor-versionfree|Update Drupal's Minor Versionfree]]
-3. [[Tutorials/what-is-deprecated-codefree|What Is Deprecated Code?free]]
-4. [[Tutorials/upgrade-to-drupal-11free|Upgrade to Drupal 11free]]
-5. [[Tutorials/upgrade-to-drupal-10free|Upgrade to Drupal 10free]]
-6. [[Tutorials/upgrade-to-drupal-9free|Upgrade to Drupal 9free]]
-7. [[Tutorials/update-drupal-from-versions-prior-to-88x-using-composerfree|Update Drupal from Versions Prior to 8.8.x using Composerfree]]
-8. [[Tutorials/install-a-contributed-module-with-no-drupal-9-releasefree|Install a Contributed Module with No Drupal 9 Releasefree]]
+1. [[Tutorials/keep-drupal-up-to-date-1-install-drupal-locally-with-ddev|Install Drupal Locally with DDEV]]
+2. [[Tutorials/keep-drupal-up-to-date-2-update-drupals-minor-version|Update Drupal's Minor Version]]
+3. [[Tutorials/keep-drupal-up-to-date-3-what-is-deprecated-code|What Is Deprecated Code?]]
+4. [[Tutorials/keep-drupal-up-to-date-4-upgrade-to-drupal-11|Upgrade to Drupal 11]]
+5. [[Tutorials/keep-drupal-up-to-date-5-upgrade-to-drupal-10|Upgrade to Drupal 10]]
+6. [[Tutorials/keep-drupal-up-to-date-6-upgrade-to-drupal-9|Upgrade to Drupal 9]]
+7. [[Tutorials/keep-drupal-up-to-date-7-update-drupal-from-versions-prior-to-88x-using-composer|Update Drupal from Versions Prior to 8.8.x using Composer]]
+8. [[Tutorials/keep-drupal-up-to-date-8-install-a-contributed-module-with-no-drupal-9-release|Install a Contributed Module with No Drupal 9 Release]]
