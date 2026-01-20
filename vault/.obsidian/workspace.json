@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "d21906fe45243a2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f75a062e239eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbe32cd3ecdc7d76",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Guides.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Guides"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85ac34b1b4711cd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b129050cbb3cd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae60d7e4d8d612eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ff0a4872577293e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bee92eaa1e9723f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3fc356cc84cfcbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd374c6e41d6b5cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tutorials/acquia-certified-drupal-developer-exam-4-63-adding-basic-fields-to-a-content-type.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for acquia-certified-drupal-developer-exam-4-63-adding-basic-fields-to-a-content-type"
+            }
+          },
+          {
+            "id": "c15727ad32c2b340",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tutorials/acquia-certified-drupal-developer-exam-4-63-adding-basic-fields-to-a-content-type.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from acquia-certified-drupal-developer-exam-4-63-adding-basic-fields-to-a-content-type"
+            }
+          },
+          {
+            "id": "25877bbc67434ae7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c07cb20722b5b37",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09bf49c8aa0d626a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tutorials/acquia-certified-drupal-developer-exam-4-63-adding-basic-fields-to-a-content-type.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of acquia-certified-drupal-developer-exam-4-63-adding-basic-fields-to-a-content-type"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ae60d7e4d8d612eb",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Tutorials/acquia-certified-drupal-developer-exam-4-63-adding-basic-fields-to-a-content-type.md",
+    "Guides.base",
+    "README.md",
+    "Guides/alter-drupal-modules.md",
+    "Tutorials/frontend-theming-6-structure-of-a-theme.md",
+    "Guides/frontend-theming.md",
+    "Guides/docker-drupal-developers.md",
+    "Guides/decoupled-headless-drupal.md",
+    "Guides/acquia-certified-backend-specialist-exam.md"
+  ]
+}

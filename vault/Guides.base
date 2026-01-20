@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: guide
+      direction: ASC
+    order:
+      - title
+      - order
+    sort:
+      - property: order
+        direction: ASC
